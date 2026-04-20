@@ -1,0 +1,72 @@
+feeds:
+  # Official AI lab blogs
+  - name: "Anthropic (Google News)"
+    url: "https://news.google.com/rss/search?q=Anthropic+Claude&hl=en-US&gl=US&ceid=US:en"
+    category: "lab"
+
+  - name: "OpenAI News"
+    url: "https://openai.com/news/rss.xml"
+    category: "lab"
+
+  - name: "Google DeepMind"
+    url: "https://www.deepmind.com/blog/rss.xml"
+    category: "lab"
+
+  - name: "HuggingFace Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "lab"
+
+  - name: "Meta AI Research"
+    url: "https://research.facebook.com/blog/feed/"
+    category: "lab"
+
+  # Community aggregators
+  - name: "HackerNews AI"
+    url: "https://hnrss.org/frontpage?q=AI+LLM+Claude+GPT&points=50"
+    category: "community"
+
+  - name: "Reddit r/LocalLLaMA"
+    url: "https://www.reddit.com/r/LocalLLaMA/.rss"
+    category: "community"
+
+  - name: "Reddit r/MachineLearning"
+    url: "https://www.reddit.com/r/MachineLearning/.rss"
+    category: "community"
+
+  # Tech media
+  - name: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    category: "media"
+
+  - name: "The Verge AI"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "media"
+
+  - name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+    category: "media"
+
+  # GitHub release feeds (Atom 1.0)
+  - name: "anthropic-sdk-python releases"
+    url: "https://github.com/anthropics/anthropic-sdk-python/releases.atom"
+    category: "release"
+
+  - name: "openai-python releases"
+    url: "https://github.com/openai/openai-python/releases.atom"
+    category: "release"
+
+  - name: "ollama releases"
+    url: "https://github.com/ollama/ollama/releases.atom"
+    category: "release"
+
+  - name: "transformers releases"
+    url: "https://github.com/huggingface/transformers/releases.atom"
+    category: "release"
+
+  - name: "vllm releases"
+    url: "https://github.com/vllm-project/vllm/releases.atom"
+    category: "release"
+
+  - name: "llama.cpp releases"
+    url: "https://github.com/ggml-org/llama.cpp/releases.atom"
+    category: "release"
