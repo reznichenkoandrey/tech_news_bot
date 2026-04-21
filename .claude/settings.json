@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sS -X POST https://api.telegram.org/*)",
+      "Bash(curl -sS https://api.telegram.org/*)"
+    ]
+  }
+}
