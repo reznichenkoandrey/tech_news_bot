@@ -248,8 +248,11 @@ def fetch_all(sources_path: Path, timeout: int = 10) -> list[FeedItem]:
     feeds: list[dict] = config.get("feeds", [])
     logger.info("Завантажую %d фідів...", len(feeds))
 
+    from src.blocklist import is_blocked
+
     all_items: list[FeedItem] = []
     failed_count = 0
+    blocked_count = 0
     seen_urls: set[str] = set()
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -268,15 +271,22 @@ def fetch_all(sources_path: Path, timeout: int = 10) -> list[FeedItem]:
                 failed_count += 1
 
             for item in items:
-                if item.url not in seen_urls:
-                    seen_urls.add(item.url)
-                    all_items.append(item)
+                if item.url in seen_urls:
+                    continue
+                blocked, reason = is_blocked(item.url)
+                if blocked:
+                    blocked_count += 1
+                    logger.info("Blocked (%s): %s", reason, item.title[:80])
+                    continue
+                seen_urls.add(item.url)
+                all_items.append(item)
 
     logger.info(
-        "Отримано %d унікальних новин з %d фідів (%d з помилками)",
+        "Отримано %d унікальних новин з %d фідів (%d з помилками, %d відфільтровано)",
         len(all_items),
         len(feeds),
         failed_count,
+        blocked_count,
     )
 
     return all_items
