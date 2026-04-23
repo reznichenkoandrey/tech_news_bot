@@ -64,6 +64,12 @@ def test_resolve_fallback_default_when_no_env_no_file(monkeypatch, tmp_path):
 
 # ── run_digest ────────────────────────────────────────────────────────────────
 
+@pytest.fixture
+def isolated_callback_map(monkeypatch, tmp_path):
+    """Redirect CALLBACK_MAP_PATH to a throwaway tmpdir so tests don't touch data/."""
+    monkeypatch.setattr(pipeline, "CALLBACK_MAP_PATH", tmp_path / "callback_map.json")
+
+
 def test_run_digest_skips_when_no_items_after_filter(monkeypatch):
     monkeypatch.setattr(pipeline, "call_llm", lambda *a, **k: pytest.fail("LLM should not be called"))
     monkeypatch.setattr(pipeline, "send_message", lambda *a, **k: pytest.fail("send should not be called"))
@@ -80,14 +86,15 @@ def test_run_digest_skips_when_no_items_after_filter(monkeypatch):
     assert urls == []
 
 
-def test_run_digest_happy_path_renders_profile_title(monkeypatch):
-    captured = {}
+def test_run_digest_happy_path_renders_profile_title(monkeypatch, isolated_callback_map):
+    captured: dict[str, list] = {"texts": [], "markups": []}
 
     def fake_llm(prompt, _oauth):
         return '[{"url":"http://a","title":"T","source":"S","category":"lab","summary_uk":"uk","importance":5}]'
 
-    def fake_send(text, _token, _chat):
-        captured["text"] = text
+    def fake_send(text, _token, _chat, reply_markup=None, **_kwargs):
+        captured["texts"].append(text)
+        captured["markups"].append(reply_markup)
 
     monkeypatch.setattr(pipeline, "call_llm", fake_llm)
     monkeypatch.setattr(pipeline, "send_message", fake_send)
@@ -104,11 +111,23 @@ def test_run_digest_happy_path_renders_profile_title(monkeypatch):
     assert sent == 1
     # Only the design item was considered for persisting
     assert urls == ["http://a"]
-    # Title composed from profile's emoji + name
-    assert "🎨 Design дайджест" in captured["text"]
+    # Header, item, footer = 3 messages.
+    assert len(captured["texts"]) == 3
+    # Title composed from profile's emoji + name is in the header.
+    assert "🎨 Design дайджест" in captured["texts"][0]
+    # Only the item message carries an inline keyboard.
+    assert captured["markups"][0] is None
+    assert captured["markups"][1] is not None
+    buttons = captured["markups"][1]["inline_keyboard"][0]
+    assert [b["text"] for b in buttons] == ["📖 Deep", "⭐ Save", "🗑 Hide"]
+    for b in buttons:
+        assert b["callback_data"].split(":")[1] == pipeline.url_hash("http://a")
+    assert captured["markups"][2] is None
 
 
-def test_run_digest_considered_urls_include_everything_matched_even_if_llm_drops(monkeypatch):
+def test_run_digest_considered_urls_include_everything_matched_even_if_llm_drops(
+    monkeypatch, isolated_callback_map
+):
     """Dedup must cover all filtered URLs, not just the top-N the LLM kept."""
     monkeypatch.setattr(
         pipeline,

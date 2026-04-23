@@ -1,0 +1,83 @@
+name: Summarize article on demand
+
+# Triggered by the Cloudflare Worker via `POST /repos/.../dispatches` when
+# the user taps 📖 Deep on a digest item. The worker already answered the
+# callback query; this workflow does the slow work (fetch + LLM) and posts
+# the summary as a reply to the original message.
+
+on:
+  repository_dispatch:
+    types: [summarize-article]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: summarize-${{ github.event.client_payload.message_id }}
+  cancel-in-progress: false
+
+jobs:
+  summarize:
+    name: Fetch + LLM + post reply
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      URL: ${{ github.event.client_payload.url }}
+      CHAT_ID: ${{ github.event.client_payload.chat_id }}
+      MESSAGE_ID: ${{ github.event.client_payload.message_id }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate payload
+        run: |
+          if [[ -z "$URL" || -z "$CHAT_ID" || -z "$MESSAGE_ID" ]]; then
+            echo "::error::missing url / chat_id / message_id in client_payload"
+            exit 1
+          fi
+
+      - name: Summarize and reply
+        run: python3 -m scripts.post_article_summary "$URL" "$CHAT_ID" "$MESSAGE_ID"
+
+      - name: Commit summary cache if changed
+        run: |
+          git config user.name  "tech-digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/summaries
+          if git diff --staged --quiet; then
+            echo "no cache changes"
+            exit 0
+          fi
+          git commit -m "chore: cache summary $(TZ='Europe/Kyiv' date +%Y-%m-%d-%H%M)"
+          for attempt in 1 2 3; do
+            if git pull --rebase && git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed, retrying..."
+            sleep 3
+          done
+          echo "::error::failed to push cache after 3 attempts"
+          exit 1
+
+      - name: Notify failure
+        if: failure()
+        env:
+          REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "parse_mode=HTML" \
+            --data-urlencode "text=❌ <b>Summarize workflow failed</b>%0Ahttps://github.com/${REPO}/actions/runs/${RUN_ID}" \
+            > /dev/null || true

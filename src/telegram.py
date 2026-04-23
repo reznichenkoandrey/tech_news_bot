@@ -2,10 +2,11 @@
 Telegram Bot API sender with chunking and exponential-backoff retry.
 """
 
+import json
 import logging
 import sys
 import time
-from typing import NoReturn
+from typing import Any, NoReturn
 
 import requests
 
@@ -114,6 +115,8 @@ def send_message(
     token: str,
     chat_id: str,
     parse_mode: str = "HTML",
+    reply_markup: dict[str, Any] | None = None,
+    disable_web_page_preview: bool = False,
 ) -> None:
     """
     Send text to a Telegram chat, splitting into chunks if needed.
@@ -123,6 +126,10 @@ def send_message(
         token: Telegram bot token from @BotFather
         chat_id: Target chat/channel ID
         parse_mode: "HTML" or "Markdown" (default "HTML")
+        reply_markup: Optional Telegram reply_markup (inline_keyboard, etc.).
+            Only attached to the LAST chunk when text is split — buttons on
+            every chunk would confuse the UX.
+        disable_web_page_preview: If True, suppress the URL preview card.
     """
     url = f"{TELEGRAM_API_BASE}/bot{token}/sendMessage"
     chunks = _chunk_text(text)
@@ -130,16 +137,65 @@ def send_message(
     logger.info("Надсилаю %d повідомлень до чату %s", len(chunks), chat_id)
 
     for index, chunk in enumerate(chunks, start=1):
-        payload = {
+        payload: dict[str, Any] = {
             "chat_id": chat_id,
             "text": chunk,
             "parse_mode": parse_mode,
-            "disable_web_page_preview": False,
+            "disable_web_page_preview": disable_web_page_preview,
         }
+        if reply_markup is not None and index == len(chunks):
+            payload["reply_markup"] = json.dumps(reply_markup)
         _post_with_retry(url, payload)
         logger.info("Повідомлення %d/%d надіслано", index, len(chunks))
 
         # Brief pause between chunks to avoid local rate limiting
+        if index < len(chunks):
+            time.sleep(0.5)
+
+
+def edit_message_reply_markup(
+    token: str,
+    chat_id: str,
+    message_id: int,
+    reply_markup: dict[str, Any] | None,
+) -> None:
+    """
+    Replace (or remove) the inline keyboard of an existing message.
+
+    Pass reply_markup=None or an empty keyboard dict to strip buttons.
+    """
+    url = f"{TELEGRAM_API_BASE}/bot{token}/editMessageReplyMarkup"
+    payload: dict[str, Any] = {"chat_id": chat_id, "message_id": message_id}
+    if reply_markup is not None:
+        payload["reply_markup"] = json.dumps(reply_markup)
+    else:
+        payload["reply_markup"] = json.dumps({"inline_keyboard": []})
+    _post_with_retry(url, payload)
+
+
+def send_reply(
+    text: str,
+    token: str,
+    chat_id: str,
+    reply_to_message_id: int,
+    parse_mode: str = "HTML",
+    disable_web_page_preview: bool = True,
+) -> None:
+    """Send a message threaded as a reply to an existing message (with chunking)."""
+    url = f"{TELEGRAM_API_BASE}/bot{token}/sendMessage"
+    chunks = _chunk_text(text)
+
+    for index, chunk in enumerate(chunks, start=1):
+        payload: dict[str, Any] = {
+            "chat_id": chat_id,
+            "text": chunk,
+            "parse_mode": parse_mode,
+            "disable_web_page_preview": disable_web_page_preview,
+            # Only thread the first chunk; subsequent chunks append naturally.
+            "reply_parameters": {"message_id": reply_to_message_id} if index == 1 else None,
+        }
+        payload = {k: v for k, v in payload.items() if v is not None}
+        _post_with_retry(url, payload)
         if index < len(chunks):
             time.sleep(0.5)
 

@@ -23,6 +23,7 @@ from zoneinfo import ZoneInfo
 import requests
 import yaml
 
+from src.callback_map import merge_urls as merge_callback_urls, url_hash
 from src.dedup import _items_from_json, filter_new, load_seen, save_seen
 from src.models import DigestEntry, FeedItem
 from src.telegram import TelegramError, send_message
@@ -31,6 +32,7 @@ logger = logging.getLogger("digest_pipeline")
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SEEN_PATH = REPO_ROOT / "data" / "seen.json"
+CALLBACK_MAP_PATH = REPO_ROOT / "data" / "callback_map.json"
 TOPICS_PATH = REPO_ROOT / "config" / "topics.yaml"
 DIGESTS_PATH = REPO_ROOT / "config" / "digests.yaml"
 USER_PREFS_PATH = REPO_ROOT / "config" / "user_prefs.yaml"
@@ -204,34 +206,69 @@ def render_topics_header_suffix(active: set[str], registry: dict[str, dict]) -> 
     return f" [{' · '.join(pieces)}]"
 
 
+def render_digest_header(
+    count: int,
+    window_hours: int,
+    title: str = "🤖 AI/Tech дайджест",
+) -> str:
+    date_uk = render_date_uk()
+    return (
+        f"<b>{title} — {date_uk}</b>\n"
+        f"{count} новин за останні {window_hours}г"
+    )
+
+
+def render_digest_item(idx: int, entry: dict) -> str:
+    emoji = CATEGORY_EMOJI.get(entry.get("category", ""), "•")
+    title_e = html.escape(entry.get("title", "").strip())
+    source = html.escape(entry.get("source", "").strip())
+    summary = html.escape(entry.get("summary_uk", "").strip())
+    url = entry.get("url", "").strip()
+    return (
+        f"<b>{idx}. [{emoji}] {title_e}</b>\n"
+        f"<i>{source}</i>\n"
+        f"{summary}\n"
+        f'<a href="{url}">Читати →</a>'
+    )
+
+
+def render_digest_footer() -> str:
+    return "<i>Наступний дайджест завтра о 10:00</i>"
+
+
+def item_reply_markup(url: str) -> dict:
+    """Inline keyboard with expand / save / hide buttons keyed by url hash."""
+    h = url_hash(url)
+    return {
+        "inline_keyboard": [
+            [
+                {"text": "📖 Deep", "callback_data": f"expand:{h}"},
+                {"text": "⭐ Save", "callback_data": f"save:{h}"},
+                {"text": "🗑 Hide", "callback_data": f"hide:{h}"},
+            ]
+        ]
+    }
+
+
 def render_digest_html(
     entries: list[dict],
     window_hours: int,
     title: str = "🤖 AI/Tech дайджест",
 ) -> str:
-    date_uk = render_date_uk()
-    header = (
-        f"<b>{title} — {date_uk}</b>\n\n"
-        f"{len(entries)} новин за останні {window_hours}г\n\n"
-        f"━━━━━━━━━━━━━━━━━━━━\n"
+    """
+    Legacy single-blob renderer — kept for tests and any ad-hoc caller. The
+    per-item dispatch in `run_digest` renders header/items/footer separately
+    so each item can carry its own inline keyboard.
+    """
+    header = render_digest_header(len(entries), window_hours, title)
+    blocks = [render_digest_item(i, e) for i, e in enumerate(entries, start=1)]
+    return (
+        header
+        + "\n\n━━━━━━━━━━━━━━━━━━━━\n\n"
+        + "\n\n".join(blocks)
+        + "\n\n"
+        + render_digest_footer()
     )
-
-    blocks: list[str] = []
-    for idx, e in enumerate(entries, start=1):
-        emoji = CATEGORY_EMOJI.get(e.get("category", ""), "•")
-        title_e = html.escape(e.get("title", "").strip())
-        source = html.escape(e.get("source", "").strip())
-        summary = html.escape(e.get("summary_uk", "").strip())
-        url = e.get("url", "").strip()
-        blocks.append(
-            f"<b>{idx}. [{emoji}] {title_e}</b>\n"
-            f"<i>{source}</i>\n"
-            f"{summary}\n"
-            f'<a href="{url}">Читати →</a>'
-        )
-
-    footer = "<i>Наступний дайджест завтра о 10:00</i>"
-    return header + "\n\n".join(blocks) + "\n\n" + footer
 
 
 def load_digest_configs() -> list[dict]:
@@ -294,7 +331,22 @@ def run_digest(
         logger.warning("[%s] LLM returned empty list", name)
         return (0, considered)
 
-    send_message(render_digest_html(entries, window, title), tg_token, tg_chat)
+    # Persist hash→url mapping before sending so callback handlers can always
+    # resolve buttons pressed from the chat (even if the send partially fails).
+    merge_callback_urls(CALLBACK_MAP_PATH, [e.get("url", "") for e in entries if e.get("url")])
+
+    send_message(render_digest_header(len(entries), window, title), tg_token, tg_chat)
+    for idx, entry in enumerate(entries, start=1):
+        url = entry.get("url", "").strip()
+        markup = item_reply_markup(url) if url else None
+        send_message(
+            render_digest_item(idx, entry),
+            tg_token,
+            tg_chat,
+            reply_markup=markup,
+        )
+    send_message(render_digest_footer(), tg_token, tg_chat, disable_web_page_preview=True)
+
     logger.info("[%s] sent %d entries", name, len(entries))
     return (len(entries), considered)
 

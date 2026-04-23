@@ -24,14 +24,23 @@ export interface Env {
 }
 
 interface TgMessage {
+  message_id?: number;
   chat?: { id?: number };
   text?: string;
   from?: { id?: number; username?: string };
 }
 
+interface TgCallbackQuery {
+  id: string;
+  from?: { id?: number; username?: string };
+  message?: TgMessage;
+  data?: string;
+}
+
 interface TgUpdate {
   update_id: number;
   message?: TgMessage;
+  callback_query?: TgCallbackQuery;
 }
 
 interface Topic {
@@ -78,6 +87,21 @@ export default {
       return new Response("bad request", { status: 400 });
     }
 
+    if (update.callback_query) {
+      // ACL — callback must come from the configured chat.
+      const cbChat = update.callback_query.message?.chat?.id;
+      if (String(cbChat ?? "") !== String(env.TELEGRAM_CHAT_ID)) {
+        return jsonOk();
+      }
+      try {
+        await handleCallback(update.callback_query, env);
+      } catch (err) {
+        console.error("callback handler failed", err);
+        await answerCallbackQuery(env, update.callback_query.id, `⚠️ ${(err as Error).message.slice(0, 180)}`, true);
+      }
+      return jsonOk();
+    }
+
     const msg = update.message;
     if (!msg) {
       return jsonOk();
@@ -110,6 +134,103 @@ function jsonOk(): Response {
   return new Response(JSON.stringify({ ok: true }), {
     headers: { "content-type": "application/json" },
   });
+}
+
+// ── Callback query dispatch ───────────────────────────────────────────────────
+
+async function handleCallback(cb: TgCallbackQuery, env: Env): Promise<void> {
+  const data = cb.data ?? "";
+  const [action, hash] = data.split(":", 2);
+  const chatId = cb.message?.chat?.id;
+  const messageId = cb.message?.message_id;
+
+  if (!action || !hash || chatId === undefined || messageId === undefined) {
+    await answerCallbackQuery(env, cb.id, "⚠️ malformed callback", true);
+    return;
+  }
+
+  const url = await resolveCallbackUrl(env, hash);
+  if (!url) {
+    await answerCallbackQuery(env, cb.id, "⚠️ посилання застаріло", true);
+    return;
+  }
+
+  switch (action) {
+    case "save":
+      await handleSave(env, cb.id, url);
+      return;
+    case "hide":
+      await handleHide(env, cb.id, url, chatId, messageId);
+      return;
+    case "expand":
+      await handleExpand(env, cb.id, url, chatId, messageId);
+      return;
+    default:
+      await answerCallbackQuery(env, cb.id, `🤷 невідома дія ${action}`, true);
+  }
+}
+
+async function handleSave(env: Env, cbId: string, url: string): Promise<void> {
+  const { list, sha } = await loadReadingListWithSha(env);
+  if (list.some((entry) => entry.url === url)) {
+    await answerCallbackQuery(env, cbId, "ℹ️ вже у reading list");
+    return;
+  }
+  list.push({ url, saved_at: new Date().toISOString() });
+  await saveReadingList(env, list, sha);
+  await answerCallbackQuery(env, cbId, "⭐ збережено");
+}
+
+async function handleHide(
+  env: Env,
+  cbId: string,
+  url: string,
+  chatId: number,
+  messageId: number,
+): Promise<void> {
+  const { list, sha } = await loadSeenWithSha(env);
+  if (!list.includes(url)) {
+    list.push(url);
+    await saveSeenList(env, list, sha);
+  }
+  // Delete the item's message so the digest visibly shrinks.
+  await deleteMessage(env, chatId, messageId);
+  await answerCallbackQuery(env, cbId, "🗑 сховано");
+}
+
+async function handleExpand(
+  env: Env,
+  cbId: string,
+  url: string,
+  chatId: number,
+  messageId: number,
+): Promise<void> {
+  // Immediate toast so the spinner stops and the user sees we accepted it.
+  await answerCallbackQuery(env, cbId, "⏳ готую саммарі…");
+
+  // Hand off the slow work to GitHub Actions via repository_dispatch.
+  const res = await fetch(`${API_BASE}/repos/${env.GITHUB_REPO}/dispatches`, {
+    method: "POST",
+    headers: githubHeaders(env),
+    body: JSON.stringify({
+      event_type: "summarize-article",
+      client_payload: {
+        url,
+        chat_id: chatId,
+        message_id: messageId,
+      },
+    }),
+  });
+  if (!res.ok) {
+    const errText = await res.text();
+    console.error(`repository_dispatch ${res.status}: ${errText.slice(0, 200)}`);
+    await sendMessage(env, `⚠️ не вдалось запустити summarize: ${res.status}`);
+    return;
+  }
+
+  // Drop the buttons on the original item while the job runs so the user
+  // doesn't double-trigger or press Save on something they already expanded.
+  await editMessageReplyMarkup(env, chatId, messageId, null);
 }
 
 // ── Command dispatch ──────────────────────────────────────────────────────────
@@ -321,6 +442,127 @@ async function loadUserPrefs(env: Env): Promise<UserPrefs> {
   return parseUserPrefs(text);
 }
 
+async function resolveCallbackUrl(env: Env, hash: string): Promise<string | null> {
+  try {
+    const text = await githubRaw(env, "data/callback_map.json");
+    const map = JSON.parse(text) as Record<string, string>;
+    return map[hash] ?? null;
+  } catch (err) {
+    console.error("callback_map load failed", err);
+    return null;
+  }
+}
+
+interface ReadingListEntry {
+  url: string;
+  saved_at: string;
+}
+
+interface ReadingListWithSha {
+  list: ReadingListEntry[];
+  sha: string | null;
+}
+
+async function loadReadingListWithSha(env: Env): Promise<ReadingListWithSha> {
+  const res = await fetch(
+    `${API_BASE}/repos/${env.GITHUB_REPO}/contents/data/reading_list.json?ref=main`,
+    { headers: githubHeaders(env) },
+  );
+  if (res.status === 404) {
+    return { list: [], sha: null };
+  }
+  if (!res.ok) throw new Error(`reading_list get: ${res.status}`);
+  const body = (await res.json()) as { sha: string; content: string; encoding: string };
+  const decoded = body.encoding === "base64" ? atobUtf8(body.content) : body.content;
+  let parsed: unknown;
+  try {
+    parsed = JSON.parse(decoded);
+  } catch {
+    parsed = [];
+  }
+  const list = Array.isArray(parsed) ? (parsed as ReadingListEntry[]) : [];
+  return { list, sha: body.sha };
+}
+
+async function saveReadingList(env: Env, list: ReadingListEntry[], sha: string | null): Promise<void> {
+  await githubPutJson(env, "data/reading_list.json", list, sha, "chore(bot): save to reading list");
+}
+
+interface SeenWithSha {
+  list: string[];
+  sha: string | null;
+}
+
+async function loadSeenWithSha(env: Env): Promise<SeenWithSha> {
+  const res = await fetch(
+    `${API_BASE}/repos/${env.GITHUB_REPO}/contents/data/seen.json?ref=main`,
+    { headers: githubHeaders(env) },
+  );
+  if (res.status === 404) {
+    return { list: [], sha: null };
+  }
+  if (!res.ok) throw new Error(`seen get: ${res.status}`);
+  const body = (await res.json()) as { sha: string; content: string; encoding: string };
+  const decoded = body.encoding === "base64" ? atobUtf8(body.content) : body.content;
+  let parsed: unknown;
+  try {
+    parsed = JSON.parse(decoded);
+  } catch {
+    parsed = [];
+  }
+  const list = Array.isArray(parsed) ? (parsed as string[]) : [];
+  return { list, sha: body.sha };
+}
+
+async function saveSeenList(env: Env, list: string[], sha: string | null): Promise<void> {
+  await githubPutJson(env, "data/seen.json", list, sha, "chore(bot): hide digest item");
+}
+
+async function githubPutJson(
+  env: Env,
+  path: string,
+  payload: unknown,
+  sha: string | null,
+  commitMessage: string,
+): Promise<void> {
+  const content = JSON.stringify(payload, null, 2) + "\n";
+  const encoded = btoaUtf8(content);
+
+  let currentSha = sha;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    const body: Record<string, unknown> = {
+      message: commitMessage,
+      content: encoded,
+      branch: "main",
+      committer: { name: "tech-digest-bot", email: "bot@users.noreply.github.com" },
+    };
+    if (currentSha) body.sha = currentSha;
+
+    const res = await fetch(`${API_BASE}/repos/${env.GITHUB_REPO}/contents/${path}`, {
+      method: "PUT",
+      headers: githubHeaders(env),
+      body: JSON.stringify(body),
+    });
+    if (res.ok) return;
+
+    if (res.status === 409 || res.status === 422) {
+      // Refetch sha and retry — another workflow wrote in-between.
+      const latest = await fetch(
+        `${API_BASE}/repos/${env.GITHUB_REPO}/contents/${path}?ref=main`,
+        { headers: githubHeaders(env) },
+      );
+      if (latest.ok) {
+        const body = (await latest.json()) as { sha: string };
+        currentSha = body.sha;
+        continue;
+      }
+    }
+    const errText = await res.text();
+    throw new Error(`github PUT ${path} ${res.status}: ${errText.slice(0, 200)}`);
+  }
+  throw new Error(`github PUT ${path}: 3 attempts failed`);
+}
+
 interface PrefsWithSha {
   prefs: UserPrefs;
   sha: string;
@@ -420,6 +662,56 @@ async function sendMessage(env: Env, text: string): Promise<void> {
   if (!res.ok) {
     const errText = await res.text();
     console.error(`telegram sendMessage ${res.status}: ${errText.slice(0, 200)}`);
+  }
+}
+
+async function answerCallbackQuery(env: Env, id: string, text: string, showAlert = false): Promise<void> {
+  const res = await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/answerCallbackQuery`, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({
+      callback_query_id: id,
+      text,
+      show_alert: showAlert,
+      cache_time: 1,
+    }),
+  });
+  if (!res.ok) {
+    console.error(`answerCallbackQuery ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  }
+}
+
+async function editMessageReplyMarkup(
+  env: Env,
+  chatId: number,
+  messageId: number,
+  replyMarkup: unknown | null,
+): Promise<void> {
+  const res = await fetch(
+    `https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/editMessageReplyMarkup`,
+    {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        chat_id: chatId,
+        message_id: messageId,
+        reply_markup: replyMarkup ?? { inline_keyboard: [] },
+      }),
+    },
+  );
+  if (!res.ok) {
+    console.error(`editMessageReplyMarkup ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  }
+}
+
+async function deleteMessage(env: Env, chatId: number, messageId: number): Promise<void> {
+  const res = await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/deleteMessage`, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ chat_id: chatId, message_id: messageId }),
+  });
+  if (!res.ok) {
+    console.error(`deleteMessage ${res.status}: ${(await res.text()).slice(0, 200)}`);
   }
 }
 

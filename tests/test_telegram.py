@@ -13,7 +13,9 @@ from src.telegram import (
     TelegramError,
     _chunk_text,
     _post_with_retry,
+    edit_message_reply_markup,
     send_message,
+    send_reply,
 )
 
 
@@ -197,3 +199,63 @@ class TestSendMessage:
         ):
             with pytest.raises(TelegramError):
                 send_message("Test", self.TOKEN, self.CHAT_ID)
+
+    def test_reply_markup_attached_to_last_chunk_only(self):
+        long_text = ("word " * 300 + "\n\n") * 8  # splits into >=2 chunks
+        markup = {"inline_keyboard": [[{"text": "ok", "callback_data": "x"}]]}
+        with (
+            patch("requests.post", return_value=_mock_response(200)) as mock_post,
+            patch("time.sleep"),
+        ):
+            send_message(long_text, self.TOKEN, self.CHAT_ID, reply_markup=markup)
+
+        calls = mock_post.call_args_list
+        assert len(calls) >= 2
+        for call_obj in calls[:-1]:
+            assert "reply_markup" not in call_obj[1]["json"]
+        # Last chunk should serialise the markup as JSON.
+        import json as _json
+        last_payload = calls[-1][1]["json"]
+        assert "reply_markup" in last_payload
+        assert _json.loads(last_payload["reply_markup"]) == markup
+
+    def test_reply_markup_passed_on_single_message(self):
+        import json as _json
+        markup = {"inline_keyboard": [[{"text": "ok", "callback_data": "x"}]]}
+        with (
+            patch("requests.post", return_value=_mock_response(200)) as mock_post,
+            patch("time.sleep"),
+        ):
+            send_message("short", self.TOKEN, self.CHAT_ID, reply_markup=markup)
+        payload = mock_post.call_args[1]["json"]
+        assert _json.loads(payload["reply_markup"]) == markup
+
+
+class TestEditMessageReplyMarkup:
+    def test_empty_keyboard_sent_when_none(self):
+        import json as _json
+        with patch("requests.post", return_value=_mock_response(200)) as mock_post:
+            edit_message_reply_markup("tok", "chat", 42, None)
+        payload = mock_post.call_args[1]["json"]
+        assert payload["message_id"] == 42
+        assert _json.loads(payload["reply_markup"]) == {"inline_keyboard": []}
+
+    def test_custom_markup_forwarded(self):
+        import json as _json
+        markup = {"inline_keyboard": [[{"text": "done", "callback_data": "y"}]]}
+        with patch("requests.post", return_value=_mock_response(200)) as mock_post:
+            edit_message_reply_markup("tok", "chat", 42, markup)
+        payload = mock_post.call_args[1]["json"]
+        assert _json.loads(payload["reply_markup"]) == markup
+
+
+class TestSendReply:
+    def test_sends_with_reply_parameters(self):
+        with (
+            patch("requests.post", return_value=_mock_response(200)) as mock_post,
+            patch("time.sleep"),
+        ):
+            send_reply("hello", "tok", "chat", reply_to_message_id=99)
+        payload = mock_post.call_args[1]["json"]
+        assert payload["reply_parameters"] == {"message_id": 99}
+        assert payload["disable_web_page_preview"] is True

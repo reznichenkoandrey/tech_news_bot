@@ -68,17 +68,26 @@ jobs:
       - name: Run digest pipeline
         run: python3 -m scripts.digest_pipeline
 
-      - name: Commit seen.json if changed
+      - name: Commit state if changed
         run: |
           git config user.name  "tech-digest-bot"
           git config user.email "bot@users.noreply.github.com"
-          if ! git diff --quiet -- data/seen.json; then
-            git add data/seen.json
-            git commit -m "chore: digest $(TZ='Europe/Kyiv' date +%Y-%m-%d-%H%M)"
-            git push
-          else
-            echo "seen.json unchanged, skipping commit"
+          git add data/seen.json data/callback_map.json
+          if git diff --staged --quiet; then
+            echo "no state changes, skipping commit"
+            exit 0
           fi
+          git commit -m "chore: digest $(TZ='Europe/Kyiv' date +%Y-%m-%d-%H%M)"
+          for attempt in 1 2 3; do
+            if git pull --rebase && git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed, retrying..."
+            sleep 3
+          done
+          echo "::error::failed to push digest state after 3 attempts"
+          exit 1
 
       - name: Notify failure
         if: failure()

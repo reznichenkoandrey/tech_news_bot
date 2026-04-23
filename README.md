@@ -169,6 +169,18 @@ feeds:
 curl -s https://example.com/rss.xml | head -20
 ```
 
+## Inline buttons на item'ах
+
+Кожна новина у дайджесті має три кнопки:
+
+| Кнопка | Що робить |
+|---|---|
+| 📖 **Deep** | Запускає `scripts/summarize_article.py` через GitHub Actions (`.github/workflows/summarize.yml`) — за ~30-60с надсилає розширене саммарі (TL;DR + ключові тези + deep dive) reply'єм до item'а. Кнопки автоматично знімаються щоб не тиснув ще раз. |
+| ⭐ **Save** | Додає URL у `data/reading_list.json` (для щотижневого дайджесту глибоких читань, [#8](https://github.com/reznichenkoandrey/tech_news_bot/issues/8)). |
+| 🗑 **Hide** | Додає URL у `data/seen.json` і видаляє повідомлення з чату, щоб item не повертався у майбутніх дайджестах. |
+
+Кнопки обробляє Cloudflare Worker (той самий, що відповідає на /команди); важка робота (expand) делегується GitHub Actions через `repository_dispatch`. Телеграмний `callback_data` не поміщає довгі URL (64-байтний ліміт), тому в `data/callback_map.json` зберігається хеш→URL мапа (sha256[:16]) з FIFO-капом на 1000 записів.
+
 ## Topics
 
 Кожен feed тегується одним чи кількома topics з [config/topics.yaml](config/topics.yaml). Topics — тематичний вимір (`ai-lab`, `design`, `ai-design`, `design-tools` тощо); `category` залишається структурним (тип джерела).
