@@ -68,9 +68,27 @@ jobs:
             --data-urlencode "text=🟢 <i>Digest workflow started</i>" \
             > /dev/null
 
-      - name: Run tech-digest via Claude CLI
+      - name: Configure Claude credentials
         env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          mkdir -p "$HOME/.claude"
+          python3 - <<'PY'
+          import json, os
+          token = os.environ["OAUTH_TOKEN"]
+          creds = {"claudeAiOauth": {
+              "accessToken": token,
+              "refreshToken": "",
+              "expiresAt": 99999999999999,
+              "scopes": ["user:inference"],
+              "subscriptionType": "max",
+          }}
+          with open(os.path.expanduser("~/.claude/.credentials.json"), "w") as f:
+              json.dump(creds, f)
+          os.chmod(os.path.expanduser("~/.claude/.credentials.json"), 0o600)
+          PY
+
+      - name: Run tech-digest via Claude CLI
         run: |
           claude --print \
             --model sonnet \
