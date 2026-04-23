@@ -1,0 +1,103 @@
+name: Weekly deep-reads digest
+
+# Runs every Sunday at 09:00 Europe/Kyiv, in both DST windows (fires twice
+# with a gate step that picks the right local hour, same pattern as
+# .github/workflows/digest.yml).
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'   # EEST (summer, UTC+3)  → 09:00 Kyiv
+    - cron: '0 7 * * 0'   # EET  (winter, UTC+2)  → 09:00 Kyiv
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-digest-weekly
+  cancel-in-progress: false
+
+jobs:
+  gate:
+    name: Kyiv-09:00 Sunday gate
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        run: |
+          H=$(TZ='Europe/Kyiv' date +%H)
+          D=$(TZ='Europe/Kyiv' date +%u)  # 1=Mon … 7=Sun
+          echo "Kyiv hour=$H dow=$D event=$GITHUB_EVENT_NAME"
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [[ "$H" == "09" && "$D" == "7" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  digest:
+    name: Build and send weekly digest
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Heartbeat (start)
+        run: |
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "parse_mode=HTML" \
+            --data-urlencode "text=🟢 <i>Weekly digest workflow started</i>" \
+            > /dev/null
+
+      - name: Run weekly digest
+        run: python3 -m scripts.weekly_digest
+
+      - name: Commit reading-list changes
+        run: |
+          git config user.name  "tech-digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/reading_list.json data/reading_archive.json data/summaries
+          if git diff --staged --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "chore: weekly digest $(TZ='Europe/Kyiv' date +%Y-%m-%d-%H%M)"
+          for attempt in 1 2 3; do
+            if git pull --rebase && git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed, retrying..."
+            sleep 3
+          done
+          echo "::error::failed to push weekly state after 3 attempts"
+          exit 1
+
+      - name: Notify failure
+        if: failure()
+        env:
+          REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "parse_mode=HTML" \
+            --data-urlencode "text=❌ <b>Weekly digest failed</b>%0Ahttps://github.com/${REPO}/actions/runs/${RUN_ID}" \
+            > /dev/null || true
