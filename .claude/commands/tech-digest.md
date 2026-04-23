@@ -14,19 +14,28 @@ description: Generate AI/tech news digest and send to Telegram
 
 Виконай bash:
 ```bash
-cd /Users/reznichenkoandrii/htdocs/tech_news_bot
-set -a && source .env && set +a
+cd "$(git rev-parse --show-toplevel)"
+if [[ -f .env ]]; then
+  set -a && source .env && set +a
+fi
+: "${DIGEST_WINDOW_HOURS:=24}"
+: "${DIGEST_MAX_ITEMS:=15}"
+export DIGEST_WINDOW_HOURS DIGEST_MAX_ITEMS
+if [[ -z "${TELEGRAM_BOT_TOKEN:-}" || -z "${TELEGRAM_CHAT_ID:-}" ]]; then
+  echo "ERROR: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID missing (neither .env nor env vars)" >&2
+  exit 1
+fi
 echo "CHAT_ID=$TELEGRAM_CHAT_ID WINDOW=$DIGEST_WINDOW_HOURS MAX=$DIGEST_MAX_ITEMS"
 ```
 
-Якщо будь-яка змінна порожня — зупинись і виведи помилку `.env missing credentials`.
+Якщо крок впав — зупинись і виведи помилку.
 
 ---
 
 ## Крок 2 — Зберіть всі items
 
 ```bash
-cd /Users/reznichenkoandrii/htdocs/tech_news_bot
+cd "$(git rev-parse --show-toplevel)"
 python3 -m src.fetcher > /tmp/tech_news_all.json 2> /tmp/tech_news_fetch.log
 ```
 
@@ -37,7 +46,7 @@ python3 -m src.fetcher > /tmp/tech_news_all.json 2> /tmp/tech_news_fetch.log
 ## Крок 3 — Відфільтруй нові items
 
 ```bash
-cd /Users/reznichenkoandrii/htdocs/tech_news_bot
+cd "$(git rev-parse --show-toplevel)"
 cat /tmp/tech_news_all.json | python3 -m src.dedup filter > /tmp/tech_news_new.json
 ```
 
@@ -106,15 +115,17 @@ cat /tmp/tech_news_all.json | python3 -m src.dedup filter > /tmp/tech_news_new.j
 ### Додаткові правила:
 - `TITLE` — escape HTML: `<` → `&lt;`, `>` → `&gt;`, `&` → `&amp;`
 - Між items — порожній рядок
-- В кінці digest додай рядок: `<i>Наступний дайджест за 12 годин</i>`
+- В кінці digest додай рядок: `<i>Наступний дайджест завтра о 10:00</i>`
 
 ---
 
 ## Крок 6 — Надішли в Telegram
 
 ```bash
-cd /Users/reznichenkoandrii/htdocs/tech_news_bot
-set -a && source .env && set +a
+cd "$(git rev-parse --show-toplevel)"
+if [[ -f .env ]]; then
+  set -a && source .env && set +a
+fi
 cat /tmp/tech_news_digest.html | python3 -m src.telegram send
 ```
 
@@ -127,7 +138,7 @@ cat /tmp/tech_news_digest.html | python3 -m src.telegram send
 Витягни всі URL з `/tmp/tech_news_new.json` (не тільки ті що потрапили в дайджест — щоб не показувати їх повторно) і додай у seen:
 
 ```bash
-cd /Users/reznichenkoandrii/htdocs/tech_news_bot
+cd "$(git rev-parse --show-toplevel)"
 python3 -c "import json; urls=[i['url'] for i in json.load(open('/tmp/tech_news_new.json'))]; print('\n'.join(urls))" | xargs python3 -m src.dedup update
 ```
 
@@ -136,12 +147,17 @@ python3 -c "import json; urls=[i['url'] for i in json.load(open('/tmp/tech_news_
 ## Крок 8 — Git commit
 
 ```bash
-cd /Users/reznichenkoandrii/htdocs/tech_news_bot
-git add data/seen.json
-git commit -m "chore: digest $(date +%Y-%m-%d-%H%M)" --allow-empty
+cd "$(git rev-parse --show-toplevel)"
+if [[ -n "${GITHUB_ACTIONS:-}" ]]; then
+  echo "Running in GitHub Actions — commit/push handled by the workflow, skipping."
+else
+  git add data/seen.json
+  git commit -m "chore: digest $(date +%Y-%m-%d-%H%M)" --allow-empty
+fi
 ```
 
-**НЕ** робити `git push` автоматично — лише локальний commit. Користувач пушить вручну за бажанням.
+**НЕ** робити `git push` автоматично локально — лише commit. Користувач пушить вручну.
+У CI (`$GITHUB_ACTIONS`) commit + push робить сам workflow після цього кроку.
 
 ---
 

@@ -1,0 +1,98 @@
+name: Daily tech digest
+
+on:
+  schedule:
+    # 10:00 Europe/Kyiv, both DST windows. Gate job filters to the real local 10:00.
+    - cron: '0 7 * * *'   # EEST (summer, UTC+3)
+    - cron: '0 8 * * *'   # EET  (winter, UTC+2)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-digest
+  cancel-in-progress: false
+
+jobs:
+  gate:
+    name: Kyiv-10:00 gate
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        run: |
+          H=$(TZ='Europe/Kyiv' date +%H)
+          echo "Kyiv hour=$H event=$GITHUB_EVENT_NAME"
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" || "$H" == "10" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  digest:
+    name: Generate and send digest
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      DIGEST_WINDOW_HOURS: '24'
+      DIGEST_MAX_ITEMS: '15'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Heartbeat (start)
+        run: |
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "parse_mode=HTML" \
+            --data-urlencode "text=🟢 <i>Digest workflow started</i>" \
+            > /dev/null
+
+      - name: Run tech-digest via Claude Code
+        uses: anthropics/claude-code-base-action@beta
+        with:
+          prompt: |
+            Виконай інструкції з файлу .claude/commands/tech-digest.md рівно як там написано.
+            Всі bash-кроки запускай з кореня репо. Працюй мовчки і автономно, без уточнюючих
+            питань. В кінці виведи короткий звіт: total / new / sent / tg_status.
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          allowed_tools: 'Bash,Read,Write,Edit,Glob,Grep'
+          model: 'claude-sonnet-4-6'
+          timeout_minutes: '10'
+
+      - name: Commit seen.json if changed
+        run: |
+          git config user.name  "tech-digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if ! git diff --quiet -- data/seen.json; then
+            git add data/seen.json
+            git commit -m "chore: digest $(TZ='Europe/Kyiv' date +%Y-%m-%d-%H%M)"
+            git push
+          else
+            echo "seen.json unchanged, skipping commit"
+          fi
+
+      - name: Notify failure
+        if: failure()
+        env:
+          REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "parse_mode=HTML" \
+            --data-urlencode "text=❌ <b>Digest workflow failed</b>%0Ahttps://github.com/${REPO}/actions/runs/${RUN_ID}" \
+            > /dev/null || true
