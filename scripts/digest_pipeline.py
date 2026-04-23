@@ -21,6 +21,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import requests
+import yaml
 
 from src.dedup import _items_from_json, filter_new, load_seen, save_seen
 from src.models import DigestEntry, FeedItem
@@ -30,6 +31,7 @@ logger = logging.getLogger("digest_pipeline")
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SEEN_PATH = REPO_ROOT / "data" / "seen.json"
+TOPICS_PATH = REPO_ROOT / "config" / "topics.yaml"
 
 KYIV_TZ = ZoneInfo("Europe/Kyiv")
 
@@ -159,9 +161,58 @@ def parse_llm_json(text: str) -> list[dict]:
     return json.loads(match.group())
 
 
-def render_digest_html(entries: list[dict], window_hours: int) -> str:
+def load_topics_registry() -> dict[str, dict]:
+    """Return dict slug → topic entry (name, emoji, default_active, description)."""
+    if not TOPICS_PATH.exists():
+        return {}
+    data = yaml.safe_load(TOPICS_PATH.read_text(encoding="utf-8")) or {}
+    return {t["slug"]: t for t in data.get("topics", [])}
+
+
+def parse_active_topics(env_value: str, registry: dict[str, dict]) -> set[str]:
+    """
+    Parse DIGEST_TOPICS env (comma-separated) into a set of slugs.
+    Empty string / unset → empty set (= disable filter = all items pass).
+    Unknown slugs are logged but not fatal (so a typo doesn't break the run).
+    """
+    if not env_value or not env_value.strip():
+        return set()
+    requested = {s.strip() for s in env_value.split(",") if s.strip()}
+    unknown = requested - registry.keys()
+    if unknown:
+        logger.warning("DIGEST_TOPICS has unknown slugs (ignored): %s", sorted(unknown))
+    return requested & registry.keys()
+
+
+def filter_by_topics(items: list[FeedItem], active: set[str]) -> list[FeedItem]:
+    """Keep items that have at least one topic in `active`. Empty active → pass-through."""
+    if not active:
+        return items
+    return [i for i in items if any(t in active for t in i.topics)]
+
+
+def render_topics_header_suffix(active: set[str], registry: dict[str, dict]) -> str:
+    """Render '[🎨 Design · 🧪 AI labs]' suffix; empty string if no filter."""
+    if not active:
+        return ""
+    pieces = []
+    for slug in sorted(active):
+        entry = registry.get(slug, {})
+        pieces.append(f"{entry.get('emoji', '•')} {entry.get('name', slug)}")
+    return f" [{' · '.join(pieces)}]"
+
+
+def render_digest_html(
+    entries: list[dict],
+    window_hours: int,
+    topics_suffix: str = "",
+) -> str:
     date_uk = render_date_uk()
-    header = f"<b>🤖 AI/Tech дайджест — {date_uk}</b>\n\n{len(entries)} новин за останні {window_hours}г\n\n━━━━━━━━━━━━━━━━━━━━\n"
+    header = (
+        f"<b>🤖 AI/Tech дайджест{topics_suffix} — {date_uk}</b>\n\n"
+        f"{len(entries)} новин за останні {window_hours}г\n\n"
+        f"━━━━━━━━━━━━━━━━━━━━\n"
+    )
 
     blocks: list[str] = []
     for idx, e in enumerate(entries, start=1):
@@ -190,6 +241,12 @@ def main() -> int:
     window = int(os.environ.get("DIGEST_WINDOW_HOURS", "24"))
     max_items = int(os.environ.get("DIGEST_MAX_ITEMS", "15"))
 
+    topics_registry = load_topics_registry()
+    active_topics = parse_active_topics(os.environ.get("DIGEST_TOPICS", ""), topics_registry)
+    topics_suffix = render_topics_header_suffix(active_topics, topics_registry)
+    if active_topics:
+        logger.info("Active topics filter: %s", sorted(active_topics))
+
     try:
         all_items = fetch_items()
     except Exception as exc:
@@ -202,10 +259,16 @@ def main() -> int:
     new_items = filter_new(all_items, seen, window)
     logger.info("New items: %d of %d", len(new_items), len(all_items))
 
+    before_topic_filter = len(new_items)
+    new_items = filter_by_topics(new_items, active_topics)
+    if active_topics:
+        logger.info("After topic filter: %d of %d", len(new_items), before_topic_filter)
+
     date_uk = render_date_uk()
     if not new_items:
         send_message(
-            f"<b>AI/Tech дайджест — {date_uk}</b>\n\nНових новин за останні {window}г немає.",
+            f"<b>AI/Tech дайджест{topics_suffix} — {date_uk}</b>\n\n"
+            f"Нових новин за останні {window}г немає.",
             tg_token,
             tg_chat,
         )
@@ -222,13 +285,14 @@ def main() -> int:
 
     if not entries:
         send_message(
-            f"<b>AI/Tech дайджест — {date_uk}</b>\n\nLLM повернув порожній список.",
+            f"<b>AI/Tech дайджест{topics_suffix} — {date_uk}</b>\n\n"
+            f"LLM повернув порожній список.",
             tg_token,
             tg_chat,
         )
         return 0
 
-    digest_html = render_digest_html(entries, window)
+    digest_html = render_digest_html(entries, window, topics_suffix)
     try:
         send_message(digest_html, tg_token, tg_chat)
     except TelegramError as exc:
