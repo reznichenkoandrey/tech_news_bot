@@ -181,6 +181,30 @@ curl -s https://example.com/rss.xml | head -20
 
 Кнопки обробляє Cloudflare Worker (той самий, що відповідає на /команди); важка робота (expand) делегується GitHub Actions через `repository_dispatch`. Телеграмний `callback_data` не поміщає довгі URL (64-байтний ліміт), тому в `data/callback_map.json` зберігається хеш→URL мапа (sha256[:16]) з FIFO-капом на 1000 записів.
 
+## Source policy
+
+**Принцип:** блокування на рівні джерела, не змісту. Жоден item із домену, зареєстрованого/працюючого в РФ чи прив'язаного до російських держструктур/санкційних компаній, не потрапляє в дайджест (`src/blocklist.py` → `is_blocked()` → фільтр у `src/fetcher.py::fetch_all`). Західні outlets (TechCrunch, Ars Technica, Reddit, HN), які пишуть про Yandex/Sberbank/Kaspersky, **залишаються** — це нормальне західне покриття.
+
+**Матчинг:** hostname-suffix (`news.rt.com` → блок по `rt.com`; `smart.company` → НЕ блокується). Case-insensitive. Повний список — у `src/blocklist.py::BLOCKED_DOMAINS`.
+
+**Як додати джерело у блок:**
+1. Доменне ім'я у lowercase додай у `BLOCKED_DOMAINS` (секції: propaganda media / tech publishers / search & social / corporate).
+2. Прогони `pytest tests/test_blocklist.py`.
+3. Commit з `security:` або `feat(blocklist):` префіксом.
+
+**Як перевірити, що нічого не проскакує:**
+```bash
+python3 -c "
+import json
+from urllib.parse import urlparse
+seen = json.loads(open('data/seen.json').read())
+for url in seen:
+    h = (urlparse(url).hostname or '').lower()
+    if h.endswith('.ru'):
+        print('LEAK:', url)
+"
+```
+
 ## Weekly deep reads (неділя 09:00 Kyiv)
 
 Все що ти ⭐ Save-нув протягом тижня, `.github/workflows/weekly.yml` збирає в один дайджест "📚 Deep reads тижня": title + TL;DR + лінк для кожного item. Реалізація — `scripts/weekly_digest.py`. Після успішного send `data/reading_list.json` очищається, а URL'и переносяться в `data/reading_archive.json` (з `archived_at`). Якщо reading list порожній — workflow тихо виходить. Якщо весь тиждень — paywall'и і жоден item не вдалось підсумувати — workflow шле помилку в чат і лишає reading list недоторканим для ручного розгрібання.
