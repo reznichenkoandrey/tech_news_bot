@@ -10,6 +10,7 @@ class FeedItem:
     source: str
     category: str
     raw_summary: str = ""
+    topics: tuple[str, ...] = ()  # topic slugs from config/topics.yaml
 
 
 @dataclass

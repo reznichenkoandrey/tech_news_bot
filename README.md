@@ -160,13 +160,22 @@ brew install python@3.12
 feeds:
   - name: "New Source Name"
     url: "https://example.com/rss.xml"
-    category: "lab"  # lab | community | media | release
+    category: "lab"              # lab | community | media | release
+    topics: [ai-lab, ai-tools]   # один або кілька slug'ів з config/topics.yaml
 ```
 
 Перевір що фід валідний:
 ```bash
 curl -s https://example.com/rss.xml | head -20
 ```
+
+## Topics
+
+Кожен feed тегується одним чи кількома topics з [config/topics.yaml](config/topics.yaml). Topics — тематичний вимір (`ai-lab`, `design`, `ai-design`, `design-tools` тощо); `category` залишається структурним (тип джерела).
+
+**Додати новий topic:** додай запис у `topics.yaml` з `slug`, `name`, `emoji`, `default_active`. Потім проставай цей slug у `sources.yaml` там де підходить. Тест `tests/test_topics.py::test_every_source_in_sources_yaml_has_valid_topics` впаде, якщо feed посилається на slug, якого немає в registry — це guard проти друкарських помилок.
+
+**Доступні topics зараз:** `ai-lab`, `ai-tools`, `ai-local`, `ai-infra`, `ai-research`, `community`, `media`, `design`, `design-tools`, `ai-design`, `frontend`. Опис кожного — у самому `topics.yaml`.
 
 ## Ліцензія
 

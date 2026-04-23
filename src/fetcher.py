@@ -59,7 +59,12 @@ def _parse_iso8601(value: str) -> datetime:
     return dt.astimezone(timezone.utc)
 
 
-def _parse_rss_items(root: ElementTree.Element, source_name: str, category: str) -> list[FeedItem]:
+def _parse_rss_items(
+    root: ElementTree.Element,
+    source_name: str,
+    category: str,
+    topics: tuple[str, ...] = (),
+) -> list[FeedItem]:
     """Extract FeedItem list from an RSS 2.0 ElementTree root."""
     items: list[FeedItem] = []
     channel = root.find("channel")
@@ -94,12 +99,18 @@ def _parse_rss_items(root: ElementTree.Element, source_name: str, category: str)
             source=source_name,
             category=category,
             raw_summary=raw_summary,
+            topics=topics,
         ))
 
     return items
 
 
-def _parse_atom_items(root: ElementTree.Element, source_name: str, category: str) -> list[FeedItem]:
+def _parse_atom_items(
+    root: ElementTree.Element,
+    source_name: str,
+    category: str,
+    topics: tuple[str, ...] = (),
+) -> list[FeedItem]:
     """Extract FeedItem list from an Atom 1.0 ElementTree root."""
     items: list[FeedItem] = []
     ns = ATOM_NS
@@ -148,12 +159,18 @@ def _parse_atom_items(root: ElementTree.Element, source_name: str, category: str
             source=source_name,
             category=category,
             raw_summary=raw_summary,
+            topics=topics,
         ))
 
     return items
 
 
-def _fetch_via_feedparser(url: str, source_name: str, category: str) -> list[FeedItem]:
+def _fetch_via_feedparser(
+    url: str,
+    source_name: str,
+    category: str,
+    topics: tuple[str, ...] = (),
+) -> list[FeedItem]:
     """Fallback parser using feedparser library."""
     import feedparser  # imported lazily — only used as fallback
 
@@ -187,6 +204,7 @@ def _fetch_via_feedparser(url: str, source_name: str, category: str) -> list[Fee
             source=source_name,
             category=category,
             raw_summary=raw_summary,
+            topics=topics,
         ))
 
     return items
@@ -197,6 +215,7 @@ def _fetch_feed(feed_config: dict) -> list[FeedItem]:
     name: str = feed_config["name"]
     url: str = feed_config["url"]
     category: str = feed_config["category"]
+    topics: tuple[str, ...] = tuple(feed_config.get("topics", ()))
 
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
 
@@ -211,7 +230,7 @@ def _fetch_feed(feed_config: dict) -> list[FeedItem]:
         root = ElementTree.fromstring(raw_bytes)
     except ParseError as exc:
         logger.warning("XML помилка для %s, використовую feedparser: %s", name, exc)
-        return _fetch_via_feedparser(url, name, category)
+        return _fetch_via_feedparser(url, name, category, topics)
 
     # Detect feed type by root tag.
     # Atom feeds have a namespaced root: {http://www.w3.org/2005/Atom}feed
@@ -220,15 +239,15 @@ def _fetch_feed(feed_config: dict) -> list[FeedItem]:
     tag_local = tag.split("}")[-1].lower() if "}" in tag else tag.lower()
 
     if tag == f"{{{ATOM_NS}}}feed" or (tag_local == "feed" and ATOM_NS in tag):
-        return _parse_atom_items(root, name, category)
+        return _parse_atom_items(root, name, category, topics)
     elif tag_local in ("rss", "rdf"):
-        return _parse_rss_items(root, name, category)
+        return _parse_rss_items(root, name, category, topics)
     else:
         # Ambiguous root — try Atom first (namespaced), then RSS
-        atom_items = _parse_atom_items(root, name, category)
+        atom_items = _parse_atom_items(root, name, category, topics)
         if atom_items:
             return atom_items
-        return _parse_rss_items(root, name, category)
+        return _parse_rss_items(root, name, category, topics)
 
 
 def fetch_all(sources_path: Path, timeout: int = 10) -> list[FeedItem]:
@@ -303,6 +322,7 @@ def _items_to_json(items: list[FeedItem]) -> str:
                 "source": item.source,
                 "category": item.category,
                 "raw_summary": item.raw_summary,
+                "topics": list(item.topics),
             }
             for item in items
         ],

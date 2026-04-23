@@ -125,6 +125,7 @@ def _items_from_json(raw: str) -> list[FeedItem]:
             source=r["source"],
             category=r["category"],
             raw_summary=r.get("raw_summary", ""),
+            topics=tuple(r.get("topics", ())),
         ))
     return items
 
@@ -140,6 +141,7 @@ def _items_to_json(items: list[FeedItem]) -> str:
                 "source": item.source,
                 "category": item.category,
                 "raw_summary": item.raw_summary,
+                "topics": list(item.topics),
             }
             for item in items
         ],

@@ -1,72 +1,133 @@
 feeds:
-  # Official AI lab blogs
+  # ── Official AI lab blogs ─────────────────────────────────────────────
   - name: "Anthropic (Google News)"
     url: "https://news.google.com/rss/search?q=Anthropic+Claude&hl=en-US&gl=US&ceid=US:en"
     category: "lab"
+    topics: [ai-lab]
 
   - name: "OpenAI News"
     url: "https://openai.com/news/rss.xml"
     category: "lab"
+    topics: [ai-lab]
 
   - name: "Google DeepMind"
     url: "https://www.deepmind.com/blog/rss.xml"
     category: "lab"
+    topics: [ai-lab]
 
   - name: "HuggingFace Blog"
     url: "https://huggingface.co/blog/feed.xml"
     category: "lab"
+    topics: [ai-lab, ai-tools]
 
   - name: "Meta AI Research"
     url: "https://research.facebook.com/blog/feed/"
     category: "lab"
+    topics: [ai-lab, ai-research]
 
-  # Community aggregators
+  # ── Community aggregators ─────────────────────────────────────────────
   - name: "HackerNews AI"
     url: "https://hnrss.org/frontpage?q=AI+LLM+Claude+GPT&points=50"
     category: "community"
+    topics: [community]
 
   - name: "Reddit r/LocalLLaMA"
     url: "https://www.reddit.com/r/LocalLLaMA/.rss"
     category: "community"
+    topics: [community, ai-local]
 
   - name: "Reddit r/MachineLearning"
     url: "https://www.reddit.com/r/MachineLearning/.rss"
     category: "community"
+    topics: [community, ai-research]
 
-  # Tech media
+  # ── Tech media ────────────────────────────────────────────────────────
   - name: "TechCrunch AI"
     url: "https://techcrunch.com/category/artificial-intelligence/feed/"
     category: "media"
+    topics: [media]
 
   - name: "The Verge AI"
     url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
     category: "media"
+    topics: [media]
 
   - name: "Ars Technica"
     url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
     category: "media"
+    topics: [media]
 
-  # GitHub release feeds (Atom 1.0)
+  # ── GitHub release feeds (Atom 1.0) ───────────────────────────────────
   - name: "anthropic-sdk-python releases"
     url: "https://github.com/anthropics/anthropic-sdk-python/releases.atom"
     category: "release"
+    topics: [ai-tools]
 
   - name: "openai-python releases"
     url: "https://github.com/openai/openai-python/releases.atom"
     category: "release"
+    topics: [ai-tools]
 
   - name: "ollama releases"
     url: "https://github.com/ollama/ollama/releases.atom"
     category: "release"
+    topics: [ai-tools, ai-local]
 
   - name: "transformers releases"
     url: "https://github.com/huggingface/transformers/releases.atom"
     category: "release"
+    topics: [ai-tools]
 
   - name: "vllm releases"
     url: "https://github.com/vllm-project/vllm/releases.atom"
     category: "release"
+    topics: [ai-tools, ai-infra]
 
   - name: "llama.cpp releases"
     url: "https://github.com/ggml-org/llama.cpp/releases.atom"
     category: "release"
+    topics: [ai-tools, ai-local]
+
+  # ── Design / UX ───────────────────────────────────────────────────────
+  - name: "Smashing Magazine"
+    url: "https://www.smashingmagazine.com/feed/"
+    category: "media"
+    topics: [design, frontend]
+
+  - name: "UX Collective"
+    url: "https://uxdesign.cc/feed"
+    category: "media"
+    topics: [design]
+
+  - name: "CSS-Tricks"
+    url: "https://css-tricks.com/feed/"
+    category: "media"
+    topics: [frontend, design]
+
+  - name: "Nielsen Norman Group"
+    url: "https://www.nngroup.com/feed/rss/"
+    category: "media"
+    topics: [design]
+
+  - name: "A List Apart"
+    url: "https://alistapart.com/main/feed/"
+    category: "media"
+    topics: [design, frontend]
+
+  # ── Design tools + AI-in-design ───────────────────────────────────────
+  # Figma/Framer/Adobe/Linear blogs don't publish public RSS — tracked in
+  # follow-up issue. For now we proxy via community/Medium publications.
+  - name: "Figma Design (Medium)"
+    url: "https://medium.com/feed/figma-design"
+    category: "media"
+    topics: [design-tools, design, ai-design]
+
+  - name: "Prototypr"
+    url: "https://blog.prototypr.io/feed"
+    category: "media"
+    topics: [design-tools, design]
+
+  - name: "Sidebar.io"
+    url: "https://sidebar.io/feed.xml"
+    category: "media"
+    topics: [design, frontend]

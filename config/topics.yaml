@@ -1,0 +1,71 @@
+# Topic registry for tech_news_bot.
+# Each source in sources.yaml references one or more slugs from this list.
+# When `default_active: true`, the topic is included in the default digest
+# unless explicitly excluded via DIGEST_TOPICS env var (see issue #2).
+
+topics:
+  - slug: ai-lab
+    name: "AI labs"
+    emoji: "🧪"
+    default_active: true
+    description: "First-party blogs of AI labs (Anthropic, OpenAI, DeepMind, etc.)"
+
+  - slug: ai-tools
+    name: "AI dev tools / frameworks"
+    emoji: "🔧"
+    default_active: true
+    description: "SDKs, libraries, release notes for AI frameworks"
+
+  - slug: ai-local
+    name: "Local / self-hosted AI"
+    emoji: "💻"
+    default_active: true
+    description: "Local inference: Ollama, llama.cpp, LocalLLaMA community"
+
+  - slug: ai-infra
+    name: "AI infrastructure / serving"
+    emoji: "⚙️"
+    default_active: true
+    description: "vLLM, serving, inference optimization"
+
+  - slug: ai-research
+    name: "AI research / papers"
+    emoji: "📚"
+    default_active: true
+    description: "r/MachineLearning, research-heavy feeds"
+
+  - slug: community
+    name: "Community discussions"
+    emoji: "💬"
+    default_active: true
+    description: "HackerNews, Reddit threads"
+
+  - slug: media
+    name: "Tech media"
+    emoji: "📰"
+    default_active: true
+    description: "TechCrunch, The Verge, Ars Technica"
+
+  - slug: design
+    name: "Design / UX"
+    emoji: "🎨"
+    default_active: true
+    description: "Smashing, UX Collective, NN/g, A List Apart"
+
+  - slug: design-tools
+    name: "Design tools"
+    emoji: "🖌️"
+    default_active: true
+    description: "Figma, Framer, Adobe Design, Linear"
+
+  - slug: ai-design
+    name: "AI in design"
+    emoji: "🎨🤖"
+    default_active: true
+    description: "AI-driven design features, generative design, AI UX patterns"
+
+  - slug: frontend
+    name: "Frontend"
+    emoji: "🧩"
+    default_active: true
+    description: "CSS, HTML, frontend craft (CSS-Tricks, A List Apart)"
