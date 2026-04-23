@@ -1,0 +1,9 @@
+# User preferences, managed by scripts/bot_poll.py via Telegram commands.
+# Edit manually only when the bot is offline — otherwise your changes may be
+# overwritten on the next poll.
+#
+# active_topics — global filter applied on top of config/digests.yaml profiles.
+# Empty list = no filter = every profile runs as configured in digests.yaml.
+# Non-empty list = each profile's items are further narrowed to this topic set.
+
+active_topics: []

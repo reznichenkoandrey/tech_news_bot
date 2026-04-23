@@ -33,6 +33,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 SEEN_PATH = REPO_ROOT / "data" / "seen.json"
 TOPICS_PATH = REPO_ROOT / "config" / "topics.yaml"
 DIGESTS_PATH = REPO_ROOT / "config" / "digests.yaml"
+USER_PREFS_PATH = REPO_ROOT / "config" / "user_prefs.yaml"
 
 KYIV_TZ = ZoneInfo("Europe/Kyiv")
 
@@ -298,12 +299,45 @@ def run_digest(
     return (len(entries), considered)
 
 
+def load_user_prefs_active_topics() -> set[str]:
+    """User-configured global topic filter (via Telegram /add /remove)."""
+    if not USER_PREFS_PATH.exists():
+        return set()
+    data = yaml.safe_load(USER_PREFS_PATH.read_text(encoding="utf-8")) or {}
+    return {t for t in (data.get("active_topics") or []) if t}
+
+
+def _overlay_with_user_filter(profiles: list[dict], user_active: set[str]) -> list[dict]:
+    """
+    Narrow every profile's topic list to the intersection with user_active.
+    Profiles whose intersection is empty are dropped — the user doesn't want
+    that stream right now. Returns the profile list unchanged if user_active
+    is empty.
+    """
+    if not user_active:
+        return profiles
+
+    narrowed = []
+    for p in profiles:
+        profile_topics = set(p.get("topics") or [])
+        if not profile_topics:
+            # Empty means "all" in digest config; user filter becomes the list.
+            narrowed.append({**p, "topics": sorted(user_active)})
+            continue
+        overlap = profile_topics & user_active
+        if not overlap:
+            continue
+        narrowed.append({**p, "topics": sorted(overlap)})
+    return narrowed
+
+
 def resolve_digest_profiles() -> list[dict]:
     """
     Decide which digest profiles to run, in priority order:
     1. DIGEST_TOPICS env is set → single ad-hoc profile (backward compat)
-    2. config/digests.yaml exists → its list
-    3. Fallback → single "AI/Tech" profile with no topic filter
+    2. config/digests.yaml exists → its list, narrowed by user_prefs if any
+    3. Fallback → single "AI/Tech" profile with no topic filter (also
+       narrowed by user_prefs if any)
     """
     env_topics = os.environ.get("DIGEST_TOPICS", "").strip()
     if env_topics:
@@ -311,11 +345,8 @@ def resolve_digest_profiles() -> list[dict]:
         active = parse_active_topics(env_topics, topics_registry)
         return [{"name": "AI/Tech", "emoji": "🤖", "topics": list(active)}]
 
-    from_file = load_digest_configs()
-    if from_file:
-        return from_file
-
-    return [{"name": "AI/Tech", "emoji": "🤖", "topics": []}]
+    base = load_digest_configs() or [{"name": "AI/Tech", "emoji": "🤖", "topics": []}]
+    return _overlay_with_user_filter(base, load_user_prefs_active_topics())
 
 
 def main() -> int:
