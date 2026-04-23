@@ -73,10 +73,14 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
           claude --print \
-            --model claude-sonnet-4-5 \
+            --model sonnet \
             --permission-mode acceptEdits \
-            --allowed-tools "Bash,Read,Write,Edit,Glob,Grep" \
-            "Виконай інструкції з файлу .claude/commands/tech-digest.md рівно як там написано. Всі bash-кроки запускай з кореня репо. Працюй мовчки і автономно, без уточнюючих питань. В кінці виведи короткий звіт: total / new / sent / tg_status."
+            --allowed-tools "Bash Read Write Edit Glob Grep" \
+            --max-turns 40 <<'PROMPT'
+          Виконай інструкції з файлу .claude/commands/tech-digest.md рівно як там написано.
+          Всі bash-кроки запускай з кореня репо. Працюй мовчки і автономно, без уточнюючих
+          питань. В кінці виведи короткий звіт: total / new / sent / tg_status.
+          PROMPT
 
       - name: Commit seen.json if changed
         run: |
