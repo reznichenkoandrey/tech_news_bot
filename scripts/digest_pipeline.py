@@ -32,6 +32,7 @@ logger = logging.getLogger("digest_pipeline")
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SEEN_PATH = REPO_ROOT / "data" / "seen.json"
 TOPICS_PATH = REPO_ROOT / "config" / "topics.yaml"
+DIGESTS_PATH = REPO_ROOT / "config" / "digests.yaml"
 
 KYIV_TZ = ZoneInfo("Europe/Kyiv")
 
@@ -205,11 +206,11 @@ def render_topics_header_suffix(active: set[str], registry: dict[str, dict]) -> 
 def render_digest_html(
     entries: list[dict],
     window_hours: int,
-    topics_suffix: str = "",
+    title: str = "🤖 AI/Tech дайджест",
 ) -> str:
     date_uk = render_date_uk()
     header = (
-        f"<b>🤖 AI/Tech дайджест{topics_suffix} — {date_uk}</b>\n\n"
+        f"<b>{title} — {date_uk}</b>\n\n"
         f"{len(entries)} новин за останні {window_hours}г\n\n"
         f"━━━━━━━━━━━━━━━━━━━━\n"
     )
@@ -217,12 +218,12 @@ def render_digest_html(
     blocks: list[str] = []
     for idx, e in enumerate(entries, start=1):
         emoji = CATEGORY_EMOJI.get(e.get("category", ""), "•")
-        title = html.escape(e.get("title", "").strip())
+        title_e = html.escape(e.get("title", "").strip())
         source = html.escape(e.get("source", "").strip())
         summary = html.escape(e.get("summary_uk", "").strip())
         url = e.get("url", "").strip()
         blocks.append(
-            f"<b>{idx}. [{emoji}] {title}</b>\n"
+            f"<b>{idx}. [{emoji}] {title_e}</b>\n"
             f"<i>{source}</i>\n"
             f"{summary}\n"
             f'<a href="{url}">Читати →</a>'
@@ -230,6 +231,91 @@ def render_digest_html(
 
     footer = "<i>Наступний дайджест завтра о 10:00</i>"
     return header + "\n\n".join(blocks) + "\n\n" + footer
+
+
+def load_digest_configs() -> list[dict]:
+    """
+    Read config/digests.yaml and return list of {name, emoji, topics} dicts.
+    Returns [] if the file doesn't exist (caller falls back to env/legacy behaviour).
+    """
+    if not DIGESTS_PATH.exists():
+        return []
+    data = yaml.safe_load(DIGESTS_PATH.read_text(encoding="utf-8")) or {}
+    out: list[dict] = []
+    for entry in data.get("digests", []):
+        out.append(
+            {
+                "name": entry.get("name", "Digest"),
+                "emoji": entry.get("emoji", "📰"),
+                "topics": list(entry.get("topics", [])),
+            }
+        )
+    return out
+
+
+def run_digest(
+    config: dict,
+    new_items: list[FeedItem],
+    *,
+    oauth_token: str,
+    tg_token: str,
+    tg_chat: str,
+    window: int,
+    max_items: int,
+) -> tuple[int, list[str]]:
+    """
+    Execute one digest profile end-to-end (filter → LLM → send).
+
+    Returns (items_sent, considered_urls). `considered_urls` is every URL
+    matched by the topic filter, regardless of whether it made the top-N —
+    caller collects them for dedup so filtered-out items don't reappear.
+
+    Raises on LLM/network failure so caller can notify and continue with
+    the next profile.
+    """
+    name = config["name"]
+    emoji = config["emoji"]
+    topic_slugs = set(config["topics"])
+    title = f"{emoji} {name} дайджест"
+
+    filtered = filter_by_topics(new_items, topic_slugs)
+    considered = [i.url for i in filtered]
+    logger.info("[%s] %d items after topic filter", name, len(filtered))
+
+    if not filtered:
+        return (0, considered)
+
+    prompt = build_llm_prompt(filtered, window, max_items)
+    raw = call_llm(prompt, oauth_token)
+    entries = parse_llm_json(raw)
+
+    if not entries:
+        logger.warning("[%s] LLM returned empty list", name)
+        return (0, considered)
+
+    send_message(render_digest_html(entries, window, title), tg_token, tg_chat)
+    logger.info("[%s] sent %d entries", name, len(entries))
+    return (len(entries), considered)
+
+
+def resolve_digest_profiles() -> list[dict]:
+    """
+    Decide which digest profiles to run, in priority order:
+    1. DIGEST_TOPICS env is set → single ad-hoc profile (backward compat)
+    2. config/digests.yaml exists → its list
+    3. Fallback → single "AI/Tech" profile with no topic filter
+    """
+    env_topics = os.environ.get("DIGEST_TOPICS", "").strip()
+    if env_topics:
+        topics_registry = load_topics_registry()
+        active = parse_active_topics(env_topics, topics_registry)
+        return [{"name": "AI/Tech", "emoji": "🤖", "topics": list(active)}]
+
+    from_file = load_digest_configs()
+    if from_file:
+        return from_file
+
+    return [{"name": "AI/Tech", "emoji": "🤖", "topics": []}]
 
 
 def main() -> int:
@@ -241,11 +327,8 @@ def main() -> int:
     window = int(os.environ.get("DIGEST_WINDOW_HOURS", "24"))
     max_items = int(os.environ.get("DIGEST_MAX_ITEMS", "15"))
 
-    topics_registry = load_topics_registry()
-    active_topics = parse_active_topics(os.environ.get("DIGEST_TOPICS", ""), topics_registry)
-    topics_suffix = render_topics_header_suffix(active_topics, topics_registry)
-    if active_topics:
-        logger.info("Active topics filter: %s", sorted(active_topics))
+    profiles = resolve_digest_profiles()
+    logger.info("Running %d digest profile(s): %s", len(profiles), [p["name"] for p in profiles])
 
     try:
         all_items = fetch_items()
@@ -259,54 +342,56 @@ def main() -> int:
     new_items = filter_new(all_items, seen, window)
     logger.info("New items: %d of %d", len(new_items), len(all_items))
 
-    before_topic_filter = len(new_items)
-    new_items = filter_by_topics(new_items, active_topics)
-    if active_topics:
-        logger.info("After topic filter: %d of %d", len(new_items), before_topic_filter)
-
     date_uk = render_date_uk()
-    if not new_items:
+
+    total_sent = 0
+    urls_to_persist: set[str] = set()
+    failures: list[str] = []
+
+    for profile in profiles:
+        try:
+            sent, considered = run_digest(
+                profile,
+                new_items,
+                oauth_token=oauth,
+                tg_token=tg_token,
+                tg_chat=tg_chat,
+                window=window,
+                max_items=max_items,
+            )
+            total_sent += sent
+            urls_to_persist.update(considered)
+        except TelegramError as exc:
+            logger.error("[%s] Telegram send failed: %s", profile["name"], exc)
+            failures.append(profile["name"])
+            tg_error(f"❌ [{profile['name']}] Telegram send failed: {exc}", tg_token, tg_chat)
+        except Exception as exc:
+            logger.exception("[%s] digest failed", profile["name"])
+            failures.append(profile["name"])
+            tg_error(f"❌ [{profile['name']}] digest failed: {exc}", tg_token, tg_chat)
+
+    # If every profile ran cleanly but nothing was sent, send a single
+    # "nothing new" message so the user sees the pipeline is alive.
+    if total_sent == 0 and not failures:
         send_message(
-            f"<b>AI/Tech дайджест{topics_suffix} — {date_uk}</b>\n\n"
+            f"<b>AI/Tech дайджест — {date_uk}</b>\n\n"
             f"Нових новин за останні {window}г немає.",
             tg_token,
             tg_chat,
         )
-        print(f"total={len(all_items)} new=0 sent=0 tg_status=ok")
-        return 0
 
-    try:
-        prompt = build_llm_prompt(new_items, window, max_items)
-        raw = call_llm(prompt, oauth)
-        entries = parse_llm_json(raw)
-    except Exception as exc:
-        tg_error(f"❌ LLM step failed: {exc}", tg_token, tg_chat)
-        return 1
+    # Persist every URL that was filtered to any profile, even if its LLM
+    # pass dropped it from the top-N — so it won't resurface tomorrow.
+    # Only skip this when a profile failed outright, so the next run retries.
+    if urls_to_persist and not failures:
+        save_seen(SEEN_PATH, seen, list(urls_to_persist))
 
-    if not entries:
-        send_message(
-            f"<b>AI/Tech дайджест{topics_suffix} — {date_uk}</b>\n\n"
-            f"LLM повернув порожній список.",
-            tg_token,
-            tg_chat,
-        )
-        return 0
-
-    digest_html = render_digest_html(entries, window, topics_suffix)
-    try:
-        send_message(digest_html, tg_token, tg_chat)
-    except TelegramError as exc:
-        logger.error("Telegram send failed: %s", exc)
-        # Do NOT mark URLs seen so the next run retries.
-        tg_error(f"❌ Telegram send failed: {exc}", tg_token, tg_chat)
-        return 1
-
-    # Mark all fetched-new URLs as seen, not only the digested ones, so they
-    # don't reappear after the LLM filters them out.
-    save_seen(SEEN_PATH, seen, [i.url for i in new_items])
-
-    print(f"total={len(all_items)} new={len(new_items)} sent={len(entries)} tg_status=ok")
-    return 0
+    print(
+        f"total={len(all_items)} new={len(new_items)} "
+        f"sent={total_sent} profiles={len(profiles)} "
+        f"failures={len(failures)} tg_status={'ok' if not failures else 'partial'}"
+    )
+    return 1 if failures else 0
 
 
 if __name__ == "__main__":

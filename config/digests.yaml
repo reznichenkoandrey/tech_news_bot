@@ -1,0 +1,26 @@
+# Multi-digest configuration. Pipeline iterates over this list and sends a
+# separate Telegram message for each profile. `topics` is a list of slugs
+# from config/topics.yaml; empty list = pass every item through.
+#
+# To disable multi-digest mode temporarily, set the DIGEST_TOPICS env var —
+# it overrides this file and produces one digest.
+
+digests:
+  - name: "AI/Tech"
+    emoji: "🤖"
+    topics:
+      - ai-lab
+      - ai-tools
+      - ai-local
+      - ai-infra
+      - ai-research
+      - community
+      - media
+
+  - name: "Design"
+    emoji: "🎨"
+    topics:
+      - design
+      - design-tools
+      - ai-design
+      - frontend
