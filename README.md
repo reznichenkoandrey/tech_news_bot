@@ -1,185 +1,194 @@
 # tech_news_bot
 
-Щоденний дайджест AI/tech новин у Telegram. Без платних API — працює через підписку Claude Max та безкоштовний Telegram Bot API.
+Щоденний AI/tech/design дайджест у приватний Telegram-чат. Без платних LLM API — саммаризація йде через підписку Claude Max (OAuth).
 
-## Як це працює
+## Архітектура
 
-1. **Claude Code** по розкладу (`/schedule`) запускає slash-команду `/tech-digest`
-2. Python-модуль `src.fetcher` паралельно тягне 17 RSS/Atom фідів (Anthropic, OpenAI, DeepMind, HuggingFace, HN, Reddit, GitHub releases тощо)
-3. `src.dedup` відфільтровує вже надіслані та старші за 12 годин
-4. Claude саммарізує українською, оцінює важливість, формує дайджест
-5. `src.telegram` шле повідомлення в твій приватний чат з ботом
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    GitHub Actions (schedule)                        │
+│  digest.yml        — щодня 10:00 Kyiv   (DST-safe двома cron)       │
+│  weekly.yml        — неділя 09:00 Kyiv  (deep-reads з reading_list) │
+│  summarize.yml     — on-demand (repository_dispatch від Worker'а)   │
+└─────────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+     ┌──────────────────────────────────────────────────────┐
+     │  scripts/digest_pipeline.py                          │
+     │  ─ src.fetcher     → RSS/Atom (parallel, 40+ feeds)  │
+     │  ─ src.blocklist   → RU-source filter (hostname)     │
+     │  ─ src.dedup       → seen.json + 24h window          │
+     │  ─ topic filter    → topics.yaml × user_prefs.yaml   │
+     │  ─ Claude Sonnet   → рейтинг + UA-саммарі (per item) │
+     │  ─ src.telegram    → sendMessage(reply_markup=...)   │
+     │                      [header] + N item messages      │
+     │                      each with 📖 ⭐ 🗑 buttons        │
+     └──────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+                          Telegram (DM)
+                                 │
+  ┌──────────────────────────────┴─────────────────────────┐
+  │   inline buttons     /команди                          │
+  │         │                 │                            │
+  │         ▼                 ▼                            │
+  │   Cloudflare Worker (tech-news-bot.scr1be.workers.dev) │
+  │   ─ /help /topics /add /remove /reset /sources ...     │
+  │   ─ callback_query:                                    │
+  │       save  → PUT data/reading_list.json (GitHub API)  │
+  │       hide  → PUT data/seen.json + deleteMessage       │
+  │       expand→ repository_dispatch summarize.yml →      │
+  │               scripts.post_article_summary → reply      │
+  └────────────────────────────────────────────────────────┘
+```
+
+## Можливості
+
+- **Topic-based дайджести**: `config/digests.yaml` дозволяє кілька профілів (AI/Tech, Design) з власними темами; `config/user_prefs.yaml` звужує до активних topics через /команди
+- **Inline buttons** на кожній новині: 📖 розширене саммарі, ⭐ у reading list, 🗑 сховати
+- **Weekly deep-reads** з reading_list щонеділі 09:00 Kyiv (TL;DR per item)
+- **Cloudflare Worker webhook** — /команди і кнопки відповідають миттєво, без 5-хвилинного polling'у
+- **Failsafe**: heartbeat message + error-to-Telegram notify на кожний GHA job
+- **RU source blocklist** на рівні hostname (не substring)
 
 ## Передумови
 
-- macOS / Linux
-- Python 3.11+
-- Claude Code CLI з активною підпискою Claude Max
-- Telegram-акаунт
+- macOS / Linux, Python 3.12+
+- Telegram акаунт
+- Claude Max OAuth token (для LLM-саммарі) — [див. нижче](#llm-claude-max-oauth)
+- (опційно) Cloudflare акаунт + GitHub PAT — якщо хочеш webhook для миттєвих реакцій на кнопки/команди. Без Worker'а /команди працюють через `bot_poll.py` fallback workflow.
 
-## Налаштування
+## Швидкий старт
 
-### 1. Створи Telegram-бота
+### 1. Telegram-бот
+У `@BotFather`: `/newbot`, скопіюй TOKEN. Напиши `/start` своєму боту, потім візьми `chat.id` з `https://api.telegram.org/bot<TOKEN>/getUpdates`.
 
-Відкрий `@BotFather` в Telegram:
-```
-/newbot
-My AI Digest        ← назва (будь-яка)
-my_ai_digest_bot    ← username (має закінчуватись на _bot)
-```
-
-BotFather віддасть TOKEN — це рядок типу `1234567890:AAA...`.
-
-### 2. Отримай свій chat_id
-
-Напиши `/start` своєму новому боту, потім відкрий у браузері:
-```
-https://api.telegram.org/bot<TOKEN>/getUpdates
-```
-
-Знайди `"chat":{"id":123456789}` — це твій `TELEGRAM_CHAT_ID`.
-
-### 3. Клонуй і налаштуй
-
+### 2. Репо + secrets
 ```bash
 git clone https://github.com/reznichenkoandrey/tech_news_bot.git
 cd tech_news_bot
-cp .env.example .env
 ```
 
-Відкрий `.env` і встав TOKEN + CHAT_ID:
-```
-TELEGRAM_BOT_TOKEN=1234567890:AAA...
-TELEGRAM_CHAT_ID=123456789
-DIGEST_WINDOW_HOURS=12
-DIGEST_MAX_ITEMS=15
-```
+Додай GitHub secrets у репо (Settings → Secrets and variables → Actions):
+- `TELEGRAM_BOT_TOKEN`
+- `TELEGRAM_CHAT_ID`
+- `CLAUDE_CODE_OAUTH_TOKEN` ([як отримати](#llm-claude-max-oauth))
 
-### 4. Встанови залежності
-
+### 3. Ручний тест локально
 ```bash
-python3 -m pip install -r requirements.txt --user
-```
-
-Або через venv:
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+pytest tests/ -q          # 172 passed
 ```
 
-### 5. Перевір тести
-
+Для dry-run дайджесту локально:
 ```bash
-pytest tests/ -v
+export TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=... CLAUDE_CODE_OAUTH_TOKEN=...
+export DIGEST_WINDOW_HOURS=24 DIGEST_MAX_ITEMS=5
+python3 -m scripts.digest_pipeline
 ```
 
-Має бути `50 passed`.
+### 4. Перший GHA запуск
+Зайди в Actions → "Daily tech digest" → Run workflow. Через 30-60с прийде дайджест у Telegram.
 
-## Ручний запуск
-
-Відкрий Claude Code в директорії проєкту:
+### 5. (опційно) Cloudflare Worker
 ```bash
-cd tech_news_bot
-claude
+cd cloudflare-worker
+npm install
+npx wrangler login
+# постав три secrets:
+npx wrangler secret put TELEGRAM_BOT_TOKEN
+npx wrangler secret put TELEGRAM_WEBHOOK_SECRET      # будь-яка довга строка
+npx wrangler secret put GITHUB_TOKEN                 # fine-grained PAT
+# TELEGRAM_CHAT_ID + GITHUB_REPO — через wrangler.toml [vars]
+npx wrangler deploy
+# зареєструй webhook у Telegram:
+curl -X POST "https://api.telegram.org/bot<TOKEN>/setWebhook" \
+  -d "url=https://tech-news-bot.<worker-subdomain>.workers.dev" \
+  -d "secret_token=<той самий WEBHOOK_SECRET>"
 ```
 
-Потім всередині Claude:
-```
-/tech-digest
-```
+`GITHUB_TOKEN` має мати permissions: Contents (write), Actions (write) — перший для callback'ів save/hide, другий для `repository_dispatch` у експанд-flow.
 
-Через 30-60 секунд отримаєш повідомлення в Telegram.
+## Bot commands
 
-## Автоматизація (schedule)
+Команди працюють у твоєму DM з ботом. ACL: тільки `TELEGRAM_CHAT_ID` може слати команди; інші дропаються тихо.
 
-У Claude Code:
-```
-/schedule create "tech-digest-morning" "0 9 * * *" "Europe/Kyiv" "/tech-digest"
-/schedule create "tech-digest-evening" "0 18 * * *" "Europe/Kyiv" "/tech-digest"
-```
+| Команда | Що робить |
+|---|---|
+| `/help` або `/start` | Список команд |
+| `/topics` | Усі topics з ✅/◻️ маркером активного фільтра |
+| `/add <slug>` | Додати topic у фільтр (`/add design`) |
+| `/remove <slug>` | Прибрати topic з фільтра |
+| `/reset` | Очистити фільтр (дайджести повертаються до дефолтів у `digests.yaml`) |
+| `/sources` | Скільки feeds у кожному topic |
+| `/sources <slug>` | Перелік feeds у конкретному topic |
+| `/digests` | Перелік дайджест-профілів з маркером, чи перетинаються з фільтром |
+| `/status` | Розклад + Worker/polling mode + активний фільтр |
 
-Переглянути активні:
-```
-/schedule list
-```
+Активний фільтр зберігається у `config/user_prefs.yaml` і читається `digest_pipeline.py` на кожному run'і. При встановленому Worker'і зміни комітяться в репо миттєво (через GitHub Contents API); без Worker'а — `bot_poll.py` polling workflow коміт їх раз на 5 хв.
 
-Видалити:
-```
-/schedule delete tech-digest-morning
-```
+## Scripts cheatsheet
 
-## Структура проєкту
+| Скрипт | Коли запускати | Що робить |
+|---|---|---|
+| `python3 -m scripts.digest_pipeline` | GHA `digest.yml` щодня 10:00 | End-to-end дайджест (fetch → dedup → LLM → send per item with buttons) |
+| `python3 -m scripts.weekly_digest` | GHA `weekly.yml` неділя 09:00 | Deep-reads з `reading_list.json`: title+TL;DR per saved item, архів у `reading_archive.json` |
+| `python3 -m scripts.summarize_article <url> [--force]` | CLI / імпортом | Fetch + LLM long-form саммарі одного URL. Кеш: `data/summaries/<hash>.md`. `--force` ігнорує кеш. |
+| `python3 -m scripts.post_article_summary <url> <chat_id> <message_id>` | GHA `summarize.yml` (trigger від Worker'а) | Викликає `summarize_article` і постить результат як reply до item'а + знімає кнопки |
+| `python3 -m scripts.bot_poll` | GHA `bot.yml` (fallback, вимкнено коли Worker активний) | Polls /getUpdates, виконує ті самі /команди що й Worker |
+| `python3 -m src.fetcher` | CLI | JSON усіх items з `config/sources.yaml` (stdout) |
+| `python3 -m src.dedup filter` | CLI | stdin-based filter: items JSON → "new only" JSON |
 
-```
-tech_news_bot/
-├── .claude/commands/tech-digest.md   # Orchestrator slash command
-├── config/sources.yaml               # 17 RSS/Atom feeds
-├── data/seen.json                    # Dedup state (git-committed)
-├── src/
-│   ├── models.py                     # FeedItem, DigestEntry dataclasses
-│   ├── fetcher.py                    # Parallel RSS/Atom parser
-│   ├── dedup.py                      # Dedup + age filter
-│   └── telegram.py                   # sendMessage with retry + chunking
-├── scripts/run.sh                    # Env validator
-├── tests/                            # pytest (50 tests)
-├── .env.example
-├── requirements.txt
-├── PLAN.md
-└── README.md
-```
+## Sources & topics
 
-## Troubleshooting
+### Як додати новий feed
 
-**Бот не відповідає:**
-- Перевір що написав `/start` боту в Telegram
-- Перевір що TOKEN скопійовано без пробілів
-- Перевір через `curl -s "https://api.telegram.org/bot<TOKEN>/getMe"`
-
-**"Дубльовані новини":**
-- Видали `data/seen.json` — наступний запуск буде зі свіжою історією
-- Або відредагуй `DIGEST_WINDOW_HOURS` в `.env`
-
-**"Всі фіди failed":**
-- Перевір інтернет
-- Деякі фіди можуть тимчасово бути недоступні — нормально, якщо failed < 50%
-- Логи: `/tmp/tech_news_fetch.log`
-
-**"Python 3.11+ required":**
-```bash
-brew install python@3.12
-```
-
-**Telegram 429 rate limit:**
-- Бот робить 1 запит на запуск. 429 буває лише якщо ти руками запускаєш /tech-digest дуже часто — просто почекай.
-
-## Додавання нових джерел
-
-Відредагуй `config/sources.yaml`:
+У `config/sources.yaml`:
 ```yaml
 feeds:
-  - name: "New Source Name"
+  - name: "Source Name"
     url: "https://example.com/rss.xml"
-    category: "lab"              # lab | community | media | release
-    topics: [ai-lab, ai-tools]   # один або кілька slug'ів з config/topics.yaml
+    category: "lab"                # lab | community | media | release
+    topics: [ai-lab, ai-tools]     # один+ slug з topics.yaml
 ```
 
-Перевір що фід валідний:
+Перевір що feed валідний:
 ```bash
-curl -s https://example.com/rss.xml | head -20
+curl -sI https://example.com/rss.xml | grep -i content-type   # має бути application/(rss|atom|xml)
+python3 -c "from src.fetcher import _fetch_feed; print(len(_fetch_feed({'name':'X','url':'<URL>','category':'media','topics':[]})))"
 ```
 
-## Inline buttons на item'ах
+### Як додати новий topic
 
-Кожна новина у дайджесті має три кнопки:
+1. Додай запис у `config/topics.yaml`:
+   ```yaml
+   - slug: devops
+     name: "DevOps / SRE"
+     emoji: "🛠️"
+     default_active: true
+     description: "SRE, observability, K8s, CI/CD"
+   ```
+2. Проставий slug у `sources.yaml` для релевантних feeds.
+3. (опційно) Додай digest-профіль у `config/digests.yaml`, якщо хочеш окремий дайджест для topic'а.
+4. `pytest tests/test_topics.py` — guard, що всі feeds посилаються на існуючі slugs.
 
-| Кнопка | Що робить |
-|---|---|
-| 📖 **Deep** | Запускає `scripts/summarize_article.py` через GitHub Actions (`.github/workflows/summarize.yml`) — за ~30-60с надсилає розширене саммарі (TL;DR + ключові тези + deep dive) reply'єм до item'а. Кнопки автоматично знімаються щоб не тиснув ще раз. |
-| ⭐ **Save** | Додає URL у `data/reading_list.json` (для щотижневого дайджесту глибоких читань, [#8](https://github.com/reznichenkoandrey/tech_news_bot/issues/8)). |
-| 🗑 **Hide** | Додає URL у `data/seen.json` і видаляє повідомлення з чату, щоб item не повертався у майбутніх дайджестах. |
+Доступні зараз: `ai-lab`, `ai-tools`, `ai-local`, `ai-infra`, `ai-research`, `community`, `media`, `design`, `design-tools`, `ai-design`, `frontend`. Опис кожного — у `topics.yaml`.
 
-Кнопки обробляє Cloudflare Worker (той самий, що відповідає на /команди); важка робота (expand) делегується GitHub Actions через `repository_dispatch`. Телеграмний `callback_data` не поміщає довгі URL (64-байтний ліміт), тому в `data/callback_map.json` зберігається хеш→URL мапа (sha256[:16]) з FIFO-капом на 1000 записів.
+### Digest-профілі
+
+`config/digests.yaml` описує ЯКІ topics збираються разом в один дайджест:
+```yaml
+digests:
+  - name: "AI/Tech"
+    emoji: "🤖"
+    topics: [ai-lab, ai-tools, ai-local, ai-infra, ai-research, community, media]
+  - name: "Design"
+    emoji: "🎨"
+    topics: [design, design-tools, ai-design, frontend]
+```
+
+`digest_pipeline.py` запускає кожен профіль окремо (окремий LLM-call + окреме повідомлення з префіксом). `user_prefs.active_topics` звужує кожен профіль до перетину; якщо перетин порожній — профіль пропускається.
 
 ## Source policy
 
@@ -187,12 +196,9 @@ curl -s https://example.com/rss.xml | head -20
 
 **Матчинг:** hostname-suffix (`news.rt.com` → блок по `rt.com`; `smart.company` → НЕ блокується). Case-insensitive. Повний список — у `src/blocklist.py::BLOCKED_DOMAINS`.
 
-**Як додати джерело у блок:**
-1. Доменне ім'я у lowercase додай у `BLOCKED_DOMAINS` (секції: propaganda media / tech publishers / search & social / corporate).
-2. Прогони `pytest tests/test_blocklist.py`.
-3. Commit з `security:` або `feat(blocklist):` префіксом.
+**Додати джерело у блок:** lowercase-домен у `BLOCKED_DOMAINS` → `pytest tests/test_blocklist.py` → commit з `security:` або `feat(blocklist):` префіксом.
 
-**Як перевірити, що нічого не проскакує:**
+**Аудит, що нічого не проскакує:**
 ```bash
 python3 -c "
 import json
@@ -205,13 +211,23 @@ for url in seen:
 "
 ```
 
+## Inline buttons
+
+Кожна новина у дайджесті — окреме повідомлення з трьома кнопками:
+
+| Кнопка | Flow |
+|---|---|
+| 📖 **Deep** | Worker → `answerCallbackQuery("⏳ готую саммарі…")` → `repository_dispatch` `summarize-article` → `scripts/post_article_summary.py` → Telegram reply з TL;DR + Ключові тези + Deep dive + знімає кнопки з оригіналу |
+| ⭐ **Save** | Worker → GitHub Contents API PUT `data/reading_list.json` → `answerCallbackQuery("⭐ збережено")` |
+| 🗑 **Hide** | Worker → PUT `data/seen.json` + Telegram `deleteMessage` → `answerCallbackQuery("🗑 сховано")` |
+
+Telegram `callback_data` має ліміт 64 байти, тому URL замінюється sha256[:16] хешем. Мапа хеш→URL лежить у `data/callback_map.json` (FIFO cap 1000, комітиться `digest.yml`). Worker читає її через GitHub raw.
+
 ## Weekly deep reads (неділя 09:00 Kyiv)
 
 Все що ти ⭐ Save-нув протягом тижня, `.github/workflows/weekly.yml` збирає в один дайджест "📚 Deep reads тижня": title + TL;DR + лінк для кожного item. Реалізація — `scripts/weekly_digest.py`. Після успішного send `data/reading_list.json` очищається, а URL'и переносяться в `data/reading_archive.json` (з `archived_at`). Якщо reading list порожній — workflow тихо виходить. Якщо весь тиждень — paywall'и і жоден item не вдалось підсумувати — workflow шле помилку в чат і лишає reading list недоторканим для ручного розгрібання.
 
-## Design tools RSS (стан станом на 2026-04-23)
-
-`config/sources.yaml` вирішив старе питання "чому немає first-party дизайн-feed'ів" частково:
+## Design tools RSS (станом на 2026-04-23)
 
 | Бренд | Feed | Стан |
 |---|---|---|
@@ -219,22 +235,87 @@ for url in seen:
 | Linear | `https://linear.app/rss/changelog.xml` | ✅ first-party, 234 items, активний |
 | Figma | — | ❌ no public RSS; `/blog/` — SPA без `<link rel="alternate">`. Medium `figma-design` мертвий з 2018. |
 | Framer | — | ❌ `/updates` — Framer-hosted SPA, нічого з feed-side не віддає. |
-| Adobe Design | `blog.adobe.com/feed.xml` | ⚠️ існує, але заморожений у 2022-07 (старий Bloomreach CMS). Поточний AEM-блог не серв'ує RSS. |
+| Adobe Design | `blog.adobe.com/feed.xml` | ⚠️ існує, але заморожений у 2022-07. Поточний AEM-блог не серв'ує RSS. |
 | UX Tools | — | ❌ Framer-hosted як і Framer'івський блог. |
 
-**Як Linear feeds знайшлися:** `curl ... | grep 'rel="alternate"'` на `https://linear.app/now` показав прихований `<link rel="alternate" type="application/rss+xml" href="...rss/now.xml"/>`. Звідси підказка про схему `/rss/{blog,changelog,now}.xml`.
+Як Linear feeds знайшлися: `curl ... | grep 'rel="alternate"'` на `https://linear.app/now`. Для решти — перепробувано `/feed.xml` / `/rss.xml` / `/atom.xml` на кореневих і `/blog` шляхах, RSSHub.app (403 Cloudflare), feeds.pub (404), Adobe subsites, форуми. Sitemap.xml знайдений на всіх — sitemap-based derived feeds можливі, але це окремий follow-up.
 
-**Для інших брендів** перепробувано: стандартні `/feed.xml`/`/rss.xml`/`/atom.xml`/`/index.xml` на кореневих і `/blog` шляхах; RSSHub.app (403 Cloudflare); feeds.pub (404); YouTube canals (не ліземо, відео ≠ блог); Adobe subsites (business, design, spectrum); форуми Figma (немає RSS на boards); help.figma.com/community; sitemaps (знайдені, але генерація деривованих feed'ів — окремий scope).
+## LLM: Claude Max OAuth
 
-**Як додати новий бренд:** якщо сайт — Next.js/SPA і сторінка без `<link rel="alternate">`, варіанти залишаються: (a) self-host RSSHub на Worker'і, (b) парсити `sitemap.xml` у GitHub Action і писати RSS у `data/derived/{brand}.xml`. Обидва — окремі follow-up'и, не обов'язкові для daily digest.
+`digest_pipeline.py` та `summarize_article.py` б'ють Anthropic `/v1/messages` напряму з bearer'ом Claude Max підписки. Ключові нюанси:
 
-## Topics
+- Header `anthropic-beta: oauth-2025-04-20` + `Authorization: Bearer <OAUTH>` (НЕ `x-api-key`)
+- `system` повинен починатися з `"You are Claude Code, Anthropic's official CLI for Claude."` — інакше 401
+- User-Agent `claude-cli/...`
 
-Кожен feed тегується одним чи кількома topics з [config/topics.yaml](config/topics.yaml). Topics — тематичний вимір (`ai-lab`, `design`, `ai-design`, `design-tools` тощо); `category` залишається структурним (тип джерела).
+Token — з `/login` у Claude Code CLI, grep `access_token` у конфізі (`~/Library/Application Support/claude-cli/...` на macOS).
 
-**Додати новий topic:** додай запис у `topics.yaml` з `slug`, `name`, `emoji`, `default_active`. Потім проставай цей slug у `sources.yaml` там де підходить. Тест `tests/test_topics.py::test_every_source_in_sources_yaml_has_valid_topics` впаде, якщо feed посилається на slug, якого немає в registry — це guard проти друкарських помилок.
+## Project structure
 
-**Доступні topics зараз:** `ai-lab`, `ai-tools`, `ai-local`, `ai-infra`, `ai-research`, `community`, `media`, `design`, `design-tools`, `ai-design`, `frontend`. Опис кожного — у самому `topics.yaml`.
+```
+tech_news_bot/
+├── .claude/commands/tech-digest.md    # (legacy) manual slash command
+├── .github/workflows/
+│   ├── digest.yml                     # daily 10:00 Kyiv
+│   ├── weekly.yml                     # Sunday 09:00 Kyiv
+│   ├── summarize.yml                  # on-demand from Worker
+│   └── bot.yml                        # polling fallback (disabled)
+├── cloudflare-worker/
+│   ├── src/index.ts                   # webhook: /commands + callback_query
+│   ├── wrangler.toml
+│   └── package.json
+├── config/
+│   ├── sources.yaml                   # 40+ RSS/Atom feeds
+│   ├── topics.yaml                    # topic registry
+│   ├── digests.yaml                   # digest profiles (AI/Tech, Design, …)
+│   └── user_prefs.yaml                # active_topics, writable via bot
+├── data/
+│   ├── seen.json                      # dedup (5000-cap FIFO)
+│   ├── callback_map.json              # hash → URL (1000-cap FIFO)
+│   ├── reading_list.json              # ⭐ Save destination
+│   ├── reading_archive.json           # weekly_digest archive
+│   ├── bot_state.json                 # bot_poll last_update_id
+│   └── summaries/<hash>.md            # cached long-form summaries
+├── src/
+│   ├── models.py                      # FeedItem, DigestEntry
+│   ├── fetcher.py                     # parallel RSS/Atom parser
+│   ├── dedup.py                       # seen.json + age filter
+│   ├── blocklist.py                   # RU-source hostname blocklist
+│   ├── reader.py                      # article fetch + HTML → text
+│   ├── telegram.py                    # sendMessage/editMessage/send_reply
+│   └── callback_map.py                # hash ↔ URL map IO
+├── scripts/
+│   ├── digest_pipeline.py             # daily orchestrator
+│   ├── summarize_article.py           # on-demand summary CLI
+│   ├── post_article_summary.py        # GHA entrypoint for 📖 Deep
+│   ├── weekly_digest.py               # Sunday deep-reads
+│   ├── bot_poll.py                    # polling fallback
+│   └── run.sh                         # env validator
+├── tests/                             # pytest (172 passed)
+└── README.md
+```
+
+## Troubleshooting
+
+**Команди / кнопки не відповідають**
+- `curl "https://api.telegram.org/bot<TOKEN>/getWebhookInfo"` — перевір що webhook зареєстрований
+- Логи Worker'а: `npx wrangler tail`
+- Fallback: `Actions → Telegram bot poll (fallback) → Run workflow`
+
+**Дубльовані новини**
+- Перевір `data/seen.json` (має містити URL). Скинути: `echo '[]' > data/seen.json && git commit -am "reset seen"`
+- Або тимчасово знизь `DIGEST_WINDOW_HOURS`
+
+**Всі feeds failed**
+- GitHub Actions IP може бути заблокований для окремих CDN — перевір логи `digest.yml` на специфічні 403/timeout
+- `curl -sI` локально і з runner'а покаже, чи справа в IP-fencing
+
+**Digest приходить, але Telegram message cut off**
+- `DIGEST_MAX_ITEMS=10` (зменшити) або перевір `src/telegram.py::_chunk_text` — chunks > 4000 символів має ламати по `\n\n`
+
+**Claude API повертає 401**
+- Бекет OAuth: `anthropic-beta: oauth-2025-04-20` відсутній
+- `system:` не починається з обов'язкової префіксної фрази (див. `CLAUDE_CODE_SYSTEM` у `digest_pipeline.py`)
 
 ## Ліцензія
 
