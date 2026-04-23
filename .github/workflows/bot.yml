@@ -1,9 +1,16 @@
-name: Telegram bot poll
+name: Telegram bot poll (fallback)
+
+# Primary command handler is the Cloudflare Worker in cloudflare-worker/.
+# This polling workflow is kept as a manual fallback: trigger via
+# workflow_dispatch when the Worker is down or you want to drain a queue.
+# DO NOT re-enable the cron while the webhook is active — Telegram routes
+# updates to webhook OR polling, never both, and enabling polling here
+# hides every update from the Worker.
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes
   workflow_dispatch: {}
+  # schedule:
+  #   - cron: '*/5 * * * *'   # re-enable only if webhook is unregistered
 
 permissions:
   contents: write

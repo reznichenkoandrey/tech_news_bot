@@ -1,0 +1,15 @@
+name = "tech-news-bot"
+main = "src/index.ts"
+compatibility_date = "2026-04-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Secrets are set via `wrangler secret put <NAME>` — never committed here.
+# Required secrets:
+#   TELEGRAM_BOT_TOKEN        — bot token from @BotFather
+#   TELEGRAM_CHAT_ID          — authorised chat id (owner's DM)
+#   TELEGRAM_WEBHOOK_SECRET   — random string, also passed to setWebhook
+#   GITHUB_TOKEN              — PAT with `contents:write` on the repo
+#   GITHUB_REPO               — "owner/repo" e.g. "reznichenkoandrey/tech_news_bot"
+
+[observability]
+enabled = true
