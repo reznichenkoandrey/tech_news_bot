@@ -209,6 +209,25 @@ for url in seen:
 
 Все що ти ⭐ Save-нув протягом тижня, `.github/workflows/weekly.yml` збирає в один дайджест "📚 Deep reads тижня": title + TL;DR + лінк для кожного item. Реалізація — `scripts/weekly_digest.py`. Після успішного send `data/reading_list.json` очищається, а URL'и переносяться в `data/reading_archive.json` (з `archived_at`). Якщо reading list порожній — workflow тихо виходить. Якщо весь тиждень — paywall'и і жоден item не вдалось підсумувати — workflow шле помилку в чат і лишає reading list недоторканим для ручного розгрібання.
 
+## Design tools RSS (стан станом на 2026-04-23)
+
+`config/sources.yaml` вирішив старе питання "чому немає first-party дизайн-feed'ів" частково:
+
+| Бренд | Feed | Стан |
+|---|---|---|
+| Linear | `https://linear.app/rss/blog.xml` | ✅ first-party, 50 items, активний |
+| Linear | `https://linear.app/rss/changelog.xml` | ✅ first-party, 234 items, активний |
+| Figma | — | ❌ no public RSS; `/blog/` — SPA без `<link rel="alternate">`. Medium `figma-design` мертвий з 2018. |
+| Framer | — | ❌ `/updates` — Framer-hosted SPA, нічого з feed-side не віддає. |
+| Adobe Design | `blog.adobe.com/feed.xml` | ⚠️ існує, але заморожений у 2022-07 (старий Bloomreach CMS). Поточний AEM-блог не серв'ує RSS. |
+| UX Tools | — | ❌ Framer-hosted як і Framer'івський блог. |
+
+**Як Linear feeds знайшлися:** `curl ... | grep 'rel="alternate"'` на `https://linear.app/now` показав прихований `<link rel="alternate" type="application/rss+xml" href="...rss/now.xml"/>`. Звідси підказка про схему `/rss/{blog,changelog,now}.xml`.
+
+**Для інших брендів** перепробувано: стандартні `/feed.xml`/`/rss.xml`/`/atom.xml`/`/index.xml` на кореневих і `/blog` шляхах; RSSHub.app (403 Cloudflare); feeds.pub (404); YouTube canals (не ліземо, відео ≠ блог); Adobe subsites (business, design, spectrum); форуми Figma (немає RSS на boards); help.figma.com/community; sitemaps (знайдені, але генерація деривованих feed'ів — окремий scope).
+
+**Як додати новий бренд:** якщо сайт — Next.js/SPA і сторінка без `<link rel="alternate">`, варіанти залишаються: (a) self-host RSSHub на Worker'і, (b) парсити `sitemap.xml` у GitHub Action і писати RSS у `data/derived/{brand}.xml`. Обидва — окремі follow-up'и, не обов'язкові для daily digest.
+
 ## Topics
 
 Кожен feed тегується одним чи кількома topics з [config/topics.yaml](config/topics.yaml). Topics — тематичний вимір (`ai-lab`, `design`, `ai-design`, `design-tools` тощо); `category` залишається структурним (тип джерела).

@@ -115,12 +115,18 @@ feeds:
     topics: [design, frontend]
 
   # ── Design tools + AI-in-design ───────────────────────────────────────
-  # Figma/Framer/Adobe/Linear blogs don't publish public RSS — tracked in
-  # follow-up issue. For now we proxy via community/Medium publications.
-  - name: "Figma Design (Medium)"
-    url: "https://medium.com/feed/figma-design"
+  # Linear publishes three first-party feeds (found via hidden
+  # <link rel="alternate"> on /now). Figma / Framer / Adobe / UX Tools
+  # do NOT — see README "Design tools RSS" section for the probe summary.
+  - name: "Linear Blog"
+    url: "https://linear.app/rss/blog.xml"
     category: "media"
-    topics: [design-tools, design, ai-design]
+    topics: [design-tools, design]
+
+  - name: "Linear Changelog"
+    url: "https://linear.app/rss/changelog.xml"
+    category: "release"
+    topics: [design-tools]
 
   - name: "Prototypr"
     url: "https://blog.prototypr.io/feed"
