@@ -438,8 +438,12 @@ async function loadDigests(env: Env): Promise<DigestProfile[]> {
 }
 
 async function loadUserPrefs(env: Env): Promise<UserPrefs> {
-  const text = await githubRaw(env, "config/user_prefs.yaml");
-  return parseUserPrefs(text);
+  // Must go through the Contents API, not raw.githubusercontent.com: the
+  // raw CDN caches for up to ~5 minutes, which means a /topics call seconds
+  // after /add would show a stale "empty filter" state. Contents API with
+  // ref=main serves the committed tree immediately.
+  const { prefs } = await loadUserPrefsWithSha(env);
+  return prefs;
 }
 
 async function resolveCallbackUrl(env: Env, hash: string): Promise<string | null> {
@@ -581,8 +585,10 @@ async function loadUserPrefsWithSha(env: Env): Promise<PrefsWithSha> {
 async function saveUserPrefs(env: Env, prefs: UserPrefs, sha: string): Promise<void> {
   const content = renderUserPrefs(prefs);
   const encoded = btoaUtf8(content);
+  // en-CA gives "YYYY-MM-DD, HH:MM:SS" — collapse runs of separator chars so
+  // ", " between date and time doesn't leak into the message as "--".
   const tzKyiv = new Date().toLocaleString("en-CA", { timeZone: "Europe/Kyiv", hour12: false })
-    .replace(/[,\s:]/g, "-").slice(0, 16); // YYYY-MM-DD-HH-MM
+    .replace(/[,\s:]+/g, "-").slice(0, 16); // YYYY-MM-DD-HH-MM
 
   // Retry up to 3 times on SHA conflict (another workflow wrote in-between).
   let currentSha = sha;
