@@ -1,10 +1,10 @@
 name: Daily tech digest
 
 on:
-  schedule:
-    # 10:00 Europe/Kyiv, both DST windows. Gate job filters to the real local 10:00.
-    - cron: '0 7 * * *'   # EEST (summer, UTC+3)
-    - cron: '0 8 * * *'   # EET  (winter, UTC+2)
+  # Primary trigger: Cloudflare Worker cron hits repository_dispatch at 10:00 Kyiv.
+  # Cloudflare is more reliable than GitHub's scheduled events (which skip at :00).
+  repository_dispatch:
+    types: [daily-digest]
   workflow_dispatch: {}
 
 permissions:
@@ -15,26 +15,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  gate:
-    name: Kyiv-10:00 gate
-    runs-on: ubuntu-latest
-    outputs:
-      run: ${{ steps.check.outputs.run }}
-    steps:
-      - id: check
-        run: |
-          H=$(TZ='Europe/Kyiv' date +%H)
-          echo "Kyiv hour=$H event=$GITHUB_EVENT_NAME"
-          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" || "$H" == "10" ]]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          fi
-
   digest:
     name: Generate and send digest
-    needs: gate
-    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:

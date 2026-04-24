@@ -128,7 +128,42 @@ export default {
     }
     return jsonOk();
   },
+
+  async scheduled(_event: ScheduledController, env: Env, ctx: ExecutionContext): Promise<void> {
+    // Cron fires at :05 in both EEST (07:05 UTC) and EET (08:05 UTC) slots.
+    // Exactly one of those is 10:xx Kyiv on any given day — gate decides.
+    ctx.waitUntil(maybeTriggerDigest(env));
+  },
 } satisfies ExportedHandler<Env>;
+
+async function maybeTriggerDigest(env: Env): Promise<void> {
+  const hourKyiv = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Europe/Kyiv",
+    hour: "2-digit",
+    hour12: false,
+  }).format(new Date());
+
+  if (hourKyiv !== "10") {
+    console.log(`scheduled: Kyiv hour=${hourKyiv}, skipping (waiting for 10)`);
+    return;
+  }
+
+  const res = await fetch(`${API_BASE}/repos/${env.GITHUB_REPO}/dispatches`, {
+    method: "POST",
+    headers: githubHeaders(env),
+    body: JSON.stringify({ event_type: "daily-digest" }),
+  });
+  if (res.ok) {
+    console.log("scheduled: repository_dispatch daily-digest queued");
+    return;
+  }
+  const errText = await res.text();
+  console.error(`scheduled: dispatch ${res.status}: ${errText.slice(0, 200)}`);
+  await sendMessage(
+    env,
+    `⚠️ <b>Cron failed</b>: не вдалось запустити щоденний дайджест (${res.status}).`,
+  );
+}
 
 function jsonOk(): Response {
   return new Response(JSON.stringify({ ok: true }), {

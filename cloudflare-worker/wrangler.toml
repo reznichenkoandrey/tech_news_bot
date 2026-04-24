@@ -13,3 +13,10 @@ compatibility_flags = ["nodejs_compat"]
 
 [observability]
 enabled = true
+
+# Cron triggers — daily digest scheduler.
+# Cloudflare crons are UTC only, so cover both Kyiv DST windows. The worker's
+# scheduled() handler gates on the actual Kyiv hour before dispatching.
+# Using ":05" instead of ":00" avoids GitHub Actions top-of-hour peak delays.
+[triggers]
+crons = ["5 7 * * *", "5 8 * * *"]
