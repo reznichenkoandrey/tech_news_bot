@@ -137,3 +137,48 @@ feeds:
     url: "https://sidebar.io/feed.xml"
     category: "media"
     topics: [design, frontend]
+
+  # ── AI-in-design (ai-design topic) ────────────────────────────────────
+  # Dribbble shots.rss is gated by Cloudflare and returns 202 with empty
+  # body to non-browser UAs — skipped. Awwwards serves HTML at /blog/rss/,
+  # no real feed. Figma / Framer / Adobe / UX Tools remain feedless.
+  # The sources below are what actually emits AI+design content via RSS.
+  - name: "Codrops"
+    url: "https://tympanus.net/codrops/feed/"
+    category: "media"
+    topics: [frontend, design, ai-design]
+
+  - name: "Medium: ai-design tag"
+    url: "https://medium.com/feed/tag/ai-design"
+    category: "media"
+    topics: [ai-design, design]
+
+  - name: "Medium: ai-ux tag"
+    url: "https://medium.com/feed/tag/ai-ux"
+    category: "media"
+    topics: [ai-design, design]
+
+  - name: "Medium: generative-ui tag"
+    url: "https://medium.com/feed/tag/generative-ui"
+    category: "media"
+    topics: [ai-design, frontend]
+
+  - name: "UX Planet"
+    url: "https://uxplanet.org/feed"
+    category: "media"
+    topics: [design, ai-design]
+
+  - name: "Google Design"
+    url: "https://feeds.feedburner.com/GoogleDesign"
+    category: "media"
+    topics: [design, ai-design]
+
+  - name: "HackerNews AI+design"
+    url: "https://hnrss.org/frontpage?q=AI+design+Figma+generative+UI&points=30"
+    category: "community"
+    topics: [ai-design, community]
+
+  - name: "Levels.io (Pieter Levels)"
+    url: "https://levels.io/rss/"
+    category: "blog"
+    topics: [ai-design, ai-tools]
