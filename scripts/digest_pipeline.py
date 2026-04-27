@@ -118,6 +118,12 @@ def build_llm_prompt(items: list[FeedItem], window_hours: int, max_items: int) -
 Поверни **лише** JSON-масив (без markdown fences, без коментарів) таких об'єктів:
 {{"url": "...", "title": "...", "source": "...", "category": "...", "summary_uk": "...", "importance": 1-5}}
 
+КРИТИЧНО про JSON:
+- Кожен подвійний лапка всередині `title` чи `summary_uk` має бути екранована як \\".
+  Приклад: "title": "The \\"Bug-Free\\" Workforce" — НЕ "The "Bug-Free" Workforce".
+- Не використовуй raw newlines всередині рядків — заміни на пробіл або \\n.
+- Перевір що відповідь розбирається `json.loads()` ДО надсилання.
+
 Порядок у відповіді = порядок у дайджесті.
 
 INPUT:
