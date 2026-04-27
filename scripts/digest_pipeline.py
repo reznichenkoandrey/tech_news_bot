@@ -170,7 +170,8 @@ def parse_llm_json(text: str) -> list[dict]:
         # Surface the offending region so we can see what the model produced
         # without dumping the whole 8KB into Telegram.
         pos = exc.pos
-        window = snippet[max(0, pos - 80) : pos + 80]
+        window = snippet[max(0, pos - 200) : pos + 200]
+        logger.error("LLM raw response (first 2000 chars):\n%s", snippet[:2000])
         raise RuntimeError(
             f"LLM returned invalid JSON ({exc.msg} at char {pos}). "
             f"Around offset: …{window}…"
