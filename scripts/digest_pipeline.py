@@ -23,7 +23,6 @@ from zoneinfo import ZoneInfo
 import requests
 import yaml
 
-from src.callback_map import merge_urls as merge_callback_urls, url_hash
 from src.dedup import _items_from_json, filter_new, load_seen, save_seen
 from src.models import DigestEntry, FeedItem
 from src.telegram import TelegramError, send_message
@@ -32,7 +31,7 @@ logger = logging.getLogger("digest_pipeline")
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SEEN_PATH = REPO_ROOT / "data" / "seen.json"
-CALLBACK_MAP_PATH = REPO_ROOT / "data" / "callback_map.json"
+LAST_DIGEST_PATH = REPO_ROOT / "data" / "last_digest.json"
 TOPICS_PATH = REPO_ROOT / "config" / "topics.yaml"
 DIGESTS_PATH = REPO_ROOT / "config" / "digests.yaml"
 USER_PREFS_PATH = REPO_ROOT / "config" / "user_prefs.yaml"
@@ -246,42 +245,40 @@ def render_digest_item(idx: int, entry: dict) -> str:
 
 
 def render_digest_footer() -> str:
-    return "<i>Наступний дайджест завтра о 10:00</i>"
-
-
-def item_reply_markup(url: str) -> dict:
-    """Inline keyboard with expand / save / hide buttons keyed by url hash."""
-    h = url_hash(url)
-    return {
-        "inline_keyboard": [
-            [
-                {"text": "📖 Deep", "callback_data": f"expand:{h}"},
-                {"text": "⭐ Save", "callback_data": f"save:{h}"},
-                {"text": "🗑 Hide", "callback_data": f"hide:{h}"},
-            ]
-        ]
-    }
+    # Hint at the numbered text commands the Worker handles since we no longer
+    # ship per-item inline buttons (one big post = no callback surface).
+    return (
+        "<i>Дії: <code>/save N</code> · <code>/hide N</code> · <code>/deep N</code></i>\n"
+        "<i>Наступний дайджест завтра о 10:00</i>"
+    )
 
 
 def render_digest_html(
     entries: list[dict],
     window_hours: int,
     title: str = "🤖 AI/Tech дайджест",
+    *,
+    start_idx: int = 1,
+    include_footer: bool = True,
 ) -> str:
     """
-    Legacy single-blob renderer — kept for tests and any ad-hoc caller. The
-    per-item dispatch in `run_digest` renders header/items/footer separately
-    so each item can carry its own inline keyboard.
+    Render the full digest as a single HTML blob: header, all numbered items,
+    optional footer with action hints. The Telegram sender chunks if it
+    exceeds 4000 chars (rare for typical 15-item digests).
+
+    `start_idx` lets callers continue numbering across profiles so /save N
+    references a globally unique item.
     """
     header = render_digest_header(len(entries), window_hours, title)
-    blocks = [render_digest_item(i, e) for i, e in enumerate(entries, start=1)]
-    return (
-        header
-        + "\n\n━━━━━━━━━━━━━━━━━━━━\n\n"
-        + "\n\n".join(blocks)
-        + "\n\n"
-        + render_digest_footer()
-    )
+    blocks = [render_digest_item(start_idx + i, e) for i, e in enumerate(entries)]
+    parts = [
+        header,
+        "━━━━━━━━━━━━━━━━━━━━",
+        "\n\n".join(blocks),
+    ]
+    if include_footer:
+        parts.append(render_digest_footer())
+    return "\n\n".join(parts)
 
 
 def load_digest_configs() -> list[dict]:
@@ -313,13 +310,19 @@ def run_digest(
     tg_chat: str,
     window: int,
     max_items: int,
-) -> tuple[int, list[str]]:
+    start_idx: int = 1,
+    include_footer: bool = True,
+) -> tuple[int, list[str], list[dict]]:
     """
     Execute one digest profile end-to-end (filter → LLM → send).
 
-    Returns (items_sent, considered_urls). `considered_urls` is every URL
-    matched by the topic filter, regardless of whether it made the top-N —
-    caller collects them for dedup so filtered-out items don't reappear.
+    Returns (items_sent, considered_urls, sent_entries). `considered_urls` is
+    every URL matched by the topic filter (used for dedup). `sent_entries` is
+    the LLM-curated top-N — main() folds it into data/last_digest.json so the
+    Worker can resolve /save N, /hide N, /deep N to the correct URL.
+
+    `start_idx` is the global counter offset so /save N stays unique when
+    multiple profiles run back-to-back.
 
     Raises on LLM/network failure so caller can notify and continue with
     the next profile.
@@ -334,7 +337,7 @@ def run_digest(
     logger.info("[%s] %d items after topic filter", name, len(filtered))
 
     if not filtered:
-        return (0, considered)
+        return (0, considered, [])
 
     prompt = build_llm_prompt(filtered, window, max_items)
     raw = call_llm(prompt, oauth_token)
@@ -342,26 +345,32 @@ def run_digest(
 
     if not entries:
         logger.warning("[%s] LLM returned empty list", name)
-        return (0, considered)
+        return (0, considered, [])
 
-    # Persist hash→url mapping before sending so callback handlers can always
-    # resolve buttons pressed from the chat (even if the send partially fails).
-    merge_callback_urls(CALLBACK_MAP_PATH, [e.get("url", "") for e in entries if e.get("url")])
+    text = render_digest_html(
+        entries, window, title, start_idx=start_idx, include_footer=include_footer,
+    )
+    send_message(text, tg_token, tg_chat, disable_web_page_preview=True)
 
-    send_message(render_digest_header(len(entries), window, title), tg_token, tg_chat)
-    for idx, entry in enumerate(entries, start=1):
-        url = entry.get("url", "").strip()
-        markup = item_reply_markup(url) if url else None
-        send_message(
-            render_digest_item(idx, entry),
-            tg_token,
-            tg_chat,
-            reply_markup=markup,
-        )
-    send_message(render_digest_footer(), tg_token, tg_chat, disable_web_page_preview=True)
+    logger.info("[%s] sent %d entries (one post)", name, len(entries))
+    return (len(entries), considered, entries)
 
-    logger.info("[%s] sent %d entries", name, len(entries))
-    return (len(entries), considered)
+
+def save_last_digest(items: list[dict]) -> None:
+    """
+    Persist the per-number → url mapping the Worker reads to resolve
+    /save N, /hide N, /deep N. Each entry is the minimum the Worker needs:
+    n (1-based global index), url, title, profile.
+    """
+    LAST_DIGEST_PATH.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "items": items,
+    }
+    LAST_DIGEST_PATH.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
 
 
 def load_user_prefs_active_topics() -> set[str]:
@@ -443,10 +452,13 @@ def main() -> int:
     total_sent = 0
     urls_to_persist: set[str] = set()
     failures: list[str] = []
+    last_digest_items: list[dict] = []
+    next_n = 1
 
-    for profile in profiles:
+    for profile_idx, profile in enumerate(profiles):
+        is_last = profile_idx == len(profiles) - 1
         try:
-            sent, considered = run_digest(
+            sent, considered, entries = run_digest(
                 profile,
                 new_items,
                 oauth_token=oauth,
@@ -454,7 +466,22 @@ def main() -> int:
                 tg_chat=tg_chat,
                 window=window,
                 max_items=max_items,
+                start_idx=next_n,
+                # Footer (with /save N hint) lives only on the final post so
+                # it doesn't repeat between profile blocks.
+                include_footer=is_last,
             )
+            for offset, e in enumerate(entries):
+                url = (e.get("url") or "").strip()
+                if not url:
+                    continue
+                last_digest_items.append({
+                    "n": next_n + offset,
+                    "url": url,
+                    "title": (e.get("title") or "").strip(),
+                    "profile": profile["name"],
+                })
+            next_n += len(entries)
             total_sent += sent
             urls_to_persist.update(considered)
         except TelegramError as exc:
@@ -475,6 +502,11 @@ def main() -> int:
             tg_token,
             tg_chat,
         )
+
+    # Always overwrite last_digest.json with whatever shipped this run, even
+    # an empty list — that way /save N from a prior digest can't accidentally
+    # resolve to something the user hasn't seen today.
+    save_last_digest(last_digest_items)
 
     # Persist every URL that was filtered to any profile, even if its LLM
     # pass dropped it from the top-N — so it won't resurface tomorrow.

@@ -93,18 +93,9 @@ export default {
       return new Response("bad request", { status: 400 });
     }
 
+    // Inline-button callbacks were retired with the single-message digest;
+    // any leftover taps from old messages are silently swallowed.
     if (update.callback_query) {
-      // ACL — callback must come from the configured chat.
-      const cbChat = update.callback_query.message?.chat?.id;
-      if (String(cbChat ?? "") !== String(env.TELEGRAM_CHAT_ID)) {
-        return jsonOk();
-      }
-      try {
-        await handleCallback(update.callback_query, env);
-      } catch (err) {
-        console.error("callback handler failed", err);
-        await answerCallbackQuery(env, update.callback_query.id, `⚠️ ${(err as Error).message.slice(0, 180)}`, true);
-      }
       return jsonOk();
     }
 
@@ -240,101 +231,95 @@ function jsonOk(): Response {
   });
 }
 
-// ── Callback query dispatch ───────────────────────────────────────────────────
+// ── Numbered action dispatch (/save N, /hide N, /deep N) ─────────────────────
 
-async function handleCallback(cb: TgCallbackQuery, env: Env): Promise<void> {
-  const data = cb.data ?? "";
-  const [action, hash] = data.split(":", 2);
-  const chatId = cb.message?.chat?.id;
-  const messageId = cb.message?.message_id;
-
-  if (!action || !hash || chatId === undefined || messageId === undefined) {
-    await answerCallbackQuery(env, cb.id, "⚠️ malformed callback", true);
-    return;
-  }
-
-  const url = await resolveCallbackUrl(env, hash);
-  if (!url) {
-    await answerCallbackQuery(env, cb.id, "⚠️ посилання застаріло", true);
-    return;
-  }
-
-  switch (action) {
-    case "save":
-      await handleSave(env, cb.id, url);
-      return;
-    case "hide":
-      await handleHide(env, cb.id, url, chatId, messageId);
-      return;
-    case "expand":
-      await handleExpand(env, cb.id, url, chatId, messageId);
-      return;
-    default:
-      await answerCallbackQuery(env, cb.id, `🤷 невідома дія ${action}`, true);
-  }
+interface LastDigestEntry {
+  n: number;
+  url: string;
+  title?: string;
+  profile?: string;
 }
 
-async function handleSave(env: Env, cbId: string, url: string): Promise<void> {
+async function loadLastDigest(env: Env): Promise<LastDigestEntry[]> {
+  // Contents API instead of raw CDN — same reason as user_prefs: the digest
+  // commit happens at 10:0X and the user may type /save 5 within seconds.
+  const res = await fetch(
+    `${API_BASE}/repos/${env.GITHUB_REPO}/contents/data/last_digest.json?ref=main`,
+    { headers: githubHeaders(env) },
+  );
+  if (res.status === 404) return [];
+  if (!res.ok) throw new Error(`last_digest get: ${res.status}`);
+  const body = (await res.json()) as { content: string; encoding: string };
+  const decoded = body.encoding === "base64" ? atobUtf8(body.content) : body.content;
+  const parsed = JSON.parse(decoded) as { items?: LastDigestEntry[] };
+  return parsed.items ?? [];
+}
+
+function resolveItemNumber(items: LastDigestEntry[], arg: string | undefined): LastDigestEntry | string {
+  if (!arg) return "❌ Вкажи номер: <code>/save 3</code>";
+  const n = Number.parseInt(arg, 10);
+  if (!Number.isFinite(n) || n <= 0) return `❌ <code>${escapeHtml(arg)}</code> не схоже на номер.`;
+  const entry = items.find((e) => e.n === n);
+  if (!entry) {
+    const max = items.length > 0 ? Math.max(...items.map((e) => e.n)) : 0;
+    return `❌ Номер ${n} відсутній у останньому дайджесті (доступно 1..${max}).`;
+  }
+  return entry;
+}
+
+async function cmdSave(env: Env, arg: string | undefined): Promise<string> {
+  const items = await loadLastDigest(env);
+  const resolved = resolveItemNumber(items, arg);
+  if (typeof resolved === "string") return resolved;
+
   const { list, sha } = await loadReadingListWithSha(env);
-  if (list.some((entry) => entry.url === url)) {
-    await answerCallbackQuery(env, cbId, "ℹ️ вже у reading list");
-    return;
+  if (list.some((e) => e.url === resolved.url)) {
+    return `ℹ️ <b>${resolved.n}.</b> вже у reading list.`;
   }
-  list.push({ url, saved_at: new Date().toISOString() });
+  list.push({ url: resolved.url, saved_at: new Date().toISOString() });
   await saveReadingList(env, list, sha);
-  await answerCallbackQuery(env, cbId, "⭐ збережено");
+  return `⭐ збережено <b>${resolved.n}.</b> ${escapeHtml(resolved.title ?? resolved.url)}`;
 }
 
-async function handleHide(
-  env: Env,
-  cbId: string,
-  url: string,
-  chatId: number,
-  messageId: number,
-): Promise<void> {
+async function cmdHide(env: Env, arg: string | undefined): Promise<string> {
+  const items = await loadLastDigest(env);
+  const resolved = resolveItemNumber(items, arg);
+  if (typeof resolved === "string") return resolved;
+
   const { list, sha } = await loadSeenWithSha(env);
-  if (!list.includes(url)) {
-    list.push(url);
-    await saveSeenList(env, list, sha);
+  if (list.includes(resolved.url)) {
+    return `ℹ️ <b>${resolved.n}.</b> вже сховано.`;
   }
-  // Delete the item's message so the digest visibly shrinks.
-  await deleteMessage(env, chatId, messageId);
-  await answerCallbackQuery(env, cbId, "🗑 сховано");
+  list.push(resolved.url);
+  await saveSeenList(env, list, sha);
+  return `🗑 сховано <b>${resolved.n}.</b> більше не з'явиться у дайджестах.`;
 }
 
-async function handleExpand(
-  env: Env,
-  cbId: string,
-  url: string,
-  chatId: number,
-  messageId: number,
-): Promise<void> {
-  // Immediate toast so the spinner stops and the user sees we accepted it.
-  await answerCallbackQuery(env, cbId, "⏳ готую саммарі…");
+async function cmdDeep(env: Env, arg: string | undefined): Promise<string> {
+  const items = await loadLastDigest(env);
+  const resolved = resolveItemNumber(items, arg);
+  if (typeof resolved === "string") return resolved;
 
-  // Hand off the slow work to GitHub Actions via repository_dispatch.
+  // Hand the heavy summarize job to GitHub Actions; the workflow will reply
+  // in-chat when it's ready. We pass chat_id but no message_id (no per-item
+  // message exists anymore) — the summarize workflow posts a fresh message.
   const res = await fetch(`${API_BASE}/repos/${env.GITHUB_REPO}/dispatches`, {
     method: "POST",
     headers: githubHeaders(env),
     body: JSON.stringify({
       event_type: "summarize-article",
       client_payload: {
-        url,
-        chat_id: chatId,
-        message_id: messageId,
+        url: resolved.url,
+        chat_id: Number(env.TELEGRAM_CHAT_ID),
       },
     }),
   });
   if (!res.ok) {
     const errText = await res.text();
-    console.error(`repository_dispatch ${res.status}: ${errText.slice(0, 200)}`);
-    await sendMessage(env, `⚠️ не вдалось запустити summarize: ${res.status}`);
-    return;
+    console.error(`/deep dispatch ${res.status}: ${errText.slice(0, 200)}`);
+    return `⚠️ не вдалось запустити summarize: ${res.status}`;
   }
-
-  // Drop the buttons on the original item while the job runs so the user
-  // doesn't double-trigger or press Save on something they already expanded.
-  await editMessageReplyMarkup(env, chatId, messageId, null);
+  return `⏳ готую <b>${resolved.n}.</b> ${escapeHtml(resolved.title ?? resolved.url)} — пришлю окремим повідомленням.`;
 }
 
 // ── Command dispatch ──────────────────────────────────────────────────────────
@@ -376,6 +361,12 @@ async function handleCommand(text: string, env: Env): Promise<string> {
       const [digests, prefs] = await Promise.all([loadDigests(env), loadUserPrefs(env)]);
       return cmdStatus(digests, prefs);
     }
+    case "/save":
+      return await cmdSave(env, arg);
+    case "/hide":
+      return await cmdHide(env, arg);
+    case "/deep":
+      return await cmdDeep(env, arg);
     default:
       return `🤷 невідома команда ${command}. Спробуй /help.`;
   }
@@ -385,7 +376,12 @@ async function handleCommand(text: string, env: Env): Promise<string> {
 
 function cmdHelp(): string {
   return (
-    "<b>Команди:</b>\n" +
+    "<b>Дії над останнім дайджестом:</b>\n" +
+    "/save <code>N</code> — зберегти item N у reading list\n" +
+    "/hide <code>N</code> — сховати item N з майбутніх дайджестів\n" +
+    "/deep <code>N</code> — згенерувати розширене саммарі для item N\n" +
+    "\n" +
+    "<b>Налаштування:</b>\n" +
     "/topics — список топіків з поточним фільтром\n" +
     "/add <code>slug</code> — додати топік у фільтр\n" +
     "/remove <code>slug</code> — прибрати топік з фільтра\n" +
@@ -548,17 +544,6 @@ async function loadUserPrefs(env: Env): Promise<UserPrefs> {
   // ref=main serves the committed tree immediately.
   const { prefs } = await loadUserPrefsWithSha(env);
   return prefs;
-}
-
-async function resolveCallbackUrl(env: Env, hash: string): Promise<string | null> {
-  try {
-    const text = await githubRaw(env, "data/callback_map.json");
-    const map = JSON.parse(text) as Record<string, string>;
-    return map[hash] ?? null;
-  } catch (err) {
-    console.error("callback_map load failed", err);
-    return null;
-  }
 }
 
 interface ReadingListEntry {
@@ -772,56 +757,6 @@ async function sendMessage(env: Env, text: string): Promise<void> {
   if (!res.ok) {
     const errText = await res.text();
     console.error(`telegram sendMessage ${res.status}: ${errText.slice(0, 200)}`);
-  }
-}
-
-async function answerCallbackQuery(env: Env, id: string, text: string, showAlert = false): Promise<void> {
-  const res = await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/answerCallbackQuery`, {
-    method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({
-      callback_query_id: id,
-      text,
-      show_alert: showAlert,
-      cache_time: 1,
-    }),
-  });
-  if (!res.ok) {
-    console.error(`answerCallbackQuery ${res.status}: ${(await res.text()).slice(0, 200)}`);
-  }
-}
-
-async function editMessageReplyMarkup(
-  env: Env,
-  chatId: number,
-  messageId: number,
-  replyMarkup: unknown | null,
-): Promise<void> {
-  const res = await fetch(
-    `https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/editMessageReplyMarkup`,
-    {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify({
-        chat_id: chatId,
-        message_id: messageId,
-        reply_markup: replyMarkup ?? { inline_keyboard: [] },
-      }),
-    },
-  );
-  if (!res.ok) {
-    console.error(`editMessageReplyMarkup ${res.status}: ${(await res.text()).slice(0, 200)}`);
-  }
-}
-
-async function deleteMessage(env: Env, chatId: number, messageId: number): Promise<void> {
-  const res = await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/deleteMessage`, {
-    method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({ chat_id: chatId, message_id: messageId }),
-  });
-  if (!res.ok) {
-    console.error(`deleteMessage ${res.status}: ${(await res.text()).slice(0, 200)}`);
   }
 }
 
