@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-04-27T19:30:14+00:00",
+  "items": [
+    {
+      "n": 1,
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "title": "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 2,
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 3,
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 4,
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "title": "China blocks Meta's $2B Manus deal after months-long probe",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 5,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 6,
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "title": "Announcing our partnership with the Republic of Korea",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 7,
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOV9rbkhHM2dJQnFiRFMzMjdfSDVPZkd2ZmtpNU9YVUphNXY2VHB5MEFzMXdyVVhEX01pNjNfQ3ktSEQzd0pVMGM0X1FpQ2VhS0VEMThVd0p1N0gzam5JMlIzNVRmb0pIdlptYWJwQkZQYU5IOGl2VlZOYmNwMFBsUHdnYm50MG5Tbmh6TDJSbFAyYnZYUzByc3d2cWJtRVoySmZvNXZIMW9Hc1JDQktaaWJHQTk0QnhwZjc3OFZvTmpRS05PWFVfcmM4Q2JVWk96aU4zRzRhZXF6MkowczBTUWNtSUkxcm1pWTZ0Zmg1T0lMUGYzMnkwcTlvRGxxYXEydWNwdFJMWTBaXzkyU2VXSEZ4UkNrMnVlZ2NDZ3Q0cloxckZtY09TcFhGZ2E2TTM4TlVmV2V5djVlT1k?oc=5",
+      "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "title": "An open-source spec for orchestration: Symphony",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sx8uok/luce_dflash_qwen3627b_at_up_to_2x_throughput_on_a/",
+      "title": "Luce DFlash: Qwen3.6-27B at up to 2x throughput on a single RTX 3090",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.20.1rc0",
+      "title": "v0.20.1rc0: Add system_fingerprint field to OpenAI-compatible API responses",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sx2vxp/skymizer_taiwan_inc_unveils_breakthrough/",
+      "title": "Skymizer Taiwan Inc. Unveils Breakthrough Architecture Enabling Ultra-Large LLM Inference on a Single Card",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxch39/the_4b_class_of_2026_benchmark/",
+      "title": "The 4B class of 2026 (benchmark)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swzjnu/to_16gb_vram_users_plug_in_your_old_gpu/",
+      "title": "To 16GB VRAM users, plug in your old GPU",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sx5771/got_openais_privacy_filter_model_running_ondevice/",
+      "title": "Got OpenAI's privacy filter model running on-device via ExecuTorch",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swwsin/turboocr_update_layout_model_multilingual/",
+      "title": "Turbo-OCR Update: Layout Model + Multilingual",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+      "title": "The \"Bug-Free\" Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://uxdesign.cc/the-right-touch-mapping-ai-presence-to-user-intent-d01fa2dee282?source=rss----138adf9c44c---4",
+      "title": "The right touch: mapping AI presence to user intent",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://medium.com/design-bootcamp/the-design-problem-nobody-is-talking-about-what-does-it-feel-like-to-trust-an-ai-agent-with-13d71729dae4?source=rss------ai_design-5",
+      "title": "The design problem nobody is talking about: what does it feel like to trust an AI agent with…",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxplanet.org/agentic-product-design-2a8e885be535?source=rss----819cc2aaeee0---4",
+      "title": "Agentic Product Design",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@shuvadibp/the-hard-truth-e9aac2fefba8?source=rss------ai_design-5",
+      "title": "The Hard Truth",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/design-bootcamp/i-asked-claude-to-review-my-ux-flow-it-found-what-humans-missed-2bc295495f54?source=rss------ai_design-5",
+      "title": "I Asked Claude to Review My UX Flow… It Found What Humans Missed",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@ghodkesachin/the-first-answer-bias-how-ai-quietly-shapes-every-decision-after-8d8407feabe1?source=rss------ai_ux-5",
+      "title": "The first answer bias: How AI quietly shapes every decision after",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxplanet.org/no-ai-used-4932970c7db8?source=rss----819cc2aaeee0---4",
+      "title": "No AI used",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://medium.com/@estefani.mauro/artificial-intelligence-has-no-taste-19de4780d676?source=rss------ai_design-5",
+      "title": "Artificial intelligence has no taste.",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://chriscoyier.net/2026/04/25/ai-alignment/",
+      "title": "AI & alignment",
+      "profile": "Design"
+    }
+  ]
+}
