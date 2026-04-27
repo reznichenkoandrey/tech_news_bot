@@ -54,6 +54,10 @@ jobs:
         run: python3 -m scripts.digest_pipeline
 
       - name: Commit state if changed
+        # Run even when the digest step exits non-zero (one profile may have
+        # succeeded while another failed) so /save N still resolves against
+        # whatever shipped to Telegram.
+        if: ${{ !cancelled() }}
         run: |
           git config user.name  "tech-digest-bot"
           git config user.email "bot@users.noreply.github.com"
