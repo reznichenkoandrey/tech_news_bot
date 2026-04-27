@@ -21,7 +21,13 @@ export interface Env {
   TELEGRAM_WEBHOOK_SECRET: string;
   GITHUB_TOKEN: string;
   GITHUB_REPO: string; // "owner/repo"
+  OAUTH_STATE: KVNamespace;
 }
+
+// Anthropic OAuth client_id is the public id baked into the official Claude
+// Code CLI — same value the local CLI uses to refresh user tokens.
+const ANTHROPIC_OAUTH_CLIENT_ID = "9d1c250a-e61b-44d9-88ed-5944d1962f5e";
+const ANTHROPIC_OAUTH_TOKEN_URL = "https://console.anthropic.com/v1/oauth/token";
 
 interface TgMessage {
   message_id?: number;
@@ -148,13 +154,30 @@ async function maybeTriggerDigest(env: Env): Promise<void> {
     return;
   }
 
+  let accessToken: string | null = null;
+  try {
+    accessToken = await rotateAnthropicAccessToken(env);
+  } catch (err) {
+    console.error("scheduled: oauth refresh failed", err);
+    await sendMessage(
+      env,
+      `⚠️ <b>OAuth refresh failed</b>: ${(err as Error).message.slice(0, 200)}\n` +
+        `Дайджест запущено з GitHub Secret як fallback — оновіть refresh_token у KV.`,
+    );
+  }
+
+  const body: Record<string, unknown> = { event_type: "daily-digest" };
+  if (accessToken) {
+    body.client_payload = { access_token: accessToken };
+  }
+
   const res = await fetch(`${API_BASE}/repos/${env.GITHUB_REPO}/dispatches`, {
     method: "POST",
     headers: githubHeaders(env),
-    body: JSON.stringify({ event_type: "daily-digest" }),
+    body: JSON.stringify(body),
   });
   if (res.ok) {
-    console.log("scheduled: repository_dispatch daily-digest queued");
+    console.log(`scheduled: dispatch queued (oauth=${accessToken ? "fresh" : "fallback"})`);
     return;
   }
   const errText = await res.text();
@@ -163,6 +186,52 @@ async function maybeTriggerDigest(env: Env): Promise<void> {
     env,
     `⚠️ <b>Cron failed</b>: не вдалось запустити щоденний дайджест (${res.status}).`,
   );
+}
+
+interface AnthropicTokenResponse {
+  access_token: string;
+  refresh_token: string;
+  expires_in: number;
+  token_type: string;
+}
+
+// Refreshes the Anthropic OAuth access token using the rotating refresh_token
+// stored in KV. Writes the new refresh_token back atomically — the old one
+// becomes invalid the moment Anthropic returns a new pair, so a write failure
+// here means the *next* run will fail until the KV value is fixed manually.
+async function rotateAnthropicAccessToken(env: Env): Promise<string> {
+  const refreshToken = await env.OAUTH_STATE.get("refresh_token");
+  if (!refreshToken) {
+    throw new Error('KV key "refresh_token" is empty — seed it first');
+  }
+
+  const res = await fetch(ANTHROPIC_OAUTH_TOKEN_URL, {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+      "user-agent": "tech-news-bot-worker",
+    },
+    body: JSON.stringify({
+      grant_type: "refresh_token",
+      refresh_token: refreshToken,
+      client_id: ANTHROPIC_OAUTH_CLIENT_ID,
+    }),
+  });
+  const text = await res.text();
+  if (!res.ok) {
+    throw new Error(`oauth refresh ${res.status}: ${text.slice(0, 200)}`);
+  }
+  let data: AnthropicTokenResponse;
+  try {
+    data = JSON.parse(text) as AnthropicTokenResponse;
+  } catch {
+    throw new Error(`oauth refresh: non-JSON response: ${text.slice(0, 200)}`);
+  }
+  if (!data.access_token || !data.refresh_token) {
+    throw new Error("oauth refresh: response missing tokens");
+  }
+  await env.OAUTH_STATE.put("refresh_token", data.refresh_token);
+  return data.access_token;
 }
 
 function jsonOk(): Response {

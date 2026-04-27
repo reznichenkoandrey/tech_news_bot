@@ -139,6 +139,7 @@ def call_llm(prompt: str, oauth_token: str) -> str:
         json={
             "model": ANTHROPIC_MODEL,
             "max_tokens": 8000,
+            "temperature": 0,
             "system": CLAUDE_CODE_SYSTEM,
             "messages": [{"role": "user", "content": prompt}],
         },
@@ -162,7 +163,18 @@ def parse_llm_json(text: str) -> list[dict]:
     match = re.search(r"\[.*\]", text, re.DOTALL)
     if not match:
         raise RuntimeError(f"No JSON array in LLM response: {text[:500]}")
-    return json.loads(match.group())
+    snippet = match.group()
+    try:
+        return json.loads(snippet)
+    except json.JSONDecodeError as exc:
+        # Surface the offending region so we can see what the model produced
+        # without dumping the whole 8KB into Telegram.
+        pos = exc.pos
+        window = snippet[max(0, pos - 80) : pos + 80]
+        raise RuntimeError(
+            f"LLM returned invalid JSON ({exc.msg} at char {pos}). "
+            f"Around offset: …{window}…"
+        ) from exc
 
 
 def load_topics_registry() -> dict[str, dict]:

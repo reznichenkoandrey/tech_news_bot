@@ -11,6 +11,13 @@ compatibility_flags = ["nodejs_compat"]
 #   GITHUB_TOKEN              — PAT with `contents:write` on the repo
 #   GITHUB_REPO               — "owner/repo" e.g. "reznichenkoandrey/tech_news_bot"
 
+# KV namespace stores the rotating OAuth refresh_token for Anthropic.
+# Worker reads it before each cron, refreshes, writes the new RT back, and
+# passes the fresh access_token into the GitHub repository_dispatch payload.
+[[kv_namespaces]]
+binding = "OAUTH_STATE"
+id = "17c08dd3715b43c79948827189d41597"
+
 [observability]
 enabled = true
 

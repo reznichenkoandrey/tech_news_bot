@@ -22,7 +22,10 @@ jobs:
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      # Cloudflare Worker refreshes the OAuth token before each cron and
+      # passes a fresh access_token in client_payload. The secret is a
+      # fallback for manual workflow_dispatch (will go stale ~8h after seed).
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ github.event.client_payload.access_token || secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       DIGEST_WINDOW_HOURS: '24'
       DIGEST_MAX_ITEMS: '15'
       # Comma-separated topic slugs from config/topics.yaml. Empty = all items.
