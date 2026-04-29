@@ -1,82 +1,172 @@
 {
-  "generated_at": "2026-04-28T07:06:47+00:00",
+  "generated_at": "2026-04-29T07:08:02+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
-      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iUlZoVHFnVnNVdnZGeFBkUWJidEU0TnJ0aGdBTGNucDR2a1FLalhDT3d6emV4b1dQcGItWTc3eHZIVEt4MkN5NFVwblVmNmpURXEwX3pRZS1rdXpNX0gtbktQYVpSZw?oc=5",
+      "title": "Claude for Creative Work - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxn7x2/local_model_on_coding_has_reached_a_certain/",
-      "title": "Local model on coding has reached a certain threshold to be feasible for real work",
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "title": "Amazon is already offering new OpenAI products on AWS",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxf2u0/microsoft_presents_trellis2_an_opensource/",
-      "title": "Microsoft Presents \"TRELLIS.2\": An Open-Source, 4b-Parameter, Image-To-3D Model",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "title": "Google expands Pentagon's access to its AI after Anthropic's refusal",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxpk08/for_nonhallucinating_work_mimo_25_delivers/",
-      "title": "For Non-hallucinating work, MiMo 2.5 delivers",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sylydi/xiami_mimov25_pro_mit_license_surpasses_opus_45/",
+      "title": "Xiami mimo-v2.5 pro MIT license surpasses Opus 4.5 on arena",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "title": "Google is testing AI chatbot search for YouTube",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy6xoo/something_from_mistral_vibe_tomorrow/",
+      "title": "Something from Mistral (Vibe) tomorrow",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syjflw/llamacpps_preliminary_sm120_native_nvfp4_mmq_is/",
+      "title": "llama.cpp's Preliminary SM120 Native NVFP4 MMQ Is Merged",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syphxh/amd_has_invented_something_that_lets_you_use_ai/",
+      "title": "AMD has invented something that lets you use AI at home! They call it a \"computer\"",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxgq6l/end2end_tutorial_on_finetuning_the_whole_journey/",
-      "title": "End-2-end tutorial on fine-tuning, the whole journey",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy8u2k/mistral_medium_is_on_the_way/",
+      "title": "Mistral Medium Is On The Way",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b8953",
-      "title": "b8953",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syphr9/mimov25gguf_preview_available/",
+      "title": "MiMo-V2.5-GGUF (preview available)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1sxhpnn/qwen3_4b_outperforms_cloud_agents_on_code/",
-      "title": "Qwen3 4B outperforms cloud agents on code tasks—with Mahoraga research",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy5xr1/nemotron3nanoomni30ba3breasoning_new_model/",
+      "title": "Nemotron-3-Nano-Omni-30B-A3B-Reasoning, New model?",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-      "title": "Jury selection in Musk v. Altman: 'People don't like him'",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxy0o7/deepseek_vision_coming/",
+      "title": "Deepseek Vision Coming",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://medium.com/@DilSalaKamina/if-you-understand-these-ai-terms-youre-ahead-of-90-of-designers-ce7a0e7592ee?source=rss------ai_design-5",
-      "title": "If you understand these AI terms, you're ahead of 90% of designers.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sydpg7/mistral_workflows/",
+      "title": "Mistral Workflows",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy9u3h/xiaomimimo_mimov25_not_pro_architecture_sparse/",
+      "title": "XiaomiMiMo MiMo-V2.5 (not pro) - Architecture: Sparse MoE (Mixture of Experts), 310B total / 15B activated parameters",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.7.0",
+      "title": "Release v5.7.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://uxplanet.org/ai-and-design-system-3dab36a5cc50?source=rss----819cc2aaeee0---4",
+      "title": "AI and Design System",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://tympanus.net/codrops/2026/04/28/more-than-a-portfolio-building-a-scroll-driven-3d-world-with-something-to-say/",
+      "title": "More Than a Portfolio: Building a Scroll-Driven 3D World with Something to Say",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://www.joshwcomeau.com/animation/scroll-driven-animations/",
+      "title": "Scroll-driven animations",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/the-forgotten-conversation-problem-in-ai-chat-4d3d0c3ea525?source=rss----138adf9c44c---4",
+      "title": "The forgotten conversation problem in AI chat",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
+      "title": "Tokenmaxxing as a weird new trend",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://peelingfacade.medium.com/false-transparency-ai-design-institutional-accountability-and-the-erosion-of-trust-8ec7956068ba?source=rss------ai_design-5",
+      "title": "False Transparency: AI Design, Institutional Accountability, and the Erosion of Trust",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
+      "title": "The moat or the commons",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4",
+      "title": "What is AI really costing the planet?",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://crixu.blog/2026/04/09/ai-reads-my-meetings-i-take-more-notes-than-ever/",
+      "title": "AI reads my meetings. I take more notes than ever.",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://github.com/fecarrico/A11Y.md",
+      "title": "A11Y.md",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://gbbns.co/journal/accessibility-problem-isnt-design/",
+      "title": "The accessibility problem isn't design. It's engineering.",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://ky.fyi/posts/ai-burnout",
+      "title": "Do I belong in tech anymore?",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://linear.app/now/how-we-hire-at-linear",
+      "title": "How we hire at Linear",
       "profile": "Design"
     }
   ]
