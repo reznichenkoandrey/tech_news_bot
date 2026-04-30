@@ -1,172 +1,130 @@
 {
-  "generated_at": "2026-04-29T07:08:02+00:00",
+  "generated_at": "2026-04-30T07:07:12+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iUlZoVHFnVnNVdnZGeFBkUWJidEU0TnJ0aGdBTGNucDR2a1FLalhDT3d6emV4b1dQcGItWTc3eHZIVEt4MkN5NFVwblVmNmpURXEwX3pRZS1rdXpNX0gtbktQYVpSZw?oc=5",
-      "title": "Claude for Creative Work - Anthropic",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "title": "Granite 4.1 LLMs: How They're Built",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "title": "Amazon is already offering new OpenAI products on AWS",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sz2mgw/mistral_medium_35_launched/",
+      "title": "Mistral Medium 3.5 Launched",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "title": "Google expands Pentagon's access to its AI after Anthropic's refusal",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "title": "Where the goblins came from",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sylydi/xiami_mimov25_pro_mit_license_surpasses_opus_45/",
-      "title": "Xiami mimo-v2.5 pro MIT license surpasses Opus 4.5 on arena",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "title": "Building the compute infrastructure for the Intelligence Age",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy6xoo/something_from_mistral_vibe_tomorrow/",
-      "title": "Something from Mistral (Vibe) tomorrow",
+      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syjflw/llamacpps_preliminary_sm120_native_nvfp4_mmq_is/",
-      "title": "llama.cpp's Preliminary SM120 Native NVFP4 MMQ Is Merged",
+      "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syphxh/amd_has_invented_something_that_lets_you_use_ai/",
-      "title": "AMD has invented something that lets you use AI at home! They call it a \"computer\"",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "title": "AI evals are becoming the new compute bottleneck",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy8u2k/mistral_medium_is_on_the_way/",
-      "title": "Mistral Medium Is On The Way",
+      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syphr9/mimov25gguf_preview_available/",
-      "title": "MiMo-V2.5-GGUF (preview available)",
+      "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+      "title": "Amazon's cloud business is surging — and so is its capital spending",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy5xr1/nemotron3nanoomni30ba3breasoning_new_model/",
-      "title": "Nemotron-3-Nano-Omni-30B-A3B-Reasoning, New model?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sz2y76/ama_with_nous_research_ask_us_anything/",
+      "title": "AMA with Nous Research -- Ask Us Anything!",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxy0o7/deepseek_vision_coming/",
-      "title": "Deepseek Vision Coming",
+      "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sydpg7/mistral_workflows/",
-      "title": "Mistral Workflows",
+      "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "title": "Colby Adcock's Scout AI raises $100M to train its models for war: We visited its bootcamp",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy9u3h/xiaomimimo_mimov25_not_pro_architecture_sparse/",
-      "title": "XiaomiMiMo MiMo-V2.5 (not pro) - Architecture: Sparse MoE (Mixture of Experts), 310B total / 15B activated parameters",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sznao3/deepseek_v4_isnt_beating_opus_but_it_doesnt_need/",
+      "title": "DeepSeek V4 isn't beating Opus, but it doesn't need to",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.7.0",
-      "title": "Release v5.7.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1szajgm/devs_using_qwen_27b_seriously_whats_your_take/",
+      "title": "Devs using Qwen 27B seriously, what's your take?",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/ai-and-design-system-3dab36a5cc50?source=rss----819cc2aaeee0---4",
-      "title": "AI and Design System",
+      "url": "https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs",
+      "title": "The world can't keep up with AI Labs",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://tympanus.net/codrops/2026/04/28/more-than-a-portfolio-building-a-scroll-driven-3d-world-with-something-to-say/",
-      "title": "More Than a Portfolio: Building a Scroll-Driven 3D World with Something to Say",
+      "url": "https://uxplanet.org/claude-code-best-practices-57fbc3d5d09e?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Best Practices",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.joshwcomeau.com/animation/scroll-driven-animations/",
-      "title": "Scroll-driven animations",
+      "url": "https://frontendmasters.com/blog/ai-generated-ui-is-inaccessible-by-default/",
+      "title": "AI-generated UI is inaccessible by default",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/the-forgotten-conversation-problem-in-ai-chat-4d3d0c3ea525?source=rss----138adf9c44c---4",
-      "title": "The forgotten conversation problem in AI chat",
+      "url": "https://medium.com/@weidanlee/when-your-agent-has-all-the-data-and-still-gets-it-wrong-a-lesson-from-hans-georg-gadamer-2a452b8b39c6?source=rss------ai_design-5",
+      "title": "When Your Agent Has All the Data and Still Gets It Wrong: A Lesson from Hans-Georg Gadamer",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
-      "title": "Tokenmaxxing as a weird new trend",
+      "url": "https://uxdesign.cc/10-ui-patterns-that-wont-survive-the-ai-shift-002cb9b853ae?source=rss----138adf9c44c---4",
+      "title": "10 UI patterns that won't survive the AI shift",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://peelingfacade.medium.com/false-transparency-ai-design-institutional-accountability-and-the-erosion-of-trust-8ec7956068ba?source=rss------ai_design-5",
-      "title": "False Transparency: AI Design, Institutional Accountability, and the Erosion of Trust",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
-      "title": "The moat or the commons",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4",
-      "title": "What is AI really costing the planet?",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://crixu.blog/2026/04/09/ai-reads-my-meetings-i-take-more-notes-than-ever/",
-      "title": "AI reads my meetings. I take more notes than ever.",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://github.com/fecarrico/A11Y.md",
-      "title": "A11Y.md",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://gbbns.co/journal/accessibility-problem-isnt-design/",
-      "title": "The accessibility problem isn't design. It's engineering.",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://ky.fyi/posts/ai-burnout",
-      "title": "Do I belong in tech anymore?",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://linear.app/now/how-we-hire-at-linear",
-      "title": "How we hire at Linear",
+      "url": "https://tympanus.net/codrops/2026/04/29/between-human-and-machine-sofia-papadopoulous-approach-to-augmented-creativity/",
+      "title": "Between Human and Machine: Sofia Papadopoulou's Approach to Augmented Creativity",
       "profile": "Design"
     }
   ]
