@@ -1,160 +1,142 @@
 {
-  "generated_at": "2026-05-01T07:07:53+00:00",
+  "generated_at": "2026-05-02T07:07:31+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STEt1WHJpR3J0VnNjODZra2xrNGo1YWotQk42SThFalMtZUdJNDZnd2JMTnZQbHZYYlNWTTI5UnJUSWktYUNnaHFISWJxaW9Hb1lJdzlIVTg4eHpoVElIUXA1MTVwQ3FaYVFJ?oc=5",
-      "title": "How people ask Claude for personal guidance - Anthropic",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTJRa2xyX3NPRnhuU3dpaUtpQl9feWJSd3lYY0VORWlkNU0wOTVOTm5Ud0NQVW9aRC1QR2x4ak9qR2pjYXluZTlnOHNtMTJGT2dyejlldUpHZURLSmQyQzVndExacUNmaXc2T3pGRk9QZW1XampDeEZ2UlVzVXdiOVI5N0lBNWtwaGNGZVlqSU8tT29tZWswWTFWeWxkVmMz0gGmAUFVX3lxTE5lMVZMaW54VHRFR3MxeTRUaUVmWEgzeGgtcnl0TktqdzFPUV9ZVENBQ3lSX3lKdVRBVVhUMXpSTXRMRVNCMWVLNHZJZU9JR2l4UkJJZWxGczdTVGl1cUtXTUc5TWlpYy1GVTVzQkstbzFib0IxdnRUUGl4dklUVFRZRkVHN1NlOHItbWNpTWg1dGhIb1BEdFJOUkU2dkZuZm1FNTNCelE?oc=5",
-      "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge - SecurityWeek",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXphcGxsSEhULS1fRFZMMkFKYVYxNk9lRVdTLVk4M0V4MVFDYzRlTkpJNXBLMEdVQXpDUTRQY2h2MWRfMkJZWkNqeXZ3N0ZfX0YxUHM5LUxkWm5vSFprSnpBYWtMcUhRSzhMRVB2LUhBcUdkT2NCMm9zbXR1TkpxdDVR?oc=5",
+      "title": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning - Infosecurity Magazine",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlFYNkl0emJSZ3hXNmo5bU1GVmZpc0pBMUk0WVRBcEhuMkx0TUdqdkp3SGhvUmdodk1iWUI0U2FJX2xwbWFGMEx2TzQxQkVReVRDRDhzRWRzQk5WdmlwaHhjWkJrcVVEREtOQk9PWG9oamZ3elQycXFfb1pzMzMxZDZiZHVIRmVQS19JLURpNjF6ZXdWcnJVM2xzZFBhRmNqSUljd0t3?oc=5",
+      "title": "Claude Comes to CAD: Anthropic's AI Can Now Help Build 3D Models in Autodesk Fusion - All3DP",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
-      "title": "Google's Gemini AI assistant is hitting the road in millions of vehicles",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t0vp3w/pflash_10x_prefill_speedup_over_llamacpp_at_128k/",
+      "title": "PFlash: 10x prefill speedup over llama.cpp at 128K on a RTX 3090",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t0s5t4/mimov25pro_the_actual_best_openweights_model/",
+      "title": "MiMo-V2.5-Pro - the actual best open-weights model",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
-      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9002",
+      "title": "b9002",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9000",
+      "title": "b9000",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.20.1",
+      "title": "v0.20.1: Build Python from source instead of using deadsnakes PPA",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-      "title": "Apple was surprised by AI-driven demand for Macs",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "title": "Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "title": "Ubuntu infrastructure has been down for more than a day",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t04vk3/seems_icml_is_rejecting_many_unanimous_positively/",
-      "title": "Seems ICML is rejecting MANY unanimous positively rated papers [D]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t19iil/been_using_qwen3627bq8_k_xl_vscode_rtx_6000_pro/",
+      "title": "Been using Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro As Daily Driver",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t06y43/open_models_april_2026_one_of_the_best_months_of/",
-      "title": "Open Models - April 2026 - One of the best months of all time for Local LLMs?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t1393a/icml_final_decisions_rant_d/",
+      "title": "ICML final decisions rant [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t07su1/followup_qwen3627b_on_1_rtx_3090_pushing_to_218k/",
-      "title": "Follow-up: Qwen3.6-27B on 1× RTX 3090 — pushing to ~218K context + ~50–66 TPS, tool calls now stable (PN12 fix)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t10xaf/i_spent_years_building_a_103btoken_usenet_corpus/",
+      "title": "I spent years building a 103B-token Usenet corpus (1980–2013) and finally documented it [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/",
-      "title": "Designing Stable Interfaces For Streaming Content",
+      "url": "https://uxplanet.org/claude-design-good-bad-and-ugly-f60d9edb4a6d?source=rss----819cc2aaeee0---4",
+      "title": "Claude Design: Good, Bad, and Ugly",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/troubleshooting-claude-code-skills-bf29c8383abd?source=rss----819cc2aaeee0---4",
-      "title": "Troubleshooting Claude Code Skills",
+      "url": "https://medium.com/@jessmathew2003/how-id-design-an-ai-counselling-assistant-using-anthropic-s-4d-framework-d8d55fe044eb?source=rss------ai_design-5",
+      "title": "How I'd Design an AI Counselling Assistant Using Anthropic's 4D Framework",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/how-to-stop-hitting-your-claude-code-limits-1524b3cc79f9?source=rss----819cc2aaeee0---4",
-      "title": "How To Stop Hitting Your Claude Code Limits",
+      "url": "https://www.nngroup.com/articles/information-seeking-china/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Information Seeking in China: A Different Ecosystem, Familiar Behavior",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@hamedsattarian/ai-isnt-killing-human-centered-design-it-s-exposing-how-little-we-understood-it-f751a8447d86?source=rss------ai_design-5",
-      "title": "AI Isn't Killing Human-Centered Design. It's Exposing How Little We Understood It.",
+      "url": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4",
+      "title": "Usability, accessibility, and the human-AI paradigm",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://hidde.blog/web-ai-breakout/",
-      "title": "Open web vs AI: what can W3C do?",
+      "url": "https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4",
+      "title": "Thoughtful AI Implementation for UXR Leaders",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://www.nngroup.com/articles/information-pipeline/",
-      "title": "Boost design autonomy with an information pipeline",
+      "url": "https://maitraudit.medium.com/i-learned-these-ai-terms-in-a-few-weeks-if-you-want-to-thrive-in-ai-ux-you-should-know-them-adb4bce54ffb?source=rss------ai_ux-5",
+      "title": "I Learned These AI Terms in a Few Weeks — If You Want to Thrive in AI & UX, You Should Know Them…",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://www.dir14.com/articles/users-own-the-present-you-own-the-future",
-      "title": "Users own the present. You own the future.",
+      "url": "https://medium.com/@edwardmarshall278_88352/proven-ui-ux-trends-for-mobile-apps-in-2026-92c2839e4098?source=rss------generative_ui-5",
+      "title": "Proven UI/UX Trends for Mobile Apps in 2026",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
-      "title": "The Importance of Native Randomness in CSS",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://medium.com/@haldoorgfx/freepik-is-now-magnific-ed1fa1a91196?source=rss------ai_design-5",
-      "title": "FREEPIK IS NOW MAGNIFIC.",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4",
-      "title": "A GenAI perplexed by color theory",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://medium.com/design-bootcamp/on-being-a-designer-in-the-most-interesting-exhausting-moment-of-our-careers-7284735e0927",
-      "title": "On being a designer in the most interesting, exhausting moment of our careers",
+      "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
+      "title": "Designing Stable Interfaces For Streaming Content",
       "profile": "Design"
     }
   ]
