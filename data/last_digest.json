@@ -1,142 +1,112 @@
 {
-  "generated_at": "2026-05-02T07:07:31+00:00",
+  "generated_at": "2026-05-03T07:07:43+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.23.0",
+      "title": "v0.23.0",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQ0FlMi15MGtIQ09tZDk1ek9kVzIzdzNaSHBEWlFlbHF1aGk0TVpBZmNtNFZoMFZZMDhTcVI5bDRCenYwd0l1NG95VFVwTk1RWVF2Q0MyaGZJN1AwZXJPbHV1d1pCT0tkNVHSAW9BVV95cUxOTkJvdUR2aDdiZVVqbWREUXRnOHpLdU5CaEI3WWdtcVR2cm9YSmx4dzVLemtKdW1MVGt3cjM4UURBUmt0aEtHZkc0cHJqdjFEQkl1dWtyZGVnQTJabTBKenNwY0VOd2RydVR6LTRnQjQ?oc=5",
+      "title": "Anthropic Launches Claude Security in Public Beta for Enterprise Customers - CyberSecurityNews",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1n6o8/we_are_finally_there_qwen3627b_agentic_search_957/",
+      "title": "We are finally there: Qwen3.6-27B + agentic search; 95.7% SimpleQA on a single 3090, fully local",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXphcGxsSEhULS1fRFZMMkFKYVYxNk9lRVdTLVk4M0V4MVFDYzRlTkpJNXBLMEdVQXpDUTRQY2h2MWRfMkJZWkNqeXZ3N0ZfX0YxUHM5LUxkWm5vSFprSnpBYWtMcUhRSzhMRVB2LUhBcUdkT2NCMm9zbXR1TkpxdDVR?oc=5",
-      "title": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning - Infosecurity Magazine",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1te8y/qwen_36_wins_the_benchmarks_but_gemma_4_wins/",
+      "title": "Qwen 3.6 wins the benchmarks, but Gemma 4 wins reality. 7 things I learned testing 27B/31B Vision models locally (vLLM / FP8) side by side. Benchmaxing seems real.",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlFYNkl0emJSZ3hXNmo5bU1GVmZpc0pBMUk0WVRBcEhuMkx0TUdqdkp3SGhvUmdodk1iWUI0U2FJX2xwbWFGMEx2TzQxQkVReVRDRDhzRWRzQk5WdmlwaHhjWkJrcVVEREtOQk9PWG9oamZ3elQycXFfb1pzMzMxZDZiZHVIRmVQS19JLURpNjF6ZXdWcnJVM2xzZFBhRmNqSUljd0t3?oc=5",
-      "title": "Claude Comes to CAD: Anthropic's AI Can Now Help Build 3D Models in Autodesk Fusion - All3DP",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1x9jv/i_built_a_transformer_in_c17_from_scratch_no/",
+      "title": "I built a transformer in C++17 from scratch — no PyTorch, no BLAS, no dependencies. Trains on CPU. 0.83M params, full analytical backprop, 76 min to val loss 1.64.",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t0vp3w/pflash_10x_prefill_speedup_over_llamacpp_at_128k/",
-      "title": "PFlash: 10x prefill speedup over llama.cpp at 128K on a RTX 3090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/",
+      "title": "Qwen3.6-27B at 72 tok/s on RTX 3090 on Windows using native vLLM (no WSL, no Docker), portable launcher and installer",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t0s5t4/mimov25pro_the_actual_best_openweights_model/",
-      "title": "MiMo-V2.5-Pro - the actual best open-weights model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t28bfj/karpathys_microgpt_running_at_50000_tps_on_an_fpga/",
+      "title": "Karpathy's MicroGPT running at 50,000 tps on an FPGA",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9002",
-      "title": "b9002",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t24y4p/i_made_a_visualizer_for_hugging_face_models/",
+      "title": "I made a visualizer for Hugging Face models",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9000",
-      "title": "b9000",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1mmnd/release_finally_my_first_tts_model_is_out/",
+      "title": "[RELEASE] - Finally, my first TTS model is out! 🎙️ Flare-TTS 28M",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.20.1",
-      "title": "v0.20.1: Build Python from source instead of using deadsnakes PPA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1itn1/unsloth_solved_bug_in_mistral_medium_35/",
+      "title": "Unsloth solved bug in Mistral Medium 3.5 implementation",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "title": "Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t208qv/implemented_turboquant_and_results_dont_fully/",
+      "title": "Implemented TurboQuant and results don't fully match paper",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-      "title": "Ubuntu infrastructure has been down for more than a day",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t27cf0/local_image_generation_on_mac_10_models_compared/",
+      "title": "Local image generation on Mac: 10 models compared (SD 1.5 → Flux dev → Qwen-Image → Gemini)",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t19iil/been_using_qwen3627bq8_k_xl_vscode_rtx_6000_pro/",
-      "title": "Been using Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro As Daily Driver",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t23wug/toy_experiment_frozen_pythia70m_can_use_a/",
+      "title": "Toy experiment: frozen Pythia-70M can use a forward-derived fast memory for contextual one-shot symbolic recall [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t1393a/icml_final_decisions_rant_d/",
-      "title": "ICML final decisions rant [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t1rni9/i_implemented_meta_paper_p/",
+      "title": "I implemented meta paper [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t10xaf/i_spent_years_building_a_103btoken_usenet_corpus/",
-      "title": "I spent years building a 103B-token Usenet corpus (1980–2013) and finally documented it [P]",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/claude-design-good-bad-and-ugly-f60d9edb4a6d?source=rss----819cc2aaeee0---4",
-      "title": "Claude Design: Good, Bad, and Ugly",
+      "url": "https://neuraldeepnet.medium.com/the-end-of-the-prompt-why-autonomous-ai-agents-are-building-a-problem-we-cant-solve-07047dfda5b2?source=rss------ai_design-5",
+      "title": "The End of the Prompt: Why Autonomous AI Agents Are Building a Problem We Can't Solve",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@jessmathew2003/how-id-design-an-ai-counselling-assistant-using-anthropic-s-4d-framework-d8d55fe044eb?source=rss------ai_design-5",
-      "title": "How I'd Design an AI Counselling Assistant Using Anthropic's 4D Framework",
+      "url": "https://whatareaiagents.medium.com/how-to-get-started-with-ai-calling-2026-guide-9028ba788652?source=rss------ai_design-5",
+      "title": "How to Get Started with AI Calling 2026 Guide",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.nngroup.com/articles/information-seeking-china/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Information Seeking in China: A Different Ecosystem, Familiar Behavior",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4",
-      "title": "Usability, accessibility, and the human-AI paradigm",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4",
-      "title": "Thoughtful AI Implementation for UXR Leaders",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://maitraudit.medium.com/i-learned-these-ai-terms-in-a-few-weeks-if-you-want-to-thrive-in-ai-ux-you-should-know-them-adb4bce54ffb?source=rss------ai_ux-5",
-      "title": "I Learned These AI Terms in a Few Weeks — If You Want to Thrive in AI & UX, You Should Know Them…",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/@edwardmarshall278_88352/proven-ui-ux-trends-for-mobile-apps-in-2026-92c2839e4098?source=rss------generative_ui-5",
-      "title": "Proven UI/UX Trends for Mobile Apps in 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-      "title": "Designing Stable Interfaces For Streaming Content",
+      "url": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4",
+      "title": "Can AI make your dating life better?",
       "profile": "Design"
     }
   ]
