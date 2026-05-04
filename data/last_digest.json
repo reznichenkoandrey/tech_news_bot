@@ -1,112 +1,118 @@
 {
-  "generated_at": "2026-05-03T07:07:43+00:00",
+  "generated_at": "2026-05-04T07:07:58+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.23.0",
-      "title": "v0.23.0",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmN2ZUlPcjlzU3g1bVFrU2RPd0M5RnFnUHRXVXV5RDRsLURPWXNSWkRyYkV5enZBR1pHWFowMThKUkFQQXNvVWZJZUYxWDFTZ3lySmwtMWZZVnZ3VDVwRnRkZjF3SnppZS1Wd2lGbnQtZGg5X3BqVlpnRmJGUlVkY2lEM2NKcDJGNEE0TzR5V2xpdWZOMEhqMXJXVU43UU5OYWJYeGZiQWU3QQ?oc=5",
+      "title": "Anthropic Nears $1.5 Billion Joint Venture With Wall Street Firms",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQ0FlMi15MGtIQ09tZDk1ek9kVzIzdzNaSHBEWlFlbHF1aGk0TVpBZmNtNFZoMFZZMDhTcVI5bDRCenYwd0l1NG95VFVwTk1RWVF2Q0MyaGZJN1AwZXJPbHV1d1pCT0tkNVHSAW9BVV95cUxOTkJvdUR2aDdiZVVqbWREUXRnOHpLdU5CaEI3WWdtcVR2cm9YSmx4dzVLemtKdW1MVGt3cjM4UURBUmt0aEtHZkc0cHJqdjFEQkl1dWtyZGVnQTJabTBKenNwY0VOd2RydVR6LTRnQjQ?oc=5",
-      "title": "Anthropic Launches Claude Security in Public Beta for Enterprise Customers - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEVZOFR3d1BhYzBVbm1Wb2xhT043UGtoXzJFQzhGa00xMFVTZHZmWXp6T0Y0dUhMVkRYVlRDaEpyY1Q1MS1TZ3NmcUk0Zm5Vc3lUU2dZd3kxdEp5WVFsMmtlSUM0Y1JtekZuZkdYRlcyRXVMN2tyX2x4THJtV1dkM1hGVXdHRXFTcnRsRTUyRlZ1WUR1X3AtYTRpTUFYdktMQTlGa0FXZHpVeXJvQ0VrbzlOWC04SVp5aTVVdGZKTnJYZDZsVl8wTks0dGtNRFBSS1BLLS1n?oc=5",
+      "title": "Anthropic targets vulnerability detection gains with Claude Security public beta",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1n6o8/we_are_finally_there_qwen3627b_agentic_search_957/",
-      "title": "We are finally there: Qwen3.6-27B + agentic search; 95.7% SimpleQA on a single 3090, fully local",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1te8y/qwen_36_wins_the_benchmarks_but_gemma_4_wins/",
-      "title": "Qwen 3.6 wins the benchmarks, but Gemma 4 wins reality. 7 things I learned testing 27B/31B Vision models locally (vLLM / FP8) side by side. Benchmaxing seems real.",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.21.3-rc0",
+      "title": "Ollama v0.21.3",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1x9jv/i_built_a_transformer_in_c17_from_scratch_no/",
-      "title": "I built a transformer in C++17 from scratch — no PyTorch, no BLAS, no dependencies. Trains on CPU. 0.83M params, full analytical backprop, 76 min to val loss 1.64.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t33mlw/second_thoughts_been_playing_with_adding_a_small/",
+      "title": "\"Second Thoughts\" — adding a small transformer refinement loop",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/",
-      "title": "Qwen3.6-27B at 72 tok/s on RTX 3090 on Windows using native vLLM (no WSL, no Docker), portable launcher and installer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2rhkg/a_qwen_finetune_that_feels_very_human/",
+      "title": "A Qwen finetune, that feels VERY human",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t28bfj/karpathys_microgpt_running_at_50000_tps_on_an_fpga/",
-      "title": "Karpathy's MicroGPT running at 50,000 tps on an FPGA",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t2zy4h/torchnvenccompress_gpu_nvenc_silicon_as_a_pcie/",
+      "title": "torch-nvenc-compress: GPU NVENC silicon as a PCIe bandwidth multiplier",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t24y4p/i_made_a_visualizer_for_hugging_face_models/",
-      "title": "I made a visualizer for Hugging Face models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2kpzn/paper_on_hummingbird_lowcost_fpgas_for_llm/",
+      "title": "Hummingbird+: low-cost FPGAs for LLM inference",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1mmnd/release_finally_my_first_tts_model_is_out/",
-      "title": "[RELEASE] - Finally, my first TTS model is out! 🎙️ Flare-TTS 28M",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t2jt4m/evolving_deep_learning_optimizers_r/",
+      "title": "Evolving Deep Learning Optimizers",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1itn1/unsloth_solved_bug_in_mistral_medium_35/",
-      "title": "Unsloth solved bug in Mistral Medium 3.5 implementation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t36myv/frontier_models_cant_run_on_satellites_heres_an/",
+      "title": "Frontier models can't run on satellites — wildfire detection pipeline using 450M VLM",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t208qv/implemented_turboquant_and_results_dont_fully/",
-      "title": "Implemented TurboQuant and results don't fully match paper",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2s7ik/what_a_time_to_be_alive_from_1tksec_to_20100tksec/",
+      "title": "From 1tk/sec to 20-100tk/sec for huge models",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t27cf0/local_image_generation_on_mac_10_models_compared/",
-      "title": "Local image generation on Mac: 10 models compared (SD 1.5 → Flux dev → Qwen-Image → Gemini)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2icy1/if_youve_been_waiting_to_try_local_ai_development/",
+      "title": "If you've been waiting to try local AI development, please try it",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t23wug/toy_experiment_frozen_pythia70m_can_use_a/",
-      "title": "Toy experiment: frozen Pythia-70M can use a forward-derived fast memory for contextual one-shot symbolic recall [D]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2zapy/pushing_a_5yearold_6gb_vram_laptop_to_its_limits/",
+      "title": "Pushing a 5-Year-Old 6GB VRAM laptop to Its Limits: Qwen3.6-35B-A3B",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t1rni9/i_implemented_meta_paper_p/",
-      "title": "I implemented meta paper [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/",
+      "title": "Built a Voice Agents from Scratch — fully local pipeline",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2twu1/mistral_medium_35_on_amd_strix_halo/",
+      "title": "Mistral Medium 3.5 on AMD Strix Halo",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://neuraldeepnet.medium.com/the-end-of-the-prompt-why-autonomous-ai-agents-are-building-a-problem-we-cant-solve-07047dfda5b2?source=rss------ai_design-5",
-      "title": "The End of the Prompt: Why Autonomous AI Agents Are Building a Problem We Can't Solve",
+      "url": "https://medium.com/devops-ai-decoded/apply-any-brands-design-system-to-your-product-4c8bcd22dafa?source=rss------ai_design-5",
+      "title": "Apply Any Brand's Design System to Your Product.",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://whatareaiagents.medium.com/how-to-get-started-with-ai-calling-2026-guide-9028ba788652?source=rss------ai_design-5",
-      "title": "How to Get Started with AI Calling 2026 Guide",
+      "url": "https://medium.com/@tugbaerdem/design-was-never-about-rituals-da09fef3557b?source=rss------ai_design-5",
+      "title": "Design Was Never About Rituals",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4",
-      "title": "Can AI make your dating life better?",
+      "url": "https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4",
+      "title": "Don't simply bolt on AI. Rethink from the ground up.",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/the-basketball-playbook-for-ai-builder-teams-5ab76a91780e?source=rss----138adf9c44c---4",
+      "title": "The basketball playbook for AI builder teams",
       "profile": "Design"
     }
   ]
