@@ -1,118 +1,154 @@
 {
-  "generated_at": "2026-05-04T07:07:58+00:00",
+  "generated_at": "2026-05-05T07:07:55+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmN2ZUlPcjlzU3g1bVFrU2RPd0M5RnFnUHRXVXV5RDRsLURPWXNSWkRyYkV5enZBR1pHWFowMThKUkFQQXNvVWZJZUYxWDFTZ3lySmwtMWZZVnZ3VDVwRnRkZjF3SnppZS1Wd2lGbnQtZGg5X3BqVlpnRmJGUlVkY2lEM2NKcDJGNEE0TzR5V2xpdWZOMEhqMXJXVU43UU5OYWJYeGZiQWU3QQ?oc=5",
-      "title": "Anthropic Nears $1.5 Billion Joint Venture With Wall Street Firms",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEVZOFR3d1BhYzBVbm1Wb2xhT043UGtoXzJFQzhGa00xMFVTZHZmWXp6T0Y0dUhMVkRYVlRDaEpyY1Q1MS1TZ3NmcUk0Zm5Vc3lUU2dZd3kxdEp5WVFsMmtlSUM0Y1JtekZuZkdYRlcyRXVMN2tyX2x4THJtV1dkM1hGVXdHRXFTcnRsRTUyRlZ1WUR1X3AtYTRpTUFYdktMQTlGa0FXZHpVeXJvQ0VrbzlOWC04SVp5aTVVdGZKTnJYZDZsVl8wTks0dGtNRFBSS1BLLS1n?oc=5",
-      "title": "Anthropic targets vulnerability detection gains with Claude Security public beta",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ydjZELVEzZzQwTUhWQjdfMnZxV2pPN29pLVkxNUpSUWVoN0ozOFBBcm9iV0tkckJyaVdnRk1rT01UclJaQXZtSGdsem03dXNDWjhMT2toTTkwcHlxZGJfZVQxWUI5MzFOMTBjZEhn?oc=5",
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.21.3-rc0",
-      "title": "Ollama v0.21.3",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "title": "OpenAI's cozy partner Cerebras is on track for a blockbuster IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t33mlw/second_thoughts_been_playing_with_adding_a_small/",
-      "title": "\"Second Thoughts\" — adding a small transformer refinement loop",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.98.0",
+      "title": "v0.98.0",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2rhkg/a_qwen_finetune_that_feels_very_human/",
-      "title": "A Qwen finetune, that feels VERY human",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3guzw/llamacpp_mtp_support_now_in_beta/",
+      "title": "Llama.cpp MTP support now in beta!",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t2zy4h/torchnvenccompress_gpu_nvenc_silicon_as_a_pcie/",
-      "title": "torch-nvenc-compress: GPU NVENC silicon as a PCIe bandwidth multiplier",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3zu7u/vllm_just_merged_turboquant_fix_for_qwen_35/",
+      "title": "vLLM Just Merged TurboQuant Fix for Qwen 3.5+",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2kpzn/paper_on_hummingbird_lowcost_fpgas_for_llm/",
-      "title": "Hummingbird+: low-cost FPGAs for LLM inference",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3vlrx/fastdms_64x_kvcache_compression_running_faster/",
+      "title": "FastDMS: 6.4X KV-cache compression running faster than vLLM BF16/FP8",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t2jt4m/evolving_deep_learning_optimizers_r/",
-      "title": "Evolving Deep Learning Optimizers",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3zuvy/mtplx_224x_faster_tps_the_native_mtp_inference/",
+      "title": "MTPLX | 2.24x faster TPS | The native MTP inference engine for Apple Silicon",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t36myv/frontier_models_cant_run_on_satellites_heres_an/",
-      "title": "Frontier models can't run on satellites — wildfire detection pipeline using 450M VLM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t45g3l/peanut_text_to_image_model_open_weights_coming/",
+      "title": "Peanut - Text to Image Model (Open Weights coming soon)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2s7ik/what_a_time_to_be_alive_from_1tksec_to_20100tksec/",
-      "title": "From 1tk/sec to 20-100tk/sec for huge models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3n6jo/apex_moe_quants_update_25_new_models_since_the/",
+      "title": "APEX MoE quants update: 25+ new models since the Qwen 3.5 post + new I-Nano tier",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2icy1/if_youve_been_waiting_to_try_local_ai_development/",
-      "title": "If you've been waiting to try local AI development, please try it",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/",
+      "title": "Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2zapy/pushing_a_5yearold_6gb_vram_laptop_to_its_limits/",
-      "title": "Pushing a 5-Year-Old 6GB VRAM laptop to Its Limits: Qwen3.6-35B-A3B",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/",
-      "title": "Built a Voice Agents from Scratch — fully local pipeline",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t47qbw/deepseek_v4_pro_matches_gpt52_on_foodtruck_bench/",
+      "title": "DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2twu1/mistral_medium_35_on_amd_strix_halo/",
-      "title": "Mistral Medium 3.5 on AMD Strix Halo",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3i219/the_more_i_use_it_the_more_im_impressed/",
+      "title": "The more I use it, the more I'm impressed",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/devops-ai-decoded/apply-any-brands-design-system-to-your-product-4c8bcd22dafa?source=rss------ai_design-5",
-      "title": "Apply Any Brand's Design System to Your Product.",
+      "url": "https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity",
+      "title": "Designing, refining, and maintaining agent skills at Perplexity",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@tugbaerdem/design-was-never-about-rituals-da09fef3557b?source=rss------ai_design-5",
-      "title": "Design Was Never About Rituals",
+      "url": "https://uxplanet.org/dos-and-donts-for-claude-skills-4b79c207ab1c?source=rss----819cc2aaeee0---4",
+      "title": "Dos and Don'ts for Claude Skill",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4",
-      "title": "Don't simply bolt on AI. Rethink from the ground up.",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "title": "The world's most complex machine",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/the-basketball-playbook-for-ai-builder-teams-5ab76a91780e?source=rss----138adf9c44c---4",
-      "title": "The basketball playbook for AI builder teams",
+      "url": "https://design-is-the-work.figma.site/",
+      "title": "Design is the work",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://jeffgothelf.com/blog/strong-opinions-loosely-held-and-what-that-means-in-the-age-of-ai/",
+      "title": "Strong opinions, loosely held (in the age of AI)",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://nathanbeck.eu/essays/death-of-design/",
+      "title": "The death of design",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@rubensantanamangorrinha/foundations-before-automation-what-i-learned-my-first-time-prototyping-with-ai-b45a6d554845?source=rss------ai_design-5",
+      "title": "Foundations before automation — what I learned my first time prototyping with AI",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://saturdave.com/information-architecture-still-matters/",
+      "title": "Information architecture (still) matters",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://www.linkedin.com/pulse/five-dimensions-craft-ethan-eismann-uf3dc/",
+      "title": "The five dimensions of craft",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://tympanus.net/codrops/2026/05/04/akaru-crafting-precision-driven-digital-experiences/",
+      "title": "Akaru: Crafting Precision-Driven Digital Experiences",
       "profile": "Design"
     }
   ]
