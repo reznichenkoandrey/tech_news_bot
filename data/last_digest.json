@@ -1,154 +1,154 @@
 {
-  "generated_at": "2026-05-05T07:07:55+00:00",
+  "generated_at": "2026-05-06T07:06:59+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ydjZELVEzZzQwTUhWQjdfMnZxV2pPN29pLVkxNUpSUWVoN0ozOFBBcm9iV0tkckJyaVdnRk1rT01UclJaQXZtSGdsem03dXNDWjhMT2toTTkwcHlxZGJfZVQxWUI5MzFOMTBjZEhn?oc=5",
-      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs - Anthropic",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "title": "OpenAI claims ChatGPT's new default model hallucinates way less",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "title": "OpenAI's cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5",
+      "title": "Agents for financial services and insurance - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.98.0",
-      "title": "v0.98.0",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3guzw/llamacpp_mtp_support_now_in_beta/",
-      "title": "Llama.cpp MTP support now in beta!",
+      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3zu7u/vllm_just_merged_turboquant_fix_for_qwen_35/",
-      "title": "vLLM Just Merged TurboQuant Fix for Qwen 3.5+",
+      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+      "title": "Apple could let you pick a favorite AI model in iOS 27",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3vlrx/fastdms_64x_kvcache_compression_running_faster/",
-      "title": "FastDMS: 6.4X KV-cache compression running faster than vLLM BF16/FP8",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3zuvy/mtplx_224x_faster_tps_the_native_mtp_inference/",
-      "title": "MTPLX | 2.24x faster TPS | The native MTP inference engine for Apple Silicon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
+      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t45g3l/peanut_text_to_image_model_open_weights_coming/",
-      "title": "Peanut - Text to Image Model (Open Weights coming soon)",
+      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3n6jo/apex_moe_quants_update_25_new_models_since_the/",
-      "title": "APEX MoE quants update: 25+ new models since the Qwen 3.5 post + new I-Nano tier",
+      "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/",
-      "title": "Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.8.0",
+      "title": "Release 5.8.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4jq6h/gemma_4_mtp_released/",
+      "title": "Gemma 4 MTP released",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t47qbw/deepseek_v4_pro_matches_gpt52_on_foodtruck_bench/",
-      "title": "DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4hwup/heretic_13_released_reproducible_models/",
+      "title": "Heretic 1.3 released: Reproducible models, integrated benchmarking system, reduced peak VRAM usage, broader model support, and more",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3i219/the_more_i_use_it_the_more_im_impressed/",
-      "title": "The more I use it, the more I'm impressed",
+      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity",
-      "title": "Designing, refining, and maintaining agent skills at Perplexity",
+      "url": "https://tympanus.net/codrops/2026/05/05/reverse-engineering-claude-ais-mascot-animations-with-svg-and-gsap/",
+      "title": "Reverse-Engineering Claude AI's Mascot Animations with SVG and GSAP",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/dos-and-donts-for-claude-skills-4b79c207ab1c?source=rss----819cc2aaeee0---4",
-      "title": "Dos and Don'ts for Claude Skill",
+      "url": "https://yordan-stoyanov.medium.com/mcps-explained-for-designers-7d9efcfefd45",
+      "title": "Why should designers care about MCPs — Explained. For designers.",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
-      "title": "The world's most complex machine",
+      "url": "https://uxplanet.org/designing-infographics-with-claude-code-3c7a2bd675d2",
+      "title": "Designing Infographics with Claude Code",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://design-is-the-work.figma.site/",
-      "title": "Design is the work",
+      "url": "https://uxplanet.org/is-codex-better-than-claude-code-77d1e3142890",
+      "title": "Is Codex better than Claude Code?",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://jeffgothelf.com/blog/strong-opinions-loosely-held-and-what-that-means-in-the-age-of-ai/",
-      "title": "Strong opinions, loosely held (in the age of AI)",
+      "url": "https://uxplanet.org/designed-a-prompt-end-to-end-for-the-design-process-and-it-will-make-you-faster-6afbd83e1d5f",
+      "title": "Designed a prompt end-to-end for the design process and it will make you faster",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://nathanbeck.eu/essays/death-of-design/",
-      "title": "The death of design",
+      "url": "https://uxdesign.cc/the-trick-to-designing-agentic-ai-is-learning-how-to-think-like-a-manager-9945b028aac7?source=rss----138adf9c44c---4",
+      "title": "The trick to designing agentic AI is learning how to think like a manager",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@rubensantanamangorrinha/foundations-before-automation-what-i-learned-my-first-time-prototyping-with-ai-b45a6d554845?source=rss------ai_design-5",
-      "title": "Foundations before automation — what I learned my first time prototyping with AI",
+      "url": "https://uxdesign.cc/the-psychological-fine-print-of-ai-fe419edcff73?source=rss----138adf9c44c---4",
+      "title": "The psychological fine print of AI",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://saturdave.com/information-architecture-still-matters/",
-      "title": "Information architecture (still) matters",
+      "url": "https://medium.muz.li/design-md-new-standard-or-temporary-trend-62a837c00e78?source=rss------ai_design-5",
+      "title": "DESIGN.md: new standard or temporary trend?",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://www.linkedin.com/pulse/five-dimensions-craft-ethan-eismann-uf3dc/",
-      "title": "The five dimensions of craft",
+      "url": "https://medium.com/@alex.oprea.ao/i-redesigned-a-trust-sensitive-fintech-product-using-an-ai-first-workflow-and-this-is-what-broke-dadce61569b1?source=rss------ai_design-5",
+      "title": "I redesigned a trust-sensitive fintech product using an AI-first workflow, and this is what broke",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://tympanus.net/codrops/2026/05/04/akaru-crafting-precision-driven-digital-experiences/",
-      "title": "Akaru: Crafting Precision-Driven Digital Experiences",
+      "url": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+      "title": "Rethinking The Experience Of System Tools",
       "profile": "Design"
     }
   ]
