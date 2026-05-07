@@ -1,154 +1,154 @@
 {
-  "generated_at": "2026-05-06T07:06:59+00:00",
+  "generated_at": "2026-05-07T07:07:21+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZXhOWkRpY080blQ2aDkzS1Fwb3FYWUhGM3FGUzNIbWNyYXY4cVZMaDYxMDVFejU1UGFkblVXMDdwMHJFQldvRXBUeXpJYUR5amgxelJtZ3dTU0U2dk1Taw?oc=5",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-      "title": "OpenAI claims ChatGPT's new default model hallucinates way less",
+      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+      "title": "Google shuts down Project Mariner",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5",
-      "title": "Agents for financial services and insurance - Anthropic",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "title": "Snap says its $400M deal with Perplexity 'amicably ended'",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "title": "Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-      "title": "Apple could let you pick a favorite AI model in iOS 27",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "title": "Mira Murati tells the court that she couldn't trust Sam Altman's words",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "title": "Google's AI search summaries will now quote Reddit",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
-      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
+      "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "title": "AI boom pushes Samsung to $1T",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "title": "SpaceX may spend up to $119B on 'Terafab' chip factory in Texas",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.8.0",
-      "title": "Release 5.8.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t57xuu/25x_faster_inference_with_qwen_36_27b_using_mtp/",
+      "title": "2.5x faster inference with Qwen 3.6 27B using MTP",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4jq6h/gemma_4_mtp_released/",
-      "title": "Gemma 4 MTP released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5nll0/zaya18b_frontier_intelligence_density_trained_on/",
+      "title": "ZAYA1-8B: Frontier intelligence density, trained on AMD",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4hwup/heretic_13_released_reproducible_models/",
-      "title": "Heretic 1.3 released: Reproducible models, integrated benchmarking system, reduced peak VRAM usage, broader model support, and more",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.100.0",
+      "title": "v0.100.0",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/gguf-v0.19.0",
+      "title": "gguf-v0.19.0",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://tympanus.net/codrops/2026/05/05/reverse-engineering-claude-ais-mascot-animations-with-svg-and-gsap/",
-      "title": "Reverse-Engineering Claude AI's Mascot Animations with SVG and GSAP",
+      "url": "https://css-tricks.com/googles-prompt-api/",
+      "title": "Google's Prompt API",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://yordan-stoyanov.medium.com/mcps-explained-for-designers-7d9efcfefd45",
-      "title": "Why should designers care about MCPs — Explained. For designers.",
+      "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
+      "title": "The Architecture Of Local-First Web Development",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/designing-infographics-with-claude-code-3c7a2bd675d2",
-      "title": "Designing Infographics with Claude Code",
+      "url": "https://uxplanet.org/vibe-coding-makes-you-a-bad-designer-a2e557635652?source=rss----819cc2aaeee0---4",
+      "title": "Vibe Coding Makes You a Bad Designer",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/is-codex-better-than-claude-code-77d1e3142890",
-      "title": "Is Codex better than Claude Code?",
+      "url": "https://www.lesswrong.com/posts/vKtuRbo4e3ffixmee/you-are-not-immune-to-mode-collapse",
+      "title": "You are not immune to mode collapse",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/designed-a-prompt-end-to-end-for-the-design-process-and-it-will-make-you-faster-6afbd83e1d5f",
-      "title": "Designed a prompt end-to-end for the design process and it will make you faster",
+      "url": "https://every.to/guides/ai-product-management-guide",
+      "title": "A guide to agent-native Product Management",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/the-trick-to-designing-agentic-ai-is-learning-how-to-think-like-a-manager-9945b028aac7?source=rss----138adf9c44c---4",
-      "title": "The trick to designing agentic AI is learning how to think like a manager",
+      "url": "https://dataart.medium.com/why-the-design-file-no-longer-makes-sense-7b2cdad0a568?source=rss------ai_design-5",
+      "title": "Why the Design File No Longer Makes Sense",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/the-psychological-fine-print-of-ai-fe419edcff73?source=rss----138adf9c44c---4",
-      "title": "The psychological fine print of AI",
+      "url": "https://medium.muz.li/designing-by-feeling-how-i-built-a-mood-to-color-palette-tool-with-ai-2432bd11db38?source=rss------ai_design-5",
+      "title": "Designing by feeling: How I built a mood-to-color palette tool with AI",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://medium.muz.li/design-md-new-standard-or-temporary-trend-62a837c00e78?source=rss------ai_design-5",
-      "title": "DESIGN.md: new standard or temporary trend?",
+      "url": "https://www.doc.cc/articles/consciousness",
+      "title": "Collected consciousness",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://medium.com/@alex.oprea.ao/i-redesigned-a-trust-sensitive-fintech-product-using-an-ai-first-workflow-and-this-is-what-broke-dadce61569b1?source=rss------ai_design-5",
-      "title": "I redesigned a trust-sensitive fintech product using an AI-first workflow, and this is what broke",
+      "url": "https://styles.refero.design/",
+      "title": "Design.md supply",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
-      "title": "Rethinking The Experience Of System Tools",
+      "url": "https://tympanus.net/codrops/2026/05/06/from-shader-uniforms-to-clip-path-wipes-how-gsap-drives-my-portfolio/",
+      "title": "From Shader Uniforms to Clip-Path Wipes: How GSAP Drives My Portfolio",
       "profile": "Design"
     }
   ]
