@@ -1,4 +1,107 @@
 {
-  "generated_at": "2026-05-10T07:05:30+00:00",
-  "items": []
+  "generated_at": "2026-05-11T07:06:31+00:00",
+  "items": [
+    {
+      "n": 1,
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "title": "How enterprises are scaling AI",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 2,
+      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "title": "Anthropic says 'evil' portrayals of AI were responsible for Claude's blackmail attempts",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 3,
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.20.2",
+      "title": "v0.20.2",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 4,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9095",
+      "title": "b9095",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 5,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9em98/deepseekv4flash_w4a16fp8_with_mtp_selfspeculation/",
+      "title": "DeepSeek-V4-Flash W4A16+FP8 with MTP self-speculation: 85 tok/s @ 524k on 2× RTX PRO 6000 Max-Q",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 6,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/",
+      "title": "MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 7,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t9d3et/signals_finding_the_most_informative_agent_traces/",
+      "title": "Signals: finding the most informative agent traces without LLM judges [R]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t94ito/i_have_deepseek_v4_pro_at_home/",
+      "title": "I have DeepSeek V4 Pro at home",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9eo83/running_qwen36_35b_a3b_on_8gb_vram_and_32gb_ram/",
+      "title": "Running Qwen3.6 35b a3b on 8gb vram and 32gb ram ~190k context",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9tsro/markdown_browser_for_llms/",
+      "title": "Markdown browser for LLMs",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/",
+      "title": "Sharing \"cull\" : my open-source dataset tool for image scraping & classification & captioning pipeline",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/",
+      "title": "I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9102",
+      "title": "b9102",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9100",
+      "title": "b9100",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t99upf/getting_a_feel_for_how_fast_x_tokenssecond_really/",
+      "title": "Getting a feel for how fast X tokens/second really is.",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://pub.towardsai.net/agent-driven-ui-a-technical-analysis-of-the-freesail-sdk-113aff5fac9c?source=rss------generative_ui-5",
+      "title": "Agent-driven UI — A Technical Analysis of the Freesail SDK",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://medium.com/design-bootcamp/the-ai-sift-is-quietly-redesigning-ux-c7dc18653322?source=rss------ai_ux-5",
+      "title": "The AI sift is quietly redesigning UX",
+      "profile": "Design"
+    }
+  ]
 }
