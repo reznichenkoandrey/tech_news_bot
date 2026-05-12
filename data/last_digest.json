@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-05-11T07:06:31+00:00",
+  "generated_at": "2026-05-12T07:07:42+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "title": "How enterprises are scaling AI",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmZxSGR3dWhwMkRBNVgwSl91ZFVRLVptdTVhUERmcmF3dVROU21WT2hTeGExWldvNDBpN2RaNDY5MmxEa1llWGozcGRsZmNOeFJVLUFhVXoyYTlKMFhmWjc1dmRIckEyZVk4aTlGUk1jNGpuc2ZrMkhMN2xYRDM1dzBfWXN1SmtsRjRxaXJmYWtsMFJCb01UcEJkOWs2NEZGdWVhUjhmaktkLURIS0pnRzRham9JTldWNUREVmRLRERVNG1CLU5pSlBHbks2QQ?oc=5",
+      "title": "Introducing Claude Platform on AWS: Anthropic's native platform, through your AWS account - Amazon Web Services (AWS)",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "title": "Anthropic says 'evil' portrayals of AI were responsible for Claude's blackmail attempts",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "title": "How ChatGPT adoption broadened in early 2026",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.20.2",
-      "title": "v0.20.2",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "title": "OpenAI just released its answer to Claude Mythos",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9095",
-      "title": "b9095",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9em98/deepseekv4flash_w4a16fp8_with_mtp_selfspeculation/",
-      "title": "DeepSeek-V4-Flash W4A16+FP8 with MTP self-speculation: 85 tok/s @ 524k on 2× RTX PRO 6000 Max-Q",
+      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+      "title": "Linux bitten by second severe vulnerability in as many weeks",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/",
-      "title": "MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1t9d3et/signals_finding_the_most_informative_agent_traces/",
-      "title": "Signals: finding the most informative agent traces without LLM judges [R]",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t94ito/i_have_deepseek_v4_pro_at_home/",
-      "title": "I have DeepSeek V4 Pro at home",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taeg8h/computer_build_using_intel_optane_persistent/",
+      "title": "Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9eo83/running_qwen36_35b_a3b_on_8gb_vram_and_32gb_ram/",
-      "title": "Running Qwen3.6 35b a3b on 8gb vram and 32gb ram ~190k context",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tagtpv/i_catalogued_every_way_local_models_break_json/",
+      "title": "I catalogued every way local models break JSON output and built a repair library, here's what I found across 288 model calls",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9tsro/markdown_browser_for_llms/",
-      "title": "Markdown browser for LLMs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9whrt/the_qwen_36_35b_a3b_hype_is_real/",
+      "title": "The Qwen 3.6 35B A3B hype is real!!!",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/",
-      "title": "Sharing \"cull\" : my open-source dataset tool for image scraping & classification & captioning pipeline",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9109",
+      "title": "b9109",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/",
-      "title": "I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.23.3-rc1",
+      "title": "v0.23.3",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9102",
-      "title": "b9102",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/7-advanced-claude-md-tips-for-claude-code-b34e86b3275a?source=rss----819cc2aaeee0---4",
+      "title": "7 Advanced CLAUDE.md Tips for Claude Code",
+      "profile": "Design"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9100",
-      "title": "b9100",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/checklist-for-creating-effective-claude-code-skills-07196734340e?source=rss----819cc2aaeee0---4",
+      "title": "Checklist for Creating Effective Claude Code Skills",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t99upf/getting_a_feel_for_how_fast_x_tokenssecond_really/",
-      "title": "Getting a feel for how fast X tokens/second really is.",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/prompt-is-not-interface-ui-patterns-that-wont-survive-how-to-make-claude-follow-your-design-0ce6ac741796?source=rss----138adf9c44c---4",
+      "title": "Prompt is not interface, UI patterns that won't survive, how to make Claude follow your design…",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://pub.towardsai.net/agent-driven-ui-a-technical-analysis-of-the-freesail-sdk-113aff5fac9c?source=rss------generative_ui-5",
-      "title": "Agent-driven UI — A Technical Analysis of the Freesail SDK",
+      "url": "https://medium.com/@mail2mhossain/the-generative-ui-spectrum-controlled-declarative-and-open-ended-ai-interfaces-explained-2118508b5084?source=rss------generative_ui-5",
+      "title": "The Generative UI Spectrum: Controlled, Declarative, and Open-Ended AI Interfaces Explained",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/design-bootcamp/the-ai-sift-is-quietly-redesigning-ux-c7dc18653322?source=rss------ai_ux-5",
-      "title": "The AI sift is quietly redesigning UX",
+      "url": "https://uxdesign.cc/how-i-use-ai-to-think-through-design-problems-4a484080484b?source=rss------ai_design-5",
+      "title": "How I use AI to think through design problems",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://medium.com/design-bootcamp/a-store-associate-is-trying-to-check-inventory-while-helping-a-customer-switching-between-multiple-adad0465de09?source=rss------ai_design-5",
+      "title": "A store associate is trying to check inventory while helping a customer, switching between multiple…",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://www.oreilly.com/radar/the-organization-is-the-bottleneck/",
+      "title": "The organization is the bottleneck",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@olena.korin_85514/what-top-performers-do-differently-with-chatgpt-3-habits-that-actually-make-it-useful-e807f6fcdeaf?source=rss------ai_design-5",
+      "title": "What top performers do differently with ChatGPT: 3 habits that actually make it useful",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/@HanalimD/is-creativity-disappearing-due-to-the-rise-of-ai-7c66c6e3482d?source=rss------ai_design-5",
+      "title": "Is Creativity Disappearing Due to the Rise of AI?!",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@xgenjidev/ai-landscape-a-guide-to-choosing-the-right-model-485f68a4548d?source=rss------ai_design-5",
+      "title": "AI Landscape: A guide to choosing the right model",
       "profile": "Design"
     }
   ]
