@@ -1,136 +1,172 @@
 {
-  "generated_at": "2026-05-12T07:07:42+00:00",
+  "generated_at": "2026-05-13T07:07:06+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmZxSGR3dWhwMkRBNVgwSl91ZFVRLVptdTVhUERmcmF3dVROU21WT2hTeGExWldvNDBpN2RaNDY5MmxEa1llWGozcGRsZmNOeFJVLUFhVXoyYTlKMFhmWjc1dmRIckEyZVk4aTlGUk1jNGpuc2ZrMkhMN2xYRDM1dzBfWXN1SmtsRjRxaXJmYWtsMFJCb01UcEJkOWs2NEZGdWVhUjhmaktkLURIS0pnRzRham9JTldWNUREVmRLRERVNG1CLU5pSlBHbks2QQ?oc=5",
-      "title": "Introducing Claude Platform on AWS: Anthropic's native platform, through your AWS account - Amazon Web Services (AWS)",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.8.1",
+      "title": "Patch release v5.8.1",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "title": "How ChatGPT adoption broadened in early 2026",
+      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "title": "OpenAI just released its answer to Claude Mythos",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDR5V2gxRXB6ZC1fQzcyUWdLVUZBUXhCdU4yUWlsLWdkbGNNODVaQWdQU09CT1lNVTBKZzh0MmlSa3l0QjdLV040QnpvNklxUzF2WWhPc044OTVxenN4bjNpMG1meVlMdVVqM1JjY0dHQVdjbU9IbVAtSFNqVEo0blZSdWZhZTAtS0E2dGNR?oc=5",
+      "title": "Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree' - Business Insider",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
-      "title": "Linux bitten by second severe vulnerability in as many weeks",
+      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/",
+      "title": "MagicQuant (v2.0) - Hybrid Mixed GGUF Models + Unsloth Dynamic Learned Quant Configurations + Benchmark table with collapsed winners and more",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taeg8h/computer_build_using_intel_optane_persistent/",
-      "title": "Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/",
+      "title": "TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tagtpv/i_catalogued_every_way_local_models_break_json/",
-      "title": "I catalogued every way local models break JSON output and built a repair library, here's what I found across 288 model calls",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/",
+      "title": "Needle: We Distilled Gemini Tool Calling Into a 26M Model",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9whrt/the_qwen_36_35b_a3b_hype_is_real/",
-      "title": "The Qwen 3.6 35B A3B hype is real!!!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb9pwn/luce_dflash_pflash_on_amd_strix_halo_qwen3627b_at/",
+      "title": "Luce DFlash + PFlash on AMD Strix Halo: Qwen3.6-27B at 2.23x decode and 3.05x prefill vs llama.cpp HIP",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9109",
-      "title": "b9109",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/",
+      "title": "I got a real transformer language model running locally on a stock Game Boy Color!",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.23.3-rc1",
-      "title": "v0.23.3",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tb2na1/i_found_a_hidden_ratio_in_transformers_that/",
+      "title": "I Found a Hidden Ratio in Transformers That Predicts Geometric Stability [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://uxplanet.org/7-advanced-claude-md-tips-for-claude-code-b34e86b3275a?source=rss----819cc2aaeee0---4",
-      "title": "7 Advanced CLAUDE.md Tips for Claude Code",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb8d89/agentic_harness_for_theoretical_physics_research/",
+      "title": "Agentic harness for theoretical physics research",
+      "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://uxplanet.org/checklist-for-creating-effective-claude-code-skills-07196734340e?source=rss----819cc2aaeee0---4",
-      "title": "Checklist for Creating Effective Claude Code Skills",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbbh82/attention_drift_what_autoregressive_speculative/",
+      "title": "Attention Drift: What Autoregressive Speculative Decoding Models Learn",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxdesign.cc/prompt-is-not-interface-ui-patterns-that-wont-survive-how-to-make-claude-follow-your-design-0ce6ac741796?source=rss----138adf9c44c---4",
-      "title": "Prompt is not interface, UI patterns that won't survive, how to make Claude follow your design…",
-      "profile": "Design"
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0rc1",
+      "title": "v0.21.0rc1",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@mail2mhossain/the-generative-ui-spectrum-controlled-declarative-and-open-ended-ai-interfaces-explained-2118508b5084?source=rss------generative_ui-5",
-      "title": "The Generative UI Spectrum: Controlled, Declarative, and Open-Ended AI Interfaces Explained",
-      "profile": "Design"
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.23.3",
+      "title": "v0.23.3",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/how-i-use-ai-to-think-through-design-problems-4a484080484b?source=rss------ai_design-5",
-      "title": "How I use AI to think through design problems",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "profile": "AI/Tech"
     },
     {
       "n": 18,
-      "url": "https://medium.com/design-bootcamp/a-store-associate-is-trying-to-check-inventory-while-helping-a-customer-switching-between-multiple-adad0465de09?source=rss------ai_design-5",
-      "title": "A store associate is trying to check inventory while helping a customer, switching between multiple…",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "profile": "AI/Tech"
     },
     {
       "n": 19,
-      "url": "https://www.oreilly.com/radar/the-organization-is-the-bottleneck/",
-      "title": "The organization is the bottleneck",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "profile": "AI/Tech"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@olena.korin_85514/what-top-performers-do-differently-with-chatgpt-3-habits-that-actually-make-it-useful-e807f6fcdeaf?source=rss------ai_design-5",
-      "title": "What top performers do differently with ChatGPT: 3 habits that actually make it useful",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+      "profile": "AI/Tech"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@HanalimD/is-creativity-disappearing-due-to-the-rise-of-ai-7c66c6e3482d?source=rss------ai_design-5",
-      "title": "Is Creativity Disappearing Due to the Rise of AI?!",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
+      "title": "George Clooney, Tom Hanks, and Meryl Streep back new 'Human Consent Standard' for AI licensing",
+      "profile": "AI/Tech"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@xgenjidev/ai-landscape-a-guide-to-choosing-the-right-model-485f68a4548d?source=rss------ai_design-5",
-      "title": "AI Landscape: A guide to choosing the right model",
+      "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
+      "title": "Rivian's AI-powered voice assistant is ready to roll",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 23,
+      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "title": "Dessn raises $6M for its production-focused design tool",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 24,
+      "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+      "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "title": "Agentic coding is a trap",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://www.lukew.com/ff/entry.asp?2152",
+      "title": "Mockups were never the hard part",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://sinceyouarrived.world/taken",
+      "title": "Taken",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://www.terrygodier.com/the-boring-internet",
+      "title": "The boring internet",
       "profile": "Design"
     }
   ]
