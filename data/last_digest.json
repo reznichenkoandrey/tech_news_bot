@@ -1,172 +1,178 @@
 {
-  "generated_at": "2026-05-13T07:07:06+00:00",
+  "generated_at": "2026-05-14T07:07:19+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.8.1",
-      "title": "Patch release v5.8.1",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners",
+      "title": "Anthropic courts a new kind of customer: small business owners",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDR5V2gxRXB6ZC1fQzcyUWdLVUZBUXhCdU4yUWlsLWdkbGNNODVaQWdQU09CT1lNVTBKZzh0MmlSa3l0QjdLV040QnpvNklxUzF2WWhPc044OTVxenN4bjNpMG1meVlMdVVqM1JjY0dHQVdjbU9IbVAtSFNqVEo0blZSdWZhZTAtS0E2dGNR?oc=5",
-      "title": "Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree' - Business Insider",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents",
+      "title": "Notion just turned its workspace into a hub for AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa",
+      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data",
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbyy ee/textgen_is_now_a_native_desktop_app_opensource/",
+      "title": "TextGen is now a native desktop app. Open-source alternative to LM Studio (formerly text-generation-webui).",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/",
-      "title": "MagicQuant (v2.0) - Hybrid Mixed GGUF Models + Unsloth Dynamic Learned Quant Configurations + Benchmark table with collapsed winners and more",
+      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves",
+      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/",
-      "title": "TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tc1xr3/humanlevel_performance_via_ml_was_not_proven/",
+      "title": "Human-level performance via ML was *not* proven impossible with complexity theory [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/",
-      "title": "Needle: We Distilled Gemini Tool Calling Into a 26M Model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tckhys/anyone_else_experiencing_heavy_hallucinations/",
+      "title": "Anyone else experiencing heavy hallucinations with MiMo-V2.5 (310B) quantized version?",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb9pwn/luce_dflash_pflash_on_amd_strix_halo_qwen3627b_at/",
-      "title": "Luce DFlash + PFlash on AMD Strix Halo: Qwen3.6-27B at 2.23x decode and 3.05x prefill vs llama.cpp HIP",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.24.0-rc0",
+      "title": "v0.24.0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/",
-      "title": "I got a real transformer language model running locally on a stock Game Boy Color!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tckzy2/multitoken_prediction_mtp_for_qwen_on_llamacpp/",
+      "title": "Multi-Token Prediction (MTP) for Qwen on LLaMA.cpp + TurboQuant",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tb2na1/i_found_a_hidden_ratio_in_transformers_that/",
-      "title": "I Found a Hidden Ratio in Transformers That Predicts Geometric Stability [R]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tc5wx1/dramabox_most_expressive_voice_model_ever_based/",
+      "title": "DramaBox - Most Expressive Voice model ever based on LTX 2.3",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb8d89/agentic_harness_for_theoretical_physics_research/",
-      "title": "Agentic harness for theoretical physics research",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tcemdg/trained_transformerbased_chess_models_to_play/",
+      "title": "Trained transformer-based chess models to play like humans (including thinking time) [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbbh82/attention_drift_what_autoregressive_speculative/",
-      "title": "Attention Drift: What Autoregressive Speculative Decoding Models Learn",
+      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life",
+      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0rc1",
-      "title": "v0.21.0rc1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tcf2dt/we_really_all_are_going_to_make_it_arent_we/",
+      "title": "we really all are going to make it, aren't we? 2x3090 setup.",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.23.3",
-      "title": "v0.23.3",
-      "profile": "AI/Tech"
+      "url": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+      "title": "Practical Interface Patterns For AI Transparency (Part 2)",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "profile": "AI/Tech"
+      "url": "https://andymatuschak.org/tat/",
+      "title": "Apps and programming: two accidental tyrannies",
+      "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "profile": "AI/Tech"
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "title": "AI slop is killing online communities",
+      "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-      "profile": "AI/Tech"
+      "url": "https://www.nudges.fyi/",
+      "title": "Nudges, biases & heuristics for the age of AI",
+      "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-      "profile": "AI/Tech"
+      "url": "https://contralabs.com/research/human-creativity-benchmark",
+      "title": "Human creativity benchmark",
+      "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-      "title": "George Clooney, Tom Hanks, and Meryl Streep back new 'Human Consent Standard' for AI licensing",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/prompting-best-practices-for-claude-code-62a914e0fca9?source=rss----819cc2aaeee0---4",
+      "title": "Prompting Best Practices for Claude Code",
+      "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
-      "title": "Rivian's AI-powered voice assistant is ready to roll",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/rapid-prototyping-with-claude-code-a3da8f2338c1?source=rss----819cc2aaeee0---4",
+      "title": "Rapid prototyping with Claude Code",
+      "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-      "title": "Dessn raises $6M for its production-focused design tool",
-      "profile": "AI/Tech"
+      "url": "https://designmonks.medium.com/roadmap-for-ai-ux-designer-a-practical-journey-from-basics-to-real-ai-projects-060b24fea6b4?source=rss------ai_ux-5",
+      "title": "Roadmap for AI UX Designer: A Practical Journey from Basics to Real AI Projects",
+      "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
-      "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+      "url": "https://medium.com/@sam.guzman2298/meta-prompting-is-the-new-design-ops-f00d644dd08c?source=rss------ai_design-5",
+      "title": "Meta-Prompting Is the New Design Ops",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "title": "Agentic coding is a trap",
+      "url": "https://medium.com/@joe.richardson.619/becoming-a-product-design-ai-pilot-3c5c0027e716?source=rss------ai_design-5",
+      "title": "Becoming a Product Design AI Pilot",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://www.lukew.com/ff/entry.asp?2152",
-      "title": "Mockups were never the hard part",
+      "url": "https://medium.com/@jef.smith570/when-prototypes-become-cheap-judgment-becomes-priceless-4efdd247c927?source=rss------ai_design-5",
+      "title": "When Prototypes Become Cheap, Judgment Becomes Priceless",
       "profile": "Design"
     },
     {
       "n": 27,
-      "url": "https://sinceyouarrived.world/taken",
-      "title": "Taken",
+      "url": "https://medium.com/@krishaWebtech/ai-is-not-coming-for-web-design-jobs-its-coming-for-bad-web-design-673e806d138f?source=rss------ai_design-5",
+      "title": "AI Is Not Coming for Web Design Jobs. It's Coming for Bad Web Design.",
       "profile": "Design"
     },
     {
       "n": 28,
-      "url": "https://www.terrygodier.com/the-boring-internet",
-      "title": "The boring internet",
+      "url": "https://medium.com/@muktharvortegix/7-new-ai-design-tools-that-are-making-canva-and-figma-nervous-in-2026-6c9629a7bea2?source=rss------ai_design-5",
+      "title": "7 New AI Design Tools That Are Making Canva and Figma Nervous in 2026",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://medium.com/@228182wx/top-20-free-ai-room-design-tools-in-2026-50-tested-b0878bcb2fc4?source=rss------ai_design-5",
+      "title": "Top 20 Free AI Room Design Tools in 2026 (50+ Tested)",
       "profile": "Design"
     }
   ]
