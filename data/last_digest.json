@@ -1,178 +1,172 @@
 {
-  "generated_at": "2026-05-14T07:07:19+00:00",
+  "generated_at": "2026-05-15T07:07:57+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners",
-      "title": "Anthropic courts a new kind of customer: small business owners",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents",
-      "title": "Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "title": "OpenAI says Codex is coming to your phone",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa",
-      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "title": "OpenAI's Codex is now in the ChatGPT mobile app",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data",
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbyy ee/textgen_is_now_a_native_desktop_app_opensource/",
-      "title": "TextGen is now a native desktop app. Open-source alternative to LM Studio (formerly text-generation-webui).",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930447/microsoft-claude-code-discontinued-notepad",
+      "title": "Microsoft starts canceling Claude Code licenses",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves",
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "title": "What happens when AI starts building itself?",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tc1xr3/humanlevel_performance_via_ml_was_not_proven/",
-      "title": "Human-level performance via ML was *not* proven impossible with complexity theory [D]",
+      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tckhys/anyone_else_experiencing_heavy_hallucinations/",
-      "title": "Anyone else experiencing heavy hallucinations with MiMo-V2.5 (310B) quantized version?",
+      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.24.0-rc0",
-      "title": "v0.24.0",
+      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports 'record quarterly revenue'",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tckzy2/multitoken_prediction_mtp_for_qwen_on_llamacpp/",
-      "title": "Multi-Token Prediction (MTP) for Qwen on LLaMA.cpp + TurboQuant",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UT25PT2ZVemEyNW5mY0RnYjlHa0NhUGw4cVlZWUNaaDdySnRMMXZXZVJMcHRKN25kRzBsVzNINFhUSHhmTGI4MU5JUDEtUVFLcEktM1VvbUZCc1RKUkhwcTFWY3gyWEdQMGZN?oc=5",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tc5wx1/dramabox_most_expressive_voice_model_ever_based/",
-      "title": "DramaBox - Most Expressive Voice model ever based on LTX 2.3",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeldRcDk3WWpRMHo1a0Qwb3djcGNxOXVVbHAtYVNnT1dtbnZkdGsyc0FlZUNxNDZoaFlaZUhLWGRnMVRaemdvblp1MjVFQjFiajBFM3hZOThxS25zTG9HZFVCdGdRX1JnSVphWUpaTkdjTjFFdVh0eXdhYk1lLTVjb1hacm00OHFjRDhlOGwtRWFjUUFRaHJsRjlXM0d3d1RJVTJMUEZjOGtqYndhRlktRVV3?oc=5",
+      "title": "PwC and Anthropic expand alliance for enterprise agentic AI",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tcemdg/trained_transformerbased_chess_models_to_play/",
-      "title": "Trained transformer-based chess models to play like humans (including thinking time) [P]",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "title": "Work with Codex from anywhere",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life",
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc17",
+      "title": "v0.30.0",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tcf2dt/we_really_all_are_going_to_make_it_arent_we/",
-      "title": "we really all are going to make it, aren't we? 2x3090 setup.",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.24.0",
+      "title": "v0.24.0",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
-      "title": "Practical Interface Patterns For AI Transparency (Part 2)",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tdje2d/arxiv_implements_1year_ban_for_papers_containing/",
+      "title": "arXiv implements 1-year ban for papers containing incontrovertible evidence of unchecked LLM-generated errors, such as hallucinated references or results. [N]",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://andymatuschak.org/tat/",
-      "title": "Apps and programming: two accidental tyrannies",
-      "profile": "Design"
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0",
+      "title": "v0.21.0: [Bugfix] Fix DeepSeek V4 MTP HC state handling (#42320)",
+      "profile": "AI/Tech"
     },
     {
       "n": 18,
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "title": "AI slop is killing online communities",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9158",
+      "title": "b9158",
+      "profile": "AI/Tech"
     },
     {
       "n": 19,
-      "url": "https://www.nudges.fyi/",
-      "title": "Nudges, biases & heuristics for the age of AI",
+      "url": "https://linear.app/now/code-intelligence-for-linear-agent",
+      "title": "Code Intelligence for Linear Agent",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://contralabs.com/research/human-creativity-benchmark",
-      "title": "Human creativity benchmark",
+      "url": "https://linear.app/changelog/2026-05-14-code-intelligence",
+      "title": "Code Intelligence",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxplanet.org/prompting-best-practices-for-claude-code-62a914e0fca9?source=rss----819cc2aaeee0---4",
-      "title": "Prompting Best Practices for Claude Code",
+      "url": "https://blog.flutter.dev/new-updates-to-a2ui-and-flutters-genui-package-e5ddff07737b?source=rss------generative_ui-5",
+      "title": "New updates to A2UI and Flutter's GenUI package",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxplanet.org/rapid-prototyping-with-claude-code-a3da8f2338c1?source=rss----819cc2aaeee0---4",
-      "title": "Rapid prototyping with Claude Code",
+      "url": "https://medium.com/@elizabethalli/i-connected-mobbin-mcp-to-ai-and-unlocked-1000s-of-real-ui-screens-to-design-with-8e53c9d739d0?source=rss------ai_design-5",
+      "title": "I Connected Mobbin MCP to AI and Unlocked 1000s of Real UI Screens to Design With",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://designmonks.medium.com/roadmap-for-ai-ux-designer-a-practical-journey-from-basics-to-real-ai-projects-060b24fea6b4?source=rss------ai_ux-5",
-      "title": "Roadmap for AI UX Designer: A Practical Journey from Basics to Real AI Projects",
+      "url": "https://pub.towardsai.net/how-to-use-claude-design-41ec2cbeb80e?source=rss------ai_design-5",
+      "title": "How to Use Claude Design",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://medium.com/@sam.guzman2298/meta-prompting-is-the-new-design-ops-f00d644dd08c?source=rss------ai_design-5",
-      "title": "Meta-Prompting Is the New Design Ops",
+      "url": "https://uxplanet.org/is-figma-still-relevant-in-the-ai-design-era-2b7b3c703e7b?source=rss----819cc2aaeee0---4",
+      "title": "Is Figma Still Relevant in the AI Design Era?",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://medium.com/@joe.richardson.619/becoming-a-product-design-ai-pilot-3c5c0027e716?source=rss------ai_design-5",
-      "title": "Becoming a Product Design AI Pilot",
+      "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4",
+      "title": "The one-dimensional pipe between two high-dimensional minds",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://medium.com/@jef.smith570/when-prototypes-become-cheap-judgment-becomes-priceless-4efdd247c927?source=rss------ai_design-5",
-      "title": "When Prototypes Become Cheap, Judgment Becomes Priceless",
+      "url": "https://uxdesign.cc/ai-made-everyone-a-creator-not-a-designer-e28deb6e603b?source=rss----138adf9c44c---4",
+      "title": "AI made everyone a creator, not a designer",
       "profile": "Design"
     },
     {
       "n": 27,
-      "url": "https://medium.com/@krishaWebtech/ai-is-not-coming-for-web-design-jobs-its-coming-for-bad-web-design-673e806d138f?source=rss------ai_design-5",
-      "title": "AI Is Not Coming for Web Design Jobs. It's Coming for Bad Web Design.",
+      "url": "https://medium.com/@needmcp/6-most-advanced-ai-design-tools-in-2026-a-developers-guide-c8f88b3f128f?source=rss------ai_design-5",
+      "title": "6 Most Advanced AI Design Tools in 2026: A Developer's Guide",
       "profile": "Design"
     },
     {
       "n": 28,
-      "url": "https://medium.com/@muktharvortegix/7-new-ai-design-tools-that-are-making-canva-and-figma-nervous-in-2026-6c9629a7bea2?source=rss------ai_design-5",
-      "title": "7 New AI Design Tools That Are Making Canva and Figma Nervous in 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://medium.com/@228182wx/top-20-free-ai-room-design-tools-in-2026-50-tested-b0878bcb2fc4?source=rss------ai_design-5",
-      "title": "Top 20 Free AI Room Design Tools in 2026 (50+ Tested)",
+      "url": "https://medium.com/@anwashapal998/latest-ai-tools-in-ux-design-ac4b40591516?source=rss------ai_design-5",
+      "title": "Latest AI Tools in UX Design",
       "profile": "Design"
     }
   ]
