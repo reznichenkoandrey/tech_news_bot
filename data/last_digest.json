@@ -1,172 +1,136 @@
 {
-  "generated_at": "2026-05-15T07:07:57+00:00",
+  "generated_at": "2026-05-16T07:08:26+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "title": "OpenAI says Codex is coming to your phone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-      "title": "OpenAI's Codex is now in the ChatGPT mobile app",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93dkg3Z2VRVFhDM1NiT3RRM040RHdLc1p6WU45Y2xMLVdWd3VFN0o3dkdNSl9PMUJsLVpJUlRTUTNCTG45RC11ZXRqa3Q3Rl8tc3lqQnJER3FxUTBCM2JOV0J2SjIxNzA?oc=5",
+      "title": "Anthropic's Mythos is already finding security flaws in Apple software - Mashable",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGlkQ0JseF94aTczVk5hTWZPRWtPWnpWR253SWtnQ29HRXNhMi1RWkVQaGZvamZady1nNGItdHFmUlh4RmVrUHFMZlliTmMwdm0waHdsTDlSX2lsWC1McnFCRmRiQkZBcjVUdlZqMjZ2cEFTaTE1bkQxeW8yVU14b2RXZGFicERCal80R29R?oc=5",
+      "title": "Security Researchers, Aided By Anthropic's Mythos, Claim To Have Breached macOS - Engadget",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930447/microsoft-claude-code-discontinued-notepad",
-      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkhsV0tkT0ZLZHBoRGxBSFNmYURMZW9MZnJGaFlsMDY3cDlKM3pkeVYxZWNuYXNfa1BuZjVfUkFMUVBleFhXSzN1dmUyVmJOQ19Zc2t5VjE1ZWVWNmhGQnhKZi1GeXFzTXVkY3lwdkloRHp0VGZQNkNISlhGZ1FIVFJ5RWNHUjNabm5tQ3dVYVMxUGpKeERr?oc=5",
+      "title": "Anthropic and PwC in New Push to Embed Claude in Corporate World - AI Business",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "title": "What happens when AI starts building itself?",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+      "title": "Google updates its spam rules to include attempts to 'manipulate' AI",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports 'record quarterly revenue'",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdz5gr/built_a_fully_offline_suitcase_robot_around_a/",
+      "title": "Built a fully offline suitcase robot around a Jetson Orin NX SUPER 16GB. Gemma 4 E4B, ~200ms cached TTFT, 30+ sensors, no WiFi/BT/cellular. He has opinions.",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UT25PT2ZVemEyNW5mY0RnYjlHa0NhUGw4cVlZWUNaaDdySnRMMXZXZVJMcHRKN25kRzBsVzNINFhUSHhmTGI4MU5JUDEtUVFLcEktM1VvbUZCc1RKUkhwcTFWY3gyWEdQMGZN?oc=5",
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te5xpu/orthrusqwen38b_up_to_78tokensforward_on_qwen38b/",
+      "title": "Orthrus-Qwen3-8B : up to 7.8×tokens/forward on Qwen3-8B, frozen backbone, provably identical output distribution",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeldRcDk3WWpRMHo1a0Qwb3djcGNxOXVVbHAtYVNnT1dtbnZkdGsyc0FlZUNxNDZoaFlaZUhLWGRnMVRaemdvblp1MjVFQjFiajBFM3hZOThxS25zTG9HZFVCdGdRX1JnSVphWUpaTkdjTjFFdVh0eXdhYk1lLTVjb1hacm00OHFjRDhlOGwtRWFjUUFRaHJsRjlXM0d3d1RJVTJMUEZjOGtqYndhRlktRVV3?oc=5",
-      "title": "PwC and Anthropic expand alliance for enterprise agentic AI",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1te2x04/orthrus_memoryefficient_parallel_token_generation/",
+      "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "title": "Work with Codex from anywhere",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9174",
+      "title": "b9174",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc17",
-      "title": "v0.30.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdrw0s/internlminterns2preview_hugging_face/",
+      "title": "internlm/Intern-S2-Preview · Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.24.0",
-      "title": "v0.24.0",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/top-15-claude-code-commands-8b08fc676eef?source=rss----819cc2aaeee0---4",
+      "title": "Top 15 Claude Code Commands",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tdje2d/arxiv_implements_1year_ban_for_papers_containing/",
-      "title": "arXiv implements 1-year ban for papers containing incontrovertible evidence of unchecked LLM-generated errors, such as hallucinated references or results. [N]",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/how-to-make-claude-code-follow-your-design-system-in-figma-559618cffaa9",
+      "title": "How to make Claude Code follow your design system in Figma",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0",
-      "title": "v0.21.0: [Bugfix] Fix DeepSeek V4 MTP HC state handling (#42320)",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/ai-powered-product-design-myths-reality-399c4b1ffdca?source=rss----819cc2aaeee0---4",
+      "title": "AI-Powered Product Design: Myths & Reality",
+      "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9158",
-      "title": "b9158",
-      "profile": "AI/Tech"
+      "url": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
+      "title": "The duality of language models in the browser",
+      "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://linear.app/now/code-intelligence-for-linear-agent",
-      "title": "Code Intelligence for Linear Agent",
+      "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+      "title": "Ten Data-Backed Truths Of User Experience ROI",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://linear.app/changelog/2026-05-14-code-intelligence",
-      "title": "Code Intelligence",
+      "url": "https://www.nngroup.com/articles/lean-design-system-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Small by Design: The Strength of Lean Design-System Teams",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://blog.flutter.dev/new-updates-to-a2ui-and-flutters-genui-package-e5ddff07737b?source=rss------generative_ui-5",
-      "title": "New updates to A2UI and Flutter's GenUI package",
+      "url": "https://www.nngroup.com/articles/designers-product-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "What Designers Actually Struggle with on Product Teams",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@elizabethalli/i-connected-mobbin-mcp-to-ai-and-unlocked-1000s-of-real-ui-screens-to-design-with-8e53c9d739d0?source=rss------ai_design-5",
-      "title": "I Connected Mobbin MCP to AI and Unlocked 1000s of Real UI Screens to Design With",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://pub.towardsai.net/how-to-use-claude-design-41ec2cbeb80e?source=rss------ai_design-5",
-      "title": "How to Use Claude Design",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxplanet.org/is-figma-still-relevant-in-the-ai-design-era-2b7b3c703e7b?source=rss----819cc2aaeee0---4",
-      "title": "Is Figma Still Relevant in the AI Design Era?",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4",
-      "title": "The one-dimensional pipe between two high-dimensional minds",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://uxdesign.cc/ai-made-everyone-a-creator-not-a-designer-e28deb6e603b?source=rss----138adf9c44c---4",
-      "title": "AI made everyone a creator, not a designer",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://medium.com/@needmcp/6-most-advanced-ai-design-tools-in-2026-a-developers-guide-c8f88b3f128f?source=rss------ai_design-5",
-      "title": "6 Most Advanced AI Design Tools in 2026: A Developer's Guide",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://medium.com/@anwashapal998/latest-ai-tools-in-ux-design-ac4b40591516?source=rss------ai_design-5",
-      "title": "Latest AI Tools in UX Design",
+      "url": "https://medium.com/@hello.emonhasan/the-best-designers-in-2026-wont-just-design-69b28e648d60?source=rss------ai_design-5",
+      "title": "The Best Designers in 2026 Won't Just \"Design\"",
       "profile": "Design"
     }
   ]
