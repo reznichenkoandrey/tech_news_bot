@@ -1,136 +1,118 @@
 {
-  "generated_at": "2026-05-16T07:08:26+00:00",
+  "generated_at": "2026-05-17T07:07:51+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9180",
+      "title": "b9180",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93dkg3Z2VRVFhDM1NiT3RRM040RHdLc1p6WU45Y2xMLVdWd3VFN0o3dkdNSl9PMUJsLVpJUlRTUTNCTG45RC11ZXRqa3Q3Rl8tc3lqQnJER3FxUTBCM2JOV0J2SjIxNzA?oc=5",
-      "title": "Anthropic's Mythos is already finding security flaws in Apple software - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPNUhtMEhKZGlST1RuLUotYWk4c0ZUUG1PblVJTWhrV3hweVNhcU14XzJtRHB4dVA0WHctLWJqTkF1Z3RSWEpOaG5kS0ZTN3RscHJJMUZnemRyUnZfNVZWQkZaaGhSQXpFQXkyaVZSd0ZQbUxrRm8zRWhMUGdEMUZWemszTHQxR0RaeXpBdjJDSDFwSXo1X1FEZW96LWhmT1dzX1FnU1N0OHlaRUprS3BOSGl0TnZ0QXM3akRybzlNY3dMdXk2LWptT0tsSGdLSkxFLXNmbEpKdEo3LXBlSW5saXVqLTA3WFNTajlMSmw5UnZCSjJwMTdPU29qSFV1SUZLYjZfOGVlemtjbEo4OW5fWU9NYktEUm5rNXNfamVkZFdPR0xsbElYMA?oc=5",
+      "title": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS — Claude Mythos helps security researchers bypass Memory Integrity Enforcement - Tom's Hardware",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGlkQ0JseF94aTczVk5hTWZPRWtPWnpWR253SWtnQ29HRXNhMi1RWkVQaGZvamZady1nNGItdHFmUlh4RmVrUHFMZlliTmMwdm0waHdsTDlSX2lsWC1McnFCRmRiQkZBcjVUdlZqMjZ2cEFTaTE1bkQxeW8yVU14b2RXZGFicERCal80R29R?oc=5",
-      "title": "Security Researchers, Aided By Anthropic's Mythos, Claim To Have Breached macOS - Engadget",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1terzq4/mtp_pr_merged/",
+      "title": "MTP PR Merged!!!",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkhsV0tkT0ZLZHBoRGxBSFNmYURMZW9MZnJGaFlsMDY3cDlKM3pkeVYxZWNuYXNfa1BuZjVfUkFMUVBleFhXSzN1dmUyVmJOQ19Zc2t5VjE1ZWVWNmhGQnhKZi1GeXFzTXVkY3lwdkloRHp0VGZQNkNISlhGZ1FIVFJ5RWNHUjNabm5tQ3dVYVMxUGpKeERr?oc=5",
-      "title": "Anthropic and PwC in New Push to Embed Claude in Corporate World - AI Business",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfgxc8/testing_llamacpp_mtp_support_on_qwen36_rtx_5090/",
+      "title": "Testing llama.cpp MTP support on Qwen3.6 - RTX 5090",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf3p6c/local_qwen_36_vs_frontier_models_on_a_coding/",
+      "title": "Local Qwen 3.6 vs frontier models on a coding primitive: single-file HTML canvas driving animation - results and GIFs",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1temio0/qwen3635ba3b_and_9b_are_officially_on_the_public/",
+      "title": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-      "title": "Google updates its spam rules to include attempts to 'manipulate' AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teypb8/strix_halo_llamacpp_mtp_benchmarks_27b_gets_much/",
+      "title": "Strix Halo Llama.cpp MTP Benchmarks: 27B Gets Much Faster, 35B Is Mixed",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdz5gr/built_a_fully_offline_suitcase_robot_around_a/",
-      "title": "Built a fully offline suitcase robot around a Jetson Orin NX SUPER 16GB. Gemma 4 E4B, ~200ms cached TTFT, 30+ sensors, no WiFi/BT/cellular. He has opinions.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf9iyk/ran_the_same_models_across_strix_halo_rtx_3090/",
+      "title": "Ran the same models across Strix Halo, RTX 3090, and RTX 5070 because I wanted my own numbers",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te5xpu/orthrusqwen38b_up_to_78tokensforward_on_qwen38b/",
-      "title": "Orthrus-Qwen3-8B : up to 7.8×tokens/forward on Qwen3-8B, frozen backbone, provably identical output distribution",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfh6u0/strix_halo_rocm_mtp_notes_may_2026/",
+      "title": "Strix Halo ROCm + MTP Notes (May 2026)",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1te2x04/orthrus_memoryefficient_parallel_token_generation/",
-      "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion [R]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf9tws/g4meromero31buncensoredheretic_is_out_now_a/",
+      "title": "G4-Meromero-31B-Uncensored-Heretic Is Out Now, a Finetune of Gemma 4 31B It Designed for Creative Tasks, With Kld of 0.0100 and 15/100 Refusals!",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9174",
-      "title": "b9174",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf52m2/gemma4ortenzyathecreativewordsmith31bituncensoredh/",
+      "title": "gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic is Out Now, A Writing Finetune that Aims to Improve Gemma 4 31B it Writing Quality with More Natural English and Better Prose, Good for Creative Writings, Translations and RPs!",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdrw0s/internlminterns2preview_hugging_face/",
-      "title": "internlm/Intern-S2-Preview · Hugging Face",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tens5n/backlash_against_arxivs_proposed_1_year_ban_is/",
+      "title": "Backlash against Arxiv's proposed 1 year ban is genuinely perplexing. [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxplanet.org/top-15-claude-code-commands-8b08fc676eef?source=rss----819cc2aaeee0---4",
-      "title": "Top 15 Claude Code Commands",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9191",
+      "title": "b9191",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/how-to-make-claude-code-follow-your-design-system-in-figma-559618cffaa9",
-      "title": "How to make Claude Code follow your design system in Figma",
+      "url": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4",
+      "title": "How to write a DESIGN.md file Claude can actually use",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/ai-powered-product-design-myths-reality-399c4b1ffdca?source=rss----819cc2aaeee0---4",
-      "title": "AI-Powered Product Design: Myths & Reality",
+      "url": "https://uxdesign.cc/the-undo-problem-in-ai-products-c90ff080de3b?source=rss----138adf9c44c---4",
+      "title": "The undo problem in AI products",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
-      "title": "The duality of language models in the browser",
+      "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4",
+      "title": "Opening your place to the street",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-      "title": "Ten Data-Backed Truths Of User Experience ROI",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://www.nngroup.com/articles/lean-design-system-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Small by Design: The Strength of Lean Design-System Teams",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://www.nngroup.com/articles/designers-product-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "What Designers Actually Struggle with on Product Teams",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/@hello.emonhasan/the-best-designers-in-2026-wont-just-design-69b28e648d60?source=rss------ai_design-5",
-      "title": "The Best Designers in 2026 Won't Just \"Design\"",
+      "url": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4",
+      "title": "Should we be kind to machines (for our own sake, really)?",
       "profile": "Design"
     }
   ]
