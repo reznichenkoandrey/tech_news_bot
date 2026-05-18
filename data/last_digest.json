@@ -1,118 +1,148 @@
 {
-  "generated_at": "2026-05-17T07:07:51+00:00",
+  "generated_at": "2026-05-18T07:07:29+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9180",
-      "title": "b9180",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9200",
+      "title": "b9200",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg6sgn/may_2026_updated_chart_of_strix_halo_mini_pc_size/",
+      "title": "May 2026 updated chart of strix halo mini pc size chart",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgecrq/i_built_a_coding_agent_that_gets_87_on_benchmarks/",
+      "title": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPNUhtMEhKZGlST1RuLUotYWk4c0ZUUG1PblVJTWhrV3hweVNhcU14XzJtRHB4dVA0WHctLWJqTkF1Z3RSWEpOaG5kS0ZTN3RscHJJMUZnemRyUnZfNVZWQkZaaGhSQXpFQXkyaVZSd0ZQbUxrRm8zRWhMUGdEMUZWemszTHQxR0RaeXpBdjJDSDFwSXo1X1FEZW96LWhmT1dzX1FnU1N0OHlaRUprS3BOSGl0TnZ0QXM3akRybzlNY3dMdXk2LWptT0tsSGdLSkxFLXNmbEpKdEo3LXBlSW5saXVqLTA3WFNTajlMSmw5UnZCSjJwMTdPU29qSFV1SUZLYjZfOGVlemtjbEo4OW5fWU9NYktEUm5rNXNfamVkZFdPR0xsbElYMA?oc=5",
-      "title": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS — Claude Mythos helps security researchers bypass Memory Integrity Enforcement - Tom's Hardware",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/",
+      "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1terzq4/mtp_pr_merged/",
-      "title": "MTP PR Merged!!!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg4mw0/benchmarking_vllm_vs_sglang_vs_llamacpp_on_a/",
+      "title": "Benchmarking vLLM vs SGLang vs llama.cpp on a mixed Blackwell/Ada cluster",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfgxc8/testing_llamacpp_mtp_support_on_qwen36_rtx_5090/",
-      "title": "Testing llama.cpp MTP support on Qwen3.6 - RTX 5090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg90pu/i_trained_time_short_contexttriggered_thinking_on/",
+      "title": "I trained TIME: short context-triggered thinking on Qwen model instead of overthinking",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf3p6c/local_qwen_36_vs_frontier_models_on_a_coding/",
-      "title": "Local Qwen 3.6 vs frontier models on a coding primitive: single-file HTML canvas driving animation - results and GIFs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg6j9u/benchmarking_the_new_b9200_update_optimizing_qwen/",
+      "title": "Benchmarking the new b9200 update: Optimizing Qwen 3.6 27B mtp for Hermes Agent on a single RTX 3090",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1temio0/qwen3635ba3b_and_9b_are_officially_on_the_public/",
-      "title": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfzsd6/m5_vs_dgx_spark_vs_strix_halo_vs_rtx_6000/",
+      "title": "M5 vs DGX Spark vs Strix Halo vs RTX 6000",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teypb8/strix_halo_llamacpp_mtp_benchmarks_27b_gets_much/",
-      "title": "Strix Halo Llama.cpp MTP Benchmarks: 27B Gets Much Faster, 35B Is Mixed",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg7s7j/gemma4gembrain31bituncensoredheretic_is_out_now_a/",
+      "title": "Gemma-4-Gembrain-31B-it-uncensored-heretic Is Out Now, a Merge of Multiple Gemma 4 31B it Finetunes",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf9iyk/ran_the_same_models_across_strix_halo_rtx_3090/",
-      "title": "Ran the same models across Strix Halo, RTX 3090, and RTX 5070 because I wanted my own numbers",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfpvod/recent_developments_in_llm_architectures_kv/",
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfh6u0/strix_halo_rocm_mtp_notes_may_2026/",
-      "title": "Strix Halo ROCm + MTP Notes (May 2026)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tflngz/dual_gpu_llamacpp_speedup/",
+      "title": "Dual GPU llama.cpp speedup",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf9tws/g4meromero31buncensoredheretic_is_out_now_a/",
-      "title": "G4-Meromero-31B-Uncensored-Heretic Is Out Now, a Finetune of Gemma 4 31B It Designed for Creative Tasks, With Kld of 0.0100 and 15/100 Refusals!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tftg09/rocm_713_nightly_adds_strix_halo_optimizations/",
+      "title": "ROCm 7.13 nightly adds strix halo optimizations",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf52m2/gemma4ortenzyathecreativewordsmith31bituncensoredh/",
-      "title": "gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic is Out Now, A Writing Finetune that Aims to Improve Gemma 4 31B it Writing Quality with More Natural English and Better Prose, Good for Creative Writings, Translations and RPs!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg8j0l/flashlm_v97/",
+      "title": "FlashLM v9.7",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tens5n/backlash_against_arxivs_proposed_1_year_ban_is/",
-      "title": "Backlash against Arxiv's proposed 1 year ban is genuinely perplexing. [D]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tge8dq/big_new_memory_tool_with_local_benchmarks/",
+      "title": "Big new memory tool with local benchmarks",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9191",
-      "title": "b9191",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfv0vh/slop_is_making_me_feel_disconnected_from_ai/",
+      "title": "Slop is making me feel disconnected from AI Research [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4",
-      "title": "How to write a DESIGN.md file Claude can actually use",
+      "url": "https://bit.ly/side-div4",
+      "title": "html.to.design — New Chrome extension feature",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/the-undo-problem-in-ai-products-c90ff080de3b?source=rss----138adf9c44c---4",
-      "title": "The undo problem in AI products",
+      "url": "https://thesvg.org/",
+      "title": "theSVG",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4",
-      "title": "Opening your place to the street",
+      "url": "https://medium.com/@tulsisomaiah9/how-i-built-a-design-system-with-ai-as-my-coworker-039fed05be3d?source=rss------ai_design-5",
+      "title": "How I Built a Design System With AI as My Coworker",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4",
-      "title": "Should we be kind to machines (for our own sake, really)?",
+      "url": "https://medium.com/@fatimaabel.arq/spotahome-designing-an-ai-powered-gen-z-focused-renting-journey-d752dcb66d24?source=rss------ai_design-5",
+      "title": "Spotahome: Designing an AI-powered✨, Gen Z–focused renting journey",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://flowingdata.com/projects/dishonest-charts/",
+      "title": "Defense against dishonest charts",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://kk.org/thetechnium/a-catechism-for-robots/",
+      "title": "A catechism for robots",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://www.wallpaper.com/art/the-aesthetics-of-optimisation",
+      "title": "How the pursuit of optimisation reshaped art, aesthetics and us",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
+      "title": "How mobile apps are reshaping screening for cognitive decline",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4",
+      "title": "Two gears, one compass: designing at velocity while sustaining quality",
       "profile": "Design"
     }
   ]
