@@ -1,148 +1,154 @@
 {
-  "generated_at": "2026-05-18T07:07:29+00:00",
+  "generated_at": "2026-05-19T07:07:20+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9200",
-      "title": "b9200",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg6sgn/may_2026_updated_chart_of_strix_halo_mini_pc_size/",
-      "title": "May 2026 updated chart of strix halo mini pc size chart",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgecrq/i_built_a_coding_agent_that_gets_87_on_benchmarks/",
-      "title": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/",
-      "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "title": "The Open Agent Leaderboard",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg4mw0/benchmarking_vllm_vs_sglang_vs_llamacpp_on_a/",
-      "title": "Benchmarking vLLM vs SGLang vs llama.cpp on a mixed Blackwell/Ada cluster",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "title": "Amazon's new Alexa+ powered feature can generate podcast episodes",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg90pu/i_trained_time_short_contexttriggered_thinking_on/",
-      "title": "I trained TIME: short context-triggered thinking on Qwen model instead of overthinking",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg6j9u/benchmarking_the_new_b9200_update_optimizing_qwen/",
-      "title": "Benchmarking the new b9200 update: Optimizing Qwen 3.6 27B mtp for Hermes Agent on a single RTX 3090",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfzsd6/m5_vs_dgx_spark_vs_strix_halo_vs_rtx_6000/",
-      "title": "M5 vs DGX Spark vs Strix Halo vs RTX 6000",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg7s7j/gemma4gembrain31bituncensoredheretic_is_out_now_a/",
-      "title": "Gemma-4-Gembrain-31B-it-uncensored-heretic Is Out Now, a Merge of Multiple Gemma 4 31B it Finetunes",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgxau6/llamacpp_mtp_support_landed_qwen36_27b_at_244_on/",
+      "title": "llama.cpp MTP support landed - Qwen3.6 27B at 2.44× on a Strix Halo, 2.17× on a RTX 3090 rig",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfpvod/recent_developments_in_llm_architectures_kv/",
-      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgm0k9/i_tested_42_llms_on_their_willingness_to_build/",
+      "title": "I tested 42 LLMs on their willingness to build the apocalypse. The \"safest\" closed-source models are lying to you.",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tflngz/dual_gpu_llamacpp_speedup/",
-      "title": "Dual GPU llama.cpp speedup",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgis7s/qwen_36_27b_on_24gb_vram_setup_backend/",
+      "title": "Qwen 3.6 27B on 24GB VRAM setup: backend comparisons, quant choice and settings (llama.cpp, ik_llama.cpp, BeeLlama, vllm)",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tftg09/rocm_713_nightly_adds_strix_halo_optimizations/",
-      "title": "ROCm 7.13 nightly adds strix halo optimizations",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tgmwqr/reviving_paperswithcode_by_hugging_face_p/",
+      "title": "Reviving PapersWithCode (by Hugging Face) [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg8j0l/flashlm_v97/",
-      "title": "FlashLM v9.7",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc20",
+      "title": "v0.30.0",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tge8dq/big_new_memory_tool_with_local_benchmarks/",
-      "title": "Big new memory tool with local benchmarks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgpabe/qwen_37_droped_on_qwen_chat/",
+      "title": "Qwen 3.7 droped on Qwen Chat",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tfv0vh/slop_is_making_me_feel_disconnected_from_ai/",
-      "title": "Slop is making me feel disconnected from AI Research [D]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1theffd/qwen_is_cooking_hard/",
+      "title": "Qwen is cooking hard",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://bit.ly/side-div4",
-      "title": "html.to.design — New Chrome extension feature",
+      "url": "https://uxplanet.org/7-claude-code-prompt-keywords-to-improve-ai-coding-efficiency-e6025ddebda3?source=rss----819cc2aaeee0---4",
+      "title": "7 Claude Code Prompt Keywords to Improve AI Coding Efficiency",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://thesvg.org/",
-      "title": "theSVG",
+      "url": "https://uxplanet.org/claude-haiku-the-most-underrated-ai-model-on-the-market-a83197203565?source=rss----819cc2aaeee0---4",
+      "title": "Claude Haiku: The Most Underrated AI Model on the Market",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@tulsisomaiah9/how-i-built-a-design-system-with-ai-as-my-coworker-039fed05be3d?source=rss------ai_design-5",
-      "title": "How I Built a Design System With AI as My Coworker",
+      "url": "https://medium.com/@yuanyuan.hu_87365/accelerated-human-centered-design-innovate-at-the-speed-of-ai-ebce17f352b3?source=rss------ai_design-5",
+      "title": "Accelerated Human-Centered Design — Innovate at the Speed of AI",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@fatimaabel.arq/spotahome-designing-an-ai-powered-gen-z-focused-renting-journey-d752dcb66d24?source=rss------ai_design-5",
-      "title": "Spotahome: Designing an AI-powered✨, Gen Z–focused renting journey",
+      "url": "https://medium.com/@deekshitha_seeramdas/your-website-isnt-for-humans-anymore-bfb6da1f4015?source=rss------generative_ui-5",
+      "title": "Your Website Isn't for Humans Anymore",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://flowingdata.com/projects/dishonest-charts/",
-      "title": "Defense against dishonest charts",
+      "url": "https://medium.com/design-bootcamp/why-your-ai-prompts-arent-working-and-how-to-fix-them-as-a-designer-18d26592290f?source=rss------ai_ux-5",
+      "title": "Why Your AI Prompts Aren't Working — And How to Fix Them as a Designer",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://kk.org/thetechnium/a-catechism-for-robots/",
-      "title": "A catechism for robots",
+      "url": "https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4",
+      "title": "The waiting problem in AI products",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://www.wallpaper.com/art/the-aesthetics-of-optimisation",
-      "title": "How the pursuit of optimisation reshaped art, aesthetics and us",
+      "url": "https://medium.com/design-bootcamp/cheaper-ai-better-results-35b22872773d?source=rss------ai_design-5",
+      "title": "Cheaper AI, better results",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
-      "title": "How mobile apps are reshaping screening for cognitive decline",
+      "url": "https://uakhilkumar.medium.com/companies-want-three-types-of-designers-in-2026-the-traditional-senior-isnt-one-c25f95996b4b?source=rss------ai_design-5",
+      "title": "Companies want three types of designers in 2026. The traditional senior isn't one.",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4",
-      "title": "Two gears, one compass: designing at velocity while sustaining quality",
+      "url": "https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4",
+      "title": "Be like water, The death of the empty state, AI for UX",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+      "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
       "profile": "Design"
     }
   ]
