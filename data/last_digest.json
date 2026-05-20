@@ -1,154 +1,154 @@
 {
-  "generated_at": "2026-05-19T07:07:20+00:00",
+  "generated_at": "2026-05-20T07:06:38+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "title": "Google Search as you know it is over",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "title": "The Open Agent Leaderboard",
+      "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+      "title": "Google wants to compete with Anthropic's Mythos",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "title": "Amazon's new Alexa+ powered feature can generate podcast episodes",
+      "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
+      "title": "Google can now vibe-code you an Android app",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+      "title": "Google's Gemini Omni turns images, audio, and text into video — and that's just the start",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgxau6/llamacpp_mtp_support_landed_qwen36_27b_at_244_on/",
-      "title": "llama.cpp MTP support landed - Qwen3.6 27B at 2.44× on a Strix Halo, 2.17× on a RTX 3090 rig",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iemlXdko4M2RsQ1FKVGVnaV9BUWEtUGZrTkdsaDlwczI1UE10OG5FU0JHbkdiZmFzTmN0UXpNRjhySHBiSk5YeG83XzU2RkF0dWhWbWZia2k?oc=5",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgm0k9/i_tested_42_llms_on_their_willingness_to_build/",
-      "title": "I tested 42 LLMs on their willingness to build the apocalypse. The \"safest\" closed-source models are lying to you.",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "title": "OlmoEarth v1.1: A more efficient family of models",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgis7s/qwen_36_27b_on_24gb_vram_setup_backend/",
-      "title": "Qwen 3.6 27B on 24GB VRAM setup: backend comparisons, quant choice and settings (llama.cpp, ik_llama.cpp, BeeLlama, vllm)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thsw7b/carbon_decoding_the_language_of_life/",
+      "title": "Carbon: Decoding the Language of Life",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tgmwqr/reviving_paperswithcode_by_hugging_face_p/",
-      "title": "Reviving PapersWithCode (by Hugging Face) [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thkwgk/bytedance_released_an_open_source_model_that/",
+      "title": "bytedance released an open source model that attempts to do just about anything with only 3b parameters",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc20",
-      "title": "v0.30.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thnnjs/the_pacman_benchmark_finally_a_viable_local/",
+      "title": "The pacman benchmark: finally a viable local agentic coding agent with Qwen 3.6 27b",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgpabe/qwen_37_droped_on_qwen_chat/",
-      "title": "Qwen 3.7 droped on Qwen Chat",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9235",
+      "title": "b9235",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1theffd/qwen_is_cooking_hard/",
-      "title": "Qwen is cooking hard",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc21",
+      "title": "v0.30.0",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/7-claude-code-prompt-keywords-to-improve-ai-coding-efficiency-e6025ddebda3?source=rss----819cc2aaeee0---4",
-      "title": "7 Claude Code Prompt Keywords to Improve AI Coding Efficiency",
+      "url": "https://2026.stateofai.dev/",
+      "title": "State of AI 2026 Survey Results",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/claude-haiku-the-most-underrated-ai-model-on-the-market-a83197203565?source=rss----819cc2aaeee0---4",
-      "title": "Claude Haiku: The Most Underrated AI Model on the Market",
+      "url": "https://addyosmani.com/blog/dont-outsource-learning/",
+      "title": "Don't outsource the learning",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@yuanyuan.hu_87365/accelerated-human-centered-design-innovate-at-the-speed-of-ai-ebce17f352b3?source=rss------ai_design-5",
-      "title": "Accelerated Human-Centered Design — Innovate at the Speed of AI",
+      "url": "https://webframp.com/posts/the-workflow-collision/",
+      "title": "The workflow collision",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@deekshitha_seeramdas/your-website-isnt-for-humans-anymore-bfb6da1f4015?source=rss------generative_ui-5",
-      "title": "Your Website Isn't for Humans Anymore",
+      "url": "https://blog.murphytrueman.com/your-design-system-might-be-ai-ready/",
+      "title": "Your design system might be AI-ready. Your organisation probably isn't.",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/design-bootcamp/why-your-ai-prompts-arent-working-and-how-to-fix-them-as-a-designer-18d26592290f?source=rss------ai_ux-5",
-      "title": "Why Your AI Prompts Aren't Working — And How to Fix Them as a Designer",
+      "url": "https://medium.com/@naman1102_55368/empathetic-agent-design-177d73492ac7?source=rss------ai_design-5",
+      "title": "Empathetic Agent Design",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4",
-      "title": "The waiting problem in AI products",
+      "url": "https://uxplanet.org/how-to-spot-ai-generated-design-697aaabe76c8?source=rss----819cc2aaeee0---4",
+      "title": "How To Spot AI-Generated Design",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/design-bootcamp/cheaper-ai-better-results-35b22872773d?source=rss------ai_design-5",
-      "title": "Cheaper AI, better results",
+      "url": "https://tympanus.net/codrops/2026/05/19/80s-business-tech-seamless-scene-transitions-inside-shader-ses-scroll-driven-webgpu-pipeline/",
+      "title": "80s Business Tech and Seamless Scene Transitions: Inside Shader.se's Scroll-Driven WebGPU Pipeline",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uakhilkumar.medium.com/companies-want-three-types-of-designers-in-2026-the-traditional-senior-isnt-one-c25f95996b4b?source=rss------ai_design-5",
-      "title": "Companies want three types of designers in 2026. The traditional senior isn't one.",
+      "url": "https://medium.com/@yunshengho/trying-claude-design-5bf256374bbc?source=rss------ai_design-5",
+      "title": "Trying Claude design",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4",
-      "title": "Be like water, The death of the empty state, AI for UX",
+      "url": "https://www.hannahhearth.com/posts/tools-the-vercel-product-design-team-actually-uses",
+      "title": "Tools the Vercel product design team actually uses",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
-      "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+      "url": "https://uxdesign.cc/most-ai-tools-make-users-faster-the-best-ai-tools-make-users-better-471bac7c7f86?source=rss----138adf9c44c---4",
+      "title": "Most AI tools make users faster. The best AI tools make users better.",
       "profile": "Design"
     }
   ]
