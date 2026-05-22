@@ -6,6 +6,7 @@ import json
 import logging
 import sys
 import time
+from pathlib import Path
 from typing import Any, NoReturn
 
 import requests
@@ -14,6 +15,7 @@ logger = logging.getLogger(__name__)
 
 TELEGRAM_API_BASE = "https://api.telegram.org"
 MAX_MESSAGE_CHARS = 4000  # conservative limit (hard cap is 4096)
+MAX_CAPTION_CHARS = 1024  # Telegram hard cap for sendPhoto caption
 MAX_RETRIES = 3
 BACKOFF_BASE_SECONDS = 1  # doubles each retry: 1s, 2s, 4s
 
@@ -108,6 +110,84 @@ def _post_with_retry(
             wait = BACKOFF_BASE_SECONDS * (2 ** attempt)
             logger.warning("Помилка %d, чекаю %ds (спроба %d/%d)", response.status_code, wait, attempt + 1, MAX_RETRIES)
             time.sleep(wait)
+
+
+def _post_multipart_with_retry(
+    url: str,
+    data: dict,
+    files: dict,
+) -> None:
+    """
+    Same retry semantics as _post_with_retry but for multipart/form-data
+    requests (used by sendPhoto). `files` is a dict of name → (filename, fh, mime).
+    """
+    for attempt in range(MAX_RETRIES + 1):
+        try:
+            response = requests.post(url, data=data, files=files, timeout=30)
+        except requests.RequestException as exc:
+            if attempt < MAX_RETRIES:
+                wait = BACKOFF_BASE_SECONDS * (2 ** attempt)
+                logger.warning("Мережева помилка (спроба %d/%d), чекаю %ds: %s", attempt + 1, MAX_RETRIES, wait, exc)
+                time.sleep(wait)
+                continue
+            raise TelegramError(f"Мережева помилка після {MAX_RETRIES} спроб: {exc}") from exc
+
+        if response.status_code == 200:
+            return
+
+        if response.status_code not in RETRYABLE_STATUSES:
+            raise TelegramError(
+                f"Telegram API помилка {response.status_code}: {response.text[:200]}"
+            )
+
+        if attempt >= MAX_RETRIES:
+            raise TelegramError(
+                f"Telegram API повертає {response.status_code} після {MAX_RETRIES} спроб. "
+                f"Відповідь: {response.text[:200]}"
+            )
+
+        if response.status_code == 429:
+            try:
+                retry_after = int(response.json().get("parameters", {}).get("retry_after", BACKOFF_BASE_SECONDS * (2 ** attempt)))
+            except (ValueError, AttributeError):
+                retry_after = BACKOFF_BASE_SECONDS * (2 ** attempt)
+            logger.warning("Rate limit 429, чекаю %ds (спроба %d/%d)", retry_after, attempt + 1, MAX_RETRIES)
+            time.sleep(retry_after)
+        else:
+            wait = BACKOFF_BASE_SECONDS * (2 ** attempt)
+            logger.warning("Помилка %d, чекаю %ds (спроба %d/%d)", response.status_code, wait, attempt + 1, MAX_RETRIES)
+            time.sleep(wait)
+
+
+def send_photo(
+    photo_path: str,
+    token: str,
+    chat_id: str,
+    caption: str | None = None,
+    parse_mode: str = "HTML",
+) -> None:
+    """
+    Upload a local image file to a Telegram chat with an optional HTML caption.
+
+    Caption is capped at MAX_CAPTION_CHARS (Telegram hard limit) — caller
+    must keep it short. Raises TelegramError on permanent failure.
+    """
+    url = f"{TELEGRAM_API_BASE}/bot{token}/sendPhoto"
+    data: dict[str, Any] = {"chat_id": chat_id}
+    if caption:
+        if len(caption) > MAX_CAPTION_CHARS:
+            logger.warning(
+                "Caption завеликий (%d > %d), обрізаю", len(caption), MAX_CAPTION_CHARS,
+            )
+            caption = caption[:MAX_CAPTION_CHARS]
+        data["caption"] = caption
+        data["parse_mode"] = parse_mode
+
+    with open(photo_path, "rb") as fh:
+        files = {"photo": (Path(photo_path).name, fh, "image/png")}
+        logger.info("Надсилаю фото %s до чату %s", photo_path, chat_id)
+        _post_multipart_with_retry(url, data, files)
+    logger.info("Фото надіслано")
 
 
 def send_message(

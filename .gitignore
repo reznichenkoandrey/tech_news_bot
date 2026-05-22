@@ -29,3 +29,7 @@ env/
 
 # Claude Code local
 .claude/settings.local.json
+
+# Digest banner runtime artifacts (regenerated each run)
+data/_banner.png
+data/banner_preview.png

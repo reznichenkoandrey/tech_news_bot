@@ -23,9 +23,10 @@ from zoneinfo import ZoneInfo
 import requests
 import yaml
 
+from src.banner import render_digest_banner
 from src.dedup import _items_from_json, filter_new, load_seen, save_seen
 from src.models import DigestEntry, FeedItem
-from src.telegram import TelegramError, send_message
+from src.telegram import TelegramError, send_message, send_photo
 
 logger = logging.getLogger("digest_pipeline")
 
@@ -101,7 +102,10 @@ def build_llm_prompt(items: list[FeedItem], window_hours: int, max_items: int) -
     return f"""Ти готуєш AI/tech дайджест українською. На вхід — список новин за останні {window_hours} годин у JSON.
 
 Для кожного item обери:
-- `summary_uk` — 1-2 речення українською (150-250 символів), суто фактичний зміст, без інтерпретацій, без emoji. Англійську термінологію залиши (LLM, inference, fine-tuning) де немає усталеного перекладу. Не повторюй `source` у summary (він в заголовку). Якщо GitHub releases feed pre-release/rc — познач "(pre-release)".
+- `summary_uk` — рівно 2 речення українською (220-340 символів РАЗОМ), без emoji, без markdown:
+  - **1-е речення** — суто фактичний зміст (що саме сталось: який реліз, яка фіча, які цифри, який вердикт). Без оцінок.
+  - **2-е речення** — короткий тверезий інсайт: **чому це важливо ЗАРАЗ або що це змінить у найближчий тиждень-місяць** для розробника/команди/ринку. Не передбачення на роки, не маркетинг, не "це революція". Якщо інсайт справді не вартий згадки (минорний bugfix, чийсь твіт без наслідків) — друге речення може бути просто "Для більшості команд — без негайних дій." або аналогічне чесне.
+  Англійську термінологію залиши (LLM, inference, fine-tuning) де немає усталеного перекладу. Не повторюй `source` у summary (він в заголовку). Якщо GitHub releases feed pre-release/rc — познач "(pre-release)" у 1-му реченні.
 - `importance` 1-5:
   - 5: major реліз великої лабораторії (нова модель Claude/GPT/Gemini, великий open-source реліз LLaMA/Mistral, критична вразливість, поглинання)
   - 4: нові фічі в продуктах OpenAI/Anthropic/Google, значний реліз фреймворку (vLLM, transformers 5.x)
@@ -261,30 +265,35 @@ def render_digest_footer() -> str:
 
 def render_digest_html(
     entries: list[dict],
-    window_hours: int,
-    title: str = "🤖 AI/Tech дайджест",
     *,
+    header_text: str | None,
     start_idx: int = 1,
     include_footer: bool = True,
 ) -> str:
     """
-    Render the full digest as a single HTML blob: header, all numbered items,
-    optional footer with action hints. The Telegram sender chunks if it
-    exceeds 4000 chars (rare for typical 15-item digests).
+    Render the digest body as a single HTML blob.
+
+    `header_text` is the fully-formed HTML header (or None to omit, e.g. when
+    a banner photo already carries the header). When provided, a divider rule
+    is inserted between header and items.
 
     `start_idx` lets callers continue numbering across profiles so /save N
     references a globally unique item.
     """
-    header = render_digest_header(len(entries), window_hours, title)
     blocks = [render_digest_item(start_idx + i, e) for i, e in enumerate(entries)]
-    parts = [
-        header,
-        "━━━━━━━━━━━━━━━━━━━━",
-        "\n\n".join(blocks),
-    ]
+    parts: list[str] = []
+    if header_text:
+        parts.append(header_text)
+        parts.append("━━━━━━━━━━━━━━━━━━━━")
+    parts.append("\n\n".join(blocks))
     if include_footer:
         parts.append(render_digest_footer())
     return "\n\n".join(parts)
+
+
+def render_profile_subheader(profile: dict) -> str:
+    """Compact one-line header used when the banner already shows the umbrella title."""
+    return f"<b>{profile['emoji']} {profile['name']}</b>"
 
 
 def load_digest_configs() -> list[dict]:
@@ -317,6 +326,7 @@ def run_digest(
     window: int,
     max_items: int,
     start_idx: int = 1,
+    header_text: str | None,
     include_footer: bool = True,
 ) -> tuple[int, list[str], list[dict]]:
     """
@@ -327,18 +337,17 @@ def run_digest(
     the LLM-curated top-N — main() folds it into data/last_digest.json so the
     Worker can resolve /save N, /hide N, /deep N to the correct URL.
 
-    `start_idx` is the global counter offset so /save N stays unique when
-    multiple profiles run back-to-back.
+    `header_text` is the HTML header for this profile's post (or None to
+    omit when a preceding banner already carries the title). `start_idx` is
+    the global counter offset so /save N stays unique when multiple profiles
+    run back-to-back.
 
     Raises on LLM/network failure so caller can notify and continue with
     the next profile.
     """
     name = config["name"]
-    emoji = config["emoji"]
-    topic_slugs = set(config["topics"])
-    title = f"{emoji} {name} дайджест"
 
-    filtered = filter_by_topics(new_items, topic_slugs)
+    filtered = filter_by_topics(new_items, set(config["topics"]))
     considered = [i.url for i in filtered]
     logger.info("[%s] %d items after topic filter", name, len(filtered))
 
@@ -354,7 +363,10 @@ def run_digest(
         return (0, considered, [])
 
     text = render_digest_html(
-        entries, window, title, start_idx=start_idx, include_footer=include_footer,
+        entries,
+        header_text=header_text,
+        start_idx=start_idx,
+        include_footer=include_footer,
     )
     send_message(text, tg_token, tg_chat, disable_web_page_preview=True)
 
@@ -429,6 +441,75 @@ def resolve_digest_profiles() -> list[dict]:
     return _overlay_with_user_filter(base, load_user_prefs_active_topics())
 
 
+def _try_send_banner(
+    *,
+    new_items_count: int,
+    window_hours: int,
+    tg_token: str,
+    tg_chat: str,
+    date_uk: str,
+) -> bool:
+    """
+    Render the digest banner to a temp file and send it as a Telegram photo
+    with a short HTML caption. Returns True on success, False on any failure
+    (caller falls back to text-only header).
+
+    Never raises — banner is a visual nice-to-have, not a blocker.
+    """
+    banner_path = REPO_ROOT / "data" / "_banner.png"
+    try:
+        render_digest_banner(
+            banner_path,
+            count=new_items_count,
+            profile_name="AI/Tech дайджест",
+        )
+    except Exception as exc:
+        logger.warning("Banner render failed, falling back to text header: %s", exc)
+        return False
+
+    caption = (
+        f"<b>🤖 AI/Tech дайджест</b>\n"
+        f"<i>{date_uk} · {new_items_count} нових за {window_hours}г</i>"
+    )
+    try:
+        send_photo(str(banner_path), tg_token, tg_chat, caption=caption, parse_mode="HTML")
+    except TelegramError as exc:
+        logger.warning("Banner send failed, falling back to text header: %s", exc)
+        return False
+    except Exception as exc:
+        logger.warning("Unexpected banner send error: %s", exc)
+        return False
+
+    return True
+
+
+def _compose_header_text(
+    *,
+    profile: dict,
+    window_hours: int,
+    banner_sent: bool,
+    multi_profile: bool,
+) -> str | None:
+    """
+    Decide the per-profile text header based on whether the banner photo went
+    out and whether we're running multiple profiles.
+
+    - banner sent + single profile → no text header (banner is enough)
+    - banner sent + multi profile → compact one-line sub-header per profile
+    - banner failed → full legacy header per profile (backward compatible)
+    """
+    if banner_sent and not multi_profile:
+        return None
+    if banner_sent and multi_profile:
+        return render_profile_subheader(profile)
+    # Legacy path (banner failed): plain text header per profile. We don't
+    # know item count yet, so subtitle is just date + window — items render
+    # right below, so the count is visible by scrolling.
+    title = f"{profile['emoji']} {profile['name']} дайджест"
+    date_uk = render_date_uk()
+    return f"<b>{title} — {date_uk}</b>\n<i>за останні {window_hours}г</i>"
+
+
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
 
@@ -455,6 +536,20 @@ def main() -> int:
 
     date_uk = render_date_uk()
 
+    # Try to render and send the header banner once (best-effort). If it works,
+    # individual profile posts skip the full text header — banner already carries
+    # the umbrella title. If anything goes wrong (PIL missing, font I/O, network),
+    # we fall back to the legacy text-only header inside each profile.
+    banner_sent = False
+    if new_items:
+        banner_sent = _try_send_banner(
+            new_items_count=len(new_items),
+            window_hours=window,
+            tg_token=tg_token,
+            tg_chat=tg_chat,
+            date_uk=date_uk,
+        )
+
     total_sent = 0
     urls_to_persist: set[str] = set()
     failures: list[str] = []
@@ -463,6 +558,12 @@ def main() -> int:
 
     for profile_idx, profile in enumerate(profiles):
         is_last = profile_idx == len(profiles) - 1
+        header_text = _compose_header_text(
+            profile=profile,
+            window_hours=window,
+            banner_sent=banner_sent,
+            multi_profile=len(profiles) > 1,
+        )
         try:
             sent, considered, entries = run_digest(
                 profile,
@@ -473,6 +574,7 @@ def main() -> int:
                 window=window,
                 max_items=max_items,
                 start_idx=next_n,
+                header_text=header_text,
                 # Footer (with /save N hint) lives only on the final post so
                 # it doesn't repeat between profile blocks.
                 include_footer=is_last,

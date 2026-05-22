@@ -76,6 +76,7 @@ def test_run_digest_skips_when_no_items_after_filter(monkeypatch):
         tg_chat="z",
         window=24,
         max_items=15,
+        header_text=None,
     )
     assert sent == 0
     assert urls == []
@@ -94,6 +95,7 @@ def test_run_digest_happy_path_renders_single_blob(monkeypatch):
     monkeypatch.setattr(pipeline, "call_llm", fake_llm)
     monkeypatch.setattr(pipeline, "send_message", fake_send)
 
+    legacy_header = "<b>🎨 Design дайджест — 20.05.2026</b>\n<i>за останні 24г</i>"
     sent, urls, entries = pipeline.run_digest(
         {"name": "Design", "emoji": "🎨", "topics": ["design"]},
         [_item("http://a", ["design"]), _item("http://b", ["ai-lab"])],
@@ -103,6 +105,7 @@ def test_run_digest_happy_path_renders_single_blob(monkeypatch):
         window=24,
         max_items=15,
         start_idx=7,
+        header_text=legacy_header,
     )
     assert sent == 1
     assert urls == ["http://a"]
@@ -137,11 +140,87 @@ def test_run_digest_considered_urls_include_everything_matched_even_if_llm_drops
         tg_chat="z",
         window=24,
         max_items=15,
+        header_text=None,
     )
     assert sent == 1  # LLM only returned one
     assert set(urls) == {"http://a", "http://b", "http://c"}  # dedup covers all filtered
     assert len(entries) == 1
 
+
+# ── _try_send_banner ─────────────────────────────────────────────────────────
+
+def test_try_send_banner_returns_false_when_render_raises(monkeypatch):
+    def boom(*a, **k):
+        raise OSError("missing fonts")
+    monkeypatch.setattr(pipeline, "render_digest_banner", boom)
+    monkeypatch.setattr(pipeline, "send_photo", lambda *a, **k: pytest.fail("send_photo must not be called"))
+    assert pipeline._try_send_banner(
+        new_items_count=10, window_hours=24, tg_token="t", tg_chat="c", date_uk="20.05.2026",
+    ) is False
+
+
+def test_try_send_banner_returns_false_when_send_fails(monkeypatch):
+    monkeypatch.setattr(pipeline, "render_digest_banner", lambda *a, **k: None)
+    def boom(*a, **k):
+        raise pipeline.TelegramError("403")
+    monkeypatch.setattr(pipeline, "send_photo", boom)
+    assert pipeline._try_send_banner(
+        new_items_count=10, window_hours=24, tg_token="t", tg_chat="c", date_uk="20.05.2026",
+    ) is False
+
+
+def test_try_send_banner_returns_true_on_happy_path(monkeypatch):
+    captured: dict = {}
+    monkeypatch.setattr(pipeline, "render_digest_banner", lambda *a, **k: None)
+    def fake_send(path, token, chat, caption=None, parse_mode="HTML"):
+        captured["path"] = path
+        captured["caption"] = caption
+    monkeypatch.setattr(pipeline, "send_photo", fake_send)
+    assert pipeline._try_send_banner(
+        new_items_count=12, window_hours=24, tg_token="t", tg_chat="c", date_uk="20.05.2026",
+    ) is True
+    # Caption mentions count and date so users see the context even on banner-only push notification.
+    assert "12 нових" in captured["caption"]
+    assert "20.05.2026" in captured["caption"]
+
+
+# ── _compose_header_text ──────────────────────────────────────────────────────
+
+def test_compose_header_text_banner_sent_single_profile_returns_none():
+    """When banner photo covers the umbrella title and only one profile runs,
+    individual post needs no text header."""
+    result = pipeline._compose_header_text(
+        profile={"name": "AI/Tech", "emoji": "🤖", "topics": []},
+        window_hours=24,
+        banner_sent=True,
+        multi_profile=False,
+    )
+    assert result is None
+
+
+def test_compose_header_text_banner_sent_multi_profile_returns_compact_subheader():
+    result = pipeline._compose_header_text(
+        profile={"name": "Design", "emoji": "🎨", "topics": []},
+        window_hours=24,
+        banner_sent=True,
+        multi_profile=True,
+    )
+    assert result == "<b>🎨 Design</b>"
+
+
+def test_compose_header_text_no_banner_returns_full_legacy_header():
+    result = pipeline._compose_header_text(
+        profile={"name": "AI/Tech", "emoji": "🤖", "topics": []},
+        window_hours=24,
+        banner_sent=False,
+        multi_profile=False,
+    )
+    assert result is not None
+    assert "🤖 AI/Tech дайджест" in result
+    assert "24г" in result
+
+
+# ── save_last_digest ─────────────────────────────────────────────────────────
 
 def test_save_last_digest_writes_numbered_map(monkeypatch, tmp_path):
     target = tmp_path / "last_digest.json"
