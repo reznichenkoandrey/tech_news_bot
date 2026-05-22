@@ -1,142 +1,154 @@
 {
-  "generated_at": "2026-05-21T07:07:30+00:00",
+  "generated_at": "2026-05-22T07:08:26+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "title": "Hark raises $700M Series A for its secretive 'universal' AI interface",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "title": "Anthropic says it's about to have its first profitable quarter",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+      "title": "Spotify is launching AI-generated remixes",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+      "title": "I can't believe how fast Google vibe coded my first Android app",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "title": "OpenAI barrels toward IPO that may happen in September",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+      "title": "Anthropic is paying $15 billion a year for access to Elon Musk's data centers",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "title": "Meta lays off thousands of employees to offset AI investments",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.9.0",
-      "title": "Release v5.9.0",
+      "url": "https://openai.com/index/adventhealth",
+      "title": "AdventHealth advances whole-person care with OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tizmar/re_what_ever_happened_to_coheres_commanda_series/",
-      "title": "Re. what ever happened to Cohere's Command-A series of models?",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGdXclcyUEQzd0dFQkdfd1N5WVA3MHpUak1xdFhpMTBrTGdsbTBIZUtnVklKTTY4YUpOZ3loc3MyNmYxeXk3NkNvb19pck1DNlZWeGRHb2lEaUl6ZUpwM3REbHh5VnVPRlJVWE10TGd5d0JEZUFXdW9BRWRfVUl3eGZsaUhMM1JWNktHbWN6alBrZmF6aDRBcUxNVHNtVktUTUoxNVNrdVVWUHpXeUhVU19RNXh6M1EwcWVnSVUwc1oyenhSWVc3LTZrd1dkUdIB0wFBVV95cUxOclZ6R21XcEJVS1RWcGFRU1F0V3JDWkJaaUtfVENQUUlQV0VpT0JtY2I5REpQX3BSMUM4MkZ4Rm5RdlFkbmNGMUUxanVWaDdrTlRQTGpYMDd1Q3pEYm1nN3V6SmcydGdVUXllUERYNkdScjRwc2FGLWQtTWl3TnJfQ1dUSkNVSGVlR1pRdDB1a0FSek9ZWnRDajh4VGFkQUJtMEhQWTZTcU5QcnNHTmhKVVB6QXBVNlhkeUh2YXBBeWpPOXd5cFJBZ2xXdjJ0N1BvSzlr?oc=5",
+      "title": "Anthropic's Code with Claude showed off coding's future—whether you like it or not - MIT Technology Review",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOZW94UC1ldWpHLTQ1UXFUQzdkbEVFRTk2cVNQV3RLNlplWHRRLTRRRllUZndWOE9kbXdHTWJacl9DSEJla2psZTBxNmFtMmFGeVhKcldYVDBJbzBaMUE2MWVpNlkyclRtSmozOGowOHhoMm0tblVtYkswSDJ4UdIBgwFBVV95cUxPUXpFQk9PWVBtWE8xeW9SZWNBS1JJc25GOG05RmEtUExRTjhWRS1XYXdYMDZHRDhZOERUREZHYXlLVVpNQXplTHRIcEVmX05IWTNlUGZRcThQYlc2bjhBSzlUNk1QdnV2V1dvdTZmdExoV1UwWFhxWjBUM3NadDA5YmQzMA?oc=5",
+      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment - CNBC",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-      "title": "xAI burned $6.4B last year — SpaceX's IPO filing shows why the spending is far from over",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVBwS1l3X3pMenRRUDhCN1pPcERhMFowQ0t4dnVEV29fWFNCa0hXSjVCMHduUFFUZ3B6MmJMRGhuVDBxOTZWUEdGaDdpQXVpN1EwWktQdmFHT21uV1R1Uk5mWE9aeEE3akx2OGhidzBpUHhmOWtlVG42RExsRWM1bjkta1dFVHlETHJrUDZvR3JnVVdUQjRwNG4wRUxrWlRGeHRkLS1RbExoZFFveW9R?oc=5",
+      "title": "Pentagon Tests Rival AI Models in Race to Replace Anthropic - bloomberg.com",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tipihx/qwen_36_35b_gguf_ntp_vs_mtp_quantization_results/",
-      "title": "Qwen 3.6 35B GGUF: NTP vs MTP quantization results across GPUs and CPUs",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "title": "We're launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tizvih/halbench_i_built_a_custom_sycophancy_and/",
-      "title": "HalBench: I built a custom sycophancy and hallucination benchmark and tested 4 frontier models",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.104.0",
+      "title": "v0.104.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tiixql/rtx_5080_16gb_qwen36_35b_moe_at_128k_context_56/",
-      "title": "RTX 5080 16GB: Qwen3.6 35B MoE at 128k context — 56 tok/s, and why MTP doesn't help",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tjvz6l/waiting_for_qwen_37_open_weight_the_new_king_has/",
+      "title": "Waiting for Qwen 3.7 open weight... The new King has arrived...",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9254",
-      "title": "b9254",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tjh7az/110_toks_with_12gb_vram_on_qwen36_35b_a3b_and_ik/",
+      "title": "110 tok/s with 12GB VRAM on Qwen3.6 35B A3B and ik_llama.cpp",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9274",
+      "title": "b9274",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/gpt-5-5-vs-gemini-3-5-flash-vs-claude-sonnet-4-6-which-model-should-you-choose-for-your-task-9edb7217e40d?source=rss----819cc2aaeee0---4",
-      "title": "GPT-5.5 vs Gemini 3.5 Flash vs Claude Sonnet 4.6: Which Model Should You Choose for Your Task?",
+      "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+      "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4",
-      "title": "Designing the Human+AI system",
+      "url": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
+      "title": "Why I spent years trying to make CSS states predictable",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4",
-      "title": "AI UX debt: A new bottleneck",
+      "url": "https://tympanus.net/codrops/2026/05/21/creating-scroll-driven-svg-map-animations-with-gsap/",
+      "title": "Creating Scroll-Driven SVG Map Animations with GSAP",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@LakshmiNarayana_U/beyond-chat-building-an-agent-native-greenlight-room-with-copilotkit-and-react-97ed2c2aeb99?source=rss------generative_ui-5",
-      "title": "Beyond Chat: Building an Agent-Native Greenlight Room with CopilotKit and React",
+      "url": "https://medium.com/@mingyukma/built-a-full-startup-brand-in-claude-design-no-designer-no-code-no-figma-68d278f89bbc?source=rss------ai_design-5",
+      "title": "Built a Full Startup Brand in Claude Design — No Designer, No Code, No Figma",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
-      "title": "Stack Overflow: When We Stop Asking",
+      "url": "https://uxplanet.org/google-search-is-dead-long-live-google-search-d7c67dc59be0?source=rss----819cc2aaeee0---4",
+      "title": "Google Search is Dead. Long Live Google Search.",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@ampldm2025/ai-ux-design-trends-that-will-define-products-in-2026-a2d258620707?source=rss------ai_design-5",
-      "title": "AI UX Design Trends That Will Define Products in 2026",
+      "url": "https://medium.com/@xseed.solutions/the-product-designer-job-description-is-shifting-heres-what-we-re-seeing-from-the-hiring-side-01a078cd8965?source=rss------generative_ui-5",
+      "title": "The Product Designer job description is shifting. Here's what we're seeing from the hiring side.",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxplanet.org/user-attention-span-in-the-ai-era-cd52eafe0f5a?source=rss----819cc2aaeee0---4",
-      "title": "User Attention Span in the AI-era",
+      "url": "https://www.smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+      "title": "Ten data-backed truths of UX ROI",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://medium.com/@tanushreehimmatramka/how-the-ux-industry-has-changed-in-the-last-few-years-ec5255460a13?source=rss------ai_design-5",
-      "title": "How the UX Industry Has Changed in the Last Few Years",
+      "url": "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/",
+      "title": "The old world of tech is dying and the new cannot be born",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://webaim.org/blog/tolerating-inaccessibility/",
+      "title": "WebAIM: Tolerating inaccessibility",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://fontastic.space/",
+      "title": "Fontastic Space",
       "profile": "Design"
     }
   ]
