@@ -1,148 +1,112 @@
 {
-  "generated_at": "2026-05-23T07:08:48+00:00",
+  "generated_at": "2026-05-24T07:07:47+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUVdaQVljUGlPZVdnR0JQNkMtaVZhUW5Idm82Wm5pMGV5ekZnVE5rX21vUWVoQ2xrazdZRmpFMjlqT1VZb0tRV2UteWJNWXVYRXBjN1Jhei1oaTgxRVNUWS1Td3B5YVhiNnhFbmRKUHNkYnRKdkotQWlR0gF_QVVfeXFMTU1RcUJYa2RuMGh0dER4SEUtYnBqbWxwd3IydXN4LVVlS0RnVS1NdzhZT01RSTFUOC10bDVJVC1Fb2N3WXpXSGJ1UHlpNlJwSkxtejJkWkNyWE5KOTQxSmZGUDVkeURDYWhMb01zLW5NVTQzUXFOME5ST3Rod0I2MA?oc=5",
-      "title": "Anthropic's Claude Mythos Preview Uncovers 10,000+ 0-Days in Project Glasswing - CyberSecurityNews",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9297",
+      "title": "b9297",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xYzlNUUlJNFFKOFg2VGJsdFNCVkdJaWJ0Qi1tZnh2bUxIUzIta0RfUHR1dnB4blV5NmpsUVZ2ZWJiSWlSUzhYQUVmdTNXMnZSWmNQVGRUbEMxa0kteTFzbFJJWklYdFpoZkgw?oc=5",
-      "title": "Project Glasswing: An initial update - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnpTY2FvdE9XZml6Zmx6dVUwbXJ4Zk5CMjJsWG9iYnJ5QkZQbFBOV1FyTnVzUGRZa3BiZTlpaDJtczNxVzdpYmRPVlBHbUVCYzEydUZBMG9VV1Zqa1NjcmdLZDRaZHlDV2V3Z0RvSXh1SlN1bzNLd2MxbVpKcko5bFUxZEo2dkh6bkRRaVprZEllZ2tMdG5lSFpKZFM4eU9nbDdtM0RPdDFjalpkZG1QYQ?oc=5",
+      "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them - the-decoder.com",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3VEcDZvZXdNeGg0ZHZZbUU3UE1iMDY0UWlmTmJwZDNNTE1wMnZlS0o3bWdWcndKMlFSaGV1eEdmdGE0c29EdWg2QWFUNDF2RnRmNnFER3J0MmhzZ1dPdGQ1VFQ0bUhRSkk3bTlvdmdrQm1fVFA0NW1SSE5CS3A4ZVczNEZOenBsYi0zOWNPdTFZQUZkMFE?oc=5",
-      "title": "Anthropic Reportedly Reaches Profitability as Claude Wins Over Businesses - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOazU5dWczVTZsaFdHVnNIOW9vSW1hVlBnSGl1NkpKTGJQei1wR3NEUVdNNHVmYkFQQ2RqWVg1OVY4ejNVRVdZYWw1X0tKUDRXenQ1OUlJbXBfTExENG1sTDJManpoU3Z5bnFoN255Yzl6TnVNRWVyM3N4cUxjcFVJblBBaDBjLVE?oc=5",
+      "title": "Inside startups, Claude has already won the AI coding wars. Cursor is fading. - Business Insider",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrTE1Vbll5N1RONUVIUV9aNGROV3JWUVl1UmhzUnNuUEg0akVCbnpyZmhoVXRjckVJUk5YWnFVaHVaUjRzRFl3VTVxZWQ3NFJYU0xxQUNKaUtQYjRnWkxFOXMyc1NEOW1LR29XUFpn?oc=5",
-      "title": "Anthropic nears $30B funding round, one of the largest private financings in history - Crypto Briefing",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm0800/visioncapable_llms_vs_ocr_for_longdocument/",
+      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm3toi/qwen3635ba3buncensoredgenesisapexmtp/",
+      "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-APEX-MTP",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlqxeh/command_a_218b_moe_running_on_apple_silicon_mlx/",
+      "title": "Command A+ (218B MoE) running on Apple Silicon — MLX port, PR open",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "title": "Google's AI search is so broken it can 'disregard' what you're looking for",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm0k2l/tts_benchmark_comparison_all_known_tts_up_until/",
+      "title": "TTS Benchmark Comparison (all known TTS up until May 2026)",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-      "title": "A hacker group is poisoning open source code at an unprecedented scale",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlwoho/llampart_100_i_released_a_standalone_local_web_ui/",
+      "title": "llampart 1.0.0 - I released a standalone local web UI for llama-server with translations, extended settings and a polished conversation sidebar",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.104.1",
-      "title": "v0.104.1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlnqzj/run_chromes_tiny_gemma4_aka_gemini_nano_directly/",
+      "title": "Run Chrome's tiny Gemma4 (aka Gemini Nano) directly on PC without GPU",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc23",
-      "title": "v0.30.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/",
+      "title": "llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tkejqr/nuextract3_released_openweight_4b_vlm_for/",
-      "title": "NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tloksk/perpixel_boundingbox_regression_dbscan_for/",
+      "title": "Per-pixel bounding-box regression + DBSCAN for handwritten word detection - visual walkthrough of WordDetectorNet [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/",
-      "title": "DeepSeek is pushing forward with $10.29 billion financing round, with Liang Wenfeng committing to continue developing open-source AI models rather than pursuing short-term commercialization goals",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tlnvf0/i_finetuned_an_llm_to_be_c3po_to_test_which/",
+      "title": "I fine-tuned an LLM to be C-3PO to test which training data format works best for persona injection [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkpz2y/beellama_v020_major_dflash_update_single_rtx_3090/",
-      "title": "BeeLlama v0.2.0 – major DFlash update. Single RTX 3090: Qwen 3.6 27B up to 164 tps (4.40x), Gemma 4 31B up to 177.8 tps (4.93x). Prompt processing speed near baseline.",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "title": "Google's new anything-to-anything AI model is wild",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9294",
-      "title": "b9294",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tljrtk/gpt_55_secret_sauce_is_just_having_the_thinking/",
+      "title": "GPT 5.5 \"secret sauce\" is just having the thinking be some stupid caveman mode?",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tl1bry/anonymous_data_upload_for_submission_d/",
-      "title": "Anonymous Data Upload for Submission [D]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm2ct0/i_built_a_local_gui_for_the_tradingagents/",
+      "title": "I built a local GUI for the TradingAgents framework — works with Ollama",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/design-disposables/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "The Case for Design Disposables",
+      "url": "https://vishakhaghodekar.medium.com/bridging-the-usability-gap-in-llm-tools-388bb1f0b72d?source=rss------ai_design-5",
+      "title": "Bridging the Usability Gap in LLM Tools",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.nngroup.com/articles/after-design-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Closing the Loop: What to Do After a Design Critique Ends",
+      "url": "https://medium.com/design-bootcamp/the-ai-you-use-for-design-feedback-is-guessing-b4b9cfeaf7ee?source=rss------ai_design-5",
+      "title": "The AI you use for design feedback is guessing",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-      "title": "The State of CSS Centering in 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
-      "title": "Four Levels Of Customer Understanding",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://medium.com/@piwodlaiwo/how-ai-actually-thinks-forward-reasoning-vs-retroactive-validation-e9815d65aef4?source=rss------ai_design-5",
-      "title": "How AI Actually Thinks: Forward Reasoning vs. Retroactive Validation",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://medium.com/nitara/stop-making-users-prompt-the-shift-toward-interface-empathy-in-ai-design-014519bba690?source=rss------ai_design-5",
-      "title": "Stop making users prompt: The shift toward Interface Empathy in AI Design",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxplanet.org/dos-and-donts-for-markdown-files-a6f870c22132?source=rss----819cc2aaeee0---4",
-      "title": "Dos and Don'ts for Markdown Files",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://medium.com/@blakejason135/top-ai-design-tools-every-one-should-use-in-2026-fb021a30d14c?source=rss------ai_design-5",
-      "title": "Top AI Design Tools Every One Should Use in 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://medium.com/@mohana.nmalvadkar/designers-stop-surviving-ai-start-thriving-d3248af0d4ca?source=rss------ai_design-5",
-      "title": "Designers, Stop Surviving AI. Start Thriving.",
+      "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4",
+      "title": "Designing how designers master AI",
       "profile": "Design"
     }
   ]
