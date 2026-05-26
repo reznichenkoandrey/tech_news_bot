@@ -1,16 +1,154 @@
 {
-  "generated_at": "2026-05-25T07:08:26+00:00",
+  "generated_at": "2026-05-26T07:09:11+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://uxdesign.cc/you-are-no-longer-the-user-you-are-the-principal-3a6222e0780a?source=rss----138adf9c44c---4",
-      "title": "You are no longer the user. You are the principal.",
-      "profile": "Design"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3gtQUw5b0lnX0FlSVFOdlloTnNHSVNYMENHOFdjU3hGS2Zvd2hGekUwc1RueGRVa0tWSW1ZWnZXbFdaNl94ZWJNaEtkSmtZeUV3ZmtSZFhuOTVoZTkyT01jRF90VVo2NHUxU3VLNXBHLW1yUHdXWFVaeENoQ29vc3ZKT0dkaWJfNWNQTWo4T3pJR243Z2hRVUpZOFNHY2hCQzVjZnNsOTY1bVhGWjdhYWtFRE1CSmc3MXc4Vk05VVBHbHc0ZEhFaTRvdTl2Z9IB0wFBVV95cUxNVWxiS2NQZGl3bXBBeWg2amk0U1YyMm5GLVc1X0ZsM2VLRjkzVXZvUjJZTC1ISERsbFBBakJvcVhqYzhtQ0dJSXhZQVNzWWJSMEYxTjFmTzdzZlhJVDNCMU5mWGJ1MXh3aUZQNlVZZXpJWUlQM3dxcmphVmNweUVERnRiZlo5NzRlUHpVSC1MMkJoOGl3LS1Mb3BGVG9LUWJ5LS1nMTNUZzhidzlkOE9KVHFQemlSNVc2SDFCUWFjZG5jdEJEQnNHRWQ5WlVLbHNmb2Jr?oc=5",
+      "title": "Anthropic's restricted Claude Mythos model may be coming to Claude Code - BleepingComputer",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://uxdesign.cc/the-future-of-customer-service-is-designed-to-make-you-give-up-c16b8f91a4c8?source=rss----138adf9c44c---4",
-      "title": "The future of customer service is designed to make you give up",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGNsYWRxNkJMdGltRG9uU0hwMHlHRDgxNkwxZTJXaXBqWTJNSmw4RmptbTJiZlRyWlUyQ2txT0FIZkFqUndNT093bDZjb0YwTG15aUVCNVlkak56ZWpoSWhtU1Y1UWRrcFlJaUt1T3NZQXRjc2Z4V2Z4Q000TEZHYmJPNV9JWDhvcVlLcmhlSE9OMF8tbnI3bFNSdUpWNDVXaUJ4a3dlcjgwU29sbzlMSVJB0gG3AUFVX3lxTE9iOWJMU1JrNkVUVEpZWlkwRTl5RFB4SWoxZ0NJR0k3RmRvTUljZ3dlaUlxOUZqdTdkQmw1ZkZOSS1OZXhMWFB4LS1QRTdHMDNDUjBjV2diRnJZamM4dExUWUZlSUk3YWhJOHoyOGxFSEI1R29TY21WS2YzR1lwX2NaQllSX3RCVGhJeXZvRkFkSXRTLUtQZ1g5U1V1WFdHakhieTE2c1NGTHU0MVZka0ZoR3hMMjJpYw?oc=5",
+      "title": "Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects - SecurityWeek",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 3,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnn29i/update_on_12x32gb_sxm_v100_cluster_local_ai_for/",
+      "title": "Update on 12x32gb sxm v100 cluster / local AI for legal drafting",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 4,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn8utn/nuextract3_released_openweight_4b_vlm_for/",
+      "title": "NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 5,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/",
+      "title": "Is Qwen3.6 current king for local agentic use?",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 6,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnvo7r/shard_getting_to_10_kv_cache_compression/",
+      "title": "Shard - getting to 10× KV cache compression",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 7,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9320",
+      "title": "b9320: TP: fix ggml context size calculation (#22616)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9329",
+      "title": "b9329: CUDA: add fast walsh-hadamard transform (#23615)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "title": "What ClickUp's mass layoff tells us about the future of work",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tnhnh5/the_famous_metr_ai_time_horizons_graph_contains/",
+      "title": "The famous METR AI time horizons graph contains numerous severe errors [D]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://css-tricks.com/cross-document-view-transitions-part-2/",
+      "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
+      "profile": "Design"
+    },
+    {
+      "n": 12,
+      "url": "https://stateofaidesign.com/",
+      "title": "AI in Design Report 2026",
+      "profile": "Design"
+    },
+    {
+      "n": 13,
+      "url": "https://blog.mozilla.ai/the-interface-is-no-longer-the-product/",
+      "title": "The interface is no longer the product",
+      "profile": "Design"
+    },
+    {
+      "n": 14,
+      "url": "https://every.to/p/after-automation",
+      "title": "After automation",
+      "profile": "Design"
+    },
+    {
+      "n": 15,
+      "url": "https://uxplanet.org/claude-code-guardrails-70662eb6329c?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Guardrails",
+      "profile": "Design"
+    },
+    {
+      "n": 16,
+      "url": "https://www.designsystemscollective.com/why-your-design-system-needs-to-be-ai-native-in-2026-or-it-will-die-98dbbfce244e?source=rss------ai_design-5",
+      "title": "Why Your Design System Needs to Be AI-Native in 2026 (Or It Will Die)",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://medium.com/design-bootcamp/claude-skills-part-1-50d198f2ac20?source=rss------ai_design-5",
+      "title": "Claude skills, part 1",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://kevinnkwok.medium.com/claude-design-is-not-a-figma-killer-7f92c3553211?source=rss------ai_design-5",
+      "title": "Claude Design is NOT a Figma Killer",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/the-permalink-problem-in-ai-chat-1f1579ec991c?source=rss----138adf9c44c---4",
+      "title": "The permalink problem in AI chat",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxdesign.cc/being-kind-to-machines-the-genius-of-claudes-branding-ai-ux-debt-f40c616102bd?source=rss----138adf9c44c---4",
+      "title": "Being kind to machines, the genius of Claude's branding, AI UX debt",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/should-i-design-for-humans-or-machines-3b8d3addd006?source=rss----138adf9c44c---4",
+      "title": "Should I design for humans or machines?",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://bit.ly/side-mag4",
+      "title": "A smaller screen needs a different story",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://bernste.in/writings/everyones-a-thought-leader-almost-no-one-is-thinking/",
+      "title": "Everyone's a thought leader. Almost no one is thinking.",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxdesign.cc/how-grok-guided-me-through-the-new-adobe-color-interface-5edca179f10b?source=rss----138adf9c44c---4",
+      "title": "How Grok guided me through the new Adobe color interface",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/designing-locality-by-redrawing-the-lines-120200ee81df?source=rss----138adf9c44c---4",
+      "title": "Designing locality, by redrawing the lines",
       "profile": "Design"
     }
   ]
