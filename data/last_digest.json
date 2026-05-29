@@ -1,95 +1,155 @@
 {
-  "generated_at": "2026-05-28T07:08:17+00:00",
+  "generated_at": "2026-05-29T07:07:05+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/cisco",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "title": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "title": "The internet is being rebuilt for machines",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
-      "title": "ElevenLabs' new music-generation model can switch genres mid-track",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "title": "Asana acquires no-code agent-builder StackAI",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "title": "Sneak peek at new Siri app reveals Apple's plans to take on ChatGPT and more",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-      "title": "YouTube will now automatically label AI videos",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "title": "Visa invests in Replit to power agentic payments for developers",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/",
-      "title": "AI-generated CUDA kernels silently break training and inference [R]",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tphh qk/i_built_a_103btoken_usenet_corpus_19802013_preweb/",
-      "title": "I built a 103B-token Usenet corpus (1980–2013) — pre-web, human-only, zero AI contamination",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "title": "Claude's new model is more 'honest' when it messes up",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpawlm/swerebench_leaderboard_march_april_and_may_2026/",
-      "title": "SWE-rebench Leaderboard (March, April and May 2026): GPT-5.5, Opus 4.7, Cursor (Composer 2.5), Kimi K2.6 and More",
+      "url": "https://openai.com/index/endava",
+      "title": "How Endava builds an agentic organization with Codex",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc28",
-      "title": "v0.30.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqloii/stepfun_37_flash/",
+      "title": "StepFun 3.7 Flash",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp9ian/realignedqwen35_release/",
-      "title": "ReAligned-Qwen3.5 Release",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqqnsl/liquid_ai_releases_lfm258ba1b/",
+      "title": "Liquid AI releases LFM2.5-8B-A1B",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/",
-      "title": "I ran 8 open-weight models as agents in a persistent MMO for 10 days. Here's the 93k event dataset",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.105.0",
+      "title": "v0.105.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9387",
+      "title": "b9387",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "title": "Why Google's AI can't spell Google (or anything else)",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0",
+      "title": "v0.22.0: [BugFix] Fix hard-coded timeout for multi-API-server startup (#43768)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp9d1w/kv_cache_quant_benchmarks_q5_q6_are_underrated/",
-      "title": "KV cache quant benchmarks: q5 & q6 are underrated, q8/q4 is bad, TCQ has a niche",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tq2vxa/a_new_dataset_with_more_that_100m_hiquality/",
+      "title": "A new dataset with more that 100M hi-quality, curated images, with captions and meta data! [P]",
       "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://linear.app/changelog/2026-05-27-linear-diffs",
+      "title": "Linear Diffs",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://www.seangoedecke.com/prompts-are-technical-debt-too/",
+      "title": "Prompts are technical debt too",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxplanet.org/memory-md-for-claude-code-projects-93bc99e0551f?source=rss----819cc2aaeee0---4",
+      "title": "MEMORY.md for Claude Code projects",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxplanet.org/claude-sonnet-haiku-and-opus-in-product-design-746554169ab5?source=rss----819cc2aaeee0---4",
+      "title": "Claude Sonnet, Haiku and Opus in Product Design",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "title": "When everyone has AI and the company still learns nothing",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4",
+      "title": "Designing for AI means designing like it's 1999",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://medium.com/@ux_LizLi/i-tried-google-stitch-to-redesign-a-webpage-heres-what-happened-c2bc6a23db33?source=rss------ai_design-5",
+      "title": "I Tried Google Stitch to Redesign a Webpage. Here's What Happened.",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://www.nngroup.com/articles/after-design-critique/",
+      "title": "What to do after a design critique ends",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://tympanus.net/codrops/2026/05/28/the-never-ending-story-building-a-seamless-infinite-scroll-experience-with-gsap-lenis/",
+      "title": "The Never Ending Story: Building a Seamless Infinite Scroll Experience with GSAP & Lenis",
+      "profile": "Design"
     }
   ]
 }
