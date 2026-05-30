@@ -1,154 +1,136 @@
 {
-  "generated_at": "2026-05-29T07:07:05+00:00",
+  "generated_at": "2026-05-30T07:06:42+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9415",
+      "title": "llama.cpp b9415: download: add option to skip_download",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "title": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9414",
+      "title": "llama.cpp b9414: mtmd: Add DeepSeekOCR 2 Support",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "title": "The internet is being rebuilt for machines",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9411",
+      "title": "llama.cpp b9411: support for DeepseekV32ForCausalLM with generic DeepSeek Sparse Attention (DSA)",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "title": "Asana acquires no-code agent-builder StackAI",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9410",
+      "title": "llama.cpp b9410: use f16 mask for FA to save VRAM",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "title": "Sneak peek at new Siri app reveals Apple's plans to take on ChatGPT and more",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9409",
+      "title": "llama.cpp b9409: sync ggml",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-      "title": "Visa invests in Replit to power agentic payments for developers",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9406",
+      "title": "llama.cpp b9406: add llm_graph_input_mtp",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc31",
+      "title": "Ollama v0.30.0-rc31 (pre-release)",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "title": "Claude's new model is more 'honest' when it messes up",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "title": "Boston Children's uses AI to unlock new diagnoses",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://openai.com/index/endava",
-      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "title": "How Braintrust turns customer requests into code with Codex",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqloii/stepfun_37_flash/",
-      "title": "StepFun 3.7 Flash",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "title": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqqnsl/liquid_ai_releases_lfm258ba1b/",
-      "title": "Liquid AI releases LFM2.5-8B-A1B",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "title": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute — it's memory",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.105.0",
-      "title": "v0.105.0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "title": "This AI startup will clean your home for free to train future robots",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9387",
-      "title": "b9387",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "title": "Adobe's conversational AI agent is a mediocre design intern",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0",
-      "title": "v0.22.0: [BugFix] Fix hard-coded timeout for multi-API-server startup (#43768)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trkze4/i_compared_all_specs_of_the_major_gpusmachines/",
+      "title": "I compared all specs of the major GPUs/machines that are being used here",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tq2vxa/a_new_dataset_with_more_that_100m_hiquality/",
-      "title": "A new dataset with more that 100M hi-quality, curated images, with captions and meta data! [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/",
+      "title": "I tested MTP on vLLM and llama.cpp for Gemma 4 & Qwen 3.6 — 3.34x faster inference",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://linear.app/changelog/2026-05-27-linear-diffs",
-      "title": "Linear Diffs",
+      "url": "https://www.nngroup.com/articles/ras-research-resource-allocation/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Using RAS to Guide UX Research Resource Allocation and Strategy",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+      "url": "https://www.nngroup.com/articles/research-recommendations-roadmap/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "How to Get Research Recommendations on the Roadmap",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.seangoedecke.com/prompts-are-technical-debt-too/",
-      "title": "Prompts are technical debt too",
+      "url": "https://uxplanet.org/claude-opus-4-8-is-nothing-but-marketing-227cd518fa25?source=rss----819cc2aaeee0---4",
+      "title": "Claude Opus 4.8 Is Nothing More Than Marketing",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/memory-md-for-claude-code-projects-93bc99e0551f?source=rss----819cc2aaeee0---4",
-      "title": "MEMORY.md for Claude Code projects",
+      "url": "https://css-tricks.com/whats-important-12/",
+      "title": "What's !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/claude-sonnet-haiku-and-opus-in-product-design-746554169ab5?source=rss----819cc2aaeee0---4",
-      "title": "Claude Sonnet, Haiku and Opus in Product Design",
+      "url": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4",
+      "title": "How to help people who don't read discover new features",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://pamihekanaho.medium.com/dive-into-blog-data-about-designing-ai-89be3826b939?source=rss------ai_design-5",
+      "title": "Dive into blog data about designing AI",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4",
-      "title": "Designing for AI means designing like it's 1999",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://medium.com/@ux_LizLi/i-tried-google-stitch-to-redesign-a-webpage-heres-what-happened-c2bc6a23db33?source=rss------ai_design-5",
-      "title": "I Tried Google Stitch to Redesign a Webpage. Here's What Happened.",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://www.nngroup.com/articles/after-design-critique/",
-      "title": "What to do after a design critique ends",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://tympanus.net/codrops/2026/05/28/the-never-ending-story-building-a-seamless-infinite-scroll-experience-with-gsap-lenis/",
-      "title": "The Never Ending Story: Building a Seamless Infinite Scroll Experience with GSAP & Lenis",
+      "url": "https://medium.com/@pavank0990.pk/ai-jobs-for-designers-complete-guide-to-agentic-ai-generative-ui-trends-in-may-2026-49ec1a4593b6?source=rss------generative_ui-5",
+      "title": "AI Jobs for Designers: Complete Guide to Agentic AI & Generative UI Trends in May 2026",
       "profile": "Design"
     }
   ]
