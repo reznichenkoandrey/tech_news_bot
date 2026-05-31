@@ -1,136 +1,100 @@
 {
-  "generated_at": "2026-05-30T07:06:42+00:00",
+  "generated_at": "2026-05-31T07:07:01+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9415",
-      "title": "llama.cpp b9415: download: add option to skip_download",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9439",
+      "title": "b9439",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9414",
-      "title": "llama.cpp b9414: mtmd: Add DeepSeekOCR 2 Support",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "title": "'What a joke': Github Copilot's new token-based billing spurs consternation among devs",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9411",
-      "title": "llama.cpp b9411: support for DeepseekV32ForCausalLM with generic DeepSeek Sparse Attention (DSA)",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9410",
-      "title": "llama.cpp b9410: use f16 mask for FA to save VRAM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9409",
-      "title": "llama.cpp b9409: sync ggml",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tslv3b/mudlerqwen3635ba3bclaude47opusreasoningdistilledap/",
+      "title": "mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-GGUF just released !",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9406",
-      "title": "llama.cpp b9406: add llm_graph_input_mtp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/",
+      "title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc31",
-      "title": "Ollama v0.30.0-rc31 (pre-release)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tse423/psa_5060ti_16gb_for_30099_5070ti_16gb_for_69999/",
+      "title": "[PSA] 5060ti 16GB for $300.99. 5070ti 16GB for $699.99. Best Buy in store clearance.",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "title": "Boston Children's uses AI to unlock new diagnoses",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsbl9j/cost_analysis_of_my_64k_local_llm_server/",
+      "title": "Cost Analysis of my $6.4k Local LLM Server",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://openai.com/index/braintrust",
-      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
+      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "title": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts79rg/parallax_parameterized_local_linear_attention_for/",
+      "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "title": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute — it's memory",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trw5ym/fulloch_v2_100_local_voice_assistant_for_home/",
+      "title": "Fulloch V2: 100% Local Voice Assistant for Home Assistant & Obsidian (Runs on 16GB VRAM)",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "title": "This AI startup will clean your home for free to train future robots",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsh5i6/benchmarked_inference_engines_for_m1_max/",
+      "title": "Benchmarked inference engines for M1 Max 64gb-results & analysis",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
-      "title": "Adobe's conversational AI agent is a mediocre design intern",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "title": "I put Google's 24/7 AI assistant Gemini Spark to work, and it's actually pretty useful",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trkze4/i_compared_all_specs_of_the_major_gpusmachines/",
-      "title": "I compared all specs of the major GPUs/machines that are being used here",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "title": "Meta is reportedly developing an AI pendant",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/",
-      "title": "I tested MTP on vLLM and llama.cpp for Gemma 4 & Qwen 3.6 — 3.34x faster inference",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/",
+      "title": "Open source : Turning vocal imitations into sound effects. (New UX for sound generation)",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/ras-research-resource-allocation/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Using RAS to Guide UX Research Resource Allocation and Strategy",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://www.nngroup.com/articles/research-recommendations-roadmap/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "How to Get Research Recommendations on the Roadmap",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://uxplanet.org/claude-opus-4-8-is-nothing-but-marketing-227cd518fa25?source=rss----819cc2aaeee0---4",
-      "title": "Claude Opus 4.8 Is Nothing More Than Marketing",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://css-tricks.com/whats-important-12/",
-      "title": "What's !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4",
-      "title": "How to help people who don't read discover new features",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://pamihekanaho.medium.com/dive-into-blog-data-about-designing-ai-89be3826b939?source=rss------ai_design-5",
-      "title": "Dive into blog data about designing AI",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/@pavank0990.pk/ai-jobs-for-designers-complete-guide-to-agentic-ai-generative-ui-trends-in-may-2026-49ec1a4593b6?source=rss------generative_ui-5",
-      "title": "AI Jobs for Designers: Complete Guide to Agentic AI & Generative UI Trends in May 2026",
+      "url": "https://tympanus.net/codrops/2026/05/30/the-future-of-emotional-technology-comfort-websites-for-growth-and-self-awareness/",
+      "title": "The Future of Emotional Technology: Comfort Websites for Growth and Self-Awareness",
       "profile": "Design"
     }
   ]
