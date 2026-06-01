@@ -1,100 +1,22 @@
 {
-  "generated_at": "2026-05-31T07:07:01+00:00",
+  "generated_at": "2026-06-01T07:08:07+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9439",
-      "title": "b9439",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4",
+      "title": "AI Token Scarcity and Arcade Economics",
+      "profile": "Design"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "title": "'What a joke': Github Copilot's new token-based billing spurs consternation among devs",
-      "profile": "AI/Tech"
+      "url": "https://lizflyntz.medium.com/designing-for-ai-with-ai-a-workflow-8da9641cd7b7?source=rss------ai_design-5",
+      "title": "Designing for AI with AI: A Workflow",
+      "profile": "Design"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
-      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tslv3b/mudlerqwen3635ba3bclaude47opusreasoningdistilledap/",
-      "title": "mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-GGUF just released !",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/",
-      "title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tse423/psa_5060ti_16gb_for_30099_5070ti_16gb_for_69999/",
-      "title": "[PSA] 5060ti 16GB for $300.99. 5070ti 16GB for $699.99. Best Buy in store clearance.",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsbl9j/cost_analysis_of_my_64k_local_llm_server/",
-      "title": "Cost Analysis of my $6.4k Local LLM Server",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
-      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts79rg/parallax_parameterized_local_linear_attention_for/",
-      "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trw5ym/fulloch_v2_100_local_voice_assistant_for_home/",
-      "title": "Fulloch V2: 100% Local Voice Assistant for Home Assistant & Obsidian (Runs on 16GB VRAM)",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsh5i6/benchmarked_inference_engines_for_m1_max/",
-      "title": "Benchmarked inference engines for M1 Max 64gb-results & analysis",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "title": "I put Google's 24/7 AI assistant Gemini Spark to work, and it's actually pretty useful",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "title": "Meta is reportedly developing an AI pendant",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/",
-      "title": "Open source : Turning vocal imitations into sound effects. (New UX for sound generation)",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://tympanus.net/codrops/2026/05/30/the-future-of-emotional-technology-comfort-websites-for-growth-and-self-awareness/",
-      "title": "The Future of Emotional Technology: Comfort Websites for Growth and Self-Awareness",
+      "url": "https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4",
+      "title": "YouTube is gonna auto-tag AI, and it makes me angry",
       "profile": "Design"
     }
   ]
