@@ -1,22 +1,154 @@
 {
-  "generated_at": "2026-06-01T07:08:07+00:00",
+  "generated_at": "2026-06-02T07:07:51+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4",
-      "title": "AI Token Scarcity and Arcade Economics",
-      "profile": "Design"
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://lizflyntz.medium.com/designing-for-ai-with-ai-a-workflow-8da9641cd7b7?source=rss------ai_design-5",
-      "title": "Designing for AI with AI: A Workflow",
-      "profile": "Design"
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4",
-      "title": "YouTube is gonna auto-tag AI, and it makes me angry",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 4,
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "title": "Anthropic files to go public",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 5,
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 6,
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 7,
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu82wi/stop_asking_what_model_to_run_there_are_literally/",
+      "title": "Stop asking what model to run. There are literally only two.",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tuhea4/nvidia_releases_cosmos_3_omnimodal_world_modelson/",
+      "title": "NVIDIA releases Cosmos 3 Omnimodal world modelson HF",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0",
+      "title": "v0.30.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9468",
+      "title": "b9468",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9460",
+      "title": "b9460",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9455",
+      "title": "b9455",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.40.0",
+      "title": "v2.40.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://heyneuma.com/xcode-for-designers",
+      "title": "A designer's guide to opening Xcode for the first time",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://uxplanet.org/automation-with-claude-code-8c88c4ee214f",
+      "title": "Automation with Claude Code",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://uxplanet.org/complex-animated-effects-design-in-claude-code-b5cae7010b20",
+      "title": "Complex Animated Effects Design in Claude Code",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644",
+      "title": "Designing for AI means designing like it's 1999",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://pscanf.com/s/354/",
+      "title": "The user is visibly frustrated",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/is-your-website-ready-for-ai-agents-84272a6a96c1",
+      "title": "Is your website ready for AI agents?",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+      "title": "Fast is better than slow",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
+      "title": "Astro Markdown Component Utility for Any Framework",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://medium.com/@pradeep2g/the-ai-bill-is-coming-is-your-design-team-ready-67f73da26aa2",
+      "title": "The AI Bill Is Coming. Is Your Design Team Ready?",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/@padduraghavan/protecting-a-designers-flow-state-after-ai-6d1459eacceb",
+      "title": "Protecting a Designer's Flow State After AI",
       "profile": "Design"
     }
   ]
