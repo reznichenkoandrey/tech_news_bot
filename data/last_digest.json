@@ -1,148 +1,184 @@
 {
-  "generated_at": "2026-06-03T07:07:48+00:00",
+  "generated_at": "2026-06-04T07:07:46+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.1",
+      "title": "Release v5.10.1",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "title": "Codex for every role, tool, and workflow",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/",
+      "title": "google/gemma-4-12B · Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-      "title": "Microsoft's first advanced reasoning AI is here",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9495",
+      "title": "b9495",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9496",
+      "title": "b9496",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "title": "Introducing new capabilities to GPT-Rosalind",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "title": "A blueprint for democratic governance of frontier AI",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-      "title": "Google's Phone app will tell you if a scammer is impersonating one of your contacts",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "title": "Microsoft's Project Solara is an OS for AI agent gadgets",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "title": "Meta's AI agent for WhatsApp Business is now available globally",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tw4tmf/new_google_gemma_4_12b_claims_near26b_performance/",
+      "title": "New Google Gemma 4 12B Claims Near-26B Performance - We Tested Both!",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvhv4b/calling_it_now_microsoft_is_buying_unsloth/",
+      "title": "Calling it now Microsoft is buying Unsloth.",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9478",
-      "title": "b9478",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tw0lua/gemma412bit_vs_qwen359b_on_shared_benchmarks_qwen/",
+      "title": "gemma-4-12b-it vs Qwen3.5-9B on shared benchmarks: Qwen is overall winner beating gemma in 5/8 benchmarks despite a smaller footprint",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.2",
-      "title": "v0.30.2",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvuaoh/ideogram_4_is_open_source_top_ranked_on/",
+      "title": "Ideogram 4 is open source! (top ranked on DesignArena)",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tunmam/replaced_claude_with_local_qwen3627b_in_my/",
-      "title": "Replaced Claude with local Qwen3.6-27B in my multi-agent orchestrator for 2 weeks",
+      "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tuyb8s/i_trained_a_75m_parameter_llm_from_scratch_on_18b/",
-      "title": "I trained a 75M parameter LLM from scratch on 18B tokens and it beats a model almost double its size",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
+      "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents",
-      "title": "Rethinking engineering productivity in the age of AI agents",
+      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+      "title": "How To Make Your Design System AI-Ready",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.muz.li/claude-skills-part-2-1428cf89b1ba?source=rss------ai_design-5",
-      "title": "Claude skills, part 2",
+      "url": "https://poyo.co/note/20260525T094605/",
+      "title": "Two LLM UI patterns that aren't chat",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://toothcomb.codebox.net/#c4cbe6a9-2856-4167-9b41-ec2d0e9f1c65",
-      "title": "Toothcomb",
+      "url": "https://uxplanet.org/ultimate-claude-code-setup-for-product-designers-f8b2fff4ac69?source=rss----819cc2aaeee0---4",
+      "title": "Ultimate Claude Code Setup for Product Designers",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "title": "What Apple and Google are doing to your push notifications",
+      "url": "https://uxplanet.org/voice-is-the-new-ui-87e107c306d7?source=rss----819cc2aaeee0---4",
+      "title": "Voice is the New UI",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://jackmaguire.org/blog/ai-job-grief/",
-      "title": "AI job grief",
+      "url": "https://uxplanet.org/codex-for-creating-diagram-8db199a622ff?source=rss----819cc2aaeee0---4",
+      "title": "Codex for Creating Diagrams",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/ai-created-document-fatigue-how-i-designed-my-way-out-of-it-1fcd4a565669?source=rss----138adf9c44c---4",
-      "title": "AI-created document fatigue: how I designed my way out of it",
+      "url": "https://medium.com/@gayatri./redesigning-a-legacy-workflow-start-probing-db7db3eb3fc9?source=rss------ai_ux-5",
+      "title": "redesigning a legacy workflow? Start probing.",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@muhammad.awais.professional/the-death-of-the-url-how-web-design-trapped-itself-in-a-text-box-52a3a0f107ad?source=rss------generative_ui-5",
-      "title": "The Death of the URL: How Web Design Trapped Itself in a Text Box",
+      "url": "https://medium.com/@muhammad.awais.professional/why-youll-never-open-an-app-by-2027-50529e094aa7?source=rss------generative_ui-5",
+      "title": "Why You'll Never \"Open an App\" By 2027",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://medium.com/@pintamanta/your-ai-sub-agent-process-is-100-years-old-630a7c7d5e47?source=rss------ai_design-5",
-      "title": "Your AI Sub-Agent Process Is 100 Years Old",
+      "url": "https://tympanus.net/codrops/2026/06/03/forging-her-own-path-houmahani-kanes-journey-in-creative-development/",
+      "title": "Forging Her Own Path: Houmahani Kane's Journey in Creative Development",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://medium.com/@pintamanta/figma-specialists-in-epicycles-52aebea1e672?source=rss------ai_design-5",
-      "title": "Figma: Specialists in Epicycles",
+      "url": "https://medium.com/@shriya.jaju/the-morning-my-coffee-maker-made-me-rethink-everything-e09f15435599?source=rss------ai_design-5",
+      "title": "The Morning My Coffee Maker Made Me Rethink Everything",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://meodai.github.io/heerich/",
+      "title": "heerich.js",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://animations.dev/vocabulary",
+      "title": "Motion vocabulary",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://www.itsnicethat.com/articles/pov-friction-breeds-creativity-creative-industry-260526",
+      "title": "On frictionmaxxing and the creative virtues of inconvenience",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://www.davesresearch.com/self-fulfilling-projects/",
+      "title": "Self-fulfilling projects",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://css-tricks.com/almanac/properties/o/offset-path/",
+      "title": "offset-path",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://css-tricks.com/almanac/rules/c/custom-media/",
+      "title": "@custom-media",
       "profile": "Design"
     }
   ]
