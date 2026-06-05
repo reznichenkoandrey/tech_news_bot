@@ -1,184 +1,160 @@
 {
-  "generated_at": "2026-06-04T07:07:46+00:00",
+  "generated_at": "2026-06-05T07:08:16+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.1",
-      "title": "Release v5.10.1",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/",
-      "title": "google/gemma-4-12B · Hugging Face",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns",
+      "title": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9495",
-      "title": "b9495",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObEFXWkZzSVF2anBCYjVKVTBhSVlaZ0RxRlBDQVpxRFhrZHNGWUhzLUg3TUktZ0RJV2dQNlhpTDJ0Vy1zRDlTNzViU2djbWNRSno1Z0Iwal9LOGVkZTVvWmwxbUdqaHI4R0lleXJ4Yk1sMmtSQ2pseEVndUJoYkE4RVk2OW5nRjhMT2ppeW5oSU5uMDRGR05IZm1CQ1RrMWN0U092QVBLTTVST3RhYnF5VGxtMmZxNzM3VXVUWGRFcFo1VHFUNXAzUC1kbXlaanFrclV3?oc=5",
+      "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9496",
-      "title": "b9496",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3ROZzJOWUFlbV9NU1ZuUzlEV3BicXZXSWtvYTQ2WkIxQmhXVGdUS1NoRVNPdVFxUnpGdkZ1OElXZmNveHVtUzZuUkIybWw2ZnRnTTMwQ2RqaERCQjYtRnlZTHVVUHRxY3AzRjlEZzR1V1lWMHpSQTFzZVBmcTVUeXB4SWc?oc=5",
+      "title": "US National Security Agency using Anthropic's Mythos for cyber attacks",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTlRZNkpBQ0pUam5HcU43V0Y2VTJaM1gtZ2FCcmVpT0I4SW9hVVA4Q3dNcDJfYzhoZmlLOFRzaFMzaWl6ODYxZWxtcjA1U29DbUZTTVh3MEpQRFkyRWZQSDAtckZvN01GdFVtVDJoc2JnUU45cks1MmtrNXFudW50RUl6N2FHbXVZWFBwQTZnN1dZSndibEFiMEJGdlZhZw?oc=5",
+      "title": "\"AI has begun to make itself smarter\": Anthropic's warning",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twpv8r/vibeos_fully_hallucinated_operating_system/",
+      "title": "VibeOS - Fully Hallucinated Operating System",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twptwz/kvarn_new_kvcache_quant_from_huawei_35_kv_cache/",
+      "title": "KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apache 2.0, vLLM single flag)",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tx9tf2/finally_finished_my_llm_server_epyc_9575f_4_rtx/",
+      "title": "Finally finished my LLM server: EPYC 9575F, 4× RTX 3090 (96GB VRAM), 768GB ECC RAM",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "title": "Meta's AI agent for WhatsApp Business is now available globally",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twyoqe/you_guys_were_right_qwen_36_35b_is_goodand_kv/",
+      "title": "You guys were right - Qwen 3.6 35B IS good...and KV Cache DOES matter.",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tw4tmf/new_google_gemma_4_12b_claims_near26b_performance/",
-      "title": "New Google Gemma 4 12B Claims Near-26B Performance - We Tested Both!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tx12t1/beellama_v031_latest_llamacpp_with_extras_dflash/",
+      "title": "BeeLlama v0.3.1 – latest llama.cpp with extras! DFlash, MTP, q6_0 cache, TurboQuant. Single RTX 3090: Qwen 3.6 27B & Gemma 4 31B up to 177.8 tps (4.93x over baseline)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvhv4b/calling_it_now_microsoft_is_buying_unsloth/",
-      "title": "Calling it now Microsoft is buying Unsloth.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twqvmp/today_made_me_realize_just_how_bad_things_have/",
+      "title": "Today made me realize just how bad things have gotten without Meta",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tw0lua/gemma412bit_vs_qwen359b_on_shared_benchmarks_qwen/",
-      "title": "gemma-4-12b-it vs Qwen3.5-9B on shared benchmarks: Qwen is overall winner beating gemma in 5/8 benchmarks despite a smaller footprint",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twla1k/nvidianvidianemotron3ultra550ba55bbf16_hugging/",
+      "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16 · Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvuaoh/ideogram_4_is_open_source_top_ranked_on/",
-      "title": "Ideogram 4 is open source! (top ranked on DesignArena)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1twnj5r/kvarn_variancenormalized_kvcache_quantization_r/",
+      "title": "KVarN: Variance-Normalized KV-Cache Quantization [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.6",
+      "title": "v0.30.6",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
-      "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.5",
+      "title": "v0.30.5",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-      "title": "How To Make Your Design System AI-Ready",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9521",
+      "title": "b9521",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://poyo.co/note/20260525T094605/",
-      "title": "Two LLM UI patterns that aren't chat",
+      "url": "https://linear.app/changelog/2026-06-04-team-documents",
+      "title": "Team documents",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/ultimate-claude-code-setup-for-product-designers-f8b2fff4ac69?source=rss----819cc2aaeee0---4",
-      "title": "Ultimate Claude Code Setup for Product Designers",
+      "url": "https://tatlirumeysa.medium.com/the-generative-ui-spectrum-how-to-build-ai-agents-that-actually-feel-like-software-f8b5ae547672?source=rss------generative_ui-5",
+      "title": "The Generative UI Spectrum: How to Build AI Agents That Actually Feel Like Software",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/voice-is-the-new-ui-87e107c306d7?source=rss----819cc2aaeee0---4",
-      "title": "Voice is the New UI",
+      "url": "https://ulusoyca.medium.com/build-your-own-flutter-genui-framework-with-gemini-structured-outputs-a6db3653b9b6?source=rss------generative_ui-5",
+      "title": "Build your own Flutter GenUI solution with Gemini structured outputs",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/codex-for-creating-diagram-8db199a622ff?source=rss----819cc2aaeee0---4",
-      "title": "Codex for Creating Diagrams",
+      "url": "https://uxplanet.org/creating-ai-ready-design-system-checklist-547a0256ad87?source=rss----819cc2aaeee0---4",
+      "title": "Creating AI-Ready Design System: Checklist",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@gayatri./redesigning-a-legacy-workflow-start-probing-db7db3eb3fc9?source=rss------ai_ux-5",
-      "title": "redesigning a legacy workflow? Start probing.",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "title": "The speed of prototyping in the age of AI",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@muhammad.awais.professional/why-youll-never-open-an-app-by-2027-50529e094aa7?source=rss------generative_ui-5",
-      "title": "Why You'll Never \"Open an App\" By 2027",
+      "url": "https://allenpike.com/2026/voice-in-visuals-out/",
+      "title": "Building for voice In, visuals out",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://tympanus.net/codrops/2026/06/03/forging-her-own-path-houmahani-kanes-journey-in-creative-development/",
-      "title": "Forging Her Own Path: Houmahani Kane's Journey in Creative Development",
+      "url": "https://medium.com/@avilash_advids/the-thoughtful-line-advids-drew-when-ai-entered-our-production-pipeline-2725ff9d627d?source=rss------ai_design-5",
+      "title": "The Thoughtful Line Advids Drew When AI Entered Our Production Pipeline",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://medium.com/@shriya.jaju/the-morning-my-coffee-maker-made-me-rethink-everything-e09f15435599?source=rss------ai_design-5",
-      "title": "The Morning My Coffee Maker Made Me Rethink Everything",
+      "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945",
+      "title": "Designing how designers master AI",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://meodai.github.io/heerich/",
-      "title": "heerich.js",
+      "url": "https://medium.com/@padduraghavan/the-era-of-a-i-sthetic-inflation-cb35d052c34d?source=rss------ai_design-5",
+      "title": "The Era of A(i)sthetic Inflation",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://animations.dev/vocabulary",
-      "title": "Motion vocabulary",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://www.itsnicethat.com/articles/pov-friction-breeds-creativity-creative-industry-260526",
-      "title": "On frictionmaxxing and the creative virtues of inconvenience",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://www.davesresearch.com/self-fulfilling-projects/",
-      "title": "Self-fulfilling projects",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://css-tricks.com/almanac/properties/o/offset-path/",
-      "title": "offset-path",
-      "profile": "Design"
-    },
-    {
-      "n": 30,
-      "url": "https://css-tricks.com/almanac/rules/c/custom-media/",
-      "title": "@custom-media",
+      "url": "https://tympanus.net/codrops/2026/06/04/creating-a-thumbnail-flow-animation-with-gsap-motionpath/",
+      "title": "Creating a Thumbnail Flow Animation with GSAP MotionPath",
       "profile": "Design"
     }
   ]
