@@ -1,172 +1,142 @@
 {
-  "generated_at": "2026-06-06T07:07:54+00:00",
+  "generated_at": "2026-06-07T07:07:33+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5",
-      "title": "Making Claude a chemist - Anthropic",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXVJQXhlVjIxN1JhSGsxOVhGcUJ5cWRZd2FyLTBuNjNvVjhUcTc1SG9pTXc2U2pEcE1rajBMZU01T3ZUanBScHF5NXVQTERPLXl5VXJHbFI1c0RDMU1id3dtT1I5N0ZRSjF3RnJKZ0UxTnd2VW1ZLXhMdDRSVjZNbEJyY3A1bGlnNUY5Vm9QMmZSY3JjdXgwSlczT2FUaFgyNUYyLTdURU1yYWVjczNyRVRNVjVxMkJl?oc=5",
-      "title": "Anthropic says the world should have option to 'pause' on AI - The Guardian",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "title": "The Trump administration might take an equity stake in OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDBUb0stb2dVZ2hGWDkyVjJBeWVNN2FjWU5SZnFXbkczT19iekV6d2RqMGtNVXFRaU9sREhCbDJmSEpqRDZMd3c5ZXdtTEp2S1RhZlJmbW9ZWHlxY1NPZThYNC1WSkpiQkJtSXRVQkp1N0ZlMzZTYVlNUTZOdUk4ZmQyVTF2WXZSdm03aW9Fc0pjWGVMVGk4ZDYwTkpFNkQ2TEYyd2JlS2l1XzVvYXEyVVRkQjEwZDVQbVpCR0hhcDhZTUNWeDYw?oc=5",
-      "title": "'Good for the world:' Anthropic calls for global temporary pause in AI development - Yahoo Tech",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTJEQUlxbDhXQnNsWFhqdS1vRDFhM2xNenAxbUdhMER6TFBNNHJDYks0R0VkYlhwUTZVcFNYdktzU0VyajFJaEppNmZpcG9ZSXhTcUtqeVlUSDRFVm9aVzZTN0gzRUQ1SUVwVVUxRDBESmdlUTV3dXFxR3BZWV9jcTdDbFQ?oc=5",
+      "title": "Anthropic AI coding assistant could be tricked into revealing secrets, Microsoft warns - Cybernews",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "title": "The token bill comes due: Inside the industry scramble to manage AI's runaway costs",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1ROY2gtaDB5VDk1aXdwT0JEdFp2RGR4TGxHendVamFmYU50M1RHZzZUMFo1ZVdGUE0xX3FqMkV3ZHJrZ2tTeXZIMGUtRFdpaEtNWWk1aHhGekltbzBKbm9RSE5kNGhkYVFMRVA3VDRuTXI2cjBmQ1Iwb1VHOF9hTVY4am5SVVZzbExlQzlBVG93QjBxUC00NnYwSQ?oc=5",
+      "title": "Anthropic is blacklisted by the Pentagon and being used by the NSA at the same time - TechSpot",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjJXTWxNVHF3dzZXNFdQZGNBV3hhSF9XOGFuLTI2VVF2bmF2M2xJNlRyX0NjR2pGVnMyejNOZWR6MnVGUXJJOGFSNklOOE11SzhSLVkyLXpHRjNCMml6Q1FGQ3dtRFluQTVNZ2JzMVkyWi02MGdYem5CTXFnTGYwUUVFbmh5ejNSSEtVSm0wZ1Nlcnh0eXdRQmlXaHdlQ25UY3QwTVdlRWlyUVBSakpJdk9SSzk0VF9ac2VVMw?oc=5",
+      "title": "Anthropic Admitted Claude Is Close To Self-Improvement — Here's What That Means - Dallas Express",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/",
-      "title": "Gemma 4 with quantization-aware training",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tylzy2/coheres_unreleased_coding_model_early_access_for/",
+      "title": "Cohere's unreleased coding model (early access for localllama)",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txxgpq/openlumara_a_different_kind_of_ai_agent_written/",
-      "title": "OpenLumara - A different kind of AI agent, written from scratch, not vibecoded",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1typjmc/120_toks_on_12gb_vram_with_gemma_4_12b_qat_mtp/",
+      "title": "120 tok/s on 12GB VRAM with Gemma 4 12B QAT MTP",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txwbge/dotstts_2b_sota_tts_from_rednote/",
-      "title": "dots.tts 2B🎙️ SOTA TTS from RedNote",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/",
+      "title": "KV cache quant benchmarks: KVarN 6-bit matches q8_0, 4-bit matches q5_0. Massive!",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txlhxu/i_implemented_kvarn_in_my_llamacpp_fork_and_ran/",
-      "title": "I implemented KVarN in my llama.cpp fork and ran KLD benchmarks. It's promising!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tynv0p/gemma_4_qat_unquantized_heretic_is_here/",
+      "title": "Gemma 4 QAT Unquantized Heretic is here",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.1",
-      "title": "v0.22.1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyb3np/deepseek_v4_flash_is_amazing_wip_llamacpp_pr_24162/",
+      "title": "DeepSeek V4 Flash is amazing! (WIP llama.cpp PR #24162)",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9538",
-      "title": "b9538",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyjkfh/moq_ggufs_and_gsq_lowbit_ggufs_are_about_to_get/",
+      "title": "MoQ GGUFs and GSQ: Low-Bit GGUFs Are About to Get Much Better",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.106.0",
-      "title": "v0.106.0",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9544",
+      "title": "b9544",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-      "title": "New York lawmakers pass one-year ban on new data centers",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9543",
+      "title": "b9543",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "title": "This AI startup says it can tell if a script will make a hit film",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.107.0",
+      "title": "v0.107.0",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/design-jobs-ai-created/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "The Four Design Jobs AI Created (So Far)",
+      "url": "https://medium.com/@contentwritersatyam/what-is-ai-orchestration-and-its-need-b9e8ee4c21b1?source=rss------ai_design-5",
+      "title": "AI Orchestration Is the Real Cost Lever, Not Model Selection in 2026",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.nngroup.com/articles/behavioral-economics-for-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "The Hidden Why: Behavioral Economics for UX",
+      "url": "https://medium.com/@aiprofessionalmix/how-to-use-canva-ai-tools-like-a-pro-in-2026-7bed6b54dcd1?source=rss------ai_design-5",
+      "title": "How to Use Canva AI Tools Like a Pro in 2026",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/claude-code-sucks-at-ui-design-6c83450e0090?source=rss----819cc2aaeee0---4",
-      "title": "Claude Code sucks at UI design",
+      "url": "https://medium.com/@piponsarna/how-to-create-print-on-demand-designs-with-ai-step-by-step-even-if-you-cant-draw-a-stick-4b122183de81?source=rss------ai_design-5",
+      "title": "How to Create Print-on-Demand Designs with AI — Step by Step (Even If You Can't Draw a Stick…",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://blog.devgenius.io/the-architecture-of-autonomy-why-software-is-becoming-headless-again-28bdb127b2a6?source=rss------generative_ui-5",
-      "title": "The Architecture of Autonomy: Why Software Is Becoming Headless Again",
+      "url": "https://kateagena.medium.com/process-and-power-at-twenty-write-yourself-into-the-ai-shift-204e76b9800d?source=rss------ai_design-5",
+      "title": "Process and Power at Twenty: Write Yourself Into the AI Shift",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://knightcolumbia.org/content/ai-as-social-technology",
-      "title": "AI as social technology",
+      "url": "https://sumeeeet.medium.com/stop-re-prompting-flaws-nobody-notices-a-3-axis-triage-for-ai-design-assets-195890bc840b?source=rss------ai_design-5",
+      "title": "Stop Re-Prompting Flaws Nobody Notices: A 3-Axis Triage for AI Design Assets",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://www.tokyodesignforum.com/library/2026/soleio",
-      "title": "Soleio — The geometry of luck",
+      "url": "https://uxdesign.cc/the-psychological-cost-of-moving-too-fast-867fb3830722?source=rss----138adf9c44c---4",
+      "title": "The psychological cost of moving too fast",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://www.craigabbott.co.uk/blog/2026/our-css-isnt-opinionated-enough/",
-      "title": "Our CSS isn't opinionated enough",
+      "url": "https://uxdesign.cc/employment-expiry-and-the-end-of-workplace-loyalty-8d238865a6e9?source=rss----138adf9c44c---4",
+      "title": "Employment expiry and the end of workplace loyalty",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://emailmarkup.org/en/reports/accessibility/2026/",
-      "title": "Email Accessibility Report 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://blog.murphytrueman.com/the-parts-of-your-system-you-never-wrote-down/",
-      "title": "The parts of your system you never wrote down",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://tympanus.net/codrops/2026/06/05/the-making-of-the-new-lesse-studio-website-clarity-performance-and-intentionality/",
-      "title": "The Making of the New Lesse Studio Website: Clarity, Performance, and Intentionality",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://uxdesign.cc/designing-for-care-not-growth-274d460f968c?source=rss----138adf9c44c---4",
-      "title": "Designing for care, not growth",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://uxdesign.cc/designs-alive-and-kicking-it-just-got-some-flashy-new-names-779b4503c869?source=rss----138adf9c44c---4",
-      "title": "Design's alive and kicking. It just got some flashy new names.",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://uxdesign.cc/youre-not-building-a-product-you-re-running-a-project-a8fdec68788c?source=rss----138adf9c44c---4",
-      "title": "You're not building a product. You're running a project",
+      "url": "https://uxdesign.cc/your-user-doesnt-care-about-your-organization-chart-39bdde6b3b9c?source=rss----138adf9c44c---4",
+      "title": "Your user doesn't care about your organization chart",
       "profile": "Design"
     }
   ]
