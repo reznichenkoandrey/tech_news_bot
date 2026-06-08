@@ -1,142 +1,100 @@
 {
-  "generated_at": "2026-06-07T07:07:33+00:00",
+  "generated_at": "2026-06-08T07:07:16+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9549",
+      "title": "llama.cpp b9549: add Gemma4 MTP",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lUFhDWmR4cU14N1M4OXlEZ2lWUjNEdFpraTJxMl9qQ3NadzdWWl9SWnY5ODBXZFZNZjZubFliQk9JT2tuemRuZDRvbWZacDFmYjZmSWp6OC1qcXVK0gFkQVVfeXFMTVFrWUY1ek4ya0JsWThwaHQxTFF6V2JfYWtPQm9WWVJtcFgxMWN4blFTU191WXExSUdzMmlvSmRERl9vVHdJbVBVTFlsZVFJbEEySGROMnMxZ21fNWNadVN6Y05HRw?oc=5",
+      "title": "Claude Opus 4.8 Review: Better At What's It Good At, Worse At What It's Not",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kVzF2cGNaajN2ZzNuTlVENExJVGNOd3JpS1ZuOUdtNjc3ZFVoNmdHb2Yyb1hZV3RmOW83WWRoYkFCWWN5WWxqMEtSZkx3MmFsaGFremRRQzdOR2l3UWZXUEVnTUNWZVk?oc=5",
+      "title": "Anthropic Expands Claude Mythos Access to 150 Organizations Globally",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTJEQUlxbDhXQnNsWFhqdS1vRDFhM2xNenAxbUdhMER6TFBNNHJDYks0R0VkYlhwUTZVcFNYdktzU0VyajFJaEppNmZpcG9ZSXhTcUtqeVlUSDRFVm9aVzZTN0gzRUQ1SUVwVVUxRDBESmdlUTV3dXFxR3BZWV9jcTdDbFQ?oc=5",
-      "title": "Anthropic AI coding assistant could be tricked into revealing secrets, Microsoft warns - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoWkhZU2oxUTZrSXRpZmlGaFVjc3pOV3hBNlRERkVhUklreWNBdWY3eUR0TW9kVlo1ekdBRW8wQUUxa1F4dlcwZTBUSnBWT2JkeGJBcndxYWZwUE1TaWJLdmVXNjJHR0pHb2RtY0pWYw?oc=5",
+      "title": "Anthropic's Claude Opus 4.7 matches dedicated NMR software in chemistry tasks",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1ROY2gtaDB5VDk1aXdwT0JEdFp2RGR4TGxHendVamFmYU50M1RHZzZUMFo1ZVdGUE0xX3FqMkV3ZHJrZ2tTeXZIMGUtRFdpaEtNWWk1aHhGekltbzBKbm9RSE5kNGhkYVFMRVA3VDRuTXI2cjBmQ1Iwb1VHOF9hTVY4am5SVVZzbExlQzlBVG93QjBxUC00NnYwSQ?oc=5",
-      "title": "Anthropic is blacklisted by the Pentagon and being used by the NSA at the same time - TechSpot",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "title": "Is this the dawn of the Tokenpocalypse?",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjJXTWxNVHF3dzZXNFdQZGNBV3hhSF9XOGFuLTI2VVF2bmF2M2xJNlRyX0NjR2pGVnMyejNOZWR6MnVGUXJJOGFSNklOOE11SzhSLVkyLXpHRjNCMml6Q1FGQ3dtRFluQTVNZ2JzMVkyWi02MGdYem5CTXFnTGYwUUVFbmh5ejNSSEtVSm0wZ1Nlcnh0eXdRQmlXaHdlQ25UY3QwTVdlRWlyUVBSakpJdk9SSzk0VF9ac2VVMw?oc=5",
-      "title": "Anthropic Admitted Claude Is Close To Self-Improvement — Here's What That Means - Dallas Express",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "title": "Notion restores access to Anthropic after service disruption",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tylzy2/coheres_unreleased_coding_model_early_access_for/",
-      "title": "Cohere's unreleased coding model (early access for localllama)",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "title": "OpenAI is still working on that 'super app'",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1typjmc/120_toks_on_12gb_vram_with_gemma_4_12b_qat_mtp/",
-      "title": "120 tok/s on 12GB VRAM with Gemma 4 12B QAT MTP",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzw207/gemma4_31b_fp8_keeping_up_with_sonnet_46_medium/",
+      "title": "Gemma4_31b_fp8 keeping up with Sonnet_4.6_medium in my harness",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/",
-      "title": "KV cache quant benchmarks: KVarN 6-bit matches q8_0, 4-bit matches q5_0. Massive!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/",
+      "title": "llama.cpp Gemma4 MTP support merged!",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tynv0p/gemma_4_qat_unquantized_heretic_is_here/",
-      "title": "Gemma 4 QAT Unquantized Heretic is here",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzmq5y/qwen_36_27b_on_deepswe/",
+      "title": "Qwen 3.6 27B on DeepSWE",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyb3np/deepseek_v4_flash_is_amazing_wip_llamacpp_pr_24162/",
-      "title": "DeepSeek V4 Flash is amazing! (WIP llama.cpp PR #24162)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/",
+      "title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyjkfh/moq_ggufs_and_gsq_lowbit_ggufs_are_about_to_get/",
-      "title": "MoQ GGUFs and GSQ: Low-Bit GGUFs Are About to Get Much Better",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzernu/qwen36_35ba3b_on_a_laptop_my_zero_to_one_moment/",
+      "title": "Qwen3.6 35B-A3B on a Laptop: My Zero to One Moment",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9544",
-      "title": "b9544",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzpkmf/club3090_adds_experimental_fp8_support_for/",
+      "title": "club-3090 adds experimental FP8 support for Qwen3.6-27B!",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9543",
-      "title": "b9543",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.7-rc1",
+      "title": "Ollama v0.30.7-rc1 (pre-release)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.107.0",
-      "title": "v0.107.0",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4",
+      "title": "You're still archiving. Your files have already become substrate.",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@contentwritersatyam/what-is-ai-orchestration-and-its-need-b9e8ee4c21b1?source=rss------ai_design-5",
-      "title": "AI Orchestration Is the Real Cost Lever, Not Model Selection in 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://medium.com/@aiprofessionalmix/how-to-use-canva-ai-tools-like-a-pro-in-2026-7bed6b54dcd1?source=rss------ai_design-5",
-      "title": "How to Use Canva AI Tools Like a Pro in 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://medium.com/@piponsarna/how-to-create-print-on-demand-designs-with-ai-step-by-step-even-if-you-cant-draw-a-stick-4b122183de81?source=rss------ai_design-5",
-      "title": "How to Create Print-on-Demand Designs with AI — Step by Step (Even If You Can't Draw a Stick…",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://kateagena.medium.com/process-and-power-at-twenty-write-yourself-into-the-ai-shift-204e76b9800d?source=rss------ai_design-5",
-      "title": "Process and Power at Twenty: Write Yourself Into the AI Shift",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://sumeeeet.medium.com/stop-re-prompting-flaws-nobody-notices-a-3-axis-triage-for-ai-design-assets-195890bc840b?source=rss------ai_design-5",
-      "title": "Stop Re-Prompting Flaws Nobody Notices: A 3-Axis Triage for AI Design Assets",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/the-psychological-cost-of-moving-too-fast-867fb3830722?source=rss----138adf9c44c---4",
-      "title": "The psychological cost of moving too fast",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxdesign.cc/employment-expiry-and-the-end-of-workplace-loyalty-8d238865a6e9?source=rss----138adf9c44c---4",
-      "title": "Employment expiry and the end of workplace loyalty",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://uxdesign.cc/your-user-doesnt-care-about-your-organization-chart-39bdde6b3b9c?source=rss----138adf9c44c---4",
-      "title": "Your user doesn't care about your organization chart",
+      "url": "https://medium.com/@matthewmakepeace32/ai-is-changing-design-dramatically-but-its-not-as-useful-as-you-think-97f3ba286cf1?source=rss------ai_design-5",
+      "title": "AI is Changing Design Dramatically, But It's Not as Useful as You Think.",
       "profile": "Design"
     }
   ]
