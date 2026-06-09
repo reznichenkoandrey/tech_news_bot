@@ -1,100 +1,172 @@
 {
-  "generated_at": "2026-06-08T07:07:16+00:00",
+  "generated_at": "2026-06-09T07:07:33+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9549",
-      "title": "llama.cpp b9549: add Gemma4 MTP",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "title": "Confidential submission of draft S-1 to the SEC",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lUFhDWmR4cU14N1M4OXlEZ2lWUjNEdFpraTJxMl9qQ3NadzdWWl9SWnY5ODBXZFZNZjZubFliQk9JT2tuemRuZDRvbWZacDFmYjZmSWp6OC1qcXVK0gFkQVVfeXFMTVFrWUY1ek4ya0JsWThwaHQxTFF6V2JfYWtPQm9WWVJtcFgxMWN4blFTU191WXExSUdzMmlvSmRERl9vVHdJbVBVTFlsZVFJbEEySGROMnMxZ21fNWNadVN6Y05HRw?oc=5",
-      "title": "Claude Opus 4.8 Review: Better At What's It Good At, Worse At What It's Not",
+      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "title": "Apple's long-awaited AI Siri overhaul is finally here",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kVzF2cGNaajN2ZzNuTlVENExJVGNOd3JpS1ZuOUdtNjc3ZFVoNmdHb2Yyb1hZV3RmOW83WWRoYkFCWWN5WWxqMEtSZkx3MmFsaGFremRRQzdOR2l3UWZXUEVnTUNWZVk?oc=5",
-      "title": "Anthropic Expands Claude Mythos Access to 150 Organizations Globally",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "title": "Apple bets cheaper AI will woo small developers",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoWkhZU2oxUTZrSXRpZmlGaFVjc3pOV3hBNlRERkVhUklreWNBdWY3eUR0TW9kVlo1ekdBRW8wQUUxa1F4dlcwZTBUSnBWT2JkeGJBcndxYWZwUE1TaWJLdmVXNjJHR0pHb2RtY0pWYw?oc=5",
-      "title": "Anthropic's Claude Opus 4.7 matches dedicated NMR software in chemistry tasks",
+      "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "title": "Apple gives Siri its own dedicated app",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "title": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "title": "NotebookLM's Gemini 3.5 upgrade adds a cloud computer and help finding sources",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0buhm/xiaomi_just_claimed_1000_tps_on_a_1t_model_using/",
+      "title": "Xiaomi just claimed 1,000+ tps on a 1T model using a standard 8-GPU server",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "title": "OpenAI is still working on that 'super app'",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0b3cu/luce_spark_a_35b_moe_on_a_16_gb_gpu_without_the/",
+      "title": "Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzw207/gemma4_31b_fp8_keeping_up_with_sonnet_46_medium/",
-      "title": "Gemma4_31b_fp8 keeping up with Sonnet_4.6_medium in my harness",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0rk0o/2x_tks_from_194_381_tks_on_1_x_mi50_playing_with/",
+      "title": "2X tk/s (from 19.4 -> 38.1 tk/s on 1 x MI50) Playing with a hypothesis like speculative decoding",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/",
-      "title": "llama.cpp Gemma4 MTP support merged!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0snw6/ggmlwebgpu_improve_prefill_speeds_for_kquants/",
+      "title": "ggml-webgpu: Improve prefill speeds for k-quants + refactor matmul for Q4/Q5/Q8 and k-quants",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzmq5y/qwen_36_27b_on_deepswe/",
-      "title": "Qwen 3.6 27B on DeepSWE",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0q5h9/i_finetuned_parakeet_06b_for_medical_asr_open/",
+      "title": "I fine-tuned Parakeet 0.6B for medical ASR — open weights, local Mac/CUDA/CPU",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/",
-      "title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0marm/quick_note_on_the_qat_of_recent/",
+      "title": "Quick note on the QAT of recent",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzernu/qwen36_35ba3b_on_a_laptop_my_zero_to_one_moment/",
-      "title": "Qwen3.6 35B-A3B on a Laptop: My Zero to One Moment",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0r3jh/jetbrains_mellum_2_a_really_good_and_performant/",
+      "title": "Jetbrains Mellum 2: a really good and performant model",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzpkmf/club3090_adds_experimental_fp8_support_for/",
-      "title": "club-3090 adds experimental FP8 support for Qwen3.6-27B!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0isbo/qwen3635ba3b_tool_calling_benchmark_byteshape_vs/",
+      "title": "Qwen3.6-35B-A3B tool calling benchmark: ByteShape vs. Unsloth GGUFs, KV cache quants & long context performance",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.7-rc1",
-      "title": "Ollama v0.30.7-rc1 (pre-release)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0p3b2/pipeline_parallelism_in_llamacpp_may_be_wasting/",
+      "title": "Pipeline parallelism in llama.cpp may be wasting your VRAM",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4",
-      "title": "You're still archiving. Your files have already become substrate.",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u08zhx/3090_gemma4_qat_mtp_quick_tps_numbers_tldr_1218x/",
+      "title": "[3090] Gemma4 QAT + MTP quick TPS numbers [TLDR 1.2-1.8x better]",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@matthewmakepeace32/ai-is-changing-design-dramatically-but-its-not-as-useful-as-you-think-97f3ba286cf1?source=rss------ai_design-5",
-      "title": "AI is Changing Design Dramatically, But It's Not as Useful as You Think.",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "title": "When AI builds itself",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "title": "Beyond the prompt: Claude Code",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://uxplanet.org/figma-skills-for-claude-code-complete-guide-c8db2b581a76?source=rss----819cc2aaeee0---4",
+      "title": "Figma skills for Claude Code: Complete Guide",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxplanet.org/claude-code-glossary-2e00235be258?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Glossary",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@nadiyq/i-made-my-design-system-llm-readable-heres-exactly-how-a5097f405660?source=rss------ai_design-5",
+      "title": "I made my design system LLM-readable. Here's exactly how.",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://addyosmani.com/blog/loop-engineering/",
+      "title": "Loop engineering",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "title": "Building a general-purpose accessibility agent",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?source=rss----138adf9c44c---4",
+      "title": "AI design isn't ugly. It's fluent — and that's the problem.",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://medium.com/design-bootcamp/when-stakeholders-use-ai-to-prototype-their-own-designs-75d75e8cf7c6?source=rss------ai_design-5",
+      "title": "When stakeholders use AI to prototype their own designs",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://www.doc.cc/articles/a-sharp-tool-can-still-ruin-the-cut",
+      "title": "A sharp tool can still ruin the cut",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
+      "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://css-generators.com/center/",
+      "title": "How to center an element horizontally and vertically",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://enshittifier.wells.ee/",
+      "title": "Enshittifier: replace AI with 💩",
       "profile": "Design"
     }
   ]
