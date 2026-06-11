@@ -1,142 +1,172 @@
 {
-  "generated_at": "2026-06-10T07:08:03+00:00",
+  "generated_at": "2026-06-11T07:07:51+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-      "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "title": "DiffusionGemma: 4x faster text generation",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/nextdoor",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.11.0",
+      "title": "Release v5.11.0",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/notion",
-      "title": "What Codex unlocks for Notion",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "title": "Introducing North Mini Code: Cohere's First Model For Developers",
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "title": "Decart's new world model can simulate hours of photorealistic driving — with some caveats",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-      "title": "Anthropic's Claude Fable 5 is a version of Mythos the public can access today",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-ios-27-apple-intelligence-and-more/",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "title": "Google won't just admit it's feeding YouTube creators to its music AI",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
-      "title": "Apple is embracing the fantasy of AI photo editing",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "title": "How memory tools can make AI models worse",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1s2oz/anthropic_is_intentionally_nerfing_fable_when/",
-      "title": "Anthropic is intentionally nerfing Fable when asked to develop other LLMs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u277fg/flashmemorydeepseekv4_lightning_index_ultralong/",
+      "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1ci1r/releasing_cohere_north_mini_code/",
-      "title": "Releasing Cohere North Mini Code",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1za0m/cohere_released_north_mini_code_its_first/",
+      "title": "Cohere released North Mini Code: It's first Open-Source Agentic Coding Model",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1edjb/oscar_rotationzoo_offline_spectral/",
-      "title": "OSCAR RotationZoo - Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u26wkb/lemonade_v107_release_and_project_organization/",
+      "title": "Lemonade v10.7 release and project organization update",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u19k2h/unsloth_gemma_4_qat_mtp_assistant_models_now/",
-      "title": "Unsloth Gemma 4 QAT MTP assistant models now available",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/ai-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-llm-%E8%A9%B2%E6%93%81%E6%9C%89%E5%A4%9A%E5%B0%91%E8%87%AA%E7%94%B1%E5%BA%A6-generative-ui-%E7%9A%84%E4%B8%89%E7%A8%AE%E5%AF%A6%E7%8F%BE%E6%96%B9%E5%BC%8F-dcdce7b29a32?source=rss------generative_ui-5",
-      "title": "AI 學習筆記 — LLM 該擁有多少自由度？Generative UI 的三種實現方式",
+      "url": "https://uxplanet.org/claude-fable-5-for-product-designers-8858690a420a?source=rss----819cc2aaeee0---4",
+      "title": "Claude Fable 5 for Product Designers",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@muhammad.awais.professional/the-end-of-the-ai-chatbox-5-radical-shifts-redefining-ai-in-2026-5ff0ad7e6155?source=rss------generative_ui-5",
-      "title": "The End of the AI Chatbox: 5 Radical Shifts Redefining AI in 2026",
+      "url": "https://www.nngroup.com/articles/design-jobs-ai-created/",
+      "title": "The four design jobs AI created (so far)",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/a-b-testing-with-claude-code-3a1e56df6684?source=rss----819cc2aaeee0---4",
-      "title": "A/B testing with Claude Code",
+      "url": "https://dusskapark.medium.com/how-far-can-a-product-designer-build-with-codex-82d4bc4bb57f?source=rss------ai_design-5",
+      "title": "How Far Can a Product Designer Build with Codex?",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26?source=rss----138adf9c44c---4",
-      "title": "AI didn't replace designers-it promoted them",
+      "url": "https://medium.com/design-bootcamp/the-most-important-moment-in-ai-design-is-when-it-stops-5bc45eb77151?source=rss------ai_design-5",
+      "title": "The most important moment in AI design is when it stops",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/dieter-rams-avoids-computers-his-ten-rules-still-fit-designing-for-ai-499229fd049e?source=rss----138adf9c44c---4",
-      "title": "Dieter Rams avoids computers. His ten rules still fit designing for AI.",
+      "url": "https://buzzusborne.com/writing/discovery-delivery/",
+      "title": "Discovery vs Delivery",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?source=rss----138adf9c44c---4",
-      "title": "Should you really give AI your whole digital life?",
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/your-design-taste-isnt-a-feeling-it-s-a-prediction-about-user-behavior-7a4a63f5f622?source=rss----138adf9c44c---4",
-      "title": "Your design taste isn't a feeling. It's a prediction about user behavior.",
+      "url": "https://specification.website/",
+      "title": "The website specification",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://tympanus.net/codrops/2026/06/09/building-an-interactive-digital-stamp-collection-with-shaders-postcards-and-playful-inspection/",
-      "title": "Building an Interactive Digital Stamp Collection with Shaders, Postcards, and Playful Inspection",
+      "url": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4",
+      "title": "Liquid Glass: who gets to decide how an interface looks?",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://aave.com/design/building-glass-for-the-web",
+      "title": "Building glass for the web",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://www.ui-skills.com/",
+      "title": "UI skills for design engineers",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://slack.design/articles/how-i-validated-design-decisions-before-writing-production-code/",
+      "title": "How I validated design decisions before writing production code",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
+      "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://tympanus.net/codrops/2026/06/10/building-horeca-advanced-motion-design-in-webflow-without-the-performance-trade-offs/",
+      "title": "Building Horeca: Advanced Motion Design in Webflow Without the Performance Trade-Offs",
       "profile": "Design"
     }
   ]
