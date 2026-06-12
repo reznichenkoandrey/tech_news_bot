@@ -1,172 +1,154 @@
 {
-  "generated_at": "2026-06-11T07:07:51+00:00",
+  "generated_at": "2026-06-12T07:07:49+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
+      "title": "Introducing Claude Corps - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.11.0",
-      "title": "Release v5.11.0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHNkYWdNVUtBc3lEOHFLd2RwQ1FoeE0xZXRIWTFYTzd5bFdjQ3kycXVWQ3Q4ZExGSE5zT2t5MUFFMmJ3enBJVnQ3VlhpX3NrNlM3Sldyb1V4SVVVcWhhaVU1aUNwSmVjdnI0Wi1YQ2ZWRFJJQkR4WG1LNUJYVGg4RkdhZkktZ3hQeS1EYTdDdHZjZGtnVTNnWGxtZ052V2FNajFuQlNQMXlwc0lTaFc2TTJpNTJIaEx5RnNvQ3FNLXFkUkFLREpDRA?oc=5",
+      "title": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling - Tata Consultancy Services",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "title": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-      "title": "Decart's new world model can simulate hours of photorealistic driving — with some caveats",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "title": "Deezer launches an AI music detector for other streaming services",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "title": "Cheaper, faster, and culturally aware, Avataar's video AI is built for India's scale",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "title": "Google won't just admit it's feeding YouTube creators to its music AI",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "title": "DoorDash's new AI chatbot lets you order with prompts and photos",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3flg9/gemma_4_quadruple_release_12b_12b_qat_26ba4b_qat/",
+      "title": "Gemma 4 Quadruple Release, 12B, 12B QAT, 26B-A4B QAT and 31B QAT Uncensored Heretics!",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "title": "How memory tools can make AI models worse",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2uje1/minimax_m3_open_weights_release_planned_for_friday/",
+      "title": "Minimax M3 open weights release planned for Friday",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u277fg/flashmemorydeepseekv4_lightning_index_ultralong/",
-      "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3nn4j/why_hasnt_any_mainstream_game_integrated_llms/",
+      "title": "Why hasn't any mainstream game integrated LLMs into NPCs yet?",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1za0m/cohere_released_north_mini_code_its_first/",
-      "title": "Cohere released North Mini Code: It's first Open-Source Agentic Coding Model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3nicr/open_sourcing_infinitekv_a_kv_cache_that_files/",
+      "title": "Open sourcing InfiniteKV: a KV cache that files old tokens as 104-byte searchable records in RAM or on disk instead of deleting them. Mistral-7B answered from token 76,747, 2.3x past its trained window. Colab demo",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u26wkb/lemonade_v107_release_and_project_organization/",
-      "title": "Lemonade v10.7 release and project organization update",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3iikl/mtplx_v1_the_swift_app_for_running_creating_mlx/",
+      "title": "MTPLX V1: The Swift App For Running & Creating MLX MTP Models (2x TPS Qwen 3.6 27B)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.8",
+      "title": "v0.30.8",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/claude-fable-5-for-product-designers-8858690a420a?source=rss----819cc2aaeee0---4",
-      "title": "Claude Fable 5 for Product Designers",
+      "url": "https://linear.app/now/coding-sessions-for-linear-agent",
+      "title": "Now Linear writes the code, too",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.nngroup.com/articles/design-jobs-ai-created/",
-      "title": "The four design jobs AI created (so far)",
+      "url": "https://linear.app/changelog/2026-06-11-coding-sessions",
+      "title": "Coding sessions in Linear",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://dusskapark.medium.com/how-far-can-a-product-designer-build-with-codex-82d4bc4bb57f?source=rss------ai_design-5",
-      "title": "How Far Can a Product Designer Build with Codex?",
+      "url": "https://medium.com/@macwan.mikin/the-hardest-part-of-ai-products-isnt-the-model-it-s-defining-what-good-looks-like-d59018006f6c?source=rss------generative_ui-5",
+      "title": "The Hardest Part of AI Products Isn't the Model. It's Defining What Good Looks Like.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/design-bootcamp/the-most-important-moment-in-ai-design-is-when-it-stops-5bc45eb77151?source=rss------ai_design-5",
-      "title": "The most important moment in AI design is when it stops",
+      "url": "https://uxdesign.cc/we-stopped-clicking-and-ai-became-the-internet-df61a0c79d91?source=rss----138adf9c44c---4",
+      "title": "We stopped clicking, and AI became the Internet",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://buzzusborne.com/writing/discovery-delivery/",
-      "title": "Discovery vs Delivery",
+      "url": "https://uxplanet.org/ive-tried-100-claude-code-skills-these-are-the-best-97f19ee05bda?source=rss----819cc2aaeee0---4",
+      "title": "I've Tried 100+ Claude Code Skills. These are The Best.",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "url": "https://tympanus.net/codrops/2026/06/11/sketching-the-impossible-a-3d-portfolio-built-without-a-single-3d-model/",
+      "title": "Sketching the Impossible: A 3D Portfolio Built Without a Single 3D Model",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://specification.website/",
-      "title": "The website specification",
+      "url": "https://medium.com/@tim_penton/we-might-all-be-becoming-business-analysts-57f733c49cb1?source=rss------ai_design-5",
+      "title": "We might all be becoming business analysts",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4",
-      "title": "Liquid Glass: who gets to decide how an interface looks?",
+      "url": "https://medium.com/@aixaixhumancompare/why-does-every-ai-generated-website-look-blue-9a7b28fcc25e?source=rss------ai_design-5",
+      "title": "Why does every AI-generated website look blue?",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://aave.com/design/building-glass-for-the-web",
-      "title": "Building glass for the web",
+      "url": "https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4",
+      "title": "Design for pain: how to make the worst moment better",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://www.ui-skills.com/",
-      "title": "UI skills for design engineers",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://slack.design/articles/how-i-validated-design-decisions-before-writing-production-code/",
-      "title": "How I validated design decisions before writing production code",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-      "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://tympanus.net/codrops/2026/06/10/building-horeca-advanced-motion-design-in-webflow-without-the-performance-trade-offs/",
-      "title": "Building Horeca: Advanced Motion Design in Webflow Without the Performance Trade-Offs",
+      "url": "https://medium.com/@vinx0311/ai-as-attention-regulator-not-assistant-b6a93177ce9c?source=rss------ai_design-5",
+      "title": "AI as Attention Regulator, Not Assistant",
       "profile": "Design"
     }
   ]
