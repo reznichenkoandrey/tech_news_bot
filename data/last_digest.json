@@ -1,154 +1,154 @@
 {
-  "generated_at": "2026-06-12T07:07:49+00:00",
+  "generated_at": "2026-06-13T07:08:06+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-      "title": "Introducing Claude Corps - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQndha2NfQ0ZvbE1DU2gxUFBrLWdGU2x3RjFlbGQ0MG1TSzBVVlRrUFlqbFZnUERDbW1oYmY3cTV4UnZkelZ4TEtLa3ZabEpCcXJVQTZEZjFyT2hWdEFERXpVdDR2OUhCWnVEbklSeEJGU1gxaGdvdmt2d0psY2N3RnlHdjMtOGIxOHV2cXpuUzlqVk42TkYxbEpMOVJzenZ5VVg1b29rcUpnRFlWSDQxV3FWMm5fY3lyVnlQU29BONIBxAFBVV95cUxQUHNqZzhHU1lSVGhtUmhjSF9iS3o5VG0wM1NZM2RfckdPWWhUZURYUGVhaW1VdVZ0bWJaeHd5Uk9RUDZIRmh0X3RZY2Eyc1hzSGtqSTlzTEJrVEctMW1oUWZUNURTQV96dm42NF9nWTBnZDFuSWxTMGNIX0dGZUs2TWFYXzAwWVBKRUhFdHIxd2JXcnczX0w1UUwzZ1EzT3pXMDhxVFZaZTNGbmRKOUc4cVJWSDY3dXVpQkVxYlphWFlnYS1v?oc=5",
+      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0",
+      "title": "vLLM v0.23.0",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHNkYWdNVUtBc3lEOHFLd2RwQ1FoeE0xZXRIWTFYTzd5bFdjQ3kycXVWQ3Q4ZExGSE5zT2t5MUFFMmJ3enBJVnQ3VlhpX3NrNlM3Sldyb1V4SVVVcWhhaVU1aUNwSmVjdnI0Wi1YQ2ZWRFJJQkR4WG1LNUJYVGg4RkdhZkktZ3hQeS1EYTdDdHZjZGtnVTNnWGxtZ052V2FNajFuQlNQMXlwc0lTaFc2TTJpNTJIaEx5RnNvQ3FNLXFkUkFLREpDRA?oc=5",
-      "title": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling - Tata Consultancy Services",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
+      "title": "Transformers v5.12.0",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "title": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "title": "New OpenAI Academy courses for the next era of work",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "title": "Deezer launches an AI music detector for other streaming services",
+      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "title": "Cheaper, faster, and culturally aware, Avataar's video AI is built for India's scale",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u4hy2x/paddleocr_v3v4v5v6_implemented_in_c_with_ncnn_p/",
+      "title": "PaddleOCR (v3/v4/v5/v6) implemented in C++ with ncnn",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-      "title": "DoorDash's new AI chatbot lets you order with prompts and photos",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u3omwk/hubertcpp_a_c_implementation_of_distilhubert_p/",
+      "title": "hubert.cpp, a C++ implementation of distilHuBERT",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3flg9/gemma_4_quadruple_release_12b_12b_qat_26ba4b_qat/",
-      "title": "Gemma 4 Quadruple Release, 12B, 12B QAT, 26B-A4B QAT and 31B QAT Uncensored Heretics!",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9608",
+      "title": "llama.cpp b9608",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2uje1/minimax_m3_open_weights_release_planned_for_friday/",
-      "title": "Minimax M3 open weights release planned for Friday",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9605",
+      "title": "llama.cpp b9605",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3nn4j/why_hasnt_any_mainstream_game_integrated_llms/",
-      "title": "Why hasn't any mainstream game integrated LLMs into NPCs yet?",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "title": "Chinese cybercrime operation that used AI to scam 'hundreds of thousands of victims' sued by Google",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3nicr/open_sourcing_infinitekv_a_kv_cache_that_files/",
-      "title": "Open sourcing InfiniteKV: a KV cache that files old tokens as 104-byte searchable records in RAM or on disk instead of deleting them. Mistral-7B answered from token 76,747, 2.3x past its trained window. Colab demo",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u4fc16/derivativefree_neural_network_optimization_mnist/",
+      "title": "Derivative-Free Neural Network Optimization: MNIST Case",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3iikl/mtplx_v1_the_swift_app_for_running_creating_mlx/",
-      "title": "MTPLX V1: The Swift App For Running & Creating MLX MTP Models (2x TPS Qwen 3.6 27B)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/",
+      "title": "Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.8",
-      "title": "v0.30.8",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "title": "Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://linear.app/now/coding-sessions-for-linear-agent",
-      "title": "Now Linear writes the code, too",
+      "url": "https://linear.app/now/linear-agent-bug-fix",
+      "title": "Teaching an agent to auto-fix bugs",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://linear.app/changelog/2026-06-11-coding-sessions",
-      "title": "Coding sessions in Linear",
+      "url": "https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Context Architecture",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@macwan.mikin/the-hardest-part-of-ai-products-isnt-the-model-it-s-defining-what-good-looks-like-d59018006f6c?source=rss------generative_ui-5",
-      "title": "The Hardest Part of AI Products Isn't the Model. It's Defining What Good Looks Like.",
+      "url": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "The Core Skill of Design in the AI Era: Critique",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/we-stopped-clicking-and-ai-became-the-internet-df61a0c79d91?source=rss----138adf9c44c---4",
-      "title": "We stopped clicking, and AI became the Internet",
+      "url": "https://medium.com/@muhammad.awais.professional/stop-treating-claude-like-a-simple-chatbot-dfaa4dfa29d4?source=rss------generative_ui-5",
+      "title": "Stop Treating Claude Like a Simple Chatbot",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/ive-tried-100-claude-code-skills-these-are-the-best-97f19ee05bda?source=rss----819cc2aaeee0---4",
-      "title": "I've Tried 100+ Claude Code Skills. These are The Best.",
+      "url": "https://medium.com/@laijianxun123/designing-for-genui-d29b8a73fc41?source=rss------ai_design-5",
+      "title": "Designing for GenUI",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://tympanus.net/codrops/2026/06/11/sketching-the-impossible-a-3d-portfolio-built-without-a-single-3d-model/",
-      "title": "Sketching the Impossible: A 3D Portfolio Built Without a Single 3D Model",
+      "url": "https://maeda.pm/2026/06/11/what-is-ax/",
+      "title": "For most of my career I designed the cockpit",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@tim_penton/we-might-all-be-becoming-business-analysts-57f733c49cb1?source=rss------ai_design-5",
-      "title": "We might all be becoming business analysts",
+      "url": "https://medium.com/@1793206567/ai-ecommerce-design-needs-more-than-image-generation-it-needs-a-repeatable-creative-workflow-2fe5f06a0cfc?source=rss------ai_design-5",
+      "title": "AI ecommerce design needs more than image generation. It needs a repeatable creative workflow.",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://medium.com/@aixaixhumancompare/why-does-every-ai-generated-website-look-blue-9a7b28fcc25e?source=rss------ai_design-5",
-      "title": "Why does every AI-generated website look blue?",
+      "url": "https://boneyard.vercel.app/overview",
+      "title": "Boneyard: skeleton screens for your UI",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4",
-      "title": "Design for pain: how to make the worst moment better",
+      "url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+      "title": "Why Isn't My 3D View Transition Working?",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://medium.com/@vinx0311/ai-as-attention-regulator-not-assistant-b6a93177ce9c?source=rss------ai_design-5",
-      "title": "AI as Attention Regulator, Not Assistant",
+      "url": "https://www.truehenrique.com/en/2021/10/27/single-responsibility-the-distorted-principle/",
+      "title": "Single responsibility, the distorted principle",
       "profile": "Design"
     }
   ]
