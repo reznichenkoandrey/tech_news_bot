@@ -1,154 +1,124 @@
 {
-  "generated_at": "2026-06-13T07:08:06+00:00",
+  "generated_at": "2026-06-14T07:08:09+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQndha2NfQ0ZvbE1DU2gxUFBrLWdGU2x3RjFlbGQ0MG1TSzBVVlRrUFlqbFZnUERDbW1oYmY3cTV4UnZkelZ4TEtLa3ZabEpCcXJVQTZEZjFyT2hWdEFERXpVdDR2OUhCWnVEbklSeEJGU1gxaGdvdmt2d0psY2N3RnlHdjMtOGIxOHV2cXpuUzlqVk42TkYxbEpMOVJzenZ5VVg1b29rcUpnRFlWSDQxV3FWMm5fY3lyVnlQU29BONIBxAFBVV95cUxQUHNqZzhHU1lSVGhtUmhjSF9iS3o5VG0wM1NZM2RfckdPWWhUZURYUGVhaW1VdVZ0bWJaeHd5Uk9RUDZIRmh0X3RZY2Eyc1hzSGtqSTlzTEJrVEctMW1oUWZUNURTQV96dm42NF9nWTBnZDFuSWxTMGNIX0dGZUs2TWFYXzAwWVBKRUhFdHIxd2JXcnczX0w1UUwzZ1EzT3pXMDhxVFZaZTNGbmRKOUc4cVJWSDY3dXVpQkVxYlphWFlnYS1v?oc=5",
-      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0",
-      "title": "vLLM v0.23.0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "title": "Amazon security research reportedly led to the White House's Anthropic Fable ban",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
-      "title": "Transformers v5.12.0",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "title": "OpenAI faces investigation from state attorneys general",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4nmpl/glm_52_is_deployed_in_glm_coding_plan_api_and_mit/",
+      "title": "GLM 5.2 is deployed in GLM Coding Plan. API and MIT weights in a week. Voting and benchmarks on X.",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u4hy2x/paddleocr_v3v4v5v6_implemented_in_c_with_ncnn_p/",
-      "title": "PaddleOCR (v3/v4/v5/v6) implemented in C++ with ncnn",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4p1av/glm_52_is_out_open_weights_to_be_released_next/",
+      "title": "GLM 5.2 is out - open weights to be released next week. How did it do on my one-shot Pac-Man test?",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u3omwk/hubertcpp_a_c_implementation_of_distilhubert_p/",
-      "title": "hubert.cpp, a C++ implementation of distilHuBERT",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9628",
+      "title": "b9628",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9608",
-      "title": "llama.cpp b9608",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9626",
+      "title": "b9626",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9605",
-      "title": "llama.cpp b9605",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4ow2h/pi_setup_that_pretty_much_replaced_claude_code/",
+      "title": "Pi Setup that pretty much replaced Claude Code for me",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "title": "Chinese cybercrime operation that used AI to scam 'hundreds of thousands of victims' sued by Google",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4yvqy/deepseek_v4_pro_is_too_big_for_such_a_midrange/",
+      "title": "DeepSeek v4 Pro is too big for such a \"midrange\" performance, or am I missing something?",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u4fc16/derivativefree_neural_network_optimization_mnist/",
-      "title": "Derivative-Free Neural Network Optimization: MNIST Case",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u55wgq/i_am_losing_my_mind_with_fomo_and_need_some/",
+      "title": "I am losing my mind with FOMO and need some sanity checking about model capabilities",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/",
-      "title": "Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u56yr7/codebase_getting_larger_qwen3627b_starting_to/",
+      "title": "Codebase getting larger - Qwen3.6-27B starting to compound issues - how to work smartly with this model?",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "title": "Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4xiw8/interest_in_an_llm_torrent_site/",
+      "title": "Interest in an LLM Torrent Site?",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://linear.app/now/linear-agent-bug-fix",
-      "title": "Teaching an agent to auto-fix bugs",
+      "url": "https://medium.com/flutter-community/from-structured-outputs-to-a2ui-surfaces-migrating-to-flutter-genui-sdk-4f09aeacee80?source=rss------generative_ui-5",
+      "title": "From Structured Outputs to A2UI Surfaces: Migrating to Flutter GenUI SDK",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Context Architecture",
+      "url": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4",
+      "title": "What it really feels like to be a digital accessibility advocate",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "The Core Skill of Design in the AI Era: Critique",
+      "url": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4",
+      "title": "A shortlist of one: how AI became our shopping adviser",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@muhammad.awais.professional/stop-treating-claude-like-a-simple-chatbot-dfaa4dfa29d4?source=rss------generative_ui-5",
-      "title": "Stop Treating Claude Like a Simple Chatbot",
+      "url": "https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4",
+      "title": "\"What computers can't do\" — and what designers should",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@laijianxun123/designing-for-genui-d29b8a73fc41?source=rss------ai_design-5",
-      "title": "Designing for GenUI",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://maeda.pm/2026/06/11/what-is-ax/",
-      "title": "For most of my career I designed the cockpit",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/@1793206567/ai-ecommerce-design-needs-more-than-image-generation-it-needs-a-repeatable-creative-workflow-2fe5f06a0cfc?source=rss------ai_design-5",
-      "title": "AI ecommerce design needs more than image generation. It needs a repeatable creative workflow.",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://boneyard.vercel.app/overview",
-      "title": "Boneyard: skeleton screens for your UI",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-      "title": "Why Isn't My 3D View Transition Working?",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://www.truehenrique.com/en/2021/10/27/single-responsibility-the-distorted-principle/",
-      "title": "Single responsibility, the distorted principle",
+      "url": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f?source=rss----138adf9c44c---4",
+      "title": "The digital Kowloon",
       "profile": "Design"
     }
   ]
