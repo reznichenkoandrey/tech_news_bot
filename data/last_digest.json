@@ -1,124 +1,130 @@
 {
-  "generated_at": "2026-06-14T07:08:09+00:00",
+  "generated_at": "2026-06-15T07:08:33+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "title": "China may have accessed Mythos",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "title": "Amazon security research reportedly led to the White House's Anthropic Fable ban",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "title": "Introducing the OpenAI Partner Network",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGY0WVhtT3lJekhQY2ZCZmU5V0c5SmxaTWNaNmJhYzBJVFpWN1R4LTR2ZllVbkJQR0U4UXpwMTJwX0lNUXJqX1dIa0FqbTBlTWFETFYzUDRlcTR2ejd2OUx3aXZycFM1dTJ1LU1GU0luY2djOHlveG9aai1UR213bUtmQnpuTmF5VXpSS3VfSHlqUQ?oc=5",
+      "title": "Anthropic Customers Seek Refunds After Fable 5 Shutdown - Forbes",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjBYb2szem9pa1lRNlFFR25iTFFPVmZoM2x1Y0xBQVRHdW1hZ0JGbVdKQnlORTBuWm91Q3JNbEk3ak5Ta1g2Tkw4VC1ub0lRTFk3TlhfUEVsQjFtZGl4STVpNFhQR2RIaW9rZks5QTBWQUFKa09mWlVBa1pleHl2NGlZOWw0Rk9tajVkS3FUTzRUSks2TWhQZzhyOVNwNEp1VXpZaGhBeGdKaWYxRjk5MHNfRFFOLUwxV21weF90c19LV192aXp3bDh5a3JyY1RjdkVTWjFFX0YxYmlqRlk4SC02Z1ZQMVNDZDB2Vk5QYzRoSEhfSVZ5RmdR?oc=5",
+      "title": "US government warned Anthropic that Fable 5 had been jailbroken, but firm 'refused' to fix before US implemented export controls",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9641",
+      "title": "b9641",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9637",
+      "title": "b9637",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4nmpl/glm_52_is_deployed_in_glm_coding_plan_api_and_mit/",
-      "title": "GLM 5.2 is deployed in GLM Coding Plan. API and MIT weights in a week. Voting and benchmarks on X.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/",
+      "title": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4p1av/glm_52_is_out_open_weights_to_be_released_next/",
-      "title": "GLM 5.2 is out - open weights to be released next week. How did it do on my one-shot Pac-Man test?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5jtr8/xiaomi_is_now_serving_mimo_v25_at_10003000tps/",
+      "title": "Xiaomi is now serving MiMo V2.5 at 1000-3000tps using DFlash & Persistent kernel. DFLash model is out, open-source release promised coming soon",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9628",
-      "title": "b9628",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5g9pr/dual_dgx_sparks_40tks_single_1m_350_tks_agg/",
+      "title": "Dual DGX Sparks- 40tk/s single 1M ; 350 tk/s agg. - Deepseek V4 Flash",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9626",
-      "title": "b9626",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u67p4b/i_ported_exl3_to_run_well_on_apple_silicon/",
+      "title": "I ported EXL3 to run well on Apple Silicon - PonyExl3",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4ow2h/pi_setup_that_pretty_much_replaced_claude_code/",
-      "title": "Pi Setup that pretty much replaced Claude Code for me",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u64t9i/command_a_plus_ggufs_posted/",
+      "title": "Command A Plus GGUFs posted",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4yvqy/deepseek_v4_pro_is_too_big_for_such_a_midrange/",
-      "title": "DeepSeek v4 Pro is too big for such a \"midrange\" performance, or am I missing something?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5z4j0/eagle_support_merged_into_llamacpp/",
+      "title": "EAGLE support merged into llama.cpp",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u55wgq/i_am_losing_my_mind_with_fomo_and_need_some/",
-      "title": "I am losing my mind with FOMO and need some sanity checking about model capabilities",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u690rz/moar_qat_stuff_and_hairy_ticks/",
+      "title": "moar QAT stuff and hairy ticks",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u56yr7/codebase_getting_larger_qwen3627b_starting_to/",
-      "title": "Codebase getting larger - Qwen3.6-27B starting to compound issues - how to work smartly with this model?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u698b1/an_agent_that_plans_with_a_frontier_model_but/",
+      "title": "An agent that plans with a frontier model but runs most of tokens locally",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4xiw8/interest_in_an_llm_torrent_site/",
-      "title": "Interest in an LLM Torrent Site?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u67pw3/i_made_a_private_ondevice_llm_app_for_android/",
+      "title": "I made a private on-device LLM app for Android (notes + recall, nothing leaves the phone)",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/flutter-community/from-structured-outputs-to-a2ui-surfaces-migrating-to-flutter-genui-sdk-4f09aeacee80?source=rss------generative_ui-5",
-      "title": "From Structured Outputs to A2UI Surfaces: Migrating to Flutter GenUI SDK",
+      "url": "https://medium.com/write-a-catalyst/from-ux-to-ax-agent-experience-how-the-designers-role-is-evolving-for-the-age-of-autonomous-ai-88c475380de1?source=rss------generative_ui-5",
+      "title": "From UX to AX (Agent Experience): How the Designer's Role Is Evolving for the Age of Autonomous AI…",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4",
-      "title": "What it really feels like to be a digital accessibility advocate",
+      "url": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4",
+      "title": "Access is not mastery",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4",
-      "title": "A shortlist of one: how AI became our shopping adviser",
+      "url": "https://medium.com/design-bootcamp/what-to-consider-beyond-the-interface-when-designing-the-user-journey-in-an-ai-system-ed0ab9398f6d?source=rss------ai_design-5",
+      "title": "What to Consider Beyond the Interface When Designing the User Journey in an AI System",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4",
-      "title": "\"What computers can't do\" — and what designers should",
+      "url": "https://medium.com/@swarnajha25/rag-simply-explained-for-product-designers-who-dont-know-coding-at-all-b15bf1066668?source=rss------ai_design-5",
+      "title": "RAG Simply Explained for Product Designers (Who Don't Know Coding at All)",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f?source=rss----138adf9c44c---4",
-      "title": "The digital Kowloon",
+      "url": "https://sreejithunni.medium.com/designing-for-the-unknown-the-product-leaders-guide-to-non-deterministic-systems-a507ded43589?source=rss------ai_design-5",
+      "title": "Designing for the Unknown: The Product Leader's Guide to Non-Deterministic Systems",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
+      "title": "How difficult could it be to design a chatbot?",
       "profile": "Design"
     }
   ]
