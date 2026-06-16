@@ -1,130 +1,184 @@
 {
-  "generated_at": "2026-06-15T07:08:33+00:00",
+  "generated_at": "2026-06-16T07:08:26+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "title": "China may have accessed Mythos",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "title": "The US government's Anthropic models ban was never about an AI jailbreak",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGY0WVhtT3lJekhQY2ZCZmU5V0c5SmxaTWNaNmJhYzBJVFpWN1R4LTR2ZllVbkJQR0U4UXpwMTJwX0lNUXJqX1dIa0FqbTBlTWFETFYzUDRlcTR2ejd2OUx3aXZycFM1dTJ1LU1GU0luY2djOHlveG9aai1UR213bUtmQnpuTmF5VXpSS3VfSHlqUQ?oc=5",
-      "title": "Anthropic Customers Seek Refunds After Fable 5 Shutdown - Forbes",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "title": "Sarvam becomes India's newest AI unicorn with $234 million funding round led by HCLTech",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjBYb2szem9pa1lRNlFFR25iTFFPVmZoM2x1Y0xBQVRHdW1hZ0JGbVdKQnlORTBuWm91Q3JNbEk3ak5Ta1g2Tkw4VC1ub0lRTFk3TlhfUEVsQjFtZGl4STVpNFhQR2RIaW9rZks5QTBWQUFKa09mWlVBa1pleHl2NGlZOWw0Rk9tajVkS3FUTzRUSks2TWhQZzhyOVNwNEp1VXpZaGhBeGdKaWYxRjk5MHNfRFFOLUwxV21weF90c19LV192aXp3bDh5a3JyY1RjdkVTWjFFX0YxYmlqRlk4SC02Z1ZQMVNDZDB2Vk5QYzRoSEhfSVZ5RmdR?oc=5",
-      "title": "US government warned Anthropic that Fable 5 had been jailbroken, but firm 'refused' to fix before US implemented export controls",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9641",
-      "title": "b9641",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "title": "Inside the fight over Claude Mythos 5",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9637",
-      "title": "b9637",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "title": "Facebook's new AI Mode search gets its info from public posts",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/",
-      "title": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "title": "Trump's Anthropic shutdown just made the case for non-American AI",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5jtr8/xiaomi_is_now_serving_mimo_v25_at_10003000tps/",
-      "title": "Xiaomi is now serving MiMo V2.5 at 1000-3000tps using DFlash & Persistent kernel. DFLash model is out, open-source release promised coming soon",
+      "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5g9pr/dual_dgx_sparks_40tks_single_1m_350_tks_agg/",
-      "title": "Dual DGX Sparks- 40tk/s single 1M ; 350 tk/s agg. - Deepseek V4 Flash",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.109.2",
+      "title": "v0.109.2",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u67p4b/i_ported_exl3_to_run_well_on_apple_silicon/",
-      "title": "I ported EXL3 to run well on Apple Silicon - PonyExl3",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u6mn3q/ai_language_models_have_favorite_names_and_we/",
+      "title": "AI language models have favorite names, and we mapped them [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u64t9i/command_a_plus_ggufs_posted/",
-      "title": "Command A Plus GGUFs posted",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u73c5r/quicktok_a_faster_tokenizer_exact_and/",
+      "title": "quicktok: a faster tokenizer (exact and byte-identical with tiktoken) [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5z4j0/eagle_support_merged_into_llamacpp/",
-      "title": "EAGLE support merged into llama.cpp",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/",
+      "title": "Open weights are not enough: we need open training frameworks for research and better algorithms [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u690rz/moar_qat_stuff_and_hairy_ticks/",
-      "title": "moar QAT stuff and hairy ticks",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9-rc1",
+      "title": "v0.30.9",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u698b1/an_agent_that_plans_with_a_frontier_model_but/",
-      "title": "An agent that plans with a frontier model but runs most of tokens locally",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9664",
+      "title": "b9664: sycl: support reordered Q4_K/Q5_K/Q6_K MoE MUL_MAT_ID (#24452)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u67pw3/i_made_a_private_ondevice_llm_app_for_android/",
-      "title": "I made a private on-device LLM app for Android (notes + recall, nothing leaves the phone)",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.1",
+      "title": "Patch release v5.12.1",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/write-a-catalyst/from-ux-to-ax-agent-experience-how-the-designers-role-is-evolving-for-the-age-of-autonomous-ai-88c475380de1?source=rss------generative_ui-5",
-      "title": "From UX to AX (Agent Experience): How the Designer's Role Is Evolving for the Age of Autonomous AI…",
+      "url": "https://uxdesign.cc/the-autonomy-dial-a-pattern-toolkit-for-designing-human-control-over-ai-12bfbe23ca70?source=rss----138adf9c44c---4",
+      "title": "The autonomy dial: a pattern toolkit for designing human control over AI",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4",
-      "title": "Access is not mastery",
+      "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
+      "title": "Vibe Coder vs Software Engineer",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/design-bootcamp/what-to-consider-beyond-the-interface-when-designing-the-user-journey-in-an-ai-system-ed0ab9398f6d?source=rss------ai_design-5",
-      "title": "What to Consider Beyond the Interface When Designing the User Journey in an AI System",
+      "url": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4",
+      "title": "The board is not the game",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@swarnajha25/rag-simply-explained-for-product-designers-who-dont-know-coding-at-all-b15bf1066668?source=rss------ai_design-5",
-      "title": "RAG Simply Explained for Product Designers (Who Don't Know Coding at All)",
+      "url": "https://medium.com/@skale.ui/your-ui-shouldnt-be-decided-at-build-time-2eb8f258b06b?source=rss------generative_ui-5",
+      "title": "Your UI Shouldn't Be Decided at Build Time",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://sreejithunni.medium.com/designing-for-the-unknown-the-product-leaders-guide-to-non-deterministic-systems-a507ded43589?source=rss------ai_design-5",
-      "title": "Designing for the Unknown: The Product Leader's Guide to Non-Deterministic Systems",
+      "url": "https://kasperjunge.com/blog/should-pms-code-with-agents/",
+      "title": "Everyone got excited they can suddenly code, and completely missed the point",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
-      "title": "How difficult could it be to design a chatbot?",
+      "url": "https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4",
+      "title": "AI democratized the answer, not the understanding",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://eggsvans.medium.com/how-to-let-claude-code-design-in-figma-directly-step-by-step-5-min-vid-tutorial-1a4cb51b713a?source=rss------ai_design-5",
+      "title": "How to let Claude Code Design in Figma Directly (Step-by-step, 5-min vid tutorial)",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxplanet.org/why-was-claude-fable-5-banned-175294ee8319?source=rss----819cc2aaeee0---4",
+      "title": "Why was Claude Fable 5 banned?",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://www.extend.ai/ui",
+      "title": "Extend UI",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxplanet.org/logo-design-with-claude-code-a86c4cb06f4c?source=rss----819cc2aaeee0---4",
+      "title": "Logo Design with Claude Code",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://css-tricks.com/whats-important-13/",
+      "title": "What's !important #13: @function, alpha(), CSS Wordle, and More",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://influence.citationneeded.news/",
+      "title": "Tech Influence Watch",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://worldcupmap.app/",
+      "title": "World Cup Map 2026",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://wiki.wordsoftype.com/",
+      "title": "Words of Type",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://arun.is/blog/jr-logo/",
+      "title": "How Japan's railways stayed one while splitting apart",
       "profile": "Design"
     }
   ]
