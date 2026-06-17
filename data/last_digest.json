@@ -1,184 +1,190 @@
 {
-  "generated_at": "2026-06-16T07:08:26+00:00",
+  "generated_at": "2026-06-17T07:09:30+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "title": "The US government's Anthropic models ban was never about an AI jailbreak",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u7mexd/glm52_is_the_first_openweights_model_to_cross_80/",
+      "title": "GLM-5.2 is the first open-weights model to cross 80% on Terminal-Bench and beats every other open model available",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "title": "Sarvam becomes India's newest AI unicorn with $234 million funding round led by HCLTech",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "title": "ChatGPT's market share slips below 50% for first time",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
-      "title": "Inside the fight over Claude Mythos 5",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-steal-2fa-code-from-users/",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-      "title": "Facebook's new AI Mode search gets its info from public posts",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u7dzdr/scaling_former_vibethinker15b_to_3b_now_it/",
+      "title": "Scaling former VibeThinker-1.5B to 3B — now it reaches frontier math & coding performance",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "title": "Trump's Anthropic shutdown just made the case for non-American AI",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXB6V2tUTXpsbE8zckU0VHdRSU9jeGhkYldYZUthU2xyNFhEZmYwOWJyZnpxMmNidzRpMVM0OEdZOFRNZjhnTEZmTTVVXzRna0gzU1hleVJlOVVudUJ6QnV0T0JpTi1jX3RTQWpGQmhBenZsS1BGY3I2OThRQVlaM3owTzRKWFZHWlRqMUFoWVhzUTd4OW8tMmFNTU56Z9IBowFBVV95cUxNXzV2TUk3cFZWQ09halFhMFIwdG5PeWNULVo3cWN6SmdjRHZieXFxdldXMC1peGVlaW10OTBDNV9laElPNWE5SFJRWTFSdHpOM2FOQzVxbkpQYnRtSTNyVURlbGtyb1JGVk14SThTZGlfOU10elZkRGJzSXozMHVjSWJ2eWxVRHFSTHRVS0FVeU1nTFM2TXF4NnVUNmpXdzZjQWUw?oc=5",
+      "title": "Anthropic's Fable shutdown is a big moment for open-source AI - CNBC",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "title": "Anthropic's latest feud with the Trump admin may actually help it, sales data suggests",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.109.2",
-      "title": "v0.109.2",
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u6mn3q/ai_language_models_have_favorite_names_and_we/",
-      "title": "AI language models have favorite names, and we mapped them [R]",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u73c5r/quicktok_a_faster_tokenizer_exact_and/",
-      "title": "quicktok: a faster tokenizer (exact and byte-identical with tiktoken) [P]",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTG51NGxtZmxMeWtnUFZZQWR6QWU4Ri1xZ1lHUklWTFFkcWJxOEpuTklnMmM0U245NWxNVEV1UjJ6WXByajBKeGRqVDR2ZGpod1Y5NWt1S0U5ZkFqTzRnMHl6Y21qNWMxcWxZTlNaNEdkWG5ibGxvNkZkZUltc0l3U3dyNlIwVUZtMEt6MjJRU256RllUOWFNSzhFbFNMQU4xS3l5SEJ3?oc=5",
+      "title": "India's Wipro opens AI center for Anthropic's Claude in Bengaluru - Reuters",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/",
-      "title": "Open weights are not enough: we need open training frameworks for research and better algorithms [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u795pb/donate_your_coding_sessions_to_an_open_ccby40/",
+      "title": "Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9-rc1",
-      "title": "v0.30.9",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u7a2hn/be_wary_of_qwenclaude_distillations_theyre_often/",
+      "title": "Be wary of Qwen/Claude distillations - they're often worse than the base model",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9664",
-      "title": "b9664: sycl: support reordered Q4_K/Q5_K/Q6_K MoE MUL_MAT_ID (#24452)",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9",
+      "title": "v0.30.9",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.1",
-      "title": "Patch release v5.12.1",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, survey finds",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/the-autonomy-dial-a-pattern-toolkit-for-designing-human-control-over-ai-12bfbe23ca70?source=rss----138adf9c44c---4",
-      "title": "The autonomy dial: a pattern toolkit for designing human control over AI",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
-      "title": "Vibe Coder vs Software Engineer",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4",
-      "title": "The board is not the game",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "title": "Every frame perfect",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@skale.ui/your-ui-shouldnt-be-decided-at-build-time-2eb8f258b06b?source=rss------generative_ui-5",
-      "title": "Your UI Shouldn't Be Decided at Build Time",
+      "url": "https://gridlanes.webkit.org/",
+      "title": "The field guide to CSS Grid Lanes",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://kasperjunge.com/blog/should-pms-code-with-agents/",
-      "title": "Everyone got excited they can suddenly code, and completely missed the point",
+      "url": "https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/",
+      "title": "What we're no longer seeing: AI and the invisible newcomer in open source",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4",
-      "title": "AI democratized the answer, not the understanding",
+      "url": "https://blog.murphytrueman.com/what-figma-made-visible/",
+      "title": "What Figma made visible",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://eggsvans.medium.com/how-to-let-claude-code-design-in-figma-directly-step-by-step-5-min-vid-tutorial-1a4cb51b713a?source=rss------ai_design-5",
-      "title": "How to let Claude Code Design in Figma Directly (Step-by-step, 5-min vid tutorial)",
+      "url": "https://medium.com/@edgaruy/ontological-thinking-designing-the-knowledge-layer-5114036a42f6?source=rss------ai_design-5",
+      "title": "Ontological Thinking: Designing the Knowledge Layer",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxplanet.org/why-was-claude-fable-5-banned-175294ee8319?source=rss----819cc2aaeee0---4",
-      "title": "Why was Claude Fable 5 banned?",
+      "url": "https://medium.com/@digitalczech/designing-for-accountability-what-googles-ai-liability-case-means-for-product-and-ux-leaders-6af5d33ff8aa?source=rss------ai_design-5",
+      "title": "Designing for Accountability: What Google's AI Liability Case Means for Product and UX Leaders",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://www.extend.ai/ui",
-      "title": "Extend UI",
+      "url": "https://medium.com/@olena.korin_85514/openais-agents-and-workflows-course-changed-how-i-think-about-ai-at-work-a17366572873?source=rss------ai_design-5",
+      "title": "OpenAI's Agents and Workflows course changed how I think about AI at work",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://uxplanet.org/logo-design-with-claude-code-a86c4cb06f4c?source=rss----819cc2aaeee0---4",
-      "title": "Logo Design with Claude Code",
+      "url": "https://medium.com/@sanskritijha12/what-happens-when-users-no-longer-need-navigation-7f2bc00aaa45?source=rss------ai_design-5",
+      "title": "What happens when users no longer need navigation?",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://css-tricks.com/whats-important-13/",
-      "title": "What's !important #13: @function, alpha(), CSS Wordle, and More",
+      "url": "https://uxplanet.org/claude-code-cheatsheets-for-product-designer-e1d9c16d577a?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Cheatsheets for Product Designer",
       "profile": "Design"
     },
     {
       "n": 27,
-      "url": "https://influence.citationneeded.news/",
-      "title": "Tech Influence Watch",
+      "url": "https://uxplanet.org/loading-animation-design-with-claude-code-43c711bbc07d?source=rss----819cc2aaeee0---4",
+      "title": "Loading Animation Design with Claude Code",
       "profile": "Design"
     },
     {
       "n": 28,
-      "url": "https://worldcupmap.app/",
-      "title": "World Cup Map 2026",
+      "url": "https://tympanus.net/codrops/2026/06/16/designing-a-better-lou-reducing-cognitive-load-through-design-content-and-systems/",
+      "title": "Designing A Better Lou: Reducing Cognitive Load Through Design, Content, and Systems",
       "profile": "Design"
     },
     {
       "n": 29,
-      "url": "https://wiki.wordsoftype.com/",
-      "title": "Words of Type",
+      "url": "https://css-tricks.com/prop-for-that/",
+      "title": "Prop For That",
       "profile": "Design"
     },
     {
       "n": 30,
-      "url": "https://arun.is/blog/jr-logo/",
-      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://cssbuttons.io/",
+      "title": "CSS Buttons",
+      "profile": "Design"
+    },
+    {
+      "n": 31,
+      "url": "https://uxdesign.cc/how-one-of-the-oldest-design-portfolio-formats-needs-to-change-in-2026-b64137494f6a?source=rss----138adf9c44c---4",
+      "title": "How one of the oldest design portfolio formats needs to change in 2026",
       "profile": "Design"
     }
   ]
