@@ -1,154 +1,154 @@
 {
-  "generated_at": "2026-06-24T09:52:23+00:00",
+  "generated_at": "2026-06-25T07:07:38+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
-      "title": "Introducing Claude Tag - Anthropic",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "title": "Helping build shared standards for advanced AI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUxzREZFRUZIS000cEVWM2VsOV96azV0a2NCNkFKamotVjlzekNwenlfN25UOFBMUGxnbmdjblZtQzBONHJzVnJDbDNkWUdMcUFpYjUtcVdaSmIyaWVZREhRenR1Z1NjbWFFYndZb3I5OFNyTGZYVTh1UThMalloS2h6cjNEWUdZRi1sQ1BWSEhOM0J4dmxCRFAzX2dKUzBSVzEyOEJwTXFib3pUQllwR0w1T27SAboBQVVfeXFMTUZsZ2g0b3JOSFdpZ2ZZa2dVM2RmUjZvdUNVVXAydzVPMXZ2R2VDOWo4ZUJFTjkxVVlMblY2eFNQbi0wMXF6b3hXZXZyS3ZmWjAxcUpzWk1JVi1pU3puazJTTUVPdXBWclIyOFA0eUxLSUhQb1NtTmtJMUQtVmJndDA2YmRCdHJwSUxLajdUVDJBRFc0alo1dWNGakdoYkloakJoOC1NdmVxVl9mWGFfMDJYcTE2ajQ3VUNn?oc=5",
-      "title": "Anthropic unveils Claude Tag, turning Slack channels into AI-powered workspaces - Firstpost",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUxzREZFRUZIS000cEVWM2VsOV96azV0a2NCNkFKamotVjlzekNwenlfN25UOFBMUGxnbmdjblZtQzBONHJzVnJDbDNkWUdMcUFpYjUtcVdaSmIyaWVZREhRenR1Z1NjbWFFYndZb3I5OFNyTGZYVTh1UThMalloS2h6cjNEWUdZRi1sQ1BWSEhOM0J4dmxCRFAzX2dKUzBSVzEyOEJwTXFib3pUQllwR0w1T27SAboBQVVfeXFMTUZsZ2g0b3JOSFdpZ2ZZa2dVM2RmUjZvdUNVVXAydzVPMXZ2R2VDOWo4ZUJFTjkxVVlMblY2eFNQbi0wMXF6b3hXZXZyS3ZmWjAxcUpzWk1JVi1pU3puazJTTUVPdXBWclIyOFA0eUxLSUhQb1NtTmtJMUQtVmJndDA2YmRCdHJwSUxLajdUVDJBRFc0alo1dWNGakdoYkloakJoOC1NdmVxVl9mWGFfMDJYcTE2ajQ3VUNn?oc=5",
-      "title": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg.com",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.112.0",
+      "title": "v0.112.0",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ01WUmJZeThtalZCclJDZzUzaFFmeDA1Y1lrNEl3bGprWjNSZG5GM2ZqYjlUZFRwTGNwRXNoOVBiRXlwZ25ZVkpfUkdhUnJKQ2pOdm9xcV9pZktwU2tHeXZqQm1qSTJZaGZWdw?oc=5",
-      "title": "Claude was down for many — Anthropic says the outage is now 'resolved' - TechRadar",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "title": "AI researchers continue to leave Google for its rivals",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/",
-      "title": "DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9777",
-      "title": "b9777",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc1",
-      "title": "v0.24.0rc1: [CI/Build] Fix topk histogram build on SM75 (#46550)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/",
+      "title": "I made a superhuman Generals.io agent with self-play RL [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.44.0",
+      "title": "v2.44.0",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
-      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they're the most resilient",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-      "title": "Oracle's 21,000 layoffs help drive its debt-fueled AI investments",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11-rc0",
+      "title": "v0.30.11",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ueavxn/i_compiled_llm_inference_pricing_across_7/",
+      "title": "I compiled LLM inference pricing across 7 providers — the caching numbers are surprising(spreadsheet included) [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/loop-engineering-in-claude-code-a36e3b1ca589?source=rss----819cc2aaeee0---4",
-      "title": "Loop Engineering in Claude Code",
+      "url": "https://www.figma.com/blog/config-2026-recap/",
+      "title": "Config 2026: New materials, new tools and a more expressive canvas",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://craft.faire.com/pick-it-up-play-with-it-share-what-you-found-2761b55ac6cd?source=rss------ai_design-5",
-      "title": "Pick it up, play with it, share what you found",
+      "url": "https://medium.com/the-hotfix/stop-streaming-text-start-streaming-react-components-85350ca1ccc5?source=rss------generative_ui-5",
+      "title": "Stop Streaming Text. Start Streaming React Components.",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
-      "title": "How DesignOps roles are changing with new priorities",
+      "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
+      "title": "The layers of AI experience",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4",
-      "title": "Your banking app is lying to you",
+      "url": "https://www.lukew.com/ff/entry.asp?2155",
+      "title": "The AI steering layer",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://tympanus.net/codrops/2026/06/23/podium-building-a-website-where-running-becomes-storytelling/",
-      "title": "Podium: Building a Website Where Running Becomes Storytelling",
+      "url": "https://jakub.kr/writing/less-is-more",
+      "title": "Less is more, more or less",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/",
-      "title": "Consistency, but in excellence not appearance",
+      "url": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4",
+      "title": "Your design system runs on one person's judgment-AI is about to prove it",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://ericwbailey.website/published/the-case-for-an-accessibility-designer-vibe-coding-when-all-his-coworkers-are-also-vibe-coding/",
-      "title": "The case for vibe coding when all your coworkers are also vibe coding",
+      "url": "https://uxplanet.org/claude-code-performance-optimization-commands-a21119ab7453?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Performance Optimization Commands",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://www.itsnicethat.com/features/katharina-sussek-jens-muller-the-elements-of-brand-design-taschen-publication-graphic-design-spotlight-170626",
-      "title": "A short history of modern brand design",
+      "url": "https://medium.com/@purinut.p9/designing-for-trust-can-we-actually-trust-an-ai-lets-talk-about-it-ee5bb5674763?source=rss------ai_design-5",
+      "title": "Designing for Trust: Can We Actually \"Trust\" an AI? (Let's Talk About It)",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://ileivoivm.github.io/inkField/",
-      "title": "InkField | 墨域",
+      "url": "https://tympanus.net/codrops/2026/06/24/testing-what-users-actually-see-with-vitest-and-chromatic/",
+      "title": "Testing What Users Actually See with Vitest and Chromatic",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://www.nubero.ch/blog/018/",
-      "title": "On the perils of indifference",
+      "url": "https://lastmuseum.com/",
+      "title": "The Last Museum",
       "profile": "Design"
     }
   ]
