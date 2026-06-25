@@ -96,8 +96,11 @@ jobs:
           REPO: ${{ github.repository }}
           RUN_ID: ${{ github.run_id }}
         run: |
+          # printf renders a real newline; pre-encoding %0A would be URL-encoded
+          # again by --data-urlencode and arrive as literal "%0A" in Telegram.
+          MSG=$(printf '❌ <b>Weekly digest failed</b>\nhttps://github.com/%s/actions/runs/%s' "${REPO}" "${RUN_ID}")
           curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
             --data-urlencode "parse_mode=HTML" \
-            --data-urlencode "text=❌ <b>Weekly digest failed</b>%0Ahttps://github.com/${REPO}/actions/runs/${RUN_ID}" \
+            --data-urlencode "text=${MSG}" \
             > /dev/null || true
