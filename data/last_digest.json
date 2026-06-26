@@ -1,154 +1,124 @@
 {
-  "generated_at": "2026-06-25T07:07:38+00:00",
+  "generated_at": "2026-06-26T07:07:25+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "title": "Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "title": "Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.112.0",
-      "title": "v0.112.0",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "title": "AI researchers continue to leave Google for its rivals",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc2",
+      "title": "v0.24.0rc2: Fix P/D with DP Supervisor (#46628)",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "title": "Which tokens does a hybrid model predict better?",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "title": "General Intuition's $2.3B bet that video games can train AI agents for the real world",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/",
-      "title": "I made a superhuman Generals.io agent with self-play RL [P]",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "title": "Databricks' former AI chief thinks he can cut AI's power bill by 1,000x",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.44.0",
-      "title": "v2.44.0",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ufgw7z/would_having_a_dedicated_programming_language/",
+      "title": "Would having a dedicated programming language specifically for LLMs be a viable solution? [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they're the most resilient",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/",
+      "title": "Kuma: compiling PyTorch models into self-contained WebGPU executables [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/",
+      "title": "Showcase: geolocating a dashcam video without GPS, only from the footage [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11-rc0",
-      "title": "v0.30.11",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ufzbpr/made_a_free_tool_that_automatically_cuts_the_best/",
+      "title": "Made a free tool that automatically cuts the best clips from long videos — thought this community might find it useful [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ueavxn/i_compiled_llm_inference_pricing_across_7/",
-      "title": "I compiled LLM inference pricing across 7 providers — the caching numbers are surprising(spreadsheet included) [R]",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11-rc1",
+      "title": "v0.30.11-rc1",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.figma.com/blog/config-2026-recap/",
-      "title": "Config 2026: New materials, new tools and a more expressive canvas",
+      "url": "https://uxplanet.org/figma-config-2026-recap-1852ccf5e1d1?source=rss----819cc2aaeee0---4",
+      "title": "Figma Config 2026 Recap",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/the-hotfix/stop-streaming-text-start-streaming-react-components-85350ca1ccc5?source=rss------generative_ui-5",
-      "title": "Stop Streaming Text. Start Streaming React Components.",
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
+      "title": "Rethinking Figma in an AI World",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
-      "title": "The layers of AI experience",
+      "url": "https://tympanus.net/codrops/2026/06/25/shaping-stories-into-experience-the-work-of-kevin-lam/",
+      "title": "Shaping Stories into Experience: The Work of Kevin Lam",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://www.lukew.com/ff/entry.asp?2155",
-      "title": "The AI steering layer",
+      "url": "https://uxplanet.org/hiring-a-product-team-in-the-uk-here-is-what-you-need-to-know-c8525bcf31d1?source=rss----819cc2aaeee0---4",
+      "title": "Hiring a product team in the UK? Here is what you need to know",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://jakub.kr/writing/less-is-more",
-      "title": "Less is more, more or less",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4",
-      "title": "Your design system runs on one person's judgment-AI is about to prove it",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxplanet.org/claude-code-performance-optimization-commands-a21119ab7453?source=rss----819cc2aaeee0---4",
-      "title": "Claude Code Performance Optimization Commands",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://medium.com/@purinut.p9/designing-for-trust-can-we-actually-trust-an-ai-lets-talk-about-it-ee5bb5674763?source=rss------ai_design-5",
-      "title": "Designing for Trust: Can We Actually \"Trust\" an AI? (Let's Talk About It)",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://tympanus.net/codrops/2026/06/24/testing-what-users-actually-see-with-vitest-and-chromatic/",
-      "title": "Testing What Users Actually See with Vitest and Chromatic",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://lastmuseum.com/",
-      "title": "The Last Museum",
+      "url": "https://levels.io/degrowthers-are-literally-opposed-to-life",
+      "title": "Degrowthers are literally opposed to life",
       "profile": "Design"
     }
   ]
