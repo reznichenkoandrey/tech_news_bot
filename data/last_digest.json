@@ -1,124 +1,172 @@
 {
-  "generated_at": "2026-06-26T07:07:25+00:00",
+  "generated_at": "2026-06-27T07:08:25+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn't be the norm",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "title": "Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "title": "Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "title": "Anthropic's Mythos 5 is back",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc2",
-      "title": "v0.24.0rc2: Fix P/D with DP Supervisor (#46628)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDBkQWJhdEU3YkhBUVNLYkRKcU4zRnJLaWs5V2xIS2Q5UnJHSnZJQjZscGFvNDRha1A2NmNpTld5VDVPb256ZU13VnFmcUlPQWRKUzc0dmR5YlNRblF5WVpnV2lxMzBnc25FWHZJTUlfcUk3VExDSGE0T1dhUVR6ZVI2VFI3OXNaeEJYbkR2NDg2d2R6aU5oQjVMYkp2ckFvV1hBdVhOclQ0N0RlZUZ6UEItUk5OQ1ZHUC1GaHNuNXAxaTEzcjR6MW9nMlhfRUk?oc=5",
+      "title": "Anthropic Accuses Alibaba Of Running 29 Million Fake Queries to Clone Claude",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DNEhlVmFQOXYzV3hwZVJmN01tNTVhMGpLb0NqM1BwYnU2aVJoVUNSMUZUbW9TY0dSc3lIMTJqUEMtdVktYVA1ekFjbFJXN01FSFdGR050M1VNbV9vV2V2UENxQnR6Y0h5d2VNNTV3OHVqUQ?oc=5",
+      "title": "Anthropic Economic Index report: Cadences",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "title": "General Intuition's $2.3B bet that video games can train AI agents for the real world",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYdw?oc=5",
+      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "title": "Databricks' former AI chief thinks he can cut AI's power bill by 1,000x",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11",
+      "title": "v0.30.11",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ufgw7z/would_having_a_dedicated_programming_language/",
-      "title": "Would having a dedicated programming language specifically for LLMs be a viable solution? [D]",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0",
+      "title": "v0.24.0",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/",
-      "title": "Kuma: compiling PyTorch models into self-contained WebGPU executables [P]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9821",
+      "title": "b9821",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/",
-      "title": "Showcase: geolocating a dashcam video without GPS, only from the footage [P]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9820",
+      "title": "b9820",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ufzbpr/made_a_free_tool_that_automatically_cuts_the_best/",
-      "title": "Made a free tool that automatically cuts the best clips from long videos — thought this community might find it useful [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugg1dm/what_should_i_do_consider_posttraining/",
+      "title": "\"What should I do?\" - consider post-training",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11-rc1",
-      "title": "v0.30.11-rc1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugj1sf/nemotron3super120ba12b_hybrid_mambamoe_holds/",
+      "title": "Nemotron-3-Super-120B-A12B (hybrid Mamba+MoE) holds perfect needle retrieval to 504K tokens on 4×3090",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/figma-config-2026-recap-1852ccf5e1d1?source=rss----819cc2aaeee0---4",
-      "title": "Figma Config 2026 Recap",
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
+      "title": "Rethinking Figma in an AI world",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
-      "title": "Rethinking Figma in an AI World",
+      "url": "https://medium.com/@reactjsbd/figma-isnt-dead-the-design-process-that-made-it-famous-is-4b9bc5033c6e?source=rss------ai_design-5",
+      "title": "Figma Isn't Dead. The Design Process That Made It Famous Is.",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://tympanus.net/codrops/2026/06/25/shaping-stories-into-experience-the-work-of-kevin-lam/",
-      "title": "Shaping Stories into Experience: The Work of Kevin Lam",
+      "url": "https://medium.com/@malikchohra/stitch-vs-claude-design-3-5-hours-of-cleanup-vs-a-45-minute-diff-1256cdd2db7a?source=rss------ai_design-5",
+      "title": "Stitch vs Claude Design: 3.5 hours of cleanup vs a 45-minute diff",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/hiring-a-product-team-in-the-uk-here-is-what-you-need-to-know-c8525bcf31d1?source=rss----819cc2aaeee0---4",
-      "title": "Hiring a product team in the UK? Here is what you need to know",
+      "url": "https://uxplanet.org/best-practices-for-claude-code-subagents-optimization-7ff0dd3e20b5?source=rss----819cc2aaeee0---4",
+      "title": "Best Practices for Claude Code Subagents Optimization",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://levels.io/degrowthers-are-literally-opposed-to-life",
-      "title": "Degrowthers are literally opposed to life",
+      "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
+      "title": "How to stop re-explaining yourself to Claude",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/@chrowmdesigns/the-missing-layer-why-ai-design-fails-and-how-to-fix-it-d06d1c992af8?source=rss------ai_design-5",
+      "title": "The Missing Layer: Why AI Design Fails, and How to Fix It",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/",
+      "title": "Engineering the Web Experience Behind Shopify's Spring '26 Edition: Everywhere",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://blog.murphytrueman.com/your-design-systems-newest-author-is-an-agent/",
+      "title": "Your design system has a new author",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
+      "title": "Your documentation is still in your Mum's filing cabinet",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/@purinut.p9/ais-got-a-bias-problem-how-do-we-design-for-fairness-dae527efeb66?source=rss------ai_design-5",
+      "title": "AI's Got a Bias Problem: How Do We Design for Fairness?",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Kick the Bots Out of Your Survey Data",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Your New UX Habit: Establishing Baselines for Impact",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://airesistlist.org/",
+      "title": "The AI Resist List",
       "profile": "Design"
     }
   ]
