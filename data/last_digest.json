@@ -1,172 +1,124 @@
 {
-  "generated_at": "2026-06-27T07:08:25+00:00",
+  "generated_at": "2026-06-28T07:08:07+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRHRjM20xM1J2aUNXcndwbHR5OHQyWFdxSFpXUXFSRDA0MUlNa1RhNGhlazRaaERxeVVDd2V2Q0o4TkNGM3JFN1oyUkdOU3dDbDdyZkVDTTVwYU9RYTU0Mzk3WFEyMk9xR2tnbFdRTjd0RUQ1Z09vSA?oc=5",
+      "title": "Claude Mythos 5 is back, but only for a select group of US institutions - Mashable",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn't be the norm",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnlzM25tN1VEdzk3WW5hdVBYaXVUMG54X2pJaXZjSC1ObXUwelE0Y0FIQXFTQk1tZjF5X3BIcE9KajRUZ3VsQS1RWS1xQ1ktNEE3dm5QaXhrUFhVQUQwQmhmb29nSFg1QmlJbVJ1Rmd5bnNpZ0t5Z0ZvNzlKbldBbHoteEVBVTJNRV9mNDd6NmE2b19XVzFBMG1UdFRJYXktTnpOWVMtZTB3SUpzRE9xSVB0TUYwdHkxOG1wak5aMHBLZw?oc=5",
+      "title": "Claude Code turned every engineer into three. Now companies need more product thinkers - VentureBeat",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "title": "Anthropic's Mythos 5 is back",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
+      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhi81a/i_had_55_llms_blindgrade_each_other_22k_judgments/",
+      "title": "I had 55 LLMs blind-grade each other (22k judgments, all open). Every model family with enough data is biased toward its own siblings. Qwen judges favor Qwen by ~0.9 points. Mistral penalizes its own by ~1.0.",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDBkQWJhdEU3YkhBUVNLYkRKcU4zRnJLaWs5V2xIS2Q5UnJHSnZJQjZscGFvNDRha1A2NmNpTld5VDVPb256ZU13VnFmcUlPQWRKUzc0dmR5YlNRblF5WVpnV2lxMzBnc25FWHZJTUlfcUk3VExDSGE0T1dhUVR6ZVI2VFI3OXNaeEJYbkR2NDg2d2R6aU5oQjVMYkp2ckFvV1hBdVhOclQ0N0RlZUZ6UEItUk5OQ1ZHUC1GaHNuNXAxaTEzcjR6MW9nMlhfRUk?oc=5",
-      "title": "Anthropic Accuses Alibaba Of Running 29 Million Fake Queries to Clone Claude",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9829",
+      "title": "b9829",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DNEhlVmFQOXYzV3hwZVJmN01tNTVhMGpLb0NqM1BwYnU2aVJoVUNSMUZUbW9TY0dSc3lIMTJqUEMtdVktYVA1ekFjbFJXN01FSFdGR050M1VNbV9vV2V2UENxQnR6Y0h5d2VNNTV3OHVqUQ?oc=5",
-      "title": "Anthropic Economic Index report: Cadences",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9828",
+      "title": "b9828",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYdw?oc=5",
-      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9827",
+      "title": "b9827",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11",
-      "title": "v0.30.11",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uh0clv/we_built_a_calibrationaware_q4_k_m_quant_of/",
+      "title": "We built a calibration-aware Q4_K_M quant of Qwen3.5 0.8B that recovers 96.5% of the BF16 gap vs pure llama.cpp Q4_K_M (SpectralQuant)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0",
-      "title": "v0.24.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhfg05/i_built_a_tool_to_turn_your_claude_code_sessions/",
+      "title": "I built a tool to turn your Claude Code sessions into fine-tuning data for local models",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9821",
-      "title": "b9821",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhevvf/model_registry_torrents_for_open_models_using/",
+      "title": "Model Registry: Torrents for open models using Hugging Face as a fallback web seed.",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9820",
-      "title": "b9820",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhakvq/does_quantizing_change_the_mtp_draft_rate/",
+      "title": "Does quantizing change the MTP draft rate?",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugg1dm/what_should_i_do_consider_posttraining/",
-      "title": "\"What should I do?\" - consider post-training",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhfeqw/full_document_redaction_with_qwen_36_27b_with_a/",
+      "title": "Full document redaction with Qwen 3.6 27B with a Pi agent harness",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugj1sf/nemotron3super120ba12b_hybrid_mambamoe_holds/",
-      "title": "Nemotron-3-Super-120B-A12B (hybrid Mamba+MoE) holds perfect needle retrieval to 504K tokens on 4×3090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugyvz4/orthrus_diffusion_head_trained_qwen_3536_and/",
+      "title": "Orthrus (diffusion head) trained Qwen 3.5/3.6 and Gemma 4 models are dropping soon",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
-      "title": "Rethinking Figma in an AI world",
+      "url": "https://medium.com/@lizhen10/trust-is-not-a-feeling-designing-ai-systems-people-can-question-cc042a15deec?source=rss------ai_design-5",
+      "title": "Trust Is Not a Feeling: Designing AI Systems People Can Question",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@reactjsbd/figma-isnt-dead-the-design-process-that-made-it-famous-is-4b9bc5033c6e?source=rss------ai_design-5",
-      "title": "Figma Isn't Dead. The Design Process That Made It Famous Is.",
+      "url": "https://medium.com/design-bootcamp/the-oracle-problem-e6a26b7d03a0?source=rss------ai_design-5",
+      "title": "The oracle problem",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@malikchohra/stitch-vs-claude-design-3-5-hours-of-cleanup-vs-a-45-minute-diff-1256cdd2db7a?source=rss------ai_design-5",
-      "title": "Stitch vs Claude Design: 3.5 hours of cleanup vs a 45-minute diff",
+      "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
+      "title": "Why your Claude Code needs a design stack",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/best-practices-for-claude-code-subagents-optimization-7ff0dd3e20b5?source=rss----819cc2aaeee0---4",
-      "title": "Best Practices for Claude Code Subagents Optimization",
+      "url": "https://pub.towardsai.net/zero-frontend-code-deploying-interactive-a2ui-agents-directly-to-gemini-enterprise-02e7e9e567db?source=rss------generative_ui-5",
+      "title": "Zero Frontend Code: Deploying Interactive A2UI Agents Directly to Gemini Enterprise",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
-      "title": "How to stop re-explaining yourself to Claude",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://medium.com/@chrowmdesigns/the-missing-layer-why-ai-design-fails-and-how-to-fix-it-d06d1c992af8?source=rss------ai_design-5",
-      "title": "The Missing Layer: Why AI Design Fails, and How to Fix It",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/",
-      "title": "Engineering the Web Experience Behind Shopify's Spring '26 Edition: Everywhere",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://blog.murphytrueman.com/your-design-systems-newest-author-is-an-agent/",
-      "title": "Your design system has a new author",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
-      "title": "Your documentation is still in your Mum's filing cabinet",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://medium.com/@purinut.p9/ais-got-a-bias-problem-how-do-we-design-for-fairness-dae527efeb66?source=rss------ai_design-5",
-      "title": "AI's Got a Bias Problem: How Do We Design for Fairness?",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Kick the Bots Out of Your Survey Data",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Your New UX Habit: Establishing Baselines for Impact",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://airesistlist.org/",
-      "title": "The AI Resist List",
+      "url": "https://medium.com/@sandeepbalaji.j/design-broke-itself-my-generation-got-the-bill-586a1285a763?source=rss------ai_design-5",
+      "title": "Design Broke Itself. My Generation Got the Bill.",
       "profile": "Design"
     }
   ]
