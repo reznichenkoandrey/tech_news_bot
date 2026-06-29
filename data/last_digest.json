@@ -1,124 +1,160 @@
 {
-  "generated_at": "2026-06-28T07:08:07+00:00",
+  "generated_at": "2026-06-29T07:08:02+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRHRjM20xM1J2aUNXcndwbHR5OHQyWFdxSFpXUXFSRDA0MUlNa1RhNGhlazRaaERxeVVDd2V2Q0o4TkNGM3JFN1oyUkdOU3dDbDdyZkVDTTVwYU9RYTU0Mzk3WFEyMk9xR2tnbFdRTjd0RUQ1Z09vSA?oc=5",
-      "title": "Claude Mythos 5 is back, but only for a select group of US institutions - Mashable",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "title": "China's Z.ai claims it can match Mythos on cybersecurity",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnlzM25tN1VEdzk3WW5hdVBYaXVUMG54X2pJaXZjSC1ObXUwelE0Y0FIQXFTQk1tZjF5X3BIcE9KajRUZ3VsQS1RWS1xQ1ktNEE3dm5QaXhrUFhVQUQwQmhmb29nSFg1QmlJbVJ1Rmd5bnNpZ0t5Z0ZvNzlKbldBbHoteEVBVTJNRV9mNDd6NmE2b19XVzFBMG1UdFRJYXktTnpOWVMtZTB3SUpzRE9xSVB0TUYwdHkxOG1wak5aMHBLZw?oc=5",
-      "title": "Claude Code turned every engineer into three. Now companies need more product thinkers - VentureBeat",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "title": "Ford rehires 'gray beard' engineers after AI falls short",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
-      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhi81a/i_had_55_llms_blindgrade_each_other_22k_judgments/",
-      "title": "I had 55 LLMs blind-grade each other (22k judgments, all open). Every model family with enough data is biased toward its own siblings. Qwen judges favor Qwen by ~0.9 points. Mistral penalizes its own by ~1.0.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9831",
+      "title": "b9831",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9829",
-      "title": "b9829",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9833",
+      "title": "b9833",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9828",
-      "title": "b9828",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uibt9o/npc_engine_using_local_models/",
+      "title": "NPC Engine Using Local Models",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9827",
-      "title": "b9827",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uidtb8/highquality_glm52_quant_on_4x_dgx_spark_guide/",
+      "title": "High-quality GLM-5.2 Quant on 4x DGX Spark - Guide, Results, and Comps",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uh0clv/we_built_a_calibrationaware_q4_k_m_quant_of/",
-      "title": "We built a calibration-aware Q4_K_M quant of Qwen3.5 0.8B that recovers 96.5% of the BF16 gap vs pure llama.cpp Q4_K_M (SpectralQuant)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ui4yn6/ornith1035b_gguf_update_native_mtp/",
+      "title": "Ornith-1.0-35B GGUF update: native MTP speculative-decode graft + full serving/TTFT/long-context numbers (llama.cpp, tp=1)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhfg05/i_built_a_tool_to_turn_your_claude_code_sessions/",
-      "title": "I built a tool to turn your Claude Code sessions into fine-tuning data for local models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uht9rf/a_barebones_cpuonly_inference_engine_for_qwen_3/",
+      "title": "A barebones CPU-only inference engine for Qwen 3, written from scratch in pure C",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhevvf/model_registry_torrents_for_open_models_using/",
-      "title": "Model Registry: Torrents for open models using Hugging Face as a fallback web seed.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ui2341x/the_number_1_public_enemy_of_opensource/",
+      "title": "The number 1 public enemy of open-source.",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhakvq/does_quantizing_change_the_mtp_draft_rate/",
-      "title": "Does quantizing change the MTP draft rate?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uicq8x/locally_running_mode_turns_an_image_into_a_cute/",
+      "title": "Locally running mode turns an Image into a Cute Controllable Character you can Play as",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uhfeqw/full_document_redaction_with_qwen_36_27b_with_a/",
-      "title": "Full document redaction with Qwen 3.6 27B with a Pi agent harness",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uid54g/mlx_finetune_example_guide/",
+      "title": "MLX Fine-Tune Example Guide",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugyvz4/orthrus_diffusion_head_trained_qwen_3536_and/",
-      "title": "Orthrus (diffusion head) trained Qwen 3.5/3.6 and Gemma 4 models are dropping soon",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uicweb/i_built_an_agent_harness_for_small_models_i_got/",
+      "title": "I built an agent Harness for Small Models. I got Qwen 3.5 4b managing servers.",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@lizhen10/trust-is-not-a-feeling-designing-ai-systems-people-can-question-cc042a15deec?source=rss------ai_design-5",
-      "title": "Trust Is Not a Feeling: Designing AI Systems People Can Question",
+      "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4",
+      "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/design-bootcamp/the-oracle-problem-e6a26b7d03a0?source=rss------ai_design-5",
-      "title": "The oracle problem",
+      "url": "https://uxdesign.cc/the-bullshit-asymmetry-principle-was-survivable-ai-made-production-of-slop-almost-free-2107dd4530b4?source=rss----138adf9c44c---4",
+      "title": "The bullshit asymmetry principle was survivable. AI made production of slop almost free.",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
-      "title": "Why your Claude Code needs a design stack",
+      "url": "https://medium.com/ai-engineering-simplified/the-5-000-ai-landing-page-was-not-built-with-better-prompts-it-was-built-with-a-spec-a73657234c47?source=rss------ai_design-5",
+      "title": "The $5,000 AI Landing Page Was Not Built With Better Prompts. It Was Built With a Spec.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://pub.towardsai.net/zero-frontend-code-deploying-interactive-a2ui-agents-directly-to-gemini-enterprise-02e7e9e567db?source=rss------generative_ui-5",
-      "title": "Zero Frontend Code: Deploying Interactive A2UI Agents Directly to Gemini Enterprise",
+      "url": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4",
+      "title": "When the profession outruns the mentor",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@sandeepbalaji.j/design-broke-itself-my-generation-got-the-bill-586a1285a763?source=rss------ai_design-5",
-      "title": "Design Broke Itself. My Generation Got the Bill.",
+      "url": "https://uxplanet.org/why-figma-sites-beta-isnt-closing-the-gap-yet-058ce342d71e?source=rss----819cc2aaeee0---4",
+      "title": "Why Figma Sites Beta isn't closing the gap yet.",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxplanet.org/why-you-need-to-start-prototyping-with-real-code-560e62606b55?source=rss----819cc2aaeee0---4",
+      "title": "Why You Need to Start Prototyping with Real Code",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxplanet.org/what-actually-makes-people-happy-the-real-research-explained-simply-39420ac88104?source=rss----819cc2aaeee0---4",
+      "title": "What Actually Makes People Happy? The Real Research, Explained Simply",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxplanet.org/heuristics-10-help-and-documentation-simplified-by-the-examples-481fa9b856d5?source=rss----819cc2aaeee0---4",
+      "title": "Heuristics #10: help and documentation",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxplanet.org/designing-for-the-wrong-user-33178f5cb5b8?source=rss----819cc2aaeee0---4",
+      "title": "Designing for the Wrong User",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxplanet.org/building-a-dynamic-pong-game-from-scratch-a7d5a608a33f?source=rss----819cc2aaeee0---4",
+      "title": "Building a Dynamic Pong Game from Scratch.",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://uxplanet.org/stop-typing-start-speaking-f2edb2f43930?source=rss----819cc2aaeee0---4",
+      "title": "Stop Typing. Start Speaking.",
       "profile": "Design"
     }
   ]
