@@ -1,160 +1,148 @@
 {
-  "generated_at": "2026-06-29T07:08:02+00:00",
+  "generated_at": "2026-06-30T07:07:27+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9840",
+      "title": "b9840",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "title": "China's Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "title": "Ford rehires 'gray beard' engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "title": "Gemini's personalized AI image generation is now free for US users",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9831",
-      "title": "b9831",
+      "url": "https://techcrunch.com/2026/06/30/the-ai-jobs-debate-just-got-messier/",
+      "title": "The AI jobs debate just got messier",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9833",
-      "title": "b9833",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj0fkw/deepseek_v4_pr_merged_into_llamacpp/",
+      "title": "DeepSeek V4, PR merged into llama.cpp !",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uibt9o/npc_engine_using_local_models/",
-      "title": "NPC Engine Using Local Models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj7xcs/introducing_longcat20_a_largescale_moe_language/",
+      "title": "Introducing LongCat-2.0 - , a large-scale MoE language model with 1.6 trillion total parameters and ~48 billion activated per token. This was the stealth model that was on Openrouter under the name 'owl-alpha'.",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uidtb8/highquality_glm52_quant_on_4x_dgx_spark_guide/",
-      "title": "High-quality GLM-5.2 Quant on 4x DGX Spark - Guide, Results, and Comps",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj9viw/been_running_qwen3627b_through_a_3critic_harness/",
+      "title": "Been running Qwen3.6-27B through a 3-critic harness. The harness matters more than I thought",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ui4yn6/ornith1035b_gguf_update_native_mtp/",
-      "title": "Ornith-1.0-35B GGUF update: native MTP speculative-decode graft + full serving/TTFT/long-context numbers (llama.cpp, tp=1)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uisspl/nasa_testing_local_llm_inference_for_future_space/",
+      "title": "NASA testing local LLM inference for future space missions",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uht9rf/a_barebones_cpuonly_inference_engine_for_qwen_3/",
-      "title": "A barebones CPU-only inference engine for Qwen 3, written from scratch in pure C",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uimjdi/glm_52_q1_s_vs_qwen_27b_q8/",
+      "title": "GLM 5.2 Q1_S vs Qwen 27B Q8",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ui2341x/the_number_1_public_enemy_of_opensource/",
-      "title": "The number 1 public enemy of open-source.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ujhkw8/best_local_linux_sysadmin/",
+      "title": "Best local linux sysadmin?",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uicq8x/locally_running_mode_turns_an_image_into_a_cute/",
-      "title": "Locally running mode turns an Image into a Cute Controllable Character you can Play as",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uiwtd7/samsung_sk_hynix_micron_sued_in_us_over_memory/",
+      "title": "Samsung, SK hynix, Micron Sued in US Over Memory Price Fixing",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uid54g/mlx_finetune_example_guide/",
-      "title": "MLX Fine-Tune Example Guide",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "title": "South Korean tech giants commit over $550B to ease 'RAMageddon'",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uicweb/i_built_an_agent_harness_for_small_models_i_got/",
-      "title": "I built an agent Harness for Small Models. I got Qwen 3.5 4b managing servers.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj0735/qwen3ttscpp_compose_desktop_gui/",
+      "title": "Qwen3-tts.cpp + Compose Desktop GUI",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4",
-      "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
+      "url": "https://uxplanet.org/claude-code-settings-best-practices-b9ecb6a02d85?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Settings Best Practices",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/the-bullshit-asymmetry-principle-was-survivable-ai-made-production-of-slop-almost-free-2107dd4530b4?source=rss----138adf9c44c---4",
-      "title": "The bullshit asymmetry principle was survivable. AI made production of slop almost free.",
+      "url": "https://css-tricks.com/css-states-and-javascript-events/",
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/ai-engineering-simplified/the-5-000-ai-landing-page-was-not-built-with-better-prompts-it-was-built-with-a-spec-a73657234c47?source=rss------ai_design-5",
-      "title": "The $5,000 AI Landing Page Was Not Built With Better Prompts. It Was Built With a Spec.",
+      "url": "https://uxdesign.cc/you-dont-design-the-interface-anymore-you-design-the-deciding-835c01982ead?source=rss----138adf9c44c---4",
+      "title": "You don't design the interface anymore. You design the deciding.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4",
-      "title": "When the profession outruns the mentor",
+      "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf?source=rss----138adf9c44c---4",
+      "title": "Figma just made your design system debt everyone's problem. Now use it.",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/why-figma-sites-beta-isnt-closing-the-gap-yet-058ce342d71e?source=rss----819cc2aaeee0---4",
-      "title": "Why Figma Sites Beta isn't closing the gap yet.",
+      "url": "https://uxdesign.cc/popular-design-trends-that-destroy-conversion-3b3a964827cb?source=rss----138adf9c44c---4",
+      "title": "Popular design trends that destroy conversion",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxplanet.org/why-you-need-to-start-prototyping-with-real-code-560e62606b55?source=rss----819cc2aaeee0---4",
-      "title": "Why You Need to Start Prototyping with Real Code",
+      "url": "https://medium.com/design-bootcamp/ai-is-changing-what-it-means-to-be-a-product-designer-are-we-keeping-up-3a28586cb8fd?source=rss------ai_design-5",
+      "title": "AI is changing what it means to be a product designer. Are we keeping up?",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxplanet.org/what-actually-makes-people-happy-the-real-research-explained-simply-39420ac88104?source=rss----819cc2aaeee0---4",
-      "title": "What Actually Makes People Happy? The Real Research, Explained Simply",
+      "url": "https://www.bram.us/2026/06/21/do-websites-need-to-function-exactly-the-same-on-every-platform/",
+      "title": "Do websites need to function exactly the same on every platform?",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxplanet.org/heuristics-10-help-and-documentation-simplified-by-the-examples-481fa9b856d5?source=rss----819cc2aaeee0---4",
-      "title": "Heuristics #10: help and documentation",
+      "url": "https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4",
+      "title": "Japan Doesn't Design With Less. It Designs With Ma.",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxplanet.org/designing-for-the-wrong-user-33178f5cb5b8?source=rss----819cc2aaeee0---4",
-      "title": "Designing for the Wrong User",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxplanet.org/building-a-dynamic-pong-game-from-scratch-a7d5a608a33f?source=rss----819cc2aaeee0---4",
-      "title": "Building a Dynamic Pong Game from Scratch.",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://uxplanet.org/stop-typing-start-speaking-f2edb2f43930?source=rss----819cc2aaeee0---4",
-      "title": "Stop Typing. Start Speaking.",
+      "url": "https://tympanus.net/codrops/2026/06/29/inside-bisous-designing-an-editorial-experience-for-cinematic-cgi/",
+      "title": "Inside Bisous: Designing an Editorial Experience for Cinematic CGI",
       "profile": "Design"
     }
   ]
