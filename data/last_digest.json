@@ -1,148 +1,184 @@
 {
-  "generated_at": "2026-06-30T07:07:27+00:00",
+  "generated_at": "2026-07-01T07:08:05+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9840",
-      "title": "b9840",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "title": "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "title": "Gemini's personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "title": "Trump drops restrictions on Anthropic's Mythos and Fable models",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "title": "Google's NotebookLM can sum up your research in a TikTok-style clip",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/30/the-ai-jobs-debate-just-got-messier/",
-      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj0fkw/deepseek_v4_pr_merged_into_llamacpp/",
-      "title": "DeepSeek V4, PR merged into llama.cpp !",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj7xcs/introducing_longcat20_a_largescale_moe_language/",
-      "title": "Introducing LongCat-2.0 - , a large-scale MoE language model with 1.6 trillion total parameters and ~48 billion activated per token. This was the stealth model that was on Openrouter under the name 'owl-alpha'.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj9viw/been_running_qwen3627b_through_a_3critic_harness/",
-      "title": "Been running Qwen3.6-27B through a 3-critic harness. The harness matters more than I thought",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uisspl/nasa_testing_local_llm_inference_for_future_space/",
-      "title": "NASA testing local LLM inference for future space missions",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uimjdi/glm_52_q1_s_vs_qwen_27b_q8/",
-      "title": "GLM 5.2 Q1_S vs Qwen 27B Q8",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "title": "How ChatGPT adoption has expanded",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ujhkw8/best_local_linux_sysadmin/",
-      "title": "Best local linux sysadmin?",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uiwtd7/samsung_sk_hynix_micron_sued_in_us_over_memory/",
-      "title": "Samsung, SK hynix, Micron Sued in US Over Memory Price Fixing",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.1",
+      "title": "v0.31.1",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "title": "South Korean tech giants commit over $550B to ease 'RAMageddon'",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uk7khq/audiocpp_vibevoice_15b_released_90min_podcast_in/",
+      "title": "[audio.cpp] VibeVoice 1.5B released — 90-min podcast in 22.95 min, 4.08x real-time, 2.86x faster than Python without quantization. Native C++/ggml",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj0735/qwen3ttscpp_compose_desktop_gui/",
-      "title": "Qwen3-tts.cpp + Compose Desktop GUI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ujn5u3/huawei_opensources_openpangu20flash_92b_total6b/",
+      "title": "Huawei open-sources OpenPangu-2.0-Flash - 92B total,6B active",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/claude-code-settings-best-practices-b9ecb6a02d85?source=rss----819cc2aaeee0---4",
-      "title": "Claude Code Settings Best Practices",
+      "url": "https://tympanus.net/codrops/2026/06/30/building-persistent-page-transitions-with-webgpu-and-vanilla-javascript/",
+      "title": "Building Persistent Page Transitions with WebGPU and Vanilla JavaScript",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://css-tricks.com/css-states-and-javascript-events/",
-      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "url": "https://www.figma.com/community/plugin/1616902199522165388/moodboard-3000",
+      "title": "Moodboard 3000",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/you-dont-design-the-interface-anymore-you-design-the-deciding-835c01982ead?source=rss----138adf9c44c---4",
-      "title": "You don't design the interface anymore. You design the deciding.",
+      "url": "https://css-tricks.com/whats-important-14/",
+      "title": "What's !important #14: Gap Decorations, random(), field sizing, and More",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf?source=rss----138adf9c44c---4",
-      "title": "Figma just made your design system debt everyone's problem. Now use it.",
+      "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4",
+      "title": "39 principles for designing human-AI interaction",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/popular-design-trends-that-destroy-conversion-3b3a964827cb?source=rss----138adf9c44c---4",
-      "title": "Popular design trends that destroy conversion",
+      "url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
+      "title": "The problem is prompt debt",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/design-bootcamp/ai-is-changing-what-it-means-to-be-a-product-designer-are-we-keeping-up-3a28586cb8fd?source=rss------ai_design-5",
-      "title": "AI is changing what it means to be a product designer. Are we keeping up?",
+      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+      "title": "Why Accessibility Is An Operational Capability, Not A Feature",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://www.bram.us/2026/06/21/do-websites-need-to-function-exactly-the-same-on-every-platform/",
-      "title": "Do websites need to function exactly the same on every platform?",
+      "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf",
+      "title": "Figma just made your design system debt everyone's problem",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4",
-      "title": "Japan Doesn't Design With Less. It Designs With Ma.",
+      "url": "https://uxdesign.cc/why-systems-thinking-is-becoming-the-most-important-ux-skill-688136ed1ce2?source=rss----138adf9c44c---4",
+      "title": "Why systems thinking is becoming the most important UX skill",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://tympanus.net/codrops/2026/06/29/inside-bisous-designing-an-editorial-experience-for-cinematic-cgi/",
-      "title": "Inside Bisous: Designing an Editorial Experience for Cinematic CGI",
+      "url": "https://uxdesign.cc/exploring-comprehensive-data-color-scheme-design-with-genai-099d543df4ba?source=rss----138adf9c44c---4",
+      "title": "Exploring comprehensive data color scheme design with GenAI",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/@wenting_zhang/monotype-typogram-thousands-of-iconic-typefaces-now-in-typogram-branding-studio-a74d7e9db221?source=rss------ai_design-5",
+      "title": "Monotype × Typogram: Thousands of Iconic Typefaces, Now in Typogram Branding & Studio",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://medium.com/@faitholuwale/i-designed-a-website-in-less-than-24-hours-with-claude-design-fe0388447ecd?source=rss------ai_design-5",
+      "title": "I Designed a Website in Less Than 24 Hours with Claude Design",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://uxplanet.org/claude-designs-most-overlooked-feature-c86c4f4dc701?source=rss----819cc2aaeee0---4",
+      "title": "Claude Design's Most Overlooked Feature",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://uxdesign.cc/what-does-good-enough-actually-mean-for-designers-now-ee1604bf79b7?source=rss----138adf9c44c---4",
+      "title": "What does \"good enough\" actually mean for designers now?",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "title": "You can't unit test for taste",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://medium.com/design-bootcamp/design-team-safety-in-the-ai-era-d3a1498dcbc7?source=rss------ai_design-5",
+      "title": "Design team safety in the AI era",
       "profile": "Design"
     }
   ]
