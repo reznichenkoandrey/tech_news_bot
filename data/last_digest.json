@@ -1,184 +1,160 @@
 {
-  "generated_at": "2026-07-01T07:08:05+00:00",
+  "generated_at": "2026-07-02T07:08:43+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "title": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "title": "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "title": "Trump drops restrictions on Anthropic's Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "title": "Gemini Spark, Google's agentic assistant, is now available on Mac",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "title": "Google's NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQkwtQkktQkI0S2FDeW1xMGVNSGZmazNKYVpGTTdlS3NJRGVzVzZUUE8zaG15b0p0WGxSUUwtdXpqTWd6NGIxdUN6Z1FzSEJ0X2J6Q3hjUXVhNDF2UDNjT2I5RkFOU2ZOQXREZDJiVk1CMVFYRnFVbzJZd0F6UG01b3YzSE0yc1kzNFlCdHRmUXUxLVEwbXhqRDRFY0lJLXZXbjc2bVpTR3NTTUdDdzRoekVOVmxDZkFMQWg3c092Tm1VakdUMkdMTkN4VWk2b2ZI0gHWAUFVX3lxTE5UanpMd1h3RWNMeXg1TGpDQVhOeWEtMnVGYS1OZEQxaGZLR1dSR1I4THVTT0J0WVJCWmpXcGJJY2laQlF3emFFaVpUSlNzZ29KZ2NUYkcxUWJfOTBKZERXNWxyUl95US1ucVF1N3hTWkVoMlpMTW9Ja2pHNTYwbkI1MHV5OEwxQ1d6R1ltRExsUEwxZ1kzNEZJVFVwaEpPNmhuWVBjM194UGpYYUxxVEFEcjQzSGgzMDJxNXI0OUUzYkRoRHB4Q3NVSmdrQUZieUhQQXB4NkE?oc=5",
+      "title": "Anthropic Restores Claude Mythos and Fable Access as Commerce Department Lifts Export Controls",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGVhaElNeldSR3pPSllJSDZTOEJ5eWRJRmZvVUptckV0OWw2ekV1Q2dFVFEwRE9iblBNTFdsSVEyUkRVenZNdUtGZnlqemY1Vm14eHFFd0VpQjdVMHhCMjRRZlFsWmc1cldoZ3FuOUNaeG5XMm5OVW10ckFlZXE4ZGVubnk3ajJnb3kxNjZJaFUzNnhiY0hLVUJ3Z0doMkc3N3RoTWxOVQ?oc=5",
+      "title": "Anthropic debuts AI-driven pharma R&D tool, Claude Science",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iQVVRSVRaQU51NGpuOXlWZDJMREtWOXoyODJXRXBFaEZ3dmRXZkg1YkR1Mlp2Y3E0MnVwYmVoTlVubFRLUGtXVEVRNHBHV25iaEt5YmdtNlNGeGVhOEhqUDBKcmlidlBaeDBXWTEyUlltWTg?oc=5",
+      "title": "Anthropic is making AI agents cheaper to run with its new Claude Sonnet 5 model",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "title": "Google built a great smart speaker, but Gemini isn't ready for it",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukjh6y/icml_qr_code_visible_d/",
+      "title": "On July 1, 2026, arXiv will spin out from Cornell University",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "title": "How ChatGPT adoption has expanded",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukotww/p_mothretrieval_graphfree_multihop_retrieval_via/",
+      "title": "Moth-Retrieval: Graph-Free Multi-Hop Retrieval via Query-Time Orchestration",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9859",
+      "title": "llama.cpp b9859",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.1",
-      "title": "v0.31.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.115.1",
+      "title": "anthropic-sdk-python v0.115.1",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uk7khq/audiocpp_vibevoice_15b_released_90min_podcast_in/",
-      "title": "[audio.cpp] VibeVoice 1.5B released — 90-min podcast in 22.95 min, 4.08x real-time, 2.86x faster than Python without quantization. Native C++/ggml",
+      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ujn5u3/huawei_opensources_openpangu20flash_92b_total6b/",
-      "title": "Huawei open-sources OpenPangu-2.0-Flash - 92B total,6B active",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/claude-sonnet-5-for-product-designers-cc2ac393c27a?source=rss----819cc2aaeee0---4",
+      "title": "Claude Sonnet 5 for Product Designers",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://tympanus.net/codrops/2026/06/30/building-persistent-page-transitions-with-webgpu-and-vanilla-javascript/",
-      "title": "Building Persistent Page Transitions with WebGPU and Vanilla JavaScript",
+      "url": "https://ianloe.medium.com/loop-engineering-the-discipline-most-agentic-ai-deployments-get-wrong-c6498feceb89?source=rss------ai_design-5",
+      "title": "Loop Engineering: The Discipline Most Agentic AI Deployments Get Wrong",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.figma.com/community/plugin/1616902199522165388/moodboard-3000",
-      "title": "Moodboard 3000",
+      "url": "https://uxplanet.org/context-engineering-for-claude-code-69d5590469a3?source=rss----819cc2aaeee0---4",
+      "title": "Context Engineering for Claude Code",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://css-tricks.com/whats-important-14/",
-      "title": "What's !important #14: Gap Decorations, random(), field sizing, and More",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4",
+      "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe",
       "title": "39 principles for designing human-AI interaction",
       "profile": "Design"
     },
     {
+      "n": 19,
+      "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
+      "title": "AI personality is a design problem",
+      "profile": "Design"
+    },
+    {
       "n": 20,
-      "url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
-      "title": "The problem is prompt debt",
+      "url": "https://medium.com/@storytelleraicrew/ai-can-generate-a-design-it-still-cant-finish-one-cf93d665df46?source=rss------ai_design-5",
+      "title": "AI Can Generate a Design. It Still Can't Finish One.",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
-      "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+      "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/",
+      "title": "Repricing of software engineering labor",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf",
-      "title": "Figma just made your design system debt everyone's problem",
+      "url": "https://medium.com/design-bootcamp/figma-config-2026-swan-song-or-the-next-leap-forward-2e635562920a?source=rss------ai_design-5",
+      "title": "Figma Config 2026 — swan song or the next leap forward?",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/why-systems-thinking-is-becoming-the-most-important-ux-skill-688136ed1ce2?source=rss----138adf9c44c---4",
-      "title": "Why systems thinking is becoming the most important UX skill",
+      "url": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4",
+      "title": "How designers need to change for an AI-powered world",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxdesign.cc/exploring-comprehensive-data-color-scheme-design-with-genai-099d543df4ba?source=rss----138adf9c44c---4",
-      "title": "Exploring comprehensive data color scheme design with GenAI",
+      "url": "https://uxplanet.org/geo-get-cited-by-ai-32f2f2bf2387?source=rss----819cc2aaeee0---4",
+      "title": "GEO: Getting Cited by the Machines",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://medium.com/@wenting_zhang/monotype-typogram-thousands-of-iconic-typefaces-now-in-typogram-branding-studio-a74d7e9db221?source=rss------ai_design-5",
-      "title": "Monotype × Typogram: Thousands of Iconic Typefaces, Now in Typogram Branding & Studio",
+      "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34",
+      "title": "The organizational cost of low taste",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://medium.com/@faitholuwale/i-designed-a-website-in-less-than-24-hours-with-claude-design-fe0388447ecd?source=rss------ai_design-5",
-      "title": "I Designed a Website in Less Than 24 Hours with Claude Design",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://uxplanet.org/claude-designs-most-overlooked-feature-c86c4f4dc701?source=rss----819cc2aaeee0---4",
-      "title": "Claude Design's Most Overlooked Feature",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://uxdesign.cc/what-does-good-enough-actually-mean-for-designers-now-ee1604bf79b7?source=rss----138adf9c44c---4",
-      "title": "What does \"good enough\" actually mean for designers now?",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "title": "You can't unit test for taste",
-      "profile": "Design"
-    },
-    {
-      "n": 30,
-      "url": "https://medium.com/design-bootcamp/design-team-safety-in-the-ai-era-d3a1498dcbc7?source=rss------ai_design-5",
-      "title": "Design team safety in the AI era",
+      "url": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
+      "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
       "profile": "Design"
     }
   ]
