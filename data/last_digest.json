@@ -1,160 +1,130 @@
 {
-  "generated_at": "2026-07-02T07:08:43+00:00",
+  "generated_at": "2026-07-03T07:08:34+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "title": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "title": "Gemini Spark, Google's agentic assistant, is now available on Mac",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQkwtQkktQkI0S2FDeW1xMGVNSGZmazNKYVpGTTdlS3NJRGVzVzZUUE8zaG15b0p0WGxSUUwtdXpqTWd6NGIxdUN6Z1FzSEJ0X2J6Q3hjUXVhNDF2UDNjT2I5RkFOU2ZOQXREZDJiVk1CMVFYRnFVbzJZd0F6UG01b3YzSE0yc1kzNFlCdHRmUXUxLVEwbXhqRDRFY0lJLXZXbjc2bVpTR3NTTUdDdzRoekVOVmxDZkFMQWg3c092Tm1VakdUMkdMTkN4VWk2b2ZI0gHWAUFVX3lxTE5UanpMd1h3RWNMeXg1TGpDQVhOeWEtMnVGYS1OZEQxaGZLR1dSR1I4THVTT0J0WVJCWmpXcGJJY2laQlF3emFFaVpUSlNzZ29KZ2NUYkcxUWJfOTBKZERXNWxyUl95US1ucVF1N3hTWkVoMlpMTW9Ja2pHNTYwbkI1MHV5OEwxQ1d6R1ltRExsUEwxZ1kzNEZJVFVwaEpPNmhuWVBjM194UGpYYUxxVEFEcjQzSGgzMDJxNXI0OUUzYkRoRHB4Q3NVSmdrQUZieUhQQXB4NkE?oc=5",
-      "title": "Anthropic Restores Claude Mythos and Fable Access as Commerce Department Lifts Export Controls",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGVhaElNeldSR3pPSllJSDZTOEJ5eWRJRmZvVUptckV0OWw2ekV1Q2dFVFEwRE9iblBNTFdsSVEyUkRVenZNdUtGZnlqemY1Vm14eHFFd0VpQjdVMHhCMjRRZlFsWmc1cldoZ3FuOUNaeG5XMm5OVW10ckFlZXE4ZGVubnk3ajJnb3kxNjZJaFUzNnhiY0hLVUJ3Z0doMkc3N3RoTWxOVQ?oc=5",
-      "title": "Anthropic debuts AI-driven pharma R&D tool, Claude Science",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNEliQ2JDeEJyR2phZ205eWNoODR1bEpPQVctbVMtWG1IcjRWNlg0U1h3Y1BxR0tyYjBuM29RMzNRaHJqaHI3cENPQ3poN1VZZXVfUlg5S2lCZ1hIc0tkSWgwNko3WWRFdHo3NWpCeVhUdzAtTkxkVU5mOTYxclVJdlRZTmlwd1VIZFBhSXFkXzlMMkVFLXdJZUNJOXBoTTJzZjd6MjlveE9uMFlCUG1FNkFCVTZpVmVkX2lTQWJGZExYaFM2WXVJaTdWeFl3SkE?oc=5",
+      "title": "Anthropic targets loopholes used by Chinese firms to access Claude, FT reports",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iQVVRSVRaQU51NGpuOXlWZDJMREtWOXoyODJXRXBFaEZ3dmRXZkg1YkR1Mlp2Y3E0MnVwYmVoTlVubFRLUGtXVEVRNHBHV25iaEt5YmdtNlNGeGVhOEhqUDBKcmlidlBaeDBXWTEyUlltWTg?oc=5",
-      "title": "Anthropic is making AI agents cheaper to run with its new Claude Sonnet 5 model",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQazNIbVpIREx1aHZpejVLZ1BHV3JoU2Y3QXA5UWJUY1RBS3BPZldabGczekdLRnZGbkQ3ajU5dXhQbU5leWx6MW5mcUtkVXBjSWtQR3doUXI0aWtodFU4S3ZFcTFfQTQzeXZXS1hncDV1ZHlYSjlZalVrQWVTS2xaVS1NT0h4SU5KNzc5MEEtNDFfM0gzMmdoUHZWbDlvOW5kQXhVOVdZQ25lSW1LVFdPM2pjSGNNdng0VmczRHZIYVlHeGgtVHhpaXZjcUtQNlQyanhxSEJXOE1yVUxCQzVtZzZtSVZidm84MmtjTGFoQ2hNVlNMTmlSNXhjQWFEZUZsYWc?oc=5",
+      "title": "Anthropic's Claude wants to help Micron design better HBM, DRAM, and SSD for AI",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVE1LWjhRQ29OT1dwVjdnZFRRQ29zOGFSeXYtaVM4NG9QdTRBLWVYTTlNQ3JzQWtoQ0dVZkoyWDFUTzRaLV90ZWNxVERwSFNvWDFabFdnR0toY0pIV0Z5MXpJMVZfZURuR0NWcE5zMmJBX25oQUtraUdFeWludjdmMU5lbnN6RFNKRWxmYndTd2xGQ3NkU1hZaQ?oc=5",
+      "title": "Anthropic Claude Goes GA in Microsoft Foundry",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "title": "Google built a great smart speaker, but Gemini isn't ready for it",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWVl0TmFKVHNCUm0yRjFVbG9KU3dwdEpzMlhJNXFaMlVtNGt6WDNDelR0aFpxNlN1MHU3ejNzUGFuQ1hSSy13ZFI1WTBld0NOdlQ0Q2RSWWpwck05SFM4aHJqV1dYeHFIVE9QS2hLTGtmNHhYeGtNOHNBVG5qd3dZUjkweTRobFpnTm5rZXhVMmUwN0RvMlhfOFdQbzZPaWtndFd2V3JKLXp3Tkx4QmRqdkhhUGJoRE5sN0UtcllxYjdNeXJFdndiZW4wNkYwVTVUeG1jMXln?oc=5",
+      "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukjh6y/icml_qr_code_visible_d/",
-      "title": "On July 1, 2026, arXiv will spin out from Cornell University",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.116.0",
+      "title": "v0.116.0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukotww/p_mothretrieval_graphfree_multihop_retrieval_via/",
-      "title": "Moth-Retrieval: Graph-Free Multi-Hop Retrieval via Query-Time Orchestration",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9860",
+      "title": "b9860",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9859",
-      "title": "llama.cpp b9859",
-      "profile": "AI/Tech"
+      "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+      "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+      "profile": "Design"
     },
     {
       "n": 13,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.115.1",
-      "title": "anthropic-sdk-python v0.115.1",
-      "profile": "AI/Tech"
+      "url": "https://eieio.games/blog/legibility-of-effort/",
+      "title": "Legibility of effort",
+      "profile": "Design"
     },
     {
       "n": 14,
-      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "profile": "AI/Tech"
+      "url": "https://www.designsystemscollective.com/the-principal-multiplier-what-ai-actually-requires-from-design-80919bffc823?source=rss------ai_design-5",
+      "title": "The Principal Multiplier: What AI Actually Requires from Design",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://uxplanet.org/claude-sonnet-5-for-product-designers-cc2ac393c27a?source=rss----819cc2aaeee0---4",
-      "title": "Claude Sonnet 5 for Product Designers",
+      "url": "https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4",
+      "title": "The seven AI tools I actually use and when",
       "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://ianloe.medium.com/loop-engineering-the-discipline-most-agentic-ai-deployments-get-wrong-c6498feceb89?source=rss------ai_design-5",
-      "title": "Loop Engineering: The Discipline Most Agentic AI Deployments Get Wrong",
+      "url": "https://uxplanet.org/the-fable-5-blackout-what-it-proved-about-running-claude-code-and-hermes-together-6d35b65397b9?source=rss----819cc2aaeee0---4",
+      "title": "The Fable 5 Blackout: What It Proved About Running Claude Code and Hermes Together",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/context-engineering-for-claude-code-69d5590469a3?source=rss----819cc2aaeee0---4",
-      "title": "Context Engineering for Claude Code",
+      "url": "https://uxplanet.org/caveman-for-claude-code-cfa0b0b35240?source=rss----819cc2aaeee0---4",
+      "title": "Caveman for Claude Code",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe",
-      "title": "39 principles for designing human-AI interaction",
+      "url": "https://medium.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/ai-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-agentic-protocols-%E8%88%87%E5%82%B3%E8%BC%B8%E5%B1%A4%E7%B4%9A%E7%9A%84-ag-ui-%E5%8D%94%E5%AE%9A-88389217ebd0?source=rss------generative_ui-5",
+      "title": "AI 學習筆記 — Agentic Protocols 與傳輸層級的 AG-UI 協定",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
-      "title": "AI personality is a design problem",
+      "url": "https://medium.com/@sprakdesignmkt/4-ways-ai-is-transforming-packaging-design-in-2026-1a2405d241a0?source=rss------ai_design-5",
+      "title": "4 Ways AI Is Transforming Packaging Design in 2026",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@storytelleraicrew/ai-can-generate-a-design-it-still-cant-finish-one-cf93d665df46?source=rss------ai_design-5",
-      "title": "AI Can Generate a Design. It Still Can't Finish One.",
+      "url": "https://www.designsystemscollective.com/building-language-for-design-systems-1b2f260b0bdf?source=rss------ai_design-5",
+      "title": "Building language for design systems",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/",
-      "title": "Repricing of software engineering labor",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/design-bootcamp/figma-config-2026-swan-song-or-the-next-leap-forward-2e635562920a?source=rss------ai_design-5",
-      "title": "Figma Config 2026 — swan song or the next leap forward?",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4",
-      "title": "How designers need to change for an AI-powered world",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxplanet.org/geo-get-cited-by-ai-32f2f2bf2387?source=rss----819cc2aaeee0---4",
-      "title": "GEO: Getting Cited by the Machines",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34",
-      "title": "The organizational cost of low taste",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
-      "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
+      "url": "https://uxplanet.org/ui-design-styles-explained-670cfabdf430?source=rss----819cc2aaeee0---4",
+      "title": "I've Watched 10 UI Trends Rise and Die. Most Designers Still Can't Name Half of Them.",
       "profile": "Design"
     }
   ]
