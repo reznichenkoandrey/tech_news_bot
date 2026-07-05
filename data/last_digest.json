@@ -1,136 +1,112 @@
 {
-  "generated_at": "2026-07-04T07:08:01+00:00",
+  "generated_at": "2026-07-05T07:07:22+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9873",
+      "title": "b9873",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcThKRkdtby1ET3JWem4wNzJKNGZqOFVObk9fOTlNeHJRSGMyQWJUYkJreDdzeTdya3Z5UUhQZzhBLXJZZG02b0lQakxaeFVjMk5UdkZpQzEyTUx0eXNfbzZiN291ZHFPTFR4M2tqbDk1Y2ZaTFhIZG1FVmsweURlUmIxcV9QWFpLb2RtalBkMVpQa3dSLUdZdXVyUVZiT3lvSkN2bHJ4cEV6Y3dsMm1kRUtnTkZLdlllYjNF0gG7AUFVX3lxTFBZTTdGR1JiLU1ZX3RoOUt5SnZVYjkzZWl4cUJ1RmtFUTg4RkZzTkI1cE5JdzlGRjh0RUFrb3FZUmtPX1UyVTNIeUNIbnBjczViSEhNOXp5US13N1V1Uk4xRGQ5eHNPOXFLNHpmb3hncUlMRXNEcUc5M2tTcHpMRTZGSWxvbWpoa3BHS2Q4SWhwWVowbUpGVUtXUFozYlZxeXZMWmZEZk1aaXVhRzhDeHo1b2szVFVqOHctS2s?oc=5",
-      "title": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns - South China Morning Post",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9871",
+      "title": "b9871",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdUF3V1FfSGdCSFFDUC1ENFp0QVFIeTVjVy1jMVhvbTBDWVE4V05fMnR2Vms3TXpxOWtZcHhyd0NKYVhKN2JEX292RXo2M0F1MXBYbm96cUZWbld2MDBPUjBsVXBiRndJY0ZWWVZNbFFXM2dCdno3YWFnbTFMcDZ3cFp6cGdaSThPdW9ncl9LN3FrMF9OdWs0MFFrTE1hMFVmZEp1UHg1THkydTVseE9XZ181WXFQT1BpcUtEOFlIU05KUFd6MjlzWXZGVlFqS0g0c3M2enlKQzdTTUg5MWU3TWRUMDdCaTQ?oc=5",
-      "title": "U.S. lifts export controls on Anthropic's Claude Fable 5 and Mythos 5, ending 19-day shutdown - MarketScale",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unrse9/i_benchmarked_13_models_at_65k128k_context_to/",
+      "title": "I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.13.0",
-      "title": "Release v5.13.0",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "title": "A behind-the-scenes look at Midjourney's medical scanner leaves many questions unanswered",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unpelb/getting_close_to_100k_context_on_32gb_vram_with/",
+      "title": "Getting close to 100K context on 32GB VRAM with Qwen3.6-27 at Q8",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/",
-      "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unbm45/ran_a_classicmedival_europe_fantasy_rpagentic/",
+      "title": "Ran a classic(medival europe) fantasy RP/agentic benchmark across 8 local models Qwen3.6-27B held up better than its size suggests",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/",
-      "title": "H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1une2il/i_merged_fixes_for_quantized_kv_cache_into_my/",
+      "title": "I merged fixes for quantized KV cache into my DeepSeek V4 branch",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1un0v49/i_built_my_first_flow_matching_image_generator/",
-      "title": "I built my 'first' flow matching image generator, here's what I learned [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un6njn/doing_the_actual_math_on_a_20k_local_ai_rig/",
+      "title": "Doing the actual math on a $20k local AI rig breakeven",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9870",
-      "title": "b9870",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unbjr2/using_local_models_with_hermes_vs_claude_code/",
+      "title": "Using local models with Hermes vs Claude code",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9867",
-      "title": "b9867",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un6f8u/is_dspark_dflash_mtp_qat_and_similar_tech_going/",
+      "title": "Is dSpark, dflash, MTP, QAT, and similar tech going to increase inference speed enough to where model spillover to disk will be more tolerable?",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9866",
-      "title": "b9866",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unbi8a/qwen36_27b_on_a_5090_64k_sample_toks_distribution/",
+      "title": "Qwen3.6 27B on a 5090, 6.4k sample tok/s distribution after tuning MTP/cache settings",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9864",
-      "title": "b9864",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un5hyi/googletabfm100/",
+      "title": "google/tabfm-1.0.0",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9862",
-      "title": "b9862",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un9muu/psa_upscaling_gemma_4_requires_a_proportional/",
+      "title": "PSA: Upscaling Gemma 4 requires a proportional layer_scalar adjustment",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9861",
-      "title": "b9861",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Crafting AI Explanations for Every Role in Your Enterprise",
+      "url": "https://ianloe.medium.com/the-knowledge-layer-nobody-built-until-now-abc4822540e2?source=rss------ai_design-5",
+      "title": "The Knowledge Layer Nobody Built, Until Now",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Stop Reporting UX Activity and Report Business Outcomes",
+      "url": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4",
+      "title": "The face was never the point",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-      "title": "Users Don't Need More Tools: They Need Seamless Integrations",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
-      "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxplanet.org/vibe-coding-is-a-dead-end-01f10ba40f46?source=rss----819cc2aaeee0---4",
-      "title": "Vibe Coding Is a Dead End",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://medium.com/@jihyungyooo/why-atlassian-rebuilt-its-design-system-1376f7d220c7?source=rss------ai_ux-5",
-      "title": "Why Atlassian Rebuilt Its Design System",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
-      "title": "Did good UX break the job market?",
+      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4",
+      "title": "Never mind the prompts, here's the thinking",
       "profile": "Design"
     }
   ]
