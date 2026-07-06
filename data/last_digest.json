@@ -1,112 +1,112 @@
 {
-  "generated_at": "2026-07-05T07:07:22+00:00",
+  "generated_at": "2026-07-06T07:07:05+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9873",
-      "title": "b9873",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoozt4/new_open_model_from_tencent_hy_hy3_295b_total_21b/",
+      "title": "New open model from Tencent Hy: Hy3 (295B total 21B active - apache 2.0)",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9871",
-      "title": "b9871",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "title": "🤗 Kernels: Major Updates",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uom9zb/as_promised_here_is_the_github_link_for_my_100/",
+      "title": "As promised, here is the GitHub link for my 100% local voice-to-voice assistant",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unrse9/i_benchmarked_13_models_at_65k128k_context_to/",
-      "title": "I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unyvnz/longcat_20_16t_48b_active_weights_are_now_open/",
+      "title": "longcat 2.0 (1.6T, ~48B active) weights are now open under MIT license",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unpelb/getting_close_to_100k_context_on_32gb_vram_with/",
-      "title": "Getting close to 100K context on 32GB VRAM with Qwen3.6-27 at Q8",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uohsov/llamaserver_is_throwing_away_your_perfectly_good/",
+      "title": "Llama-Server is Throwing Away Your Perfectly Good KV Caches, and How to Fix It",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unbm45/ran_a_classicmedival_europe_fantasy_rpagentic/",
-      "title": "Ran a classic(medival europe) fantasy RP/agentic benchmark across 8 local models Qwen3.6-27B held up better than its size suggests",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uodoli/liveportrait_distilled_model_that_can_run_at/",
+      "title": "LivePortrait distilled model that can run at 25fps in the browser",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1une2il/i_merged_fixes_for_quantized_kv_cache_into_my/",
-      "title": "I merged fixes for quantized KV cache into my DeepSeek V4 branch",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uo32yw/qwen_36_27b_vllm_performance_benchmark_results/",
+      "title": "Qwen 3.6 27B - VLLM Performance Benchmark Results (BF16, FP8, NVFP4)",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un6njn/doing_the_actual_math_on_a_20k_local_ai_rig/",
-      "title": "Doing the actual math on a $20k local AI rig breakeven",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uo826q/release_suprarouter51m_a_tiny_prompt_routing/",
+      "title": "[RELEASE] Supra-Router-51M - a tiny prompt routing model/orchestrator",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unbjr2/using_local_models_with_hermes_vs_claude_code/",
-      "title": "Using local models with Hermes vs Claude code",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uogebv/i_asked_codex_to_optimize_deepseek_v4_flash_8bit/",
+      "title": "I asked Codex to optimize DeepSeek V4 Flash 8-bit MLX on oMLX. Got ~1.6x prefill and ~3x decode speedup.",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un6f8u/is_dspark_dflash_mtp_qat_and_similar_tech_going/",
-      "title": "Is dSpark, dflash, MTP, QAT, and similar tech going to increase inference speed enough to where model spillover to disk will be more tolerable?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoj0um/i_wrote_a_gguf_inferencer_from_scratch_ama/",
+      "title": "I wrote a GGUF inferencer from scratch, AMA",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unbi8a/qwen36_27b_on_a_5090_64k_sample_toks_distribution/",
-      "title": "Qwen3.6 27B on a 5090, 6.4k sample tok/s distribution after tuning MTP/cache settings",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uolb4y/local_llm_for_legaldocument_adaptation_keeps/",
+      "title": "Local LLM for legal-document adaptation keeps hallucinating citations with total confidence — grounding/model/pipeline ideas?",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un5hyi/googletabfm100/",
-      "title": "google/tabfm-1.0.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uo9z3c/qualcomm_launches_geniex_to_run_llms_on_their/",
+      "title": "Qualcomm launches GenieX to run LLMs on their Windows Laptops",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un9muu/psa_upscaling_gemma_4_requires_a_proportional/",
-      "title": "PSA: Upscaling Gemma 4 requires a proportional layer_scalar adjustment",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uojlsg/built_a_localfirst_video_indexing_pipeline_for/",
+      "title": "Built a local-first video indexing pipeline for LLMs (MCP + offline)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9879",
+      "title": "b9879",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://ianloe.medium.com/the-knowledge-layer-nobody-built-until-now-abc4822540e2?source=rss------ai_design-5",
-      "title": "The Knowledge Layer Nobody Built, Until Now",
+      "url": "https://slimsubby.medium.com/trustworthy-ai-is-also-a-product-design-problem-e9288ace65fc?source=rss------ai_design-5",
+      "title": "Trustworthy AI is also a product design problem",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4",
-      "title": "The face was never the point",
+      "url": "https://medium.com/@antonelladebellis/a-short-history-of-ux-design-8c2f457431c5?source=rss------ai_design-5",
+      "title": "A short history of UX design",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4",
-      "title": "Never mind the prompts, here's the thinking",
+      "url": "https://medium.com/@ashutoshawasthi2011993/why-every-ux-designer-should-learn-ai-prompting-94da528a020e?source=rss------ai_design-5",
+      "title": "Why Every UX Designer Should Learn AI Prompting",
       "profile": "Design"
     }
   ]
