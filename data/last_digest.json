@@ -1,112 +1,154 @@
 {
-  "generated_at": "2026-07-06T07:07:05+00:00",
+  "generated_at": "2026-07-07T07:08:22+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoozt4/new_open_model_from_tencent_hy_hy3_295b_total_21b/",
-      "title": "New open model from Tencent Hy: Hy3 (295B total 21B active - apache 2.0)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
+      "title": "A global workspace in language models - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uom9zb/as_promised_here_is_the_github_link_for_my_100/",
-      "title": "As promised, here is the GitHub link for my 100% local voice-to-voice assistant",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.2-rc1",
+      "title": "v0.31.2",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unyvnz/longcat_20_16t_48b_active_weights_are_now_open/",
-      "title": "longcat 2.0 (1.6T, ~48B active) weights are now open under MIT license",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9894",
+      "title": "b9894",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9893",
+      "title": "b9893",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uohsov/llamaserver_is_throwing_away_your_perfectly_good/",
-      "title": "Llama-Server is Throwing Away Your Perfectly Good KV Caches, and How to Fix It",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Ykl5M1J5SW5wclpRaERtUUllclU0clBCaTlPYVJ5WWVGQkpIUTRYaXJJcS1XcmVYa2lVUkZhQnpWQ0NvY3h1alBReENVT1RZa2tJMWQ3SHdMU1F2cVJuWjM0bktmZElSbGE4WVk5VWd2VnRaa2FpRm5PM2cySU3SAYQBQVVfeXFMUC13eFAwV0ZDbm02SURnMjhrd3JvUEUzeHcxdEFkNFQzbFZwUnkyMDU0MnhqYzRzaHpLZjR3MHRSQ2VycnRuaXRVd3YyNzE5UUxMN2NKQU1DamFKYV9qLVNsN0NpS1VabzVnQjluZ05odnViTUZFM2txRUpkZHhRS3hGYUhs?oc=5",
+      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation - CNBC",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uodoli/liveportrait_distilled_model_that_can_run_at/",
-      "title": "LivePortrait distilled model that can run at 25fps in the browser",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "title": "Microsoft is laying off 4,800 employees",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uo32yw/qwen_36_27b_vllm_performance_benchmark_results/",
-      "title": "Qwen 3.6 27B - VLLM Performance Benchmark Results (BF16, FP8, NVFP4)",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "title": "The 'first' AI-run ransomware attack still needed a human",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uo826q/release_suprarouter51m_a_tiny_prompt_routing/",
-      "title": "[RELEASE] Supra-Router-51M - a tiny prompt routing model/orchestrator",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uogebv/i_asked_codex_to_optimize_deepseek_v4_flash_8bit/",
-      "title": "I asked Codex to optimize DeepSeek V4 Flash 8-bit MLX on oMLX. Got ~1.6x prefill and ~3x decode speedup.",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "title": "You can now customize Siri's pace and expressivity in the latest iOS 27 beta",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoj0um/i_wrote_a_gguf_inferencer_from_scratch_ama/",
-      "title": "I wrote a GGUF inferencer from scratch, AMA",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uolb4y/local_llm_for_legaldocument_adaptation_keeps/",
-      "title": "Local LLM for legal-document adaptation keeps hallucinating citations with total confidence — grounding/model/pipeline ideas?",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "title": "If you use Google, you're training its AI. Here's how to opt out.",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uo9z3c/qualcomm_launches_geniex_to_run_llms_on_their/",
-      "title": "Qualcomm launches GenieX to run LLMs on their Windows Laptops",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2N3VnZFV1V5RDdCbnpvVkFoZ3ZHUzBCOHpscHRNZHZQTWZCSUFUNkNjRF9sa3phX2lIQWxfRm9NTDJ6ZUNQMmZGNkV2c3VlODlJM0JicDBWaG5uQ1QyM0lhZnpZZkkya28tVjYzMjA2Z0JYdEFucUNfdHZLQUJMMTlOaFR2U1g2ZmdQQms1bXpCWUtHa1d4NUM1QWxaaVBTWS05QUZuc2tvX0JVRy1ybWxVYmJxZ083?oc=5",
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance - Ars Technica",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uojlsg/built_a_localfirst_video_indexing_pipeline_for/",
-      "title": "Built a local-first video indexing pipeline for LLMs (MCP + offline)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OWxIVTI4ckF3STdtUTIzSW9CdFRYZFRPUElzYW10ckxOZ3VPMWNGWjM4Vk9PMHllYjc1dkNuY1Y2OW5jSHI1eENJek9tcGk4UFhkR1NCSjU3X0lROXREZzhCVUVrTExkTmdCYnBRZHBpS044UXF5RUpn?oc=5",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9879",
-      "title": "b9879",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "title": "Station F ramps up as a launchpad for Europe's hottest AI startups",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://slimsubby.medium.com/trustworthy-ai-is-also-a-product-design-problem-e9288ace65fc?source=rss------ai_design-5",
-      "title": "Trustworthy AI is also a product design problem",
+      "url": "https://mandy.dev/posts/design-systems-ai/",
+      "title": "Design systems are no longer optional",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@antonelladebellis/a-short-history-of-ux-design-8c2f457431c5?source=rss------ai_design-5",
-      "title": "A short history of UX design",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+      "title": "Understanding is the new bottleneck",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@ashutoshawasthi2011993/why-every-ux-designer-should-learn-ai-prompting-94da528a020e?source=rss------ai_design-5",
-      "title": "Why Every UX Designer Should Learn AI Prompting",
+      "url": "https://uxplanet.org/mcp-optimization-best-practices-181dc750a790",
+      "title": "MCP Optimization Best Practices",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxplanet.org/claude-design-create-stunning-animations-and-motion-graphics-f6ada52dc4a0",
+      "title": "Claude Design: Create Stunning Animations and Motion Graphics",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@rahul.rajwansh007/design-systems-are-about-to-start-thinking-f78c9471a678?source=rss------ai_design-5",
+      "title": "Design Systems Are About to Start Thinking",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/design-as-a-function-5c236e28f353?source=rss----138adf9c44c---4",
+      "title": "Design as a function",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://bencallahan.com/product-craft-in-the-age-of-ai-and-design-systems",
+      "title": "What is product craft in the age of AI and design systems?",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/",
+      "title": "Code is the easy part",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxplanet.org/the-css-hairline-border-trick-4c1d7c19dd05?source=rss----819cc2aaeee0---4",
+      "title": "The Hairline Border Trick: One CSS Property Doing Three Jobs",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4",
+      "title": "What the Lean Startup still teaches us about generative AI",
       "profile": "Design"
     }
   ]
