@@ -1,154 +1,166 @@
 {
-  "generated_at": "2026-07-07T07:08:22+00:00",
+  "generated_at": "2026-07-08T07:07:48+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
-      "title": "A global workspace in language models - Anthropic",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.2-rc1",
-      "title": "v0.31.2",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9894",
-      "title": "b9894",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9893",
-      "title": "b9893",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "title": "Why the rise of open source AI isn't hurting Anthropic … yet",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Ykl5M1J5SW5wclpRaERtUUllclU0clBCaTlPYVJ5WWVGQkpIUTRYaXJJcS1XcmVYa2lVUkZhQnpWQ0NvY3h1alBReENVT1RZa2tJMWQ3SHdMU1F2cVJuWjM0bktmZElSbGE4WVk5VWd2VnRaa2FpRm5PM2cySU3SAYQBQVVfeXFMUC13eFAwV0ZDbm02SURnMjhrd3JvUEUzeHcxdEFkNFQzbFZwUnkyMDU0MnhqYzRzaHpLZjR3MHRSQ2VycnRuaXRVd3YyNzE5UUxMN2NKQU1DamFKYV9qLVNsN0NpS1VabzVnQjluZ05odnViTUZFM2txRUpkZHhRS3hGYUhs?oc=5",
-      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation - CNBC",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "title": "Savi's app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "title": "Microsoft is laying off 4,800 employees",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
+      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "title": "The 'first' AI-run ransomware attack still needed a human",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
+      "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "title": "You can now customize Siri's pace and expressivity in the latest iOS 27 beta",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
+      "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.25.0rc1",
+      "title": "v0.25.0rc1",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "title": "If you use Google, you're training its AI. Here's how to opt out.",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.2-rc2",
+      "title": "v0.31.2",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2N3VnZFV1V5RDdCbnpvVkFoZ3ZHUzBCOHpscHRNZHZQTWZCSUFUNkNjRF9sa3phX2lIQWxfRm9NTDJ6ZUNQMmZGNkV2c3VlODlJM0JicDBWaG5uQ1QyM0lhZnpZZkkya28tVjYzMjA2Z0JYdEFucUNfdHZLQUJMMTlOaFR2U1g2ZmdQQms1bXpCWUtHa1d4NUM1QWxaaVBTWS05QUZuc2tvX0JVRy1ybWxVYmJxZ083?oc=5",
-      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance - Ars Technica",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9917",
+      "title": "b9917: fix: OOB reads in UGM tokenizer (precompiled_charsmap handling) (#18750)",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OWxIVTI4ckF3STdtUTIzSW9CdFRYZFRPUElzYW10ckxOZ3VPMWNGWjM4Vk9PMHllYjc1dkNuY1Y2OW5jSHI1eENJek9tcGk4UFhkR1NCSjU3X0lROXREZzhCVUVrTExkTmdCYnBRZHBpS044UXF5RUpn?oc=5",
-      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities - Anthropic",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9910",
+      "title": "b9910",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "title": "Station F ramps up as a launchpad for Europe's hottest AI startups",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9911",
+      "title": "b9911",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://mandy.dev/posts/design-systems-ai/",
-      "title": "Design systems are no longer optional",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "title": "A global workspace in language models",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-      "title": "Understanding is the new bottleneck",
+      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f",
+      "title": "Never mind the prompts, here's the thinking",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/mcp-optimization-best-practices-181dc750a790",
-      "title": "MCP Optimization Best Practices",
+      "url": "https://uxplanet.org/claude-code-has-a-trust-problem-8376e40c9530",
+      "title": "Claude Code Has a Trust Problem",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/claude-design-create-stunning-animations-and-motion-graphics-f6ada52dc4a0",
-      "title": "Claude Design: Create Stunning Animations and Motion Graphics",
+      "url": "https://uxplanet.org/claude-design-how-to-edit-a-design-created-with-claude-2f198450779f?source=rss----819cc2aaeee0---4",
+      "title": "Claude Design: How To Edit a Design Created with Claude",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@rahul.rajwansh007/design-systems-are-about-to-start-thinking-f78c9471a678?source=rss------ai_design-5",
-      "title": "Design Systems Are About to Start Thinking",
+      "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/design-as-a-function-5c236e28f353?source=rss----138adf9c44c---4",
-      "title": "Design as a function",
+      "url": "https://astryx.atmeta.com/",
+      "title": "Astryx Design System",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://bencallahan.com/product-craft-in-the-age-of-ai-and-design-systems",
-      "title": "What is product craft in the age of AI and design systems?",
+      "url": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis",
+      "title": "Closing the verification loop",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/",
-      "title": "Code is the easy part",
+      "url": "https://echo.logicaleap.com/?e=1.4&a=0&rho=0.1&h=0.8&n=150&od=6&seed=42&topo=ba&b=0&k=8&t=random&d=0&bp=1&co=1&sp=0&at=0&in=0&rl=0",
+      "title": "Echo chamber: a healthy public square",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxplanet.org/the-css-hairline-border-trick-4c1d7c19dd05?source=rss----819cc2aaeee0---4",
-      "title": "The Hairline Border Trick: One CSS Property Doing Three Jobs",
+      "url": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
+      "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4",
-      "title": "What the Lean Startup still teaches us about generative AI",
+      "url": "https://medium.com/@guillaumeclt/my-2026-design-stack-how-a-solo-designer-runs-a-design-system-with-ai-dd05926b926f?source=rss------ai_design-5",
+      "title": "My 2026 design stack: how a solo designer runs a design system with AI",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://designswap.medium.com/your-client-ran-your-design-through-chatgpt-now-what-df848c29464b?source=rss------ai_design-5",
+      "title": "Your Client Ran Your Design Through ChatGPT. Now What?",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://uxdesign.cc/the-15-minute-ai-stress-test-every-designer-can-run-ce8de95ff5c9?source=rss----138adf9c44c---4",
+      "title": "The 15-minute AI stress test every designer can run",
       "profile": "Design"
     }
   ]
