@@ -1,166 +1,130 @@
 {
-  "generated_at": "2026-07-08T07:07:48+00:00",
+  "generated_at": "2026-07-09T07:07:51+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "title": "OpenAI releases new voice models for more natural live conversations",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an 'Opus-class model'",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "title": "Why the rise of open source AI isn't hurting Anthropic … yet",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "title": "Savi's app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "Separating signal from noise in coding evaluations",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
-      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
-      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
-      "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "title": "Google's deepfake detector system used to debunk McConnell hoax pic",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
-      "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "title": "Google Photos adds a new AI 'Video Remix' tool",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.25.0rc1",
-      "title": "v0.25.0rc1",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhuNTk2eXJ6MFM2WmREY0pSNFN1REdpZXRFVU5FNElsTl9ZNFJ1YjFXQ084M19hN3FXWTFlY2ZDRnFLLWFXZGRybkhSa2hFbUtKRDJJUDR0QlNQcUZVZTVfOWRUUHRGenNleHFfcy1oS0NYVmN6QThLMjFBWF9qMDlwZ1hnNTE0cVAzNm1nNl9sOEVnM1Q0Vkg1WUNDQTlwUGVvWWsxRlVLVFNxS1ctVw?oc=5",
+      "title": "China Says It Has Found Security Vulnerabilities in Anthropic's Claude Code - WSJ",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.2-rc2",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.2",
       "title": "v0.31.2",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9917",
-      "title": "b9917: fix: OOB reads in UGM tokenizer (precompiled_charsmap handling) (#18750)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
+      "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9910",
-      "title": "b9910",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "title": "Data for Agents",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9911",
-      "title": "b9911",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "title": "Our approach to government and national security partnerships",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "title": "A global workspace in language models",
-      "profile": "Design"
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "title": "Helping K–12 educators build practical AI skills",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f",
-      "title": "Never mind the prompts, here's the thinking",
+      "url": "https://uxplanet.org/claude-code-plugins-practical-guide-ff6343c3cbda?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Plugins: Practical Guide",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/claude-code-has-a-trust-problem-8376e40c9530",
-      "title": "Claude Code Has a Trust Problem",
+      "url": "https://aceprek.medium.com/i-experienced-the-future-of-user-interviews-first-hand-067f7838fdc6?source=rss------ai_design-5",
+      "title": "Future of User Interviews in AI Era",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/claude-design-how-to-edit-a-design-created-with-claude-2f198450779f?source=rss----819cc2aaeee0---4",
-      "title": "Claude Design: How To Edit a Design Created with Claude",
+      "url": "https://tympanus.net/codrops/2026/07/08/ten-years-away-designing-an-interactive-comic-for-studio375s-tenth-anniversary/",
+      "title": "Ten Years Away: Designing an Interactive Comic for Studio375's Tenth Anniversary",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "url": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4",
+      "title": "The revolution was the easy part",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://astryx.atmeta.com/",
-      "title": "Astryx Design System",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis",
-      "title": "Closing the verification loop",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://echo.logicaleap.com/?e=1.4&a=0&rho=0.1&h=0.8&n=150&od=6&seed=42&topo=ba&b=0&k=8&t=random&d=0&bp=1&co=1&sp=0&at=0&in=0&rl=0",
-      "title": "Echo chamber: a healthy public square",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
-      "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://medium.com/@guillaumeclt/my-2026-design-stack-how-a-solo-designer-runs-a-design-system-with-ai-dd05926b926f?source=rss------ai_design-5",
-      "title": "My 2026 design stack: how a solo designer runs a design system with AI",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://designswap.medium.com/your-client-ran-your-design-through-chatgpt-now-what-df848c29464b?source=rss------ai_design-5",
-      "title": "Your Client Ran Your Design Through ChatGPT. Now What?",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://uxdesign.cc/the-15-minute-ai-stress-test-every-designer-can-run-ce8de95ff5c9?source=rss----138adf9c44c---4",
-      "title": "The 15-minute AI stress test every designer can run",
+      "url": "https://uxdesign.cc/losing-the-spark-in-their-eyes-0ef198ab1499?source=rss----138adf9c44c---4",
+      "title": "Losing the spark in their eyes",
       "profile": "Design"
     }
   ]
