@@ -1,148 +1,22 @@
 {
-  "generated_at": "2026-07-11T07:08:46+00:00",
+  "generated_at": "2026-07-12T07:07:58+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "profile": "AI/Tech"
+      "url": "https://ai-engineering-trend.medium.com/apple-design-apple-wwdc-design-principles-turned-into-ai-executable-skills-ffd6e348001f?source=rss------ai_design-5",
+      "title": "apple-design: Apple WWDC Design Principles Turned Into AI-Executable Skills",
+      "profile": "Design"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "profile": "AI/Tech"
+      "url": "https://delarocha.medium.com/ai-development-starts-with-discovery-4268f4280161?source=rss------ai_design-5",
+      "title": "AI Development Starts with Discovery",
+      "profile": "Design"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 4,
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 5,
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNcHM3Y3hDMEJyYmstN19IVHNKUldZTjZFVTh6cFloamhQclJ4R3VYQVdzYUY4ejY1TjBwVkE4NXREV2tvdGRGTVBJMzdoWDBORnRRTzBkSlJrdTNYdUVPRmNUTUM0QzBHYTFkRW5SeTl1M2RrSzRMNmt1U0FjTFhiU0k1eDVsczRmWGhKM1J4c2xYaWNoOTJpdXZ3SFA4MGxaTlZiVzlNbGc2c0E4RHBRdDJERzRoTk1ndkdwSU1MQmZqeGljSXdoZjZVNnhSRWlMMnAyVjhEWm80S0VwNWlXU3hiVHk2U1NxQ0tWZnFFR1NVYUpNZXNGb0pPSmo5UVEyYjY0dWdHNW8yRkhsOElpQkJ2SGVQTDgtOEJ0aTRrcjZVczk5b3kyNHF4NV9nNXh3U3R2cC1Ma3JmZGFUOFU0d1Z4bHhyU2VBUlE?oc=5",
-      "title": "Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper — models observed to have a global workspace, revealing more of what makes LLMs tick",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 7,
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "title": "Open source AI matters more than ever, according to Hugging Face's Clem Delangue",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 8,
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "title": "Hugging Face's CEO on why companies are done renting their AI",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 9,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDJWWV9ta2NreFF5WlVQUWo1VmZ1X2FhYnZNWEdzWXNvN0cxRWxDM0Q1ZEdjWFdvMFB3OWNtMjlFSzlVMDh1YVJkckl1aXpEVEtMLU9kTm5HUFdiVnl5dEgxN3pJbzRycWVfMTdGWVZkaUtGSzMwNllnSDBfaWpRU1VGWi1SUElKc3NUOE9PUzdWb1IyT0Nfd04tSQ?oc=5",
-      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 10,
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUG1LZ3ByVE9jX2RMcnFWa3FkM3dQeWdUUk9wUk45d3d2WGNyYmVQSE9CTHFMTmRpdjNoamhFSmttZS1FRVlPVU1PV1cxMWxlRjU2cW9KN29BaVh2OWxMdnU2NVZmUEVKM3hIMEFlWV9yckJqQ2cxVkdlQ3J0QWxxV01LUlBSR1c2a1BNQTVyQktScDhGclc1YVlxd2FobkRTVi05WS03SE5kMHhRQktTMTU1dnVPcUR3U2ZQNkVVYWJyYi1YaU5SeHpKU1pQMl82YjhtTW45S01fakNOc1IxYVhmN29uaW9mUklveWpDcFFzQVdBY25vMWpWejdLX2FWU2dGMw?oc=5",
-      "title": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9967",
-      "title": "b9967: server: accept null sampling params (#25538)",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9957",
-      "title": "b9957",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9952",
-      "title": "b9952",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
-      "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
-      "title": "AI has torched the market for junior programmers",
-      "profile": "Design"
-    },
-    {
-      "n": 16,
-      "url": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "The 5 Qualities of Site-Specific AI Chatbots",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Design-System Maturity: A 6-Dimension Framework",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://uxplanet.org/how-to-stop-claude-code-from-ruining-your-product-design-7fb10c3f5749?source=rss----819cc2aaeee0---4",
-      "title": "How to Stop Claude Code from Ruining Your Product Design",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "title": "I think I have LLM burnout",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://getdesign.md/",
-      "title": "Getdesign.md",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://soullessmusic.com/",
-      "title": "Soulless Music",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://medium.com/@julian.oczkowski/your-ai-agent-is-only-as-smart-as-what-it-can-read-404c9f8e59f5?source=rss------ai_design-5",
-      "title": "Your AI Agent Is Only as Smart as What It Can Read",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxplanet.org/design-rules-to-learn-ui-ux-8be82e04a835?source=rss----819cc2aaeee0---4",
-      "title": "7 Design Rules That Take 10 Minutes to Learn and Fix Your UI Forever",
+      "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4",
+      "title": "Craft still matters, but it's about outcomes",
       "profile": "Design"
     }
   ]
