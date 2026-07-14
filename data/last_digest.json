@@ -1,100 +1,166 @@
 {
-  "generated_at": "2026-07-13T07:06:22+00:00",
+  "generated_at": "2026-07-14T07:07:33+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.25.1",
-      "title": "v0.25.1: [Bugfix] Guard mixed-dtype allreduce RMSNorm quant fusions (#48330)",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9982",
-      "title": "b9982",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9978",
-      "title": "b9978",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "title": "The 6 wildest claims in Apple's lawsuit against OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9976",
-      "title": "b9976",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9975",
-      "title": "b9975",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5",
+      "title": "How Claude's values vary by model and language - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9974",
-      "title": "b9974",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "title": "Now, defenders are embracing the prompt injection, too",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9973",
-      "title": "b9973",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.0",
+      "title": "v0.32.0",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
-      "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9994",
+      "title": "b9994",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "title": "Apple's failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9993",
+      "title": "b9993",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "title": "The fight against AI data centers is just beginning",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvcjd0/i_benchmarked_15_ewaste_gpus_with_modern_workloads/",
+      "title": "I benchmarked 15 \"E-Waste\" GPUs with Modern Workloads",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://medium.com/@rsvphilip/i-built-an-agentic-design-team-68f7fddfa947?source=rss------ai_design-5",
-      "title": "I built an agentic design team",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvenf1/ft_companies_turn_to_chinese_open_weight_models/",
+      "title": "FT: Companies Turn to Chinese Open Weight Models to Cut Costs",
+      "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://uxplanet.org/how-to-design-a-production-ready-dashboard-with-claude-code-9a78c4585981?source=rss----819cc2aaeee0---4",
-      "title": "How to Design a Production-Ready Dashboard with Claude Code",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uv54fv/compressed_version_of_qwen3627b_coming_from/",
+      "title": "Compressed Version of Qwen-3.6-27B coming from PrismML - Khosla-Backed Startup Claims Breakthrough With Largest-Ever AI Model on an iPhone",
+      "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
-      "title": "Taste cannot be delegated",
-      "profile": "Design"
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "title": "Empowering India's next generation of innovators with ATL Saathi",
+      "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://uxdesign.cc/the-kintsugi-problem-7f5e5cbfb442?source=rss----138adf9c44c---4",
-      "title": "The Kintsugi problem",
-      "profile": "Design"
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
-      "title": "The interface has left the building",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
+      "title": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/did-you-verify-that-or-was-it-just-too-easy-to-believe-664ff017a1a1?source=rss----138adf9c44c---4",
-      "title": "Did you verify that — or was it just too easy to believe?",
+      "url": "https://uxplanet.org/i-tested-20-popular-claude-code-skills-most-of-them-were-useless-6bfdf190a6d1?source=rss----819cc2aaeee0---4",
+      "title": "I Tested 20 Popular Claude Code Skills. Most of Them Were Useless.",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://uxplanet.org/4-types-of-loops-you-can-create-in-claude-code-aff824404834?source=rss----819cc2aaeee0---4",
+      "title": "4 Types of Loops You Can Create in Claude Code",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://uxplanet.org/mobile-menu-patterns-1cfe8dd9fc55?source=rss----819cc2aaeee0---4",
+      "title": "12 Mobile Menu Patterns, and the One Question That Decides Which One You Need",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://medium.com/@m.izadi97/how-to-adapt-ai-as-a-ux-designer-5c3da96963f9?source=rss------ai_ux-5",
+      "title": "How to Adapt AI as a UX Designer",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4",
+      "title": "AX is just the orchestration layer",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a?source=rss----138adf9c44c---4",
+      "title": "When design becomes the organisation, and AI becomes the design",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
+      "title": "The terminal became my canvas",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://hvpandya.com/hard-things-about-design",
+      "title": "The hard things about design",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://a11y.quest/",
+      "title": "a11y.quest",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://rexa-developer.github.io/tiks/",
+      "title": "tiks",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://tympanus.net/codrops/2026/07/13/where-stories-become-interactive-worlds-how-makemepulse-brings-ideas-to-life-across-web-xr-and-beyond/",
+      "title": "Where Stories Become Interactive Worlds: How makemepulse Brings Ideas to Life Across Web, XR, and Beyond",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://bit.ly/side-flo1",
+      "title": "Flodesk Studio: AI email design, built by real designers",
       "profile": "Design"
     }
   ]
