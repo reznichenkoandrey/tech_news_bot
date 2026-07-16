@@ -1,178 +1,154 @@
 {
-  "generated_at": "2026-07-15T07:08:03+00:00",
+  "generated_at": "2026-07-16T07:07:29+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "title": "OpenAI's new flagship model deletes files on its own, people keep warning",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.14.0",
+      "title": "Release v5.14.0",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130m-series-c/",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
-      "title": "Introducing Claude for Teachers - Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "title": "OpenAI's first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "title": "New York State halts construction of all new data centers",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "title": "Apple Intelligence approved for launch in China with Alibaba's Qwen AI",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "title": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "title": "Reflection inks $1B compute deal with Nebius",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "title": "How to manage AI investments in the agentic era",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "title": "Model Routing Is Simple. Until It Isn't.",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "title": "Meta's Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "title": "What building Shippy taught us about building agents",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "title": "SpaceXAI's Grok programming tool was uploading its users' entire codebase to cloud storage",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-      "title": "Microsoft's Secure Boot has been broken for a decade and no one noticed until now",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "title": "Reelful's AI turns your camera roll into short-form videos for social media",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10015",
-      "title": "b10015",
-      "profile": "AI/Tech"
+      "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+      "title": "No, People Don't Want More AI In Their Life",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/figma-to-claude-code-why-the-implementation-doesnt-match-330c59a8b5bf?source=rss----819cc2aaeee0---4",
-      "title": "Figma to Claude Code: Why the Implementation Doesn't Match Design in Figma",
+      "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4",
+      "title": "AI systems are demanding new interaction models. Are designers ready?",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/design-bootcamp/nobodys-replacing-designers-somebody-s-rewriting-the-job-42f55f5e3d7c?source=rss------ai_design-5",
-      "title": "Nobody's Replacing Designers. Somebody's Rewriting the Job",
+      "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d?source=rss----138adf9c44c---4",
+      "title": "Designing with web standards: The playbook for this AI moment",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@ellejansick/creative-ai-needs-more-than-a-chat-box-bf06489da009?source=rss------ai_design-5",
-      "title": "Creative AI Needs More Than a Chat Box",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "title": "Celebrating 25 years of visual search innovation",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@instituteofproductleadership/will-ai-replace-ux-designers-heres-what-the-research-actually-says-5967e9279987?source=rss------ai_design-5",
-      "title": "Will AI Replace UX Designers? Here's What the Research Actually Says",
+      "url": "https://uxplanet.org/claude-md-vs-design-md-what-to-put-in-each-for-claude-code-53647d015bfd?source=rss----819cc2aaeee0---4",
+      "title": "CLAUDE.md vs DESIGN.md: What to Put in Each for Claude Code",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/?gift=bmvUiu0ra57xGI0zOa4kGmINu--qpr8lFEbQYPTWWTQ",
-      "title": "The people who will thrive in the AI age",
+      "url": "https://medium.com/design-bootcamp/how-ai-became-part-of-my-ux-design-workflow-0146006acf45?source=rss------ai_design-5",
+      "title": "How AI became part of my UX design workflow",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/design-bootcamp/the-increasing-value-of-human-design-expertise-6614b175e462?source=rss------ai_design-5",
-      "title": "The increasing value of human design expertise",
+      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b",
+      "title": "Taste cannot be delegated",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://dotmatrix.zzzzshawn.cloud/",
-      "title": "Dot Matrix",
+      "url": "https://uxplanet.org/the-ux-decisions-hiding-in-your-code-52facc8cdb8b?source=rss----819cc2aaeee0---4",
+      "title": "The UX Decisions Hiding in Your Code",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://stevekrouse.com/learn-to-code",
-      "title": "Learning to code is still worthwhile",
+      "url": "https://css-tricks.com/whats-important-15/",
+      "title": "What's !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-      "title": "The future worth building is human",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://neal.fun/wiki-spy/",
-      "title": "Wiki Spy",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://uxdesign.cc/play-and-design-in-favour-of-the-novel-digital-experience-ea4798a2f621?source=rss----138adf9c44c---4",
-      "title": "Play and design: in favour of the novel digital experience",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4",
-      "title": "What 32 design leaders do when told to move faster",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://uxplanet.org/loading-states-ux-patterns-9e8d2d45fa3c?source=rss----819cc2aaeee0---4",
-      "title": "The One UX Decision That Makes Your App Feel 10x Faster Without Touching a Single Line of Backend…",
+      "url": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
+      "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
       "profile": "Design"
     }
   ]
