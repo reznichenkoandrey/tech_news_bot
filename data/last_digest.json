@@ -1,154 +1,130 @@
 {
-  "generated_at": "2026-07-16T07:07:29+00:00",
+  "generated_at": "2026-07-17T07:06:56+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.14.0",
-      "title": "Release v5.14.0",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "title": "Moonshot's upcoming Kimi 3 is expected to close the gap with Anthropic's Opus 4.8",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130m-series-c/",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "title": "Yes, you can now order DoorDash from the command line",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "title": "Apple Intelligence approved for launch in China with Alibaba's Qwen AI",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "title": "Claude can now use your 1Password credentials for you",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "title": "Google's AI Mode now lets you link and interact with select apps",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "title": "Our approach to bioresilience",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "title": "Why teens deserve access to safe AI",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "title": "Model Routing Is Simple. Until It Isn't.",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.117.0",
+      "title": "v0.117.0",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "title": "What building Shippy taught us about building agents",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.46.0",
+      "title": "v2.46.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
+      "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.14.1",
+      "title": "Patch release: v5.14.1",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "title": "Reelful's AI turns your camera roll into short-form videos for social media",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
+      "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
-      "title": "No, People Don't Want More AI In Their Life",
+      "url": "https://medium.com/properly-studio/we-gave-ai-14-hours-to-replace-us-heres-what-happened-717de3d9ff41?source=rss------ai_design-5",
+      "title": "We Gave AI 14 Hours to Replace Us. Here's What Happened.",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4",
-      "title": "AI systems are demanding new interaction models. Are designers ready?",
+      "url": "https://uxplanet.org/why-claude-code-wastes-thousands-of-tokens-before-it-even-starts-working-61e9277cbde6?source=rss----819cc2aaeee0---4",
+      "title": "Why Claude Code Wastes Thousands of Tokens Before It Even Starts Working",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d?source=rss----138adf9c44c---4",
-      "title": "Designing with web standards: The playbook for this AI moment",
+      "url": "https://tympanus.net/codrops/2026/07/16/meet-the-speakers-of-the-first-three-js-conference/",
+      "title": "Meet the Speakers of the First Three.js Conference",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932?source=rss----138adf9c44c---4",
+      "title": "From vibe to specs: reclaiming the design process with SAID framework",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/claude-md-vs-design-md-what-to-put-in-each-for-claude-code-53647d015bfd?source=rss----819cc2aaeee0---4",
-      "title": "CLAUDE.md vs DESIGN.md: What to Put in Each for Claude Code",
+      "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067?source=rss----138adf9c44c---4",
+      "title": "Design system contracts: the component lives in neither Figma nor code",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/design-bootcamp/how-ai-became-part-of-my-ux-design-workflow-0146006acf45?source=rss------ai_design-5",
-      "title": "How AI became part of my UX design workflow",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b",
-      "title": "Taste cannot be delegated",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://uxplanet.org/the-ux-decisions-hiding-in-your-code-52facc8cdb8b?source=rss----819cc2aaeee0---4",
-      "title": "The UX Decisions Hiding in Your Code",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://css-tricks.com/whats-important-15/",
-      "title": "What's !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
-      "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
+      "url": "https://uxplanet.org/form-ux-best-practices-e32379477553?source=rss----819cc2aaeee0---4",
+      "title": "The 6 UX Principles That You Can Reduce User Frustration When Filling Out Forms",
       "profile": "Design"
     }
   ]
