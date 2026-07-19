@@ -1,178 +1,94 @@
 {
-  "generated_at": "2026-07-18T07:07:39+00:00",
+  "generated_at": "2026-07-19T07:07:50+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmU0X0dGUjFxLXhmdkdfWk83WnMzQlYxcDdPODRvWUVyNzRtWU1lc2pJRFR5RjJYSFpKVlM3Rm9zOG4xelFYeGVkam1raGZacHQxT2VSMFNFRGRNZzZOYmdMTl9ST2Jna0JTbnRKTWhScW1yMWhyd3pNcXpfTmVrT2hJcUR2THgtOHpQMGVhZWhmc3FXSG5BQUpTR01mZVNCZ3JEU2RrSGloQmNaanN1ZUZmc2Z3ek9aM1M5UXdFb3lUYUppbUc0?oc=5",
+      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "title": "A scorecard for the AI age",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtRG9vbXRSRlRGMjM1dVBwclNuVlBzbUFpcGs0OU1jNWVzeVNoREI4SFg4S1BrS19WQlNXRnpyeW5JVVZQMUlQdDVWVmV1UXE5eVZkNjNITkFDVlhBcy10N2xTYXZlSUw0RkVoVkR4SkU3VURDSWxKZGwxSmhqZw?oc=5",
+      "title": "Anthropic merges Chat and Cowork modes into unified Claude interface",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUE3enpQbGVMOUg4cTdCdExtREdKOUl3UEljTUpLY2g4b0VyZUtKa3FWX0YwakVtNFk0dXpFdW93UzZQSVVXTzFNbUlPblA0OHZLLTJNSjNfVHozOXpydEtLQ3o4aWcySkUxUDE3QmtNcnNYQWVkUllrSUNNMnBKWUtB?oc=5",
+      "title": "A Chinese Pink Floyd fan is giving Claude and Chat their own DeepSeek moment — an AI model just as good and half the price",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3WHZXd3RhVm82SHotTWpjT1dkWXlZVWdtUm1pWmFSZ2ZLaXRkRHFnRTNrUk1TQVFXSFc2a3lkSXNTb3Jkd3F4Nm0wbVJITDZqQlRwV09QdlR6MmZmcGxKdUt2cGZlUHBnbXpWSDlFMA?oc=5",
+      "title": "Kimi K3 writes H100 CUDA kernel 14.82x faster than PyTorch, intensifying US-China AI race",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was 'silencing an entire generation'",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyw64s/trelliscpp_now_produces_high_quality_assets/",
-      "title": "Trellis.cpp now produces high quality assets",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+      "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyz9n2/bonsai_27b_runs_locally_on_an_iphone_a_27b_model/",
-      "title": "Bonsai 27B runs locally on an iPhone - a 27B model in 3.9GB",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+      "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzifq8/internlminterns2preview397b_huggingface/",
-      "title": "internlm/Intern-S2-Preview-397B • HuggingFace",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+      "title": "GPT-2 Small's embedding geometry around \"Trump\": discretized vs. continuous nearest neighbours [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzjnnb/basaltlabsaimonolith10_huggingface/",
-      "title": "basaltlabsai/monolith-1.0 • HuggingFace",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
+      "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz5w3y/deepseek_v4_flash_on_5090_in_llamacpp_with_1/",
-      "title": "DeepSeek v4 Flash on 5090 in llama.cpp with 1 Million context",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10068",
+      "title": "b10068",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyyw64s/soofi_s_30ba3b_european_open_source_model/",
-      "title": "Soofi S - 30B-A3B European Open Source Model",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10067",
+      "title": "b10067",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10066",
-      "title": "b10066",
-      "profile": "AI/Tech"
+      "url": "https://ulusoyca.medium.com/genui-beyond-chat-building-a-grammar-book-with-flutter-and-caching-the-a2ui-output-with-firebase-ecab7b093ccc?source=rss------generative_ui-5",
+      "title": "GenUI Beyond Chat: Building a Grammar Book with Flutter and Caching the A2UI output with Firebase —…",
+      "profile": "Design"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10064",
-      "title": "b10064",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@ashwinkrishnaswamy20/using-ai-for-ux-research-save-hours-without-losing-human-insight-5df39a3df29e?source=rss------ai_design-5",
+      "title": "Using AI for UX Research: Save Hours Without Losing Human Insight",
+      "profile": "Design"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10058",
-      "title": "b10058",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@aisivigeo/sivis-large-design-model-ldm-at-ai-impact-summit-2026-building-the-next-generation-of-ai-design-4c201d8793ef?source=rss------ai_design-5",
+      "title": "Sivi's Large Design Model (LDM) at AI Impact Summit 2026: Building the Next Generation of AI Design",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-      "title": "When It Makes Sense To \"Block\" The Main Thread",
-      "profile": "Design"
-    },
-    {
-      "n": 16,
-      "url": "https://uxplanet.org/google-stitch-just-got-a-major-update-1dae251f54e7?source=rss----819cc2aaeee0---4",
-      "title": "Google Stitch Just Got a Major Update",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://tympanus.net/codrops/2026/07/17/zero-the-engineering-behind-a-defiant-interactive-narrative/",
-      "title": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://blog.murphytrueman.com/design-systems-need-evals/",
-      "title": "Design systems need evals",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://medium.com/@guillaumeclt/keeping-a-design-system-healthy-with-ai-never-trust-a-doc-measure-the-live-file-fdc1167c244f?source=rss------ai_design-5",
-      "title": "Keeping a design system healthy with AI: never trust a doc, measure the live file",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://medium.com/applied-intelligence/how-to-design-with-ai-agents-without-producing-slop-0b42f0da629a?source=rss------ai_design-5",
-      "title": "Design Review: A Field Guide to Websites, Products, and Building With AI",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://www.nngroup.com/articles/dropdown-list/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Does Your Form Really Need a Dropdown List?",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://www.nngroup.com/articles/human-led-research-still-matters/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Don't Outsource the Learning: Why Human-Led Research Still Matters in the Age of AI",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://medium.com/@zaps.design/why-every-canva-ai-image-looks-the-same-and-the-specific-settings-that-fix-it-b7e2b55b45ab?source=rss------ai_design-5",
-      "title": "Why every Canva AI image looks the same (and the specific settings that fix it)",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae?source=rss----138adf9c44c---4",
-      "title": "AI just called design's bluff",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://vaughntan.org/bigness",
-      "title": "Against bigness",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://www.itsnicethat.com/articles/creative-career-conundrums-if-you-could-jobs-advice-130726",
-      "title": "People will always need to trust the human behind any decision-making",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://medium.com/@marquee.designstudio/a-diy-logo-is-costing-your-business-more-than-you-think-f870bba7498d?source=rss------ai_design-5",
-      "title": "A DIY Logo is Costing Your Business More Than You Think",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4",
-      "title": "The \"mocked, then loved\" AirPods effect",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://uxdesign.cc/how-to-kiss-a-cannibal-d4ca10ee4606?source=rss----138adf9c44c---4",
-      "title": "How to Kiss a Cannibal",
+      "url": "https://medium.com/@mehmetcanozgumus/design-insight-005-herkes-daha-i%CC%87yi-her-%C5%9Fey-daha-ayn%C4%B1-afb21c6df3bd?source=rss------ai_design-5",
+      "title": "Design Insight #005 — Herkes Daha İyi, Her Şey Daha Aynı",
       "profile": "Design"
     }
   ]
