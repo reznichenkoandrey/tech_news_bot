@@ -1,112 +1,160 @@
 {
-  "generated_at": "2026-07-20T07:07:42+00:00",
+  "generated_at": "2026-07-21T07:08:02+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0ywoi/huggingface_security_incident_report_the_attacker/",
-      "title": "HuggingFace security incident report: \"the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails\"",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "title": "Anthropic's landmark $1.5B copyright settlement is approved",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0kqnn/ahem_qwen_is_on_the_move_again/",
-      "title": "Ahem! Qwen is on the move again",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "title": "Safety and alignment in an era of long-horizon models",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0lewq/prepare_your_vram_qwen38_is_coming/",
-      "title": "Prepare your (v)ram - Qwen3.8 is coming!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "title": "China delivers a one-two punch to America's AI dominance",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0xanm/tested_the_new_qwen_38_model_24t_parameters/",
-      "title": "Tested the new Qwen 3.8 model (2.4T parameters)",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v174ql/fractale350mbase_memory_as_trained_behaviour/",
-      "title": "Fractale-350M-base: memory as trained behaviour instead of long context, a fully open research release",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "title": "Introducing Cosmos 3 Edge",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0vp9k/paper_automated_tensor_scheduling_for_hybrid/",
-      "title": "[Paper] Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "title": "Here are the 30,000 songs Sony is suing Udio's AI music generator over",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0xjw6/beellamacpp_v040_kvarn_kv_precision_tail_q2_0q3_1/",
-      "title": "BeeLlama.cpp v0.4.0: KVarN, KV precision tail, q2_0-q3_1 KV cache, upstream rebase",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "title": "AI's most important protocol is getting a little bit easier to use",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10069",
-      "title": "b10069",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0",
+      "title": "v0.32.2",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v170vg/with_all_the_kimi_drama_i_feel_like_i_want_to/",
-      "title": "With all the Kimi drama I feel like I want to download all the current best models in case there is a ridiculous knee jerk political move pulled",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v15oi3/given_the_increasing_likelihood_of_an_open_source/",
-      "title": "given the increasing likelihood of an open source AI ban, what are the alternative channels for downloading models?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
+      "title": "I just read LeCun's recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v16r8d/my_thoughts_on_qwen_38_so_far_with_agentic_coding/",
-      "title": "My thoughts on qwen 3.8 so far with agentic coding.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1rmbb/exploring_continual_learning_without_replay/",
+      "title": "Exploring continual learning without replay buffers: Our findings using dynamic task-similarity routing [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1ccun/gemma_4_is_still_lazy/",
-      "title": "Gemma 4 is still lazy",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
+      "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0py81/how_do_we_benefits_from_2_t_models/",
-      "title": "How do we benefits from 2+ T models?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1fzuy/introducing_asciitermdraw_bench_testing_the/",
+      "title": "Introducing ASCIITermDraw Bench | Testing the ability of VLMs to Generate and Edit ASCII [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "title": "Can an Apple lawsuit derail OpenAI's hardware plans?",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10075",
+      "title": "b10075",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://ulusoyca.medium.com/genui-beyond-chat-caching-and-replaying-a2ui-lessons-with-firebase-part-2-76e186a49288?source=rss------generative_ui-5",
-      "title": "GenUI Beyond Chat: Caching and Replaying A2UI Lessons with Firebase — Part 2",
+      "url": "https://linear.app/now/introducing-loops",
+      "title": "Introducing Loops",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@michellewalstra/designing-in-reverse-43de0d375803?source=rss------ai_design-5",
-      "title": "Designing in reverse",
+      "url": "https://linear.app/changelog/2026-07-20-introducing-loops",
+      "title": "Introducing Loops",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
-      "title": "The weakest channel",
+      "url": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4",
+      "title": "Research shouldn't end in a deck",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxplanet.org/how-to-turn-a-csv-into-interactive-charts-with-claude-code-734c7821460c?source=rss----819cc2aaeee0---4",
+      "title": "How to Turn a CSV into Interactive Charts with Claude Code",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://ulusoyca.medium.com/genui-beyond-chat-replaying-and-reviewing-a2ui-cache-with-widgetbook-part-3-d1a12eaa4e37?source=rss------generative_ui-5",
+      "title": "GenUI Beyond Chat: Replaying and Reviewing A2UI Cache with Widgetbook — Part 3",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?source=rss----138adf9c44c---4",
+      "title": "How to apply Nir Eyal's Hook Model to AI products, safely",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@amarjeethappysahoo/top-frontend-design-skills-mcp-servers-for-ai-coding-agents-35a8960f1f87?source=rss------ai_design-5",
+      "title": "Top Frontend Design Skills & MCP Servers for AI Coding Agents",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
+      "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4",
+      "title": "Delegating taste, orchestration layer, AI workflows",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4",
+      "title": "Lonely at a lower latency",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4",
+      "title": "The brainstorm that couldn't storm",
       "profile": "Design"
     }
   ]
