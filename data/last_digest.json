@@ -1,160 +1,184 @@
 {
-  "generated_at": "2026-07-21T07:08:02+00:00",
+  "generated_at": "2026-07-22T07:08:24+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "title": "Anthropic's landmark $1.5B copyright settlement is approved",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "title": "China delivers a one-two punch to America's AI dominance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
+      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - AP News",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "Introducing the ChatGPT for small business program",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "title": "Here are the 30,000 songs Sony is suing Udio's AI music generator over",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "title": "Data centers expected to use 4x more electricity by 2035",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "title": "AI's most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0",
-      "title": "v0.32.2",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "title": "The State of Simulation for Physical AI: An Overview",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
-      "title": "I just read LeCun's recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.2",
+      "title": "v0.32.2",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1rmbb/exploring_continual_learning_without_replay/",
-      "title": "Exploring continual learning without replay buffers: Our findings using dynamic task-similarity routing [P]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10088",
+      "title": "b10088",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
-      "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.117.1",
+      "title": "v0.117.1",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1fzuy/introducing_asciitermdraw_bench_testing_the/",
-      "title": "Introducing ASCIITermDraw Bench | Testing the ability of VLMs to Generate and Edit ASCII [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/",
+      "title": "SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10075",
-      "title": "b10075",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXJuMjJKb1l6ajJGdjVnMnV3YmppZmtTN2JMRWpuRktyam9NcXg2MkhtbjYwWG1zR0l1SEdmMzU4eDk5MXdZODl3RVlkdU9Jbk5wLV8xbUNKQ2VKdE56d2F3a1Y3NzNROTA1d2N3d1dJVi1kbVZtUVFLZHlJbzRZYnBaTjZjWmQ4Y1hwcWI3bng1N0ZhRlVpZ2RpWG5IVDlZb1dHajNSX0x4dXY4Zy1vV0IwWjBielhCWWYzcTFqX2RZS2Vhc1HSAcYBQVVfeXFMT0NxY1hqdEhNY3NaRGkwX1lOelI2cW5XLVN4TmV2T2U0SXdqY2lJTW5sRFBPaGR0NkpEYV82dnhGZ0ZDWWNWblJFNzRERGdhd003VUdQQ2g4amN2ZXRlTW1hQUhwY0txVVcxeVozTkwtR01iMV9vajFqWFdTWEdiWWVpUHRWX1VxbjllRWxueWZWamNEd2k2OFV4TEhkS3JxazFjdVdkYjZQSkl0ZXpqXzh6eWVVUnZIRHhLc3RKX1o4X0U3RHZ3?oc=5",
+      "title": "Chinese AI agent outperforms Anthropic's Claude Code in autonomous research - South China Morning Post",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://linear.app/now/introducing-loops",
-      "title": "Introducing Loops",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://linear.app/changelog/2026-07-20-introducing-loops",
-      "title": "Introducing Loops",
+      "url": "https://replit.com/blog/self-driving-company",
+      "title": "The self-driving company",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4",
-      "title": "Research shouldn't end in a deck",
+      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+      "title": "AI mania is eviscerating global decisionmaking",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/how-to-turn-a-csv-into-interactive-charts-with-claude-code-734c7821460c?source=rss----819cc2aaeee0---4",
-      "title": "How to Turn a CSV into Interactive Charts with Claude Code",
+      "url": "https://uxplanet.org/claude-code-hooks-how-to-automate-repetitive-tasks-and-add-guardrails-d08af32874ed?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Hooks: How to Automate Repetitive Tasks and Add Guardrails",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://ulusoyca.medium.com/genui-beyond-chat-replaying-and-reviewing-a2ui-cache-with-widgetbook-part-3-d1a12eaa4e37?source=rss------generative_ui-5",
-      "title": "GenUI Beyond Chat: Replaying and Reviewing A2UI Cache with Widgetbook — Part 3",
+      "url": "https://karolinaszczur.com/journal/against-design-system-federation/",
+      "title": "Against design system federation",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?source=rss----138adf9c44c---4",
-      "title": "How to apply Nir Eyal's Hook Model to AI products, safely",
+      "url": "https://layers.jamiemill.com/",
+      "title": "Layers: AI skills for product designers",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@amarjeethappysahoo/top-frontend-design-skills-mcp-servers-for-ai-coding-agents-35a8960f1f87?source=rss------ai_design-5",
-      "title": "Top Frontend Design Skills & MCP Servers for AI Coding Agents",
+      "url": "https://loading-ui.com/",
+      "title": "Loading UI",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
-      "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
+      "url": "https://franktisellano.github.io/datatype/",
+      "title": "Datatype",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4",
-      "title": "Delegating taste, orchestration layer, AI workflows",
+      "url": "https://tympanus.net/codrops/2026/07/21/magnetic-commerce-building-the-dash-creative-website/",
+      "title": "Magnetic Commerce: Building the Dash Creative Website",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4",
-      "title": "Lonely at a lower latency",
+      "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4",
+      "title": "I handed a UX review over to AI. Here's what happened.",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4",
-      "title": "The brainstorm that couldn't storm",
+      "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?source=rss----138adf9c44c---4",
+      "title": "AI can fake your portfolio. It can't fake the second question.",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validating-24b13f865f2e?source=rss----138adf9c44c---4",
+      "title": "The feature trap",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4",
+      "title": "Design experiments are more important than ever, and they don't require a lab",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://parakeet.co/blog/the-shape-of-apps/",
+      "title": "The shape of apps",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://www.itsnicethat.com/articles/matter-of-new-new-typography-graphic-design-publication-project-150726?",
+      "title": "Are we stuck in the typographic principles of the 20th century?",
       "profile": "Design"
     }
   ]
