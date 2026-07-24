@@ -1,160 +1,172 @@
 {
-  "generated_at": "2026-07-23T07:08:00+00:00",
+  "generated_at": "2026-07-24T07:07:19+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXgwcUpucFppWmdfNkk1WEo0VTBTZDh4SlR5T1Z4X2JiSmtxTGE0OU9WaHltUE5jelVmZXRlR0JpcTBHU0dRdGxqX0kwdmZvUEJzSnUxSlctZzkyTEJHSVdFVll2QVI0RVJZZ1lMemxPMUlCdG1VRDRQVHRaTk9fcHp1eGxuZlowVlVyOThFdzFuZkU?oc=5",
-      "title": "AMD to Invest Up to $5 Billion in Anthropic, Strikes Chip Deal",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "title": "Anthropic updates Claude voice mode with more capable models",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTZjYnhTclBZeVZqbF9UcktEZXpWeUp3SVhXTktPdkRIZ2FpRlYwQmRIbGhmNy04bzFBRndOZjFieEVJWWVQVllUcWJWRGFnaElQOGdBMFl4RGFwV3JGNzBJV3EwWHJMR0hCNHRLUmtTYWQ1YVo2WDV6bEppS1o0dm9LUDF2RkFFOHFNbThlX3dOQVMwbUVKb1c4bi02NF9hT0xxTkZjbm5Ea3dE?oc=5",
-      "title": "Judge approves a $1.5B Anthropic settlement over books used to train Claude",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2E3ejc4ekprbERoNmJhLWlURDNxeDBMSjgwdFlhNkhoUmhxN2RmMklsMm5EaDFFMmJNbHpiYjdtWGhXNGZacEZWVmFSX2NhLUVzWkpsa091eHBhQWg0YVpvTGFHWGJaMHNPZVpwOXFLVEVIUnl0VndyckliTE9IUGdYdTl6bGQwbG9kcnlsWW9fbC0yRFh5U0pWMW5sYmpJdHJndlVHTmMtZDhwTU94dzRnMFdjZzRBZFdZYdIBvAFBVV95cUxONkt3clRyNTA5ajNydjRzbjdmUU5DbFZMY0dQaF9xWnlrRjdkWDJjOENJM3JEZHZMQVdmd0Q0RVJvOWZYU1Bwa29rU0RGdC1IWXc5bmFiMmtmSlBoS1hVQ01pd0xEbWVLcTBxZVM5bjBNWGlTTTl6eHNmYlllUXBGSVkyYWNMVlRRbTl1ZnpWVkFLQ1JxUC1UMmp6TjJTU285UFpLa1BpYW8tZjhLYTZfekN5R2M5bVlFVUZneg?oc=5",
-      "title": "Trump tech official accuses China's Moonshot AI of stealing from Anthropic",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "title": "Advancing the next era of national science",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "title": "Runway launches AI model router as generative media gets crowded",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "title": "Accelerating the frontiers of scientific discovery: Google's $40M commitment to the Genesis Mission",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "title": "Google's Gemini nears billion-user milestone",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.118.0",
-      "title": "v0.118.0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "title": "Lawmakers prepare bill requiring AI 'kill switch'",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "title": "How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "title": "Patreon is laying off 20 percent of workers",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "title": "Travis Kalanick's robotics company raises $1.7B, led by a16z",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.3",
+      "title": "v0.32.3",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "title": "Monday.com lays off hundreds to focus on AI",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.26.0rc1",
+      "title": "v0.26.0rc1",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "title": "Substack's new tool tells you who's been writing their newsletters with AI",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10108",
+      "title": "b10108",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "title": "OpenAI's AI spending spree has ballooned to $750B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4n8wj/deepseek_v4_flash_105_ts_on_two_nvidia_4090d_48g/",
+      "title": "Deepseek V4 Flash ~105 t/s on two Nvidia 4090d 48G (ada) in vLLM",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10087",
-      "title": "b10087",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v539p8/swissaiapertusv15_70b8b/",
+      "title": "swiss-ai/Apertus-v1.5 70B/8B",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.designsystemscollective.com/weave-tools-in-your-design-system-when-ai-image-generation-becomes-a-brand-governance-problem-5f767cf89167?source=rss------ai_design-5",
-      "title": "Weave Tools in Your Design System: When AI Image Generation Becomes a Brand Governance Problem",
+      "url": "https://linear.app/changelog/2026-07-23-agent-assisted-editing",
+      "title": "Text attribution and agent-assisted editing",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@SamerTallauze/agentic-ux-designing-ai-that-helps-or-decides-d45c95932926?source=rss------ai_ux-5",
-      "title": "Agentic UX: Designing AI That Helps or Decides?",
+      "url": "https://uxplanet.org/i-tested-25-ai-coding-models-on-100-real-python-bugs-heres-the-leaderboard-725ab72a56b3?source=rss----819cc2aaeee0---4",
+      "title": "I Tested 25 AI Coding Models on 100 Real Python Bugs. Here's the Leaderboard.",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?sk=b159b61f2abcb25776fd87985724be7e",
-      "title": "AI personality is a design problem",
+      "url": "https://uxplanet.org/figma-vs-claude-design-two-fundamentally-different-design-workflows-a9bb7a53c43d?source=rss----819cc2aaeee0---4",
+      "title": "Figma vs. Claude Design: Two Fundamentally Different Design Workflows",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/is-figma-losing-the-ai-race-3ef52bcc33ca?source=rss----819cc2aaeee0---4",
-      "title": "Is Figma Losing the AI Race?",
+      "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4",
+      "title": "Four questions every tool should answer (even Figma) about AI training model usage",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04?source=rss----138adf9c44c---4",
-      "title": "The screens are getting demoted",
+      "url": "https://tympanus.net/codrops/2026/07/23/building-cerebrium-making-serverless-infrastructure-tangible/",
+      "title": "Building Cerebrium: Making Serverless Infrastructure Tangible",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4",
-      "title": "The digital wall we built ourselves",
+      "url": "https://medium.com/@danurajayakody/designing-for-ai-designing-with-ai-what-it-actually-looks-like-day-to-day-038bd39f8ca7?source=rss------ai_design-5",
+      "title": "Designing For AI, Designing With AI: What It Actually Looks Like Day to Day",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://www.philmorton.co/a-side-project-is-the-fastest-way-to-upskill-in-the-age-of-ai/",
-      "title": "A side project is the fastest way to upskill in the age of AI",
+      "url": "https://uxplanet.org/from-pixels-to-prompts-my-journey-from-ux-designer-to-ai-product-designer-d4fedde1fc18?source=rss------ai_ux-5",
+      "title": "From Pixels to Prompts: My Journey from UX Designer to AI Product Designer",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://tympanus.net/codrops/2026/07/22/building-ridgeline-engineering-a-real-time-3d-experience-in-webflow/",
-      "title": "Building Ridgeline: Engineering a Real-Time 3D Experience in Webflow",
+      "url": "https://www.doc.cc/articles/the-algorithmic-atelier",
+      "title": "The algorithmic atelier",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://www.carmenansio.com/articles/editorial-typography-css/",
-      "title": "Setting type like a printed page",
+      "url": "https://guess-the-designer.replit.app/",
+      "title": "Which AI? — Guess the designer",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://www.youtube.com/watch?v=ZqGSg4b_cZA",
-      "title": "The Java Story (official doc)",
+      "url": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/",
+      "title": "Make it work vs. make it good",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://uncovered.ink/",
-      "title": "Uncovered.ink",
+      "url": "https://uisfx.com/",
+      "title": "UI SFX",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://karlkoch.me/writing/on-layout-choreography",
+      "title": "On layout choreography",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
+      "title": "Steal this UX framework from Dubai's most over-the-top hotel",
       "profile": "Design"
     }
   ]
