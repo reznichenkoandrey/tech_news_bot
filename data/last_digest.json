@@ -1,112 +1,154 @@
 {
-  "generated_at": "2026-07-27T07:07:28+00:00",
+  "generated_at": "2026-07-28T07:08:12+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
-      "title": "Hugging Face CEO calls for 'radical transparency' after 'unprecedented' OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai",
-      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "title": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "title": "Are brain waves the next unlock for physical AI?",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10144",
-      "title": "b10144",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10142",
-      "title": "b10142",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
-      "title": "We compared different LLMs on IMO 2026 [R]",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "title": "Ilya Sutskever's Safe Superintelligence partners with Nvidia to scale its AI research",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
-      "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v7nudc/recent_project_i_worked_on_end_to_end_edge_ml/",
-      "title": "Recent project I worked on: End to End Edge ML platform [D]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "title": "Why China is giving away its best AI models",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
-      "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.5-rc0",
-      "title": "v0.32.5",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.26.1rc0",
+      "title": "v0.26.1rc0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10143",
-      "title": "b10143: ui: Fix symbolic math tool JS sandbox prompt (#26131)",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.5",
+      "title": "v0.32.5",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10141",
-      "title": "b10141",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10156",
+      "title": "b10156",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4",
-      "title": "The seams are where the system lives",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10155",
+      "title": "b10155",
+      "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4",
-      "title": "Information architecture is the foundation artificial intelligence is starving for",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10154",
+      "title": "b10154",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://medium.com/@sreearavind21/how-i-built-an-ai-assisted-design-workflow-from-scratch-and-what-i-learned-along-the-way-3afdc1bd7bcd?source=rss------ai_design-5",
-      "title": "How I Built an AI-Assisted Design Workflow From Scratch (And What I Learned Along the Way)",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10153",
+      "title": "b10153",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@wolfofwealth/the-fastest-way-to-ship-an-app-is-to-design-it-first-9f2c5216c5f2?source=rss------ai_design-5",
-      "title": "The Fastest Way to Ship an App Is to Design It First",
+      "url": "https://platform.claude.com/cookbook/",
+      "title": "Claude Cookbook",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
-      "title": "Your website is boring (but that might just set it free)",
+      "url": "https://uxplanet.org/claude-opus-5-for-product-designers-a9c4579ea19b?source=rss----819cc2aaeee0---4",
+      "title": "Claude Opus 5 for Product Designers",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/signature-ux/celebrating-10-years-of-garofalo-ux-a-decade-of-human-centered-innovation-2016-2026-0a239e521778?source=rss------ai_ux-5",
-      "title": "Celebrating 10 Years of Garofalo UX: A Decade of Human-Centered Innovation (2016–2026)",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "title": "Drawing the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
+      "title": "The consciousness mirage in AI design",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "title": "The human-in-the-loop is tired",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/@melissanthi.p/coding-agents-generate-design-judgement-decides-what-survives-9e7cf593e533?source=rss------ai_design-5",
+      "title": "Coding agents generate. Design judgement decides what survives.",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@vijeesh91/how-agentic-ai-is-changing-product-design-forever-bc611fb785e4?source=rss------ai_design-5",
+      "title": "How Agentic AI Is Changing Product Design Forever",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://allen.hutchison.org/2025/11/28/the-era-of-personal-software/",
+      "title": "The era of personal software",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://medium.com/@lara.thaisaa/from-static-screens-to-living-flows-ux-is-alive-17a1dd24e993?source=rss------ai_design-5",
+      "title": "From static screens to living flows: UX is alive",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://www.nngroup.com/articles/product-sense-definition/",
+      "title": "A concrete definition of \"Product Sense\"",
       "profile": "Design"
     }
   ]
