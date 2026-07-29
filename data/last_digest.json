@@ -1,154 +1,160 @@
 {
-  "generated_at": "2026-07-28T07:08:12+00:00",
+  "generated_at": "2026-07-29T07:08:34+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "title": "Scientific computing in the age of agentic AI",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "title": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+      "title": "Discovering cryptographic weaknesses with Claude - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "title": "AI's finally expensive enough to make Wall Street nervous",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "title": "Ilya Sutskever's Safe Superintelligence partners with Nvidia to scale its AI research",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "title": "Hugging Face is being used to easily undress women and children",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "title": "Why China is giving away its best AI models",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.26.1rc0",
-      "title": "v0.26.1rc0",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.5",
-      "title": "v0.32.5",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10156",
-      "title": "b10156",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9c77r/unsloth_has_begun_dropping_kimi_k3_ggufs_the/",
+      "title": "Unsloth has begun dropping Kimi K3 GGUFs. The MXFP4 (it's 1.5 TB) and mmproj are already there.",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10155",
-      "title": "b10155",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v99nlk/should_we_be_calling_elon_a_liar/",
+      "title": "Should we be calling Elon a liar?",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10154",
-      "title": "b10154",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9fetk/zucks_opinion_the_ai_future_is_for_everyone/",
+      "title": "Zuck's opinion: The AI Future Is for Everyone",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10153",
-      "title": "b10153",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9hpac/axk2_released/",
+      "title": "A.X-K2 released",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://platform.claude.com/cookbook/",
-      "title": "Claude Cookbook",
+      "url": "https://www.adamhjk.com/blog/a-practical-guide-to-reducing-token-spend/",
+      "title": "A practical guide to reducing token spend",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/claude-opus-5-for-product-designers-a9c4579ea19b?source=rss----819cc2aaeee0---4",
-      "title": "Claude Opus 5 for Product Designers",
+      "url": "https://www.philschmid.de/evocode-bench",
+      "title": "Evaluating agents beyond the first prompt",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "title": "Drawing the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f",
+      "title": "Information architecture is the foundation AI is starving for",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
-      "title": "The consciousness mirage in AI design",
+      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "title": "The human-in-the-loop is tired",
+      "url": "https://www.jstools.space/blog/url-design-routing-query-parameters-fragments/",
+      "title": "How to design URLs",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@melissanthi.p/coding-agents-generate-design-judgement-decides-what-survives-9e7cf593e533?source=rss------ai_design-5",
-      "title": "Coding agents generate. Design judgement decides what survives.",
+      "url": "https://medium.com/@woohee-byun/what-clients-ask-for-when-they-ask-for-ai-and-how-to-design-it-93e1b5f5b8a9?source=rss------ai_design-5",
+      "title": "What Clients Ask for When They Ask for AI — and How to Design It",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@vijeesh91/how-agentic-ai-is-changing-product-design-forever-bc611fb785e4?source=rss------ai_design-5",
-      "title": "How Agentic AI Is Changing Product Design Forever",
+      "url": "https://delarocha.medium.com/when-the-assistant-becomes-the-navigation-f4a88cd591f9?source=rss------ai_design-5",
+      "title": "When the Assistant Becomes the Navigation",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://allen.hutchison.org/2025/11/28/the-era-of-personal-software/",
-      "title": "The era of personal software",
+      "url": "https://uxplanet.org/claude-design-can-craft-3d-objects-9a2c94808ca6?source=rss----819cc2aaeee0---4",
+      "title": "Claude Design can craft 3D objects",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://medium.com/@lara.thaisaa/from-static-screens-to-living-flows-ux-is-alive-17a1dd24e993?source=rss------ai_design-5",
-      "title": "From static screens to living flows: UX is alive",
+      "url": "https://brookehone.medium.com/the-ai-design-digest-i-wish-existed-4d02e42fd399?source=rss------ai_design-5",
+      "title": "The AI Design Digest I Wish Existed",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://www.nngroup.com/articles/product-sense-definition/",
-      "title": "A concrete definition of \"Product Sense\"",
+      "url": "https://uxdesign.cc/the-mos-6502-the-peoples-princess-0a2f99409834?source=rss----138adf9c44c---4",
+      "title": "The MOS 6502: the people's princess",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://www.compactmag.com/article/how-podcasts-ruined-america/",
+      "title": "How podcasts ruined America",
       "profile": "Design"
     }
   ]
