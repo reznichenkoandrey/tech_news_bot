@@ -1,160 +1,154 @@
 {
-  "generated_at": "2026-07-29T07:08:34+00:00",
+  "generated_at": "2026-07-30T07:08:07+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
-      "title": "Discovering cryptographic weaknesses with Claude - Anthropic",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "title": "We're launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "title": "AI's finally expensive enough to make Wall Street nervous",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "title": "Microsoft confirms Copilot 'super app' coming this year",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "title": "OpenAI president says it's 'building a family of devices' for its AI chatbots",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "title": "Hugging Face is being used to easily undress women and children",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "title": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "title": "We're running out of reasons to ignore AI safety",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9c77r/unsloth_has_begun_dropping_kimi_k3_ggufs_the/",
-      "title": "Unsloth has begun dropping Kimi K3 GGUFs. The MXFP4 (it's 1.5 TB) and mmproj are already there.",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v99nlk/should_we_be_calling_elon_a_liar/",
-      "title": "Should we be calling Elon a liar?",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9fetk/zucks_opinion_the_ai_future_is_for_everyone/",
-      "title": "Zuck's opinion: The AI Future Is for Everyone",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9hpac/axk2_released/",
-      "title": "A.X-K2 released",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vaargb/ai_security_leaderboard_benchmarking_model/",
+      "title": "AI Security Leaderboard: benchmarking model robustness [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.adamhjk.com/blog/a-practical-guide-to-reducing-token-spend/",
-      "title": "A practical guide to reducing token spend",
+      "url": "https://uxplanet.org/claude-code-subagents-the-right-way-to-delegate-work-730f12b1bc10?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Subagents: The Right Way to Delegate Work",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.philschmid.de/evocode-bench",
-      "title": "Evaluating agents beyond the first prompt",
+      "url": "https://uxplanet.org/i-built-an-mcp-server-in-30-minutes-claude-and-cursor-could-use-my-api-immediately-f0592dcec24e?source=rss----819cc2aaeee0---4",
+      "title": "I Built an MCP Server in 30 Minutes. Claude and Cursor Could Use My API Immediately.",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f",
-      "title": "Information architecture is the foundation AI is starving for",
+      "url": "https://www.0xkato.xyz/how-to-research-technical-topics-with-ai",
+      "title": "How to research technical topics with AI",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
-      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+      "title": "You don't have to be smart if you can think clearly",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://www.jstools.space/blog/url-design-routing-query-parameters-fragments/",
-      "title": "How to design URLs",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@woohee-byun/what-clients-ask-for-when-they-ask-for-ai-and-how-to-design-it-93e1b5f5b8a9?source=rss------ai_design-5",
-      "title": "What Clients Ask for When They Ask for AI — and How to Design It",
+      "url": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802?source=rss----138adf9c44c---4",
+      "title": "Battling AI fatigue as a designer and developer: a practical guide",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://delarocha.medium.com/when-the-assistant-becomes-the-navigation-f4a88cd591f9?source=rss------ai_design-5",
-      "title": "When the Assistant Becomes the Navigation",
+      "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss----138adf9c44c---4",
+      "title": "Your people get AI. Get out of their way.",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxplanet.org/claude-design-can-craft-3d-objects-9a2c94808ca6?source=rss----819cc2aaeee0---4",
-      "title": "Claude Design can craft 3D objects",
+      "url": "https://agenticeconomytreatise.com/",
+      "title": "The Agentic Economy",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://brookehone.medium.com/the-ai-design-digest-i-wish-existed-4d02e42fd399?source=rss------ai_design-5",
-      "title": "The AI Design Digest I Wish Existed",
+      "url": "https://www.originkit.dev/",
+      "title": "Originkit",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://uxdesign.cc/the-mos-6502-the-peoples-princess-0a2f99409834?source=rss----138adf9c44c---4",
-      "title": "The MOS 6502: the people's princess",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://www.compactmag.com/article/how-podcasts-ruined-america/",
-      "title": "How podcasts ruined America",
+      "url": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
+      "title": "The accessibility paradox",
       "profile": "Design"
     }
   ]
