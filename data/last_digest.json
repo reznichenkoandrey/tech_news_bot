@@ -1,154 +1,166 @@
 {
-  "generated_at": "2026-07-30T07:08:07+00:00",
+  "generated_at": "2026-07-31T07:08:39+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "title": "We're launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbidkp/deepseekv4flash_has_been_updated_the_official/",
+      "title": "DeepSeek-V4-Flash has been updated, \"The official release of DeepSeek-V4-Pro will follow soon\"",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "title": "Microsoft confirms Copilot 'super app' coming this year",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbdsmz/minimaxh3_video_model_released_open_weights/",
+      "title": "Minimax-H3 video model released, open weights coming in the next few days",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "title": "OpenAI president says it's 'building a family of devices' for its AI chatbots",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb16gj/inklingsmall_by_thinkingmachines/",
+      "title": "Inkling-Small by thinkingmachines",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbj6uf/huawei_opensouced_openpangu20pro_505ba18b/",
+      "title": "Huawei opensouced openPangu-2.0-Pro, 505B-A18B",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "title": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbcmtn/anthropic_our_models_hacked_three_different/",
+      "title": "Anthropic \"our models hacked three different external companies, months before OpenAI's model was able to do the same\"",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "title": "We're running out of reasons to ignore AI safety",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbc3kw/kexaone_20_released/",
+      "title": "K-EXAONE 2.0 released",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbf4bp/all_oneshots_from_kimik3_looks_better_than_opus48/",
+      "title": "All oneshots from Kimi-K3, looks better than opus4.8.",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vasnys/turbofieldfare_opensource_engine_running_gemma_4/",
+      "title": "Turbo-fieldfare: Open-source engine running Gemma 4 26B in 2 GB RAM on Apple Silicon",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbf0nt/open_source_ternary_llm_engine_in_rustcuda_for/",
+      "title": "Open Source Ternary LLM Engine in Rust/CUDA for Quantization, Serving, and Training of models on consumer GPUs, called Tritium (Apache 2.0)",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "title": "Forward-deployed engineers are the AI industry's latest talent obsession",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vaargb/ai_security_leaderboard_benchmarking_model/",
-      "title": "AI Security Leaderboard: benchmarking model robustness [P]",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "title": "In the Hugging Face breach, OpenAI's hacker was noisy and fast — but not unstoppable",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/claude-code-subagents-the-right-way-to-delegate-work-730f12b1bc10?source=rss----819cc2aaeee0---4",
-      "title": "Claude Code Subagents: The Right Way to Delegate Work",
+      "url": "https://prophetstor.medium.com/u-s-patent-awarded-prophetstors-generative-ui-turns-dashboards-into-two-way-ai-conversations-83f428975bdb?source=rss------generative_ui-5",
+      "title": "U.S. Patent Awarded: ProphetStor's Generative UI Turns Dashboards Into Two-Way AI Conversations",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/i-built-an-mcp-server-in-30-minutes-claude-and-cursor-could-use-my-api-immediately-f0592dcec24e?source=rss----819cc2aaeee0---4",
-      "title": "I Built an MCP Server in 30 Minutes. Claude and Cursor Could Use My API Immediately.",
+      "url": "https://linear.app/changelog/2026-07-30-coding-sessions-on-mobile",
+      "title": "Coding sessions on mobile",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.0xkato.xyz/how-to-research-technical-topics-with-ai",
-      "title": "How to research technical topics with AI",
+      "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
+      "title": "Jakob's law: How to apply it as AI collapses surfaces into one chat box",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
-      "title": "You don't have to be smart if you can think clearly",
+      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
+      "title": "Rethinking friction in an AI world",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "url": "https://medium.com/design-bootcamp/were-still-figuring-out-what-an-ai-native-ui-artifact-looks-like-7b763bbf34f5?source=rss------ai_design-5",
+      "title": "We're still figuring out what an AI-native UI artifact looks like",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802?source=rss----138adf9c44c---4",
-      "title": "Battling AI fatigue as a designer and developer: a practical guide",
+      "url": "https://blog.prototypr.io/your-ai-design-reviewer-needs-more-than-a-prompt-29e178d5db5b?source=rss------ai_design-5",
+      "title": "Your AI design reviewer needs more than a prompt",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss----138adf9c44c---4",
-      "title": "Your people get AI. Get out of their way.",
+      "url": "https://uxplanet.org/can-gamma-replace-powerpoint-and-figma-for-product-presentations-1c11308040b2?source=rss----819cc2aaeee0---4",
+      "title": "Can Gamma Replace PowerPoint and Figma for Product Presentations?",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://agenticeconomytreatise.com/",
-      "title": "The Agentic Economy",
+      "url": "https://uxplanet.org/how-claude-remembers-your-project-b44fc53ba93a?source=rss----819cc2aaeee0---4",
+      "title": "How Claude remembers your project",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://www.originkit.dev/",
-      "title": "Originkit",
+      "url": "https://uxplanet.org/beyond-ui-design-3-things-you-can-create-with-claude-design-d298573203c8?source=rss----819cc2aaeee0---4",
+      "title": "Beyond UI Design: 3 Things You Can Create with Claude Design",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
-      "title": "The accessibility paradox",
+      "url": "https://tympanus.net/codrops/2026/07/30/building-an-infinite-gsap-scroll-gallery-with-parallax-and-flip-transitions/",
+      "title": "Building an Infinite GSAP Scroll Gallery with Parallax and Flip Transitions",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://medium.com/@sharansony96/whats-selling-more-right-now-ai-or-protein-0bd0566e7346?source=rss------ai_ux-5",
+      "title": "What's Selling More Right Now: AI or Protein?",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://medium.com/@mailtosatyampandey/why-every-product-manager-should-learn-system-design-even-if-they-never-write-code-a6a0f43f2174?source=rss------ai_design-5",
+      "title": "Why Every Product Manager Should Learn System Design (Even If They Never Write Code)",
       "profile": "Design"
     }
   ]
