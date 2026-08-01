@@ -1,166 +1,154 @@
 {
-  "generated_at": "2026-07-31T07:08:39+00:00",
+  "generated_at": "2026-08-01T07:07:53+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "title": "Anthropic says Claude accidentally hacked real companies too",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "title": "Google Earth's AI deepfake tool only lasted one day",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbidkp/deepseekv4flash_has_been_updated_the_official/",
-      "title": "DeepSeek-V4-Flash has been updated, \"The official release of DeepSeek-V4-Pro will follow soon\"",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbdsmz/minimaxh3_video_model_released_open_weights/",
-      "title": "Minimax-H3 video model released, open weights coming in the next few days",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb16gj/inklingsmall_by_thinkingmachines/",
-      "title": "Inkling-Small by thinkingmachines",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/siri-ai-could-come-with-a-paywall-for-power-users",
+      "title": "Siri AI could come with a paywall for power users",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbj6uf/huawei_opensouced_openpangu20pro_505ba18b/",
-      "title": "Huawei opensouced openPangu-2.0-Pro, 505B-A18B",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts",
+      "title": "The major labels propose rules to keep AI slop off the charts",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbcmtn/anthropic_our_models_hacked_three_different/",
-      "title": "Anthropic \"our models hacked three different external companies, months before OpenAI's model was able to do the same\"",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "title": "Advancing responsible AI across Europe",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbc3kw/kexaone_20_released/",
-      "title": "K-EXAONE 2.0 released",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "title": "Building abundant intelligence",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbf4bp/all_oneshots_from_kimik3_looks_better_than_opus48/",
-      "title": "All oneshots from Kimi-K3, looks better than opus4.8.",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.52.0",
+      "title": "v2.52.0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vasnys/turbofieldfare_opensource_engine_running_gemma_4/",
-      "title": "Turbo-fieldfare: Open-source engine running Gemma 4 26B in 2 GB RAM on Apple Silicon",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10217",
+      "title": "b10217",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbf0nt/open_source_ternary_llm_engine_in_rustcuda_for/",
-      "title": "Open Source Ternary LLM Engine in Rust/CUDA for Quantization, Serving, and Training of models on consumer GPUs, called Tritium (Apache 2.0)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+      "title": "I have trained a model to predict my blood sugar [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
+      "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "title": "Forward-deployed engineers are the AI industry's latest talent obsession",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
+      "title": "ARR May Meta Review[D]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "title": "In the Hugging Face breach, OpenAI's hacker was noisy and fast — but not unstoppable",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vbtgz8/acl_arr_may_2026_metareviews_are_out_d/",
+      "title": "ACL ARR May 2026 Meta-Reviews are out [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://prophetstor.medium.com/u-s-patent-awarded-prophetstors-generative-ui-turns-dashboards-into-two-way-ai-conversations-83f428975bdb?source=rss------generative_ui-5",
-      "title": "U.S. Patent Awarded: ProphetStor's Generative UI Turns Dashboards Into Two-Way AI Conversations",
+      "url": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "No New Name Has Replaced \"UX\"",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://linear.app/changelog/2026-07-30-coding-sessions-on-mobile",
-      "title": "Coding sessions on mobile",
+      "url": "https://medium.com/@shahmanzari.saeed/generative-ui-in-2026-the-biggest-shift-in-interface-design-7da2427d86b5?source=rss------generative_ui-5",
+      "title": "Generative UI in 2026: The Biggest Shift in Interface Design",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
-      "title": "Jakob's law: How to apply it as AI collapses surfaces into one chat box",
+      "url": "https://medium.com/@SamerTallauze/the-best-designers-in-2026-are-not-pushing-pixels-04ec9c727647?source=rss------ai_design-5",
+      "title": "The Best Designers in 2026 Are Not Pushing Pixels",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
-      "title": "Rethinking friction in an AI world",
+      "url": "https://uxplanet.org/logo-design-with-claude-design-is-simply-amazing-947ced9915b2?source=rss----819cc2aaeee0---4",
+      "title": "I Tried Logo Design with Claude Design and It's Amazing",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/design-bootcamp/were-still-figuring-out-what-an-ai-native-ui-artifact-looks-like-7b763bbf34f5?source=rss------ai_design-5",
-      "title": "We're still figuring out what an AI-native UI artifact looks like",
+      "url": "https://medium.com/@vijeesh91/user-research-is-changing-0551d59c986f?source=rss------ai_design-5",
+      "title": "User Research Is Changing",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://blog.prototypr.io/your-ai-design-reviewer-needs-more-than-a-prompt-29e178d5db5b?source=rss------ai_design-5",
-      "title": "Your AI design reviewer needs more than a prompt",
+      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
+      "title": "Creative Technologists are moving from the margins to the center",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxplanet.org/can-gamma-replace-powerpoint-and-figma-for-product-presentations-1c11308040b2?source=rss----819cc2aaeee0---4",
-      "title": "Can Gamma Replace PowerPoint and Figma for Product Presentations?",
+      "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4",
+      "title": "Perplexity diverges with color",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxplanet.org/how-claude-remembers-your-project-b44fc53ba93a?source=rss----819cc2aaeee0---4",
-      "title": "How Claude remembers your project",
+      "url": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Why You Need Mentorship and How to Get It Right",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxplanet.org/beyond-ui-design-3-things-you-can-create-with-claude-design-d298573203c8?source=rss----819cc2aaeee0---4",
-      "title": "Beyond UI Design: 3 Things You Can Create with Claude Design",
+      "url": "https://css-tricks.com/whats-important-16/",
+      "title": "What's !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://tympanus.net/codrops/2026/07/30/building-an-infinite-gsap-scroll-gallery-with-parallax-and-flip-transitions/",
-      "title": "Building an Infinite GSAP Scroll Gallery with Parallax and Flip Transitions",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://medium.com/@sharansony96/whats-selling-more-right-now-ai-or-protein-0bd0566e7346?source=rss------ai_ux-5",
-      "title": "What's Selling More Right Now: AI or Protein?",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://medium.com/@mailtosatyampandey/why-every-product-manager-should-learn-system-design-even-if-they-never-write-code-a6a0f43f2174?source=rss------ai_design-5",
-      "title": "Why Every Product Manager Should Learn System Design (Even If They Never Write Code)",
+      "url": "https://cassidoo.co/post/clustering-tiles/",
+      "title": "A simple clustering algorithm for lists",
       "profile": "Design"
     }
   ]
