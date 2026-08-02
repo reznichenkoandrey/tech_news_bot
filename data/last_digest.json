@@ -1,154 +1,124 @@
 {
-  "generated_at": "2026-08-01T07:07:53+00:00",
+  "generated_at": "2026-08-02T07:08:31+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUptNldRQnBmRVRNWmR6YlZBWDRLT2w2bm1FcU16Nk9sem1TdFNzU29ITDRIN0JNUVVWaG9DWDJaNFB3M2RDeUh3NzN3LXBzX0JqN2JVYVl6endQWlNOZkdVbnRZLUZ1U0t0dzROaHJZcEM1RHNrZndOLTloUmpoaG8tZkQwUUpUcEV2TDl6bGF0eUlMcl9LYzY2REsydw?oc=5",
+      "title": "Anthropic Admits Its Own Bugs Broke Claude Code After Weeks of Denial - startupfortune.com",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPVnVkN1dfWUJjNjF0Nm5lcWVMRk5HTVV3R0s0VU9GMlJaR3dEQUNObnFHRElCWnVGbzg4eFI0ZzFqVmJZaFhYUE5IZkZKMm1vYTRpVlVVckowX3dCc0pTU0ZxYzZvbEh5U1lTdzU3dmNZNWw1SWo2eUZXSTkwekRQNEt5bmdUZjAxU3ZJaENKaDFFaWlPeHRiUGlLTnZlcHRJSGx0NUZBTGUyY29fUXROSGNsVFNYVDFvTTd2cXYzRkJQR1JSU3p1V3F5VXFQYmRtV1VuVzBIbktoc0RxOEsySE56WEN4aUVsemlPbkQ1UWw3OXV4VDUyWTQ4bEpyNGJkOFJ4RUNrM0M3QjJKb2NrWEluaVFpREVaUF93cndXaG1hSmNsUS1uakpDRXc1RXNncjhhWmtNeHU0WDZzeE5yYkVtSVo3WmpZRW9xYnZTalhSanRzVERScnJVM1ptaDZMMUF1MDRFd0NjTEpyQnN2MmR4X1prMGFYN2JSeUdXeG4?oc=5",
+      "title": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant - Tom's Hardware",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "title": "Google Earth's AI deepfake tool only lasted one day",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdWpzczl3S0Rqc0JSejQ1c0lfMVg3cXoyLXNFMVJHa1c4dzlqMW5RcXpROF9YNEFVMWo1LW8zVms3NHRKeEJUVDJRWlhZOGkzZEhEVklRU2NuZ2dyRG5TZGFfZllrR0lEenoxRC0weVV2Zw?oc=5",
+      "title": "Claude's Steganographic Request Marking: What Developers Need to Know - SitePoint",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "title": "Judge denies xAI's request to block Minnesota ban on 'nudify' apps",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
+      "title": "How Symmetric Are the Insides of a Go Network? [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/siri-ai-could-come-with-a-paywall-for-power-users",
-      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/",
+      "title": "VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts",
-      "title": "The major labels propose rules to keep AI slop off the charts",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10224",
+      "title": "b10224",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "title": "Advancing responsible AI across Europe",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10223",
+      "title": "b10223",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "title": "Building abundant intelligence",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10221",
+      "title": "b10221",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.52.0",
-      "title": "v2.52.0",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10219",
+      "title": "b10219",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10217",
-      "title": "b10217",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10218",
+      "title": "b10218",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
-      "title": "I have trained a model to predict my blood sugar [P]",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
-      "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vd8ezp/bytedance_is_using_seedance_25_to_automatically/",
+      "title": "Bytedance is using seedance 2.5 to automatically generate animated study guides in gauth. interesting use case for ai video [N]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
-      "title": "ARR May Meta Review[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vclrah/github_repo_to_learn_the_opdopsd_and_how_they/",
+      "title": "Github repo to learn the OPD/OPSD and how they perform compared to GRPO, on a consumer grade GPU [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vbtgz8/acl_arr_may_2026_metareviews_are_out_d/",
-      "title": "ACL ARR May 2026 Meta-Reviews are out [D]",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "No New Name Has Replaced \"UX\"",
+      "url": "https://medium.com/@SamerTallauze/the-great-abstraction-why-ux-design-isnt-dead-but-ui-drawing-is-4badabc3bbe1?source=rss------ai_design-5",
+      "title": "The Great Abstraction: Why UX Design Isn't Dead, but UI Drawing Is",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@shahmanzari.saeed/generative-ui-in-2026-the-biggest-shift-in-interface-design-7da2427d86b5?source=rss------generative_ui-5",
-      "title": "Generative UI in 2026: The Biggest Shift in Interface Design",
+      "url": "https://medium.com/@vicentegrafico.com/the-two-paths-have-converged-the-designers-decision-in-the-age-of-ai-841b94d076a9?source=rss------ai_design-5",
+      "title": "The Two Paths Have Converged: The Designer's Decision in the Age of AI",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@SamerTallauze/the-best-designers-in-2026-are-not-pushing-pixels-04ec9c727647?source=rss------ai_design-5",
-      "title": "The Best Designers in 2026 Are Not Pushing Pixels",
+      "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
+      "title": "Why airlines are finally waking up to context-aware design",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/logo-design-with-claude-design-is-simply-amazing-947ced9915b2?source=rss----819cc2aaeee0---4",
-      "title": "I Tried Logo Design with Claude Design and It's Amazing",
+      "url": "https://medium.com/@ameliaoluwakemi/i-stopped-waiting-for-engineers-to-validate-my-ideas-02ce90a51498?source=rss------ai_design-5",
+      "title": "I Stopped Waiting for Engineers to Validate My Ideas",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@vijeesh91/user-research-is-changing-0551d59c986f?source=rss------ai_design-5",
-      "title": "User Research Is Changing",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
-      "title": "Creative Technologists are moving from the margins to the center",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4",
-      "title": "Perplexity diverges with color",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Why You Need Mentorship and How to Get It Right",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://css-tricks.com/whats-important-16/",
-      "title": "What's !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://cassidoo.co/post/clustering-tiles/",
-      "title": "A simple clustering algorithm for lists",
+      "url": "https://medium.com/@mail2mhossain/the-sdd-planning-loop-367f2510312e?source=rss------generative_ui-5",
+      "title": "The SDD Planning Loop",
       "profile": "Design"
     }
   ]
