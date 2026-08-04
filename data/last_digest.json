@@ -1,124 +1,160 @@
 {
-  "generated_at": "2026-08-03T07:08:15+00:00",
+  "generated_at": "2026-08-04T07:07:56+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10228",
-      "title": "b10228",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "title": "Apple is getting this wrong",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOEg5NlF0bXE4VDMwVTU4LUgtUEF5ZDBOaUhxYm13Y1JyaE5scTk5T0llelluUGg1VExUWVcyOHlTQ3RrcFdyUUtrUWJXSk1EdTltUVdWd2t2Z090WU1jQXEtWkE2OEJpUFZobHMtYnpiMk5HZnN3MHBJb2p3Nk1IQmdPb0wxY3JTUnZtUEpPUnJwSnNiNkNkWVlBcF9IZjlLM0hzV1hpbXdNTll0bjFNamhiMC1oSWpWQ0tZ?oc=5",
-      "title": "Anthropic's Claude Kept Attacking After Recognizing Its Target Was Real — and That Changes the Story",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "title": "China's Alibaba takes another swipe at America's AI supremacy",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWcyY0tCT2hSbkY1TmJlbXhWVWJRc1lBU1VxM1Qyd21XYlJVaEIxZ2hCR3ZJYUxfVFRnajRuN21VTWFpNDYtWG5OUlVsYVdfLVdhUkVZcGRBOFcwdVJOTW9oaUxkXzUtSzV5X25PRFg2S2x6QWFCUFJiQnBTSk81dkdnNzM0ZUhfZnhrVzI1dGhjbE9IeVBxZEVRTQ?oc=5",
-      "title": "Alibaba Says Its New Qwen3.8-Max Model Trails Only Anthropic's Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "title": "Europe's AI labeling and transparency rules are now in effect",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10236",
-      "title": "b10236",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry 'Marxist'",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10227",
-      "title": "b10227",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10231",
-      "title": "b10231",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
-      "title": "neurips 2026: ACs and reviewers have disappeared [D]",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vdsgcj/context_degradation_in_llms_what_the_papers/",
-      "title": "Context degradation in LLMs: what the papers actually show, and the habits I built for long analysis sessions [R]",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "title": "Congress' favorite AI tool? ChatGPT",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "title": "Sam Altman and AI's decel debate",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.53.0",
+      "title": "v2.53.0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4",
-      "title": "Chat is the wrong interface for AI",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10257",
+      "title": "b10257",
+      "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.2VA.tHaD.87T7tIi8zNbs&smid=url-share",
-      "title": "Google is building an AI fence around the web it once championed",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10256",
+      "title": "b10256",
+      "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://medium.com/upskill-ux/generative-ui-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A-penpot-v0-%E0%B9%81%E0%B8%A5%E0%B8%B0-workflow-%E0%B8%88%E0%B8%B2%E0%B8%81-design-%E0%B8%AA%E0%B8%B9%E0%B9%88-code-72ada47e8f2a?source=rss------generative_ui-5",
-      "title": "Generative UI คืออะไร? เปรียบเทียบ Penpot, v0 และ Workflow จาก Design สู่ Code",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10255",
+      "title": "b10255",
+      "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://medium.com/@sahaayushi/is-this-ai-the-behavioural-science-of-trust-in-the-age-of-synthetic-content-e5067da65433?source=rss------ai_design-5",
-      "title": "Is this AI? The behavioural science of trust in the age of synthetic content",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10254",
+      "title": "b10254",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4",
-      "title": "The architecture of watching work",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
+      "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/design-md-the-one-standard-file-carries-your-visual-identity-for-humans-and-agents-9058d5b39d9b?source=rss----138adf9c44c---4",
-      "title": "Design.md: the one standard file carries your visual identity, for humans and agents",
+      "url": "https://css-tricks.com/css-gap-decorations-now-available/",
+      "title": "Gap Decorations Are Now Available, Here's What's New",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.nngroup.com/articles/no-new-name-ux/",
-      "title": "No new name has replaced \"UX\"",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "title": "Are AI labs pelicanmaxxing?",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://simone.computer/#/webdesktops",
-      "title": "Web desktops",
+      "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335",
+      "title": "Designing for the proxy",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://killthecookiebanner.eu/",
-      "title": "Kill the cookie banner",
+      "url": "https://medium.com/prove-design/claude-didnt-replace-my-design-process-it-reduced-my-mental-overload-63f85f698bc7?source=rss------ai_design-5",
+      "title": "Claude Didn't Replace My Design Process, It Reduced My Mental Overload",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://go.granola.ai/sidebar",
-      "title": "The AI Notepad for back-to-back meetings",
+      "url": "https://uxplanet.org/i-ran-the-same-product-research-in-claude-code-and-claude-design-df62dba14803?source=rss----819cc2aaeee0---4",
+      "title": "I Ran the Same Product Research in Claude Code and Claude Design",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/upskill-ux/generative-ui-vs-chatbot-why-a-chat-based-ai-interface-might-increase-cognitive-load-2375a9401e80?source=rss------generative_ui-5",
+      "title": "Generative UI vs Chatbot: ทำไม AI Interface แบบแชทอาจเพิ่ม Cognitive Load",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
+      "title": "IA for AI, The UX of contrast, Battling AI fatigue",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://anthropeum.com/",
+      "title": "Anthropeum",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "title": "The computer that helped win World War II",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://misery.co/shaderpad/",
+      "title": "ShaderPad",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
+      "title": "The Story Is in the Interaction: Bonhomme's Digital Experiences for Luxury Brands",
       "profile": "Design"
     }
   ]
