@@ -1,160 +1,172 @@
 {
-  "generated_at": "2026-08-04T07:07:56+00:00",
+  "generated_at": "2026-08-05T07:08:27+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "title": "Apple is getting this wrong",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "title": "China's Alibaba takes another swipe at America's AI supremacy",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Third-party cyber evaluations involving OpenAI models",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "title": "Europe's AI labeling and transparency rules are now in effect",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry 'Marxist'",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "title": "AMD's data center business is booming while gaming takes a backseat",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "title": "SpaceX made more revenue as an AI company than a space company",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "title": "Texas says data centers must pass an audit before connecting to the grid",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "title": "Congress' favorite AI tool? ChatGPT",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfdeek/inclusionailing30flash_weights_are_up_on_hugging/",
+      "title": "inclusionAI/Ling-3.0-flash weights are up on Hugging Face — MIT, BF16 plus an official FP8",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0",
+      "title": "v0.32.6",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.53.0",
-      "title": "v2.53.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfhns3/a_llamacpp_pr_caches_hot_moe_experts_on_the_gpu/",
+      "title": "A llama.cpp PR caches \"hot\" MoE experts on the GPU — 33 → 56 tok/s reported with 8GB VRAM",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10257",
-      "title": "b10257",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfn9vc/a_26b_model_with_tool_calling_and_128k_context/",
+      "title": "A 2.6B model with tool calling and 128K context now runs at 30 tok/s on a phone",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10256",
-      "title": "b10256",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfj3q7/hugging_face_ceo_says_china_is_winning_the_ai/",
+      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10255",
-      "title": "b10255",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfbcgx/deepseekv4flash0731_full_1m_context_on_a_single/",
+      "title": "[Deepseek-V4-Flash-0731] Full 1M context on a single RTX5090 + DDR5 Desktop Setup with VLLM CPU/Ram Offloading, ~800 tps pp & 15+ tps decode [Agentic Coding]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10254",
-      "title": "b10254",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf8obs/llamacpp_pr_8_speed_boost/",
+      "title": "Llama.cpp PR 8% speed boost",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
-      "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "title": "OpenAI drags Apple's lawsuit into the court of public opinion",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://css-tricks.com/css-gap-decorations-now-available/",
-      "title": "Gap Decorations Are Now Available, Here's What's New",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "title": "Are AI labs pelicanmaxxing?",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfirld/has_anyone_tried_mach1_additive_95_of_performance/",
+      "title": "Has anyone tried Mach-1 Additive? 95% of performance of Qwen 3.6 35B while being 10x smaller",
+      "profile": "AI/Tech"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335",
-      "title": "Designing for the proxy",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfhhpq/no_more_slm_opensource/",
+      "title": "No more SLM open-source??",
+      "profile": "AI/Tech"
     },
     {
       "n": 19,
-      "url": "https://medium.com/prove-design/claude-didnt-replace-my-design-process-it-reduced-my-mental-overload-63f85f698bc7?source=rss------ai_design-5",
-      "title": "Claude Didn't Replace My Design Process, It Reduced My Mental Overload",
+      "url": "https://medium.com/design-bootcamp/trusting-ai-with-your-interface-a-practitioners-honest-map-of-what-works-and-what-still-breaks-00669cf6c0ce?source=rss------ai_ux-5",
+      "title": "Trusting AI With Your Interface: A Practitioner's Honest Map of What Works and What Still Breaks",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/i-ran-the-same-product-research-in-claude-code-and-claude-design-df62dba14803?source=rss----819cc2aaeee0---4",
-      "title": "I Ran the Same Product Research in Claude Code and Claude Design",
+      "url": "https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e?source=rss----138adf9c44c---4",
+      "title": "What your AI co-designer can't infer from your hex values",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/upskill-ux/generative-ui-vs-chatbot-why-a-chat-based-ai-interface-might-increase-cognitive-load-2375a9401e80?source=rss------generative_ui-5",
-      "title": "Generative UI vs Chatbot: ทำไม AI Interface แบบแชทอาจเพิ่ม Cognitive Load",
+      "url": "https://uxplanet.org/youre-using-claude-design-wrong-7a4c3b78a6d7?source=rss----819cc2aaeee0---4",
+      "title": "You're Using Claude Design Wrong",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
-      "title": "IA for AI, The UX of contrast, Battling AI fatigue",
+      "url": "https://medium.com/design-bootcamp/designing-for-doubt-4a8fe275471f?source=rss------ai_design-5",
+      "title": "Designing for Doubt",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://anthropeum.com/",
-      "title": "Anthropeum",
+      "url": "https://medium.com/@ronoldanthony/i-designed-an-app-that-reads-my-parents-lab-reports-17cdc9e1707d?source=rss------ai_design-5",
+      "title": "I Designed an App That Reads My Parents' Lab Reports.",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "title": "The computer that helped win World War II",
+      "url": "https://medium.com/@edgaruy/ontological-thinking-designing-the-knowledge-layer-3a8d6b652333?source=rss------ai_design-5",
+      "title": "Ontological Thinking: Designing the Knowledge Layer",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://misery.co/shaderpad/",
-      "title": "ShaderPad",
+      "url": "https://uxdesign.cc/why-10-000-experiments-work-better-than-10-000-hours-for-designers-1a07aa35df7f?source=rss----138adf9c44c---4",
+      "title": "Why 10,000 experiments work better than 10,000 hours for designers",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
-      "title": "The Story Is in the Interaction: Bonhomme's Digital Experiences for Luxury Brands",
+      "url": "https://uxdesign.cc/how-korea-and-japan-turned-ordering-food-into-a-ux-masterclass-f64c31bd4c98?source=rss----138adf9c44c---4",
+      "title": "How Korea & Japan turned ordering food into a UX masterclass",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://tympanus.net/codrops/2026/08/04/building-an-endless-interactive-glass-xylophone-with-three-js/",
+      "title": "Building an Endless Interactive Glass Xylophone with Three.js",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://www.nngroup.com/training/october-eu/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX Conference October Announced (Oct 26 - Oct 29)",
       "profile": "Design"
     }
   ]
