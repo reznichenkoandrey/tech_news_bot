@@ -1,172 +1,160 @@
 {
-  "generated_at": "2026-08-06T07:08:06+00:00",
+  "generated_at": "2026-08-07T07:08:09+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "title": "Google just announced a major shakeup of its top AI leadership",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "title": "ChatGPT brings unlimited text chats to free users",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "title": "Reddit is introducing a new moderator: AI",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "title": "Omilia raises $67M to scale its customer support platform",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "title": "Google Assistant will disappear from your phone next month",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
+      "title": "Improving Fable 5's biology safeguards - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1hXb3VvUjdRM0s0U0JMdGEwR2tiNU02RXkyZmd0RFFjZUlGbnBwdnRsQW13YU5Dc1ctM0E4ZlE1alFTYkQzZHlyZ01tQU95aVhVNF9DRjhvbk43cmo5MFJLaFV0RmxQWkx0UG5SM3JLS2hFM2FTSkV6aGxWUlJJak5yZDZRamt0M2VhQlB4Q1RGU3dJRkNmUDN3?oc=5",
+      "title": "Anthropic will design its own hardware to power Claude - Ars Technica",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-      "title": "Elon Musk's attempt at an AI Wikipedia hasn't been updated in months",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.6",
-      "title": "v0.32.6",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "title": "Jony Ive's first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10290",
-      "title": "b10290",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "title": "The messy politics behind Google's big AI shakeup",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
-      "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "title": "AI bots started a religion — humans immediately followed",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://medium.com/aimonks/the-next-billion-dollar-ux-skill-isnt-design-it-s-decision-architecture-65d44f3043dc?source=rss------ai_design-5",
-      "title": "The Next Billion-Dollar UX Skill Isn't Design. It's Decision Architecture.",
-      "profile": "Design"
+      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "title": "OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://medium.com/@muriloviriato/constru%C3%AD-o-mesmo-app-em-3-ias-diferentes-qual-foi-melhor-771407bb1610?source=rss------ai_design-5",
-      "title": "Construí o mesmo app em 3 IAs diferentes. Qual foi melhor?",
-      "profile": "Design"
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1",
+      "title": "v0.27.0rc1",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-      "title": "The AI productivity gap",
+      "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+      "title": "2026 State of CSS, Devs Surveys",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://tympanus.net/codrops/2026/08/06/garden-anomaly-a-tiny-webgpu-and-tsl-experiment/",
+      "title": "Garden Anomaly: A Tiny WebGPU and TSL Experiment",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://yeseniaperezcruz.substack.com/p/the-plateau-of-sad-gray-icons",
-      "title": "The plateau of sad gray icons",
+      "url": "https://uxplanet.org/7-design-md-mistakes-that-make-ai-generated-ui-worse-9ec2dfcc44cd?source=rss----819cc2aaeee0---4",
+      "title": "7 DESIGN.md Mistakes That Make AI-Generated UI Worse",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67",
-      "title": "Notion: design & AI workflows",
+      "url": "https://blog.prototypr.io/the-seatbelt-problem-in-ai-product-design-91fc9d729e9e?source=rss------ai_design-5",
+      "title": "The seatbelt problem in AI product design",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
-      "title": "Code, craft, and the making of nested folders",
+      "url": "https://medium.com/@lucas.borges296103/beyond-the-canvas-a-designers-journey-into-ai-automation-a51249ea485d?source=rss------ai_design-5",
+      "title": "Beyond the canvas: a designer's journey into AI automation",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://benji.org/drawesome",
-      "title": "Drawesome",
+      "url": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c?source=rss----138adf9c44c---4",
+      "title": "What Star Trek got wrong about AI (so far)",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://writing.mariusz.cc/ultimate-product-design-tool/",
-      "title": "The last product design tool",
+      "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a?source=rss----138adf9c44c---4",
+      "title": "The cybernetic application",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://zachholman.com/posts/cold-email",
-      "title": "The cold email",
+      "url": "https://medium.com/@shubhamdeepgupta/ai-design-and-product-thinking-by-shubham-deep-gupta-92cee0f3ad0d?source=rss------ai_design-5",
+      "title": "The AI Era and the Death of Thoughtful Effort",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://www.the-idea-machine.com/",
-      "title": "The Idea Machine",
+      "url": "https://medium.com/@sergiuchiriac88/yard-studio-43040154017f?source=rss------ai_design-5",
+      "title": "Yard Studio",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://ditherit.com/",
-      "title": "Dither it",
+      "url": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
+      "title": "Design @ ACME",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://tympanus.net/codrops/2026/08/05/a-canvas-for-individuality-creating-websites-that-feel-unmistakably-human-with-readymag/",
-      "title": "A Canvas for Individuality: Creating Websites That Feel Unmistakably Human with Readymag",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?source=rss----138adf9c44c---4",
-      "title": "Defining ethical design for machines",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262?source=rss----138adf9c44c---4",
-      "title": "Bottle your judgment and make it outlive you",
+      "url": "https://uxplanet.org/the-hidden-compliance-challenge-in-global-payroll-ux-2f6b6e10af0a?source=rss----819cc2aaeee0---4",
+      "title": "The Hidden Compliance Challenge in Global Payroll UX",
       "profile": "Design"
     }
   ]
