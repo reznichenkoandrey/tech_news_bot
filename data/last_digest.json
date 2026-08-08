@@ -1,160 +1,88 @@
 {
-  "generated_at": "2026-08-07T07:08:09+00:00",
+  "generated_at": "2026-08-08T07:09:21+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "How to Decide When an AI Tool Is Worth Keeping",
+      "profile": "Design"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "profile": "AI/Tech"
+      "url": "https://nicolo.xyz/note/something-is-changing-in-the-unit-economics-of-software/?utm_source=tldrdev",
+      "title": "Something is changing in the unit economics of software",
+      "profile": "Design"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/design-bootcamp/how-designers-actually-work-in-2026-30-ai-infused-workflows-245f508f3f17?source=rss------ai_design-5",
+      "title": "how designers actually work in 2026 / 30+ AI-infused workflows",
+      "profile": "Design"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "profile": "AI/Tech"
+      "url": "https://rameshreddyco.medium.com/product-design-changed-forever-after-2025-heres-what-most-designers-still-haven-t-realized-c71102cfd1fa?source=rss------ai_design-5",
+      "title": "Product Design Changed Forever After 2025. Here's What Most Designers Still Haven't Realized",
+      "profile": "Design"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "profile": "AI/Tech"
+      "url": "https://microsoft.design/articles/the-naked-designer-what-happens-when-you-cant-hide-behind-craft/",
+      "title": "What happens when you can't hide behind craft",
+      "profile": "Design"
     },
     {
       "n": 6,
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@aisivigeo/large-design-model-the-future-of-text-to-design-ai-c5353ffb353b?source=rss------ai_design-5",
+      "title": "Large Design Model: The Future of Text-to-Design AI",
+      "profile": "Design"
     },
     {
       "n": 7,
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
-      "title": "Improving Fable 5's biology safeguards - Anthropic",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/i-turned-a-product-photo-into-a-3d-object-using-claude-design-03806a7533fb?source=rss----819cc2aaeee0---4",
+      "title": "I Turned a Product Photo Into a 3D Object Using Claude Design",
+      "profile": "Design"
     },
     {
       "n": 8,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1hXb3VvUjdRM0s0U0JMdGEwR2tiNU02RXkyZmd0RFFjZUlGbnBwdnRsQW13YU5Dc1ctM0E4ZlE1alFTYkQzZHlyZ01tQU95aVhVNF9DRjhvbk43cmo5MFJLaFV0RmxQWkx0UG5SM3JLS2hFM2FTSkV6aGxWUlJJak5yZDZRamt0M2VhQlB4Q1RGU3dJRkNmUDN3?oc=5",
-      "title": "Anthropic will design its own hardware to power Claude - Ars Technica",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Dogfooding vs. QA vs. User Research",
+      "profile": "Design"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "profile": "AI/Tech"
+      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "title": "How Baseline Can Help You Ship Less JavaScript",
+      "profile": "Design"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "profile": "AI/Tech"
+      "url": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+      "title": "Using and Styling the Dialog Element",
+      "profile": "Design"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "title": "Jony Ive's first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "profile": "AI/Tech"
+      "url": "https://hvpandya.com/hierarchy-of-competence",
+      "title": "The hierarchy of competence",
+      "profile": "Design"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "title": "The messy politics behind Google's big AI shakeup",
-      "profile": "AI/Tech"
+      "url": "https://crashcat.dev/",
+      "title": "Crashcat",
+      "profile": "Design"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "title": "AI bots started a religion — humans immediately followed",
-      "profile": "AI/Tech"
+      "url": "https://www.headlines.games/",
+      "title": "Headlines Game",
+      "profile": "Design"
     },
     {
       "n": 14,
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "title": "OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.0rc1",
-      "title": "v0.27.0rc1",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-      "title": "2026 State of CSS, Devs Surveys",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://tympanus.net/codrops/2026/08/06/garden-anomaly-a-tiny-webgpu-and-tsl-experiment/",
-      "title": "Garden Anomaly: A Tiny WebGPU and TSL Experiment",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://uxplanet.org/7-design-md-mistakes-that-make-ai-generated-ui-worse-9ec2dfcc44cd?source=rss----819cc2aaeee0---4",
-      "title": "7 DESIGN.md Mistakes That Make AI-Generated UI Worse",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://blog.prototypr.io/the-seatbelt-problem-in-ai-product-design-91fc9d729e9e?source=rss------ai_design-5",
-      "title": "The seatbelt problem in AI product design",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://medium.com/@lucas.borges296103/beyond-the-canvas-a-designers-journey-into-ai-automation-a51249ea485d?source=rss------ai_design-5",
-      "title": "Beyond the canvas: a designer's journey into AI automation",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c?source=rss----138adf9c44c---4",
-      "title": "What Star Trek got wrong about AI (so far)",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a?source=rss----138adf9c44c---4",
-      "title": "The cybernetic application",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://medium.com/@shubhamdeepgupta/ai-design-and-product-thinking-by-shubham-deep-gupta-92cee0f3ad0d?source=rss------ai_design-5",
-      "title": "The AI Era and the Death of Thoughtful Effort",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://medium.com/@sergiuchiriac88/yard-studio-43040154017f?source=rss------ai_design-5",
-      "title": "Yard Studio",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
-      "title": "Design @ ACME",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://uxplanet.org/the-hidden-compliance-challenge-in-global-payroll-ux-2f6b6e10af0a?source=rss----819cc2aaeee0---4",
-      "title": "The Hidden Compliance Challenge in Global Payroll UX",
+      "url": "https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/",
+      "title": "The Department Is Open: Building the PX PUSH Website",
       "profile": "Design"
     }
   ]
