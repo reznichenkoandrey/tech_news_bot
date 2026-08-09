@@ -1,88 +1,70 @@
 {
-  "generated_at": "2026-08-08T07:09:21+00:00",
+  "generated_at": "2026-08-09T07:07:25+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "How to Decide When an AI Tool Is Worth Keeping",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://nicolo.xyz/note/something-is-changing-in-the-unit-economics-of-software/?utm_source=tldrdev",
-      "title": "Something is changing in the unit economics of software",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://medium.com/design-bootcamp/how-designers-actually-work-in-2026-30-ai-infused-workflows-245f508f3f17?source=rss------ai_design-5",
-      "title": "how designers actually work in 2026 / 30+ AI-infused workflows",
-      "profile": "Design"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlFvQ0M3SkQ0ZlQ4RzI1OUpBWno2Y3JSQTEwd01qS01CdVRkeTdLR2VOdmd0a0UzQ2M0UzF0UG9kUlA1SzBzeXJyU0U1QUN4RVRmakxCcVdoTG0wRGVMdTVTUTEwVVhWODZWNEdwYVQwR1plVDloVVk1T0ROc3M4ZVFVMmFuTjhTd21sc3RfNzNHS1I0TGxFSHgxMmZzei05VjhYTXh2LWg5YTNKaHlJdTFsdjgwelk?oc=5",
+      "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://rameshreddyco.medium.com/product-design-changed-forever-after-2025-heres-what-most-designers-still-haven-t-realized-c71102cfd1fa?source=rss------ai_design-5",
-      "title": "Product Design Changed Forever After 2025. Here's What Most Designers Still Haven't Realized",
-      "profile": "Design"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXd6QXZ5VTNhcmdxa2VvOGRnMEdFM05Xc19HZVl1MmFhdjA2SllDa28yTzZJZGZUelp6T3hNeUw4TG1FMXR3Q1c5UTlVTUNPQ3c4V0pNUmlnZDM3M2pRdTMzTXE0bXY4ZnZBM3FDNTctUHBhcnktaXZ0UmJNV2IxNjJYdjUxVWVKTGpDaw?oc=5",
+      "title": "Meta launches Muse Code AI agent to challenge OpenAI, Anthropic",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://microsoft.design/articles/the-naked-designer-what-happens-when-you-cant-hide-behind-craft/",
-      "title": "What happens when you can't hide behind craft",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10328",
+      "title": "b10328",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://medium.com/@aisivigeo/large-design-model-the-future-of-text-to-design-ai-c5353ffb353b?source=rss------ai_design-5",
-      "title": "Large Design Model: The Future of Text-to-Design AI",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10330",
+      "title": "b10330",
+      "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://uxplanet.org/i-turned-a-product-photo-into-a-3d-object-using-claude-design-03806a7533fb?source=rss----819cc2aaeee0---4",
-      "title": "I Turned a Product Photo Into a 3D Object Using Claude Design",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
+      "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
+      "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Dogfooding vs. QA vs. User Research",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
+      "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
+      "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-      "title": "How Baseline Can Help You Ship Less JavaScript",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10331",
+      "title": "b10331",
+      "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-      "title": "Using and Styling the Dialog Element",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10329",
+      "title": "b10329",
+      "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://hvpandya.com/hierarchy-of-competence",
-      "title": "The hierarchy of competence",
-      "profile": "Design"
-    },
-    {
-      "n": 12,
-      "url": "https://crashcat.dev/",
-      "title": "Crashcat",
-      "profile": "Design"
-    },
-    {
-      "n": 13,
-      "url": "https://www.headlines.games/",
-      "title": "Headlines Game",
-      "profile": "Design"
-    },
-    {
-      "n": 14,
-      "url": "https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/",
-      "title": "The Department Is Open: Building the PX PUSH Website",
+      "url": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
+      "title": "Designing a Flexible Digital Archive for Chems.Studio's Creative Practice",
       "profile": "Design"
     }
   ]
