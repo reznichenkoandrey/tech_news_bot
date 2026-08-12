@@ -1,64 +1,130 @@
 {
-  "generated_at": "2026-08-11T07:09:11+00:00",
+  "generated_at": "2026-08-12T07:08:03+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://linear.app/now/how-we-built-linear-agent",
-      "title": "How we built Linear Agent",
-      "profile": "Design"
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "title": "Testing ads in ChatGPT",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://joost.blog/future-of-the-website/",
-      "title": "The future of the website",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://uxplanet.org/7-design-md-tips-for-better-more-consistent-ai-generated-ui-b01736d07748?source=rss----819cc2aaeee0---4",
-      "title": "7 DESIGN.md Tips for Better, More Consistent AI-Generated UI",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openai-s-longtime-coo-is-leaving-to-start-something-new/",
+      "title": "Brad Lightcap, OpenAI's longtime COO, is leaving to 'start something new'",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://agent-plugins.org/",
-      "title": "Agent plugins",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
-      "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "title": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262",
-      "title": "Bottle your judgment and make it outlive you",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "title": "\"Code was never the hard part\" is an insult to all programmers",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.aipotluck.org/map",
-      "title": "AI Potluck",
-      "profile": "Design"
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "title": "Daybreak models are now available on AWS",
+      "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "title": "Taste is all that's left",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "title": "Spotify will label 'AI Persona' profiles and exclude their music from recommendations",
+      "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://medium.com/design-bootcamp/why-every-ai-generated-app-looks-same-51a9459055ae?source=rss------ai_design-5",
-      "title": "Why Every AI-Generated App Looks the Same",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "title": "'Zoomsday' hack uncovered using fewer than 20 AI prompts",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.0.0",
+      "title": "v3.0.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.9",
+      "title": "v0.32.9",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10380",
+      "title": "b10380: chat : fix muse-glimmer detection of tool calls after EOM (#26879)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.27.1",
+      "title": "v0.27.1",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "title": "The AI takeover of mathematics has begun",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://tympanus.net/codrops/2026/08/11/exploring-procedural-geometry-with-three-js-and-webgpu/",
+      "title": "Exploring Procedural Geometry with Three.js and WebGPU",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://uxplanet.org/design-systems-are-about-to-become-executable-f125a94fe4ad?source=rss----819cc2aaeee0---4",
+      "title": "Design Systems Are About to Become Executable",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://artalisajid.medium.com/ai-will-get-things-wrong-the-product-should-be-ready-for-that-424743d356f5?source=rss------ai_design-5",
+      "title": "AI Will Get Things Wrong. The Product Should Be Ready for That.",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@polgarp/discovery-artifacts-are-vacation-photos-and-agents-were-never-there-4d87c6e9a7ca?source=rss------ai_design-5",
+      "title": "Discovery artifacts are vacation photos, and agents were never there",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4",
+      "title": "What Star Wars got right about AI",
       "profile": "Design"
     }
   ]
