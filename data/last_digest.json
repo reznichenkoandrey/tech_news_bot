@@ -1,184 +1,148 @@
 {
-  "generated_at": "2026-08-13T07:08:26+00:00",
+  "generated_at": "2026-08-14T07:08:03+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "title": "Introducing Gemini 3.7 Flash",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "title": "Amazon will train on Twitch streamers' content by default, unless they opt out",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "title": "The builder's guide to GPT‑5.6",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "title": "Grok is now an AI 'teammate' you can assign work",
+      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "title": "Microsoft is combining its Copilot apps ahead of a 'super app'",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/",
-      "title": "Qwen3.8-2.4T-A95B Released",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "title": "Suno is trying to look more like a real music production tool",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn0dn0/nvidia_doubles_rtx_pro_6000_blackwells_msrp_to_a/",
-      "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmawd2/hidden_reasoning_from_claude_and_gpt_are_decoded/",
-      "title": "Hidden Reasoning from Claude and GPT are Decoded",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmt1y3/i_ran_deepseek_v4_flash_284b_dspark_on_one_rtx/",
-      "title": "I ran DeepSeek V4 Flash 284B + DSpark on one RTX PRO 6000",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "title": "Nvidia's new $500B plan is risky but brilliant, especially for aging GPUs",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmo7v5/deepseek_v4_flash_0731_uncensored_jailbreak_pt2/",
-      "title": "DeepSeek V4 Flash 0731 uncensored (jailbreak pt2)",
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "title": "Putting sign language AI into users' hands",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.11",
+      "title": "v0.32.11",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10-rc1",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10",
       "title": "v0.32.10",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://2026.stateofcss.com/en-US/",
-      "title": "State of CSS 2026",
+      "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+      "title": "New EU Guidelines For AI Labelling",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://state-of-ai-in-design-systems.netlify.app/",
-      "title": "State of AI in Design Systems",
+      "url": "https://linear.app/changelog/2026-08-13-team-initiatives",
+      "title": "Team initiatives",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.beautifului.dev/",
-      "title": "Beautiful UI",
+      "url": "https://uxplanet.org/top-5-claude-design-tips-tricks-for-product-designers-1f565d1a36a6?source=rss----819cc2aaeee0---4",
+      "title": "Top 5 Claude Design Tips & Tricks for Product Designers",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/can-claude-design-really-create-a-good-ios-app-f0701d31afcb?source=rss----819cc2aaeee0---4",
-      "title": "Can Claude Design Really Create a Good iOS App?",
+      "url": "https://medium.com/@luisfelipearaujoflorez/explaining-your-product-to-ai-is-the-design-work-today-and-believe-me-shadcn-ui-is-the-easy-787ac92e5863?source=rss------ai_design-5",
+      "title": "Explaining your product to AI is the design work today, and 'shadcn/ui' is the easy part.",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://blog.mozilla.org/ux/2026/08/let-your-designs-fail-for-the-right-reasons/",
-      "title": "Let your designs fail for the right reasons",
+      "url": "https://medium.com/@yash2808soni/designing-a-system-a-machine-could-read-b3a1731e1118?source=rss------ai_design-5",
+      "title": "Designing a system a machine could read",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxplanet.org/claude-code-doesnt-need-more-context-it-needs-less-7a988e2c7210?source=rss----819cc2aaeee0---4",
-      "title": "Claude Code Doesn't Need More Context. It Needs Less.",
+      "url": "https://tympanus.net/codrops/2026/08/13/from-motion-to-meaning-denis-avramenkos-approach-to-interactive-design/",
+      "title": "From Motion to Meaning: Denis Avramenko's Approach to Interactive Design",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://tympanus.net/codrops/2026/08/12/creating-an-interactive-3d-cluster-with-three-js-tsl-and-three-start/",
-      "title": "Creating an Interactive 3D Cluster with Three.js, TSL and Three Start",
+      "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4",
+      "title": "Rethinking design leadership with swarms and flocks",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://css-tricks.com/blocked-aria-hidden-fix/",
-      "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You've Found is Wrong",
+      "url": "https://uxdesign.cc/what-star-wars-got-wrong-about-ai-so-far-227472bd24ea?source=rss----138adf9c44c---4",
+      "title": "What Star Wars got wrong about AI (so far)",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://www.imkylelambert.com/articles/everyone-is-designing-with-ai-not-for-it",
-      "title": "Everyone is designing with AI, not for it",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "title": "Why is everyone in tech so sad?",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://lethain.com/middle-management-roles-were-also-a-trap/",
-      "title": "Middle management roles are also a trap",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://kuber.studio/cookie/",
-      "title": "I didn't set a cookie",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://taylor.town/leaving-openai",
-      "title": "I'm leaving OpenAI to build Jurassic Park",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://uxdesign.cc/the-css-hack-that-extends-your-website-on-ios-safari-973b4241e612?source=rss----138adf9c44c---4",
-      "title": "The CSS hack that extends your website on iOS Safari",
-      "profile": "Design"
-    },
-    {
-      "n": 30,
-      "url": "https://medium.com/@lightingbeetle/human-first-ai-second-why-the-user-must-come-before-the-technology-b669c3a18aa0?source=rss------ai_design-5",
-      "title": "Human First, AI Second: Why the user must come before the technology",
+      "url": "https://uxdesign.cc/framer-is-killing-the-marketplace-or-are-they-cc96a67763b3?source=rss----138adf9c44c---4",
+      "title": "Framer is killing the marketplace… or are they?",
       "profile": "Design"
     }
   ]
