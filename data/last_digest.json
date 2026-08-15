@@ -1,148 +1,154 @@
 {
-  "generated_at": "2026-08-14T07:08:03+00:00",
+  "generated_at": "2026-08-15T07:08:52+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
+      "title": "v0.32.12",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+      "title": "How Claude's text watermarking works - anthropic.com",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "title": "The builder's guide to GPT‑5.6",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJTZlhtVTRzSklWWklDbGUyQW9JTC1TSkJkNEhRQlZhMDd2YmJUUlYxUDJ3WGNlblhzOTRRd0NGV3ZlRTNSTk5KZG91cFNuN3pNOFk0RXZDYmV5MWtCUG1fZjA1dTZpZjdGazBldDBYU2w3dDBlN18zLXBENUxXMW9SZGJlelVIaENWb3JvSUtsMnhfSFNRWC16OFF0VmFtWWx1SHhrWS1BWVJ4S3R5YVlHV3RZaTM1dVJF?oc=5",
+      "title": "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter - Bloomberg.com",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUJVb09VWW9NajVRYjVmRF9fVl92WTJPSUUwMFNROXExMVBvZGFUSHdoQmxTcFB5aXY0MDgzQWx1VEViWUVtMnp1TnNIblBIREJiRkNDOWJib3NSMlc3OERtTXBxd1ZrN2FQeng3cFlXMTdYci1XVkNqY1NfUzA2Y2hLRF9lTW5zMGlGYkVRb2w1dTY1bF8tVTFqeVFDRVlVYU8ySy1pQ0Z0M3d6LXlMSzdTb9IBswFBVV95cUxPRUJVb09VWW9NajVRYjVmRF9fVl92WTJPSUUwMFNROXExMVBvZGFUSHdoQmxTcFB5aXY0MDgzQWx1VEViWUVtMnp1TnNIblBIREJiRkNDOWJib3NSMlc3OERtTXBxd1ZrN2FQeng3cFlXMTdYci1XVkNqY1NfUzA2Y2hLRF9lTW5zMGlGYkVRb2w1dTY1bF8tVTFqeVFDRVlVYU8ySy1pQ0Z0M3d6LXlMSzdTbw?oc=5",
+      "title": "Samsung Claude Code Reportedly Cut Chip Verification From a Month to Two Days - Tech My Money",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "title": "Microsoft is combining its Copilot apps ahead of a 'super app'",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkdIelhNaEx1Y3Ffbno0N0gzQ0xwc2ZDNlJPVGE3cGFWVXl3Q0Q2Yk5WUWgtNHZXbUJNUW9BZGlRUzhNVU5LLWxCNHZyUGtJYms3dlZRTkVfLVJ1Und4eEI0Zk5scnV4Mkt3ZDFpSkE2WG9sQU9ZdGNoXzNjTnR1XzJfR2pPcnd2djdiWkF6cDdyb2szMkZYOU5MU29IcTk4SVVQcWJFZGJkSHFUd19Gag?oc=5",
+      "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate - the-decoder.com",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+      "title": "PSA: Claude Code now enables auto mode as default, Anthropic says - 9to5Mac",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "title": "Suno is trying to look more like a real music production tool",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "title": "You can now turn off Google Gemini's visible watermarks",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "title": "Nvidia's new $500B plan is risky but brilliant, especially for aging GPUs",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.1.0",
+      "title": "v3.1.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+      "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.11",
-      "title": "v0.32.11",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.10",
-      "title": "v0.32.10",
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
-      "title": "New EU Guidelines For AI Labelling",
+      "url": "https://stolen-thoughts.com/",
+      "title": "Stolen thoughts",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://linear.app/changelog/2026-08-13-team-initiatives",
-      "title": "Team initiatives",
+      "url": "https://uxplanet.org/3-types-of-agentic-workflows-in-claude-code-safe-risky-and-dangerous-6bcf401a2fb5?source=rss----819cc2aaeee0---4",
+      "title": "3 Types of Agentic Workflows in Claude Code: Safe, Risky, and Dangerous",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/top-5-claude-design-tips-tricks-for-product-designers-1f565d1a36a6?source=rss----819cc2aaeee0---4",
-      "title": "Top 5 Claude Design Tips & Tricks for Product Designers",
+      "url": "https://yaronschoen.com/blog/claude-code-101-for-designers/",
+      "title": "Claude Code 101, for designers",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@luisfelipearaujoflorez/explaining-your-product-to-ai-is-the-design-work-today-and-believe-me-shadcn-ui-is-the-easy-787ac92e5863?source=rss------ai_design-5",
-      "title": "Explaining your product to AI is the design work today, and 'shadcn/ui' is the easy part.",
+      "url": "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "One AI Output Is an Example, Not an Evaluation",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@yash2808soni/designing-a-system-a-machine-could-read-b3a1731e1118?source=rss------ai_design-5",
-      "title": "Designing a system a machine could read",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "title": "AI is removing the middle class of software engineering",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://tympanus.net/codrops/2026/08/13/from-motion-to-meaning-denis-avramenkos-approach-to-interactive-design/",
-      "title": "From Motion to Meaning: Denis Avramenko's Approach to Interactive Design",
+      "url": "https://css-tricks.com/whats-important-17/",
+      "title": "What's !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4",
-      "title": "Rethinking design leadership with swarms and flocks",
+      "url": "https://mattrothenberg.com/notes/you-dont-have-a-design-system/",
+      "title": "You don't have a design system",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/what-star-wars-got-wrong-about-ai-so-far-227472bd24ea?source=rss----138adf9c44c---4",
-      "title": "What Star Wars got wrong about AI (so far)",
+      "url": "https://gooey.jakubantalik.com/",
+      "title": "Liquid Gooey",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxdesign.cc/framer-is-killing-the-marketplace-or-are-they-cc96a67763b3?source=rss----138adf9c44c---4",
-      "title": "Framer is killing the marketplace… or are they?",
+      "url": "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Psychological Ownership: Own the Right Things",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?source=rss----138adf9c44c---4",
+      "title": "Getting started is not getting it right",
       "profile": "Design"
     }
   ]
