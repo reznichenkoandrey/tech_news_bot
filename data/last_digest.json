@@ -1,154 +1,118 @@
 {
-  "generated_at": "2026-08-15T07:08:52+00:00",
+  "generated_at": "2026-08-16T07:08:04+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
-      "title": "v0.32.12",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "title": "SpaceX officially closes its Cursor acquisition",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-      "title": "How Claude's text watermarking works - anthropic.com",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "title": "Anthropic shares more details about how Claude's new watermarks will work",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJTZlhtVTRzSklWWklDbGUyQW9JTC1TSkJkNEhRQlZhMDd2YmJUUlYxUDJ3WGNlblhzOTRRd0NGV3ZlRTNSTk5KZG91cFNuN3pNOFk0RXZDYmV5MWtCUG1fZjA1dTZpZjdGazBldDBYU2w3dDBlN18zLXBENUxXMW9SZGJlelVIaENWb3JvSUtsMnhfSFNRWC16OFF0VmFtWWx1SHhrWS1BWVJ4S3R5YVlHV3RZaTM1dVJF?oc=5",
-      "title": "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGVwQ3JiUlNPS3Q4QUJjTXA0WWo4OGVfTm1qOVdPbGFIUnFueExrTldXdzZsTjJFVTdXTWsyanJGWjUxQ29IeFJqVWVHNUJtdW9oTFRzSmNtbm05S1VlWVlkZ1lDVnNWOXFPbTVCT2JIZU5aR3M4WHktMmhjNjVrNjZUNERyU2ZnV2pJTWVPTnc3SWs?oc=5",
+      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks - Business Insider",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTkUtN1JJNndlRk9nVUhxNFJGT2tXT2w2RkNKWWxkM1ZjSFV3bWxrVjUtYjEwaUdfcFNNZVJSMDZEVWIzU09vYlBrNmVnWjM5UWpOTXJJNnMydFFGSmhnTWd2LUNhRVlRdm5MV3U1eVU3Q1g0alZXQ3pTcFFjakstME1RN3VGcVE4QXZuQVpMcFE0NnpmbGZRakg1b2YtakNiWDhweVRVbkpFM1ZwV25BemJFTXN2ajdkX2NzMTh3?oc=5",
+      "title": "Anthropic becomes the 'Apple of AI' as it grabs most revenue despite being the most expensive - TechRadar",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaldqMEdvOEN4X2QxWGdpVlVIelBFZXVYd1hPdEgwRWdGTG1lSDRpNmJyV0pMdXZPelF2dWN2RXV2WE5nR2Z1U0QwQkFlenItQjBjX0JIM1djUnc3c0dKeXF0bUx5V0Z5elhiRXRPX1BsVWFNd3JxNlp6UGp5Q3ViNFBJVXdzaHZHQjVzVFNsbEQwUVN6Y2lEZkRvQmhuUDdwX0U1RlpMSlo?oc=5",
+      "title": "Anthropic Explains Its Watermark System as Some Claude Users Loudly Revolt - Gizmodo",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUJVb09VWW9NajVRYjVmRF9fVl92WTJPSUUwMFNROXExMVBvZGFUSHdoQmxTcFB5aXY0MDgzQWx1VEViWUVtMnp1TnNIblBIREJiRkNDOWJib3NSMlc3OERtTXBxd1ZrN2FQeng3cFlXMTdYci1XVkNqY1NfUzA2Y2hLRF9lTW5zMGlGYkVRb2w1dTY1bF8tVTFqeVFDRVlVYU8ySy1pQ0Z0M3d6LXlMSzdTb9IBswFBVV95cUxPRUJVb09VWW9NajVRYjVmRF9fVl92WTJPSUUwMFNROXExMVBvZGFUSHdoQmxTcFB5aXY0MDgzQWx1VEViWUVtMnp1TnNIblBIREJiRkNDOWJib3NSMlc3OERtTXBxd1ZrN2FQeng3cFlXMTdYci1XVkNqY1NfUzA2Y2hLRF9lTW5zMGlGYkVRb2w1dTY1bF8tVTFqeVFDRVlVYU8ySy1pQ0Z0M3d6LXlMSzdTbw?oc=5",
-      "title": "Samsung Claude Code Reportedly Cut Chip Verification From a Month to Two Days - Tech My Money",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaldqMEdvOEN4X2QxWGdpVlVIelBFZXVYd1hPdEgwRWdGTG1lSDRpNmJyV0pMdXZPelF2dWN2RXV2WE5nR2Z1U0QwQkFlenItQjBjX0JIM1djUnc3c0dKeXF0bUx5V0Z5elhiRXRPX1BsVWFNd3JxNlp6UGp5Q3ViNFBJVXdzaHZHQjVzVFNsbEQwUVN6Y2lEZkRvQmhuUDdwX0U1RlpMSlo?oc=5",
+      "title": "Anthropic Warns Developers to Avoid Wasting Tokens in Claude Code Sessions - KuCoin",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkdIelhNaEx1Y3Ffbno0N0gzQ0xwc2ZDNlJPVGE3cGFWVXl3Q0Q2Yk5WUWgtNHZXbUJNUW9BZGlRUzhNVU5LLWxCNHZyUGtJYms3dlZRTkVfLVJ1Und4eEI0Zk5scnV4Mkt3ZDFpSkE2WG9sQU9ZdGNoXzNjTnR1XzJfR2pPcnd2djdiWkF6cDdyb2szMkZYOU5MU29IcTk4SVVQcWJFZGJkSHFUd19Gag?oc=5",
-      "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UXy10SnRHUDJvS01YNUpFUk9XNWtuU2F1em81SEdHRFJSY0plRkVzeHhCOWNLWUYwZHFIWkZ2d1lpb2pUYzBKV1NwSEQ3OUJ3WUFSUEFDZGhwcm5UanJvb2c3TjJsRmhySVc1aTNSUThMdUhGSVE?oc=5",
+      "title": "Samsung Says Anthropic's Claude Code Slashes Chip Verification From Weeks to Days, With Caveats - finance.biggo.com",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-      "title": "PSA: Claude Code now enables auto mode as default, Anthropic says - 9to5Mac",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
+      "title": "Survival of the Fitted: Qwen3.6-27B's Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10448",
+      "title": "b10448",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10447",
+      "title": "b10447",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "title": "You can now turn off Google Gemini's visible watermarks",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.1.0",
-      "title": "v3.1.0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0",
+      "title": "v0.32.14",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
-      "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10450",
+      "title": "b10450",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10444",
+      "title": "b10444",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10441",
+      "title": "b10441",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://stolen-thoughts.com/",
-      "title": "Stolen thoughts",
+      "url": "https://medium.com/@censync_dev/ontological-boundaries-and-polymorphic-architectures-for-grounding-artificial-intelligence-0026a66e78da?source=rss------ai_design-5",
+      "title": "Ontological Boundaries and Polymorphic Architectures for Grounding Artificial Intelligence",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/3-types-of-agentic-workflows-in-claude-code-safe-risky-and-dangerous-6bcf401a2fb5?source=rss----819cc2aaeee0---4",
-      "title": "3 Types of Agentic Workflows in Claude Code: Safe, Risky, and Dangerous",
+      "url": "https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/",
+      "title": "Inside HAOQI.DESIGN: Letting DOM and WebGL Share a Retro-Futurist Stage",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://yaronschoen.com/blog/claude-code-101-for-designers/",
-      "title": "Claude Code 101, for designers",
+      "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
+      "title": "How to become an AI Designer",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "One AI Output Is an Example, Not an Evaluation",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "title": "AI is removing the middle class of software engineering",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://css-tricks.com/whats-important-17/",
-      "title": "What's !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://mattrothenberg.com/notes/you-dont-have-a-design-system/",
-      "title": "You don't have a design system",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://gooey.jakubantalik.com/",
-      "title": "Liquid Gooey",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Psychological Ownership: Own the Right Things",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?source=rss----138adf9c44c---4",
-      "title": "Getting started is not getting it right",
+      "url": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
+      "title": "Who gets the meter?",
       "profile": "Design"
     }
   ]
