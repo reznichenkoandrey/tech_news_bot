@@ -1,118 +1,100 @@
 {
-  "generated_at": "2026-08-16T07:08:04+00:00",
+  "generated_at": "2026-08-17T07:07:18+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "title": "Anthropic shares more details about how Claude's new watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "title": "OpenAI reportedly disbanded its preparedness team",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGVwQ3JiUlNPS3Q4QUJjTXA0WWo4OGVfTm1qOVdPbGFIUnFueExrTldXdzZsTjJFVTdXTWsyanJGWjUxQ29IeFJqVWVHNUJtdW9oTFRzSmNtbm05S1VlWVlkZ1lDVnNWOXFPbTVCT2JIZU5aR3M4WHktMmhjNjVrNjZUNERyU2ZnV2pJTWVPTnc3SWs?oc=5",
-      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks - Business Insider",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "title": "ChatGPT's Computer History tracks your clicks and keystrokes",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTkUtN1JJNndlRk9nVUhxNFJGT2tXT2w2RkNKWWxkM1ZjSFV3bWxrVjUtYjEwaUdfcFNNZVJSMDZEVWIzU09vYlBrNmVnWjM5UWpOTXJJNnMydFFGSmhnTWd2LUNhRVlRdm5MV3U1eVU3Q1g0alZXQ3pTcFFjakstME1RN3VGcVE4QXZuQVpMcFE0NnpmbGZRakg1b2YtakNiWDhweVRVbkpFM1ZwV25BemJFTXN2ajdkX2NzMTh3?oc=5",
-      "title": "Anthropic becomes the 'Apple of AI' as it grabs most revenue despite being the most expensive - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUFoSTRXenA2LWo3RksxNG9TMzI3dG1ydUpRempMTVFBZVBNb3N5Qi1Kbi10WlkwcUZ5OFVfTkdpZDB5eU1CZUV1dlBDc0UtQ2FJRTBERE42elFjQXhfcmlqN2U3aWhhT0pxZjFtc0p3V2VRNWxLaWZyYjlhLUF3WmpYS1oxU3BGMkctbTlrbXNzekxCYUpJb1JvXzVlMjk4OHdtSWMxLTFuZzZqWmVVek9CYVpvT1FtMUtvc0pmUkNwaEFLa2ZObU9TOGtfWWpFcnVlS0xVNA?oc=5",
+      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaldqMEdvOEN4X2QxWGdpVlVIelBFZXVYd1hPdEgwRWdGTG1lSDRpNmJyV0pMdXZPelF2dWN2RXV2WE5nR2Z1U0QwQkFlenItQjBjX0JIM1djUnc3c0dKeXF0bUx5V0Z5elhiRXRPX1BsVWFNd3JxNlp6UGp5Q3ViNFBJVXdzaHZHQjVzVFNsbEQwUVN6Y2lEZkRvQmhuUDdwX0U1RlpMSlo?oc=5",
-      "title": "Anthropic Explains Its Watermark System as Some Claude Users Loudly Revolt - Gizmodo",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaldqMEdvOEN4X2QxWGdpVlVIelBFZXVYd1hPdEgwRWdGTG1lSDRpNmJyV0pMdXZPelF2dWN2RXV2WE5nR2Z1U0QwQkFlenItQjBjX0JIM1djUnc3c0dKeXF0bUx5V0Z5elhiRXRPX1BsVWFNd3JxNlp6UGp5Q3ViNFBJVXdzaHZHQjVzVFNsbEQwUVN6Y2lEZkRvQmhuUDdwX0U1RlpMSlo?oc=5",
-      "title": "Anthropic Warns Developers to Avoid Wasting Tokens in Claude Code Sessions - KuCoin",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqaqgn/simon_willison_qwen_38_27b_is_excellent_but_it/",
+      "title": "Simon Willison: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UXy10SnRHUDJvS01YNUpFUk9XNWtuU2F1em81SEdHRFJSY0plRkVzeHhCOWNLWUYwZHFIWkZ2d1lpb2pUYzBKV1NwSEQ3OUJ3WUFSUEFDZGhwcm5UanJvb2c3TjJsRmhySVc1aTNSUThMdUhGSVE?oc=5",
-      "title": "Samsung Says Anthropic's Claude Code Slashes Chip Verification From Weeks to Days, With Caveats - finance.biggo.com",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq6fdj/qwen3827b_on_rtx_3090_82_tps_single_request_up_to/",
+      "title": "Qwen3.8-27b on RTX 3090 - 82 tps single request, up to 672 tps peak",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
-      "title": "Survival of the Fitted: Qwen3.6-27B's Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/",
+      "title": "Paper claims RL for reasoning only changes 1-3% of tokens, and they replicate the gains without RL at ~1000x less compute",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10448",
-      "title": "b10448",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqfyr6/i_just_ran_qwen_38_27_in_q4_against_gpt_56_sol/",
+      "title": "I just ran Qwen 3.8 27 in Q4 against GPT 5.6 Sol high - and it easily won against SOL - complex animated SVG tasks",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10447",
-      "title": "b10447",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqaqgn/simon_willison_qwen_38_27b_is_excellent_but_it/",
+      "title": "Simon Willison: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq279o/based_on_an_accelerating_frontier_local/",
+      "title": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0",
-      "title": "v0.32.14",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq1n1l/lets_all_thank_georgi_gerganov_who_gave_use/",
+      "title": "Let's all thank Georgi Gerganov who gave use llama.cpp",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10450",
-      "title": "b10450",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.14",
+      "title": "v0.32.14",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10444",
-      "title": "b10444",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10456",
+      "title": "b10456",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10441",
-      "title": "b10441",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10455",
+      "title": "b10455",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@censync_dev/ontological-boundaries-and-polymorphic-architectures-for-grounding-artificial-intelligence-0026a66e78da?source=rss------ai_design-5",
-      "title": "Ontological Boundaries and Polymorphic Architectures for Grounding Artificial Intelligence",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/",
-      "title": "Inside HAOQI.DESIGN: Letting DOM and WebGL Share a Retro-Futurist Stage",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
-      "title": "How to become an AI Designer",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
-      "title": "Who gets the meter?",
+      "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
+      "title": "You already know how to make it accessible",
       "profile": "Design"
     }
   ]
