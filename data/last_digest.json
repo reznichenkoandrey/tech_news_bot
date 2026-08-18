@@ -1,100 +1,184 @@
 {
-  "generated_at": "2026-08-17T07:07:18+00:00",
+  "generated_at": "2026-08-18T07:08:14+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "title": "Anthropic's annualized revenue surges to $65B",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "title": "Anthropic explains how Claude's invisible text watermarks will work",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "title": "ChatGPT's Computer History tracks your clicks and keystrokes",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUFoSTRXenA2LWo3RksxNG9TMzI3dG1ydUpRempMTVFBZVBNb3N5Qi1Kbi10WlkwcUZ5OFVfTkdpZDB5eU1CZUV1dlBDc0UtQ2FJRTBERE42elFjQXhfcmlqN2U3aWhhT0pxZjFtc0p3V2VRNWxLaWZyYjlhLUF3WmpYS1oxU3BGMkctbTlrbXNzekxCYUpJb1JvXzVlMjk4OHdtSWMxLTFuZzZqWmVVek9CYVpvT1FtMUtvc0pmUkNwaEFLa2ZObU9TOGtfWWpFcnVlS0xVNA?oc=5",
-      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "title": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqaqgn/simon_willison_qwen_38_27b_is_excellent_but_it/",
-      "title": "Simon Willison: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq6fdj/qwen3827b_on_rtx_3090_82_tps_single_request_up_to/",
-      "title": "Qwen3.8-27b on RTX 3090 - 82 tps single request, up to 672 tps peak",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/",
-      "title": "Paper claims RL for reasoning only changes 1-3% of tokens, and they replicate the gains without RL at ~1000x less compute",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.2.0",
+      "title": "v3.2.0",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqfyr6/i_just_ran_qwen_38_27_in_q4_against_gpt_56_sol/",
-      "title": "I just ran Qwen 3.8 27 in Q4 against GPT 5.6 Sol high - and it easily won against SOL - complex animated SVG tasks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/",
+      "title": "Artificial Analysis' Qwen3.8-27B benchmarks put it neck and neck with DeepSeek V4 and GPT-5.6 Luna Max",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqaqgn/simon_willison_qwen_38_27b_is_excellent_but_it/",
-      "title": "Simon Willison: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
+      "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq279o/based_on_an_accelerating_frontier_local/",
-      "title": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqszw0/llamacpp_version_v010_has_been_released/",
+      "title": "llama.cpp version v0.1.0 has been released",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq1n1l/lets_all_thank_georgi_gerganov_who_gave_use/",
-      "title": "Let's all thank Georgi Gerganov who gave use llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+      "title": "v0.1.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.14",
-      "title": "v0.32.14",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrhg08/tencentuimate27b_hugging_face/",
+      "title": "tencent/UI-Mate-27B · Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10456",
-      "title": "b10456",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqnbhe/petition_to_add_a_rule_for_people_to_add_their/",
+      "title": "Petition to add a rule for people to add their DAMN quant levels to their posts",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10455",
-      "title": "b10455",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqx6nd/ling_30_tiny_is_the_strongest_fastest_and/",
+      "title": "Ling 3.0 Tiny is the strongest, fastest and greatest model on my low end PC!",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
-      "title": "You already know how to make it accessible",
+      "url": "https://medium.com/@bhupendrapundir1994/what-is-genui-building-an-ai-powered-quiz-app-with-flutter-openrouter-and-a2ui-3012fb63a560?source=rss------generative_ui-5",
+      "title": "What Is GenUI? Building an AI-Powered Quiz App with Flutter, OpenRouter and A2UI.",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://uxplanet.org/3-simple-tricks-that-will-help-you-iterate-your-design-with-claude-design-af4143b64cae?source=rss----819cc2aaeee0---4",
+      "title": "3 Simple Tricks That Will Help You Iterate Your Design with Claude Design",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://uxplanet.org/claude-design-critique-a-better-way-to-improve-ai-generated-ui-7efa1064bf8a?source=rss----819cc2aaeee0---4",
+      "title": "Claude Design Critique: A Better Way to Improve AI-Generated UI",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://delarocha.medium.com/your-design-system-has-a-new-reader-2dced0a536d7?source=rss------ai_design-5",
+      "title": "Your Design System Has a New Reader",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@vicentegrafico.com/designers-can-build-now-design-teams-arent-organized-for-it-ef33ae70d4b1?source=rss------ai_design-5",
+      "title": "Designers can build now. Design teams aren't organized for it.",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://bit.ly/side-gra2",
+      "title": "Take your meeting context to new places",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://superposition.jem.computer/design-is-how-it-tastes/",
+      "title": "Design is how it tastes",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://www.minoradventures.co/blog/the-making-of-cursors-icons",
+      "title": "The making of Cursor's icons",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://medium.com/@gmatechnologiesus/ai-driven-ui-ux-in-2026-how-faster-design-cycles-create-a-competitive-edge-ea58a78f1f42?source=rss------ai_design-5",
+      "title": "AI-Driven UI/UX in 2026: How Faster Design Cycles Create a Competitive Edge",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/design-bootcamp/how-i-vibe-coded-my-portfolio-as-a-product-designer-04e0dc36e666?source=rss------ai_design-5",
+      "title": "How I vibe coded my portfolio as a product designer",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
+      "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4",
+      "title": "The feature was fine. So why did users keep hiding it?",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4",
+      "title": "AI adoption and the slow erosion of design idealism",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://eigendrum.com/#p=circle",
+      "title": "Eigendrum",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://buttondown.com/nic-steenhout/archive/accessibility-getting-dropped-in-the-process/",
+      "title": "Accessibility getting dropped in the process",
       "profile": "Design"
     }
   ]
