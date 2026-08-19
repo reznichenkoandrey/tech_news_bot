@@ -1,184 +1,184 @@
 {
-  "generated_at": "2026-08-18T07:08:14+00:00",
+  "generated_at": "2026-08-19T07:08:11+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "title": "Anthropic's annualized revenue surges to $65B",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "title": "ChatGPT Ads expands across Europe",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "title": "Anthropic explains how Claude's invisible text watermarks will work",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "title": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "title": "Etched's valuation doubles to $21B in a month",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "title": "Warp's new system is an out-of-the-box software factory for AI development",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.2.0",
-      "title": "v3.2.0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/",
-      "title": "Artificial Analysis' Qwen3.8-27B benchmarks put it neck and neck with DeepSeek V4 and GPT-5.6 Luna Max",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "title": "Firefox's Smart Window promises a better AI browser",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
-      "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqszw0/llamacpp_version_v010_has_been_released/",
-      "title": "llama.cpp version v0.1.0 has been released",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
+      "title": "How Claude is accelerating protein design and analytical chemistry - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
-      "title": "v0.1.0",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQam41bnpyQ0FIMnZ3ZkhLYXBhTkVUb3dpbk9JQkdBZEFzNmh6SkM5RUpNdFdCXzJUS0FQdVViZnB3Y0xFWVhhTW5qenpUZGlKellzelJGdklqT0xMZmZTSFNvLTQ2SjJfSkdjenRXVjdQbWNudVhuYloxUldjZVY4UU4zWmlkN19HaWdwTkJtdVVDN3N1RExFanRzZGl1QQ?oc=5",
+      "title": "Claude can now send emails in Gmail, even without your approval - 9to5Google",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrhg08/tencentuimate27b_hugging_face/",
-      "title": "tencent/UI-Mate-27B · Hugging Face",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.3.0",
+      "title": "v3.3.0",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqnbhe/petition_to_add_a_rule_for_people_to_add_their/",
-      "title": "Petition to add a rule for people to add their DAMN quant levels to their posts",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2",
+      "title": "v0.1.2",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqx6nd/ling_30_tiny_is_the_strongest_fastest_and/",
-      "title": "Ling 3.0 Tiny is the strongest, fastest and greatest model on my low end PC!",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "title": "How Much Memory Does Your Agent Actually Need?",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@bhupendrapundir1994/what-is-genui-building-an-ai-powered-quiz-app-with-flutter-openrouter-and-a2ui-3012fb63a560?source=rss------generative_ui-5",
-      "title": "What Is GenUI? Building an AI-Powered Quiz App with Flutter, OpenRouter and A2UI.",
+      "url": "https://linear.app/now/rebuilding-delta-sync-read-path",
+      "title": "Rebuilding Linear's delta sync read path",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/3-simple-tricks-that-will-help-you-iterate-your-design-with-claude-design-af4143b64cae?source=rss----819cc2aaeee0---4",
-      "title": "3 Simple Tricks That Will Help You Iterate Your Design with Claude Design",
+      "url": "https://www.agentbehavior.dev/",
+      "title": "Agent behavior",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/claude-design-critique-a-better-way-to-improve-ai-generated-ui-7efa1064bf8a?source=rss----819cc2aaeee0---4",
-      "title": "Claude Design Critique: A Better Way to Improve AI-Generated UI",
+      "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
+      "title": "Try these 10 skills—and show off your own",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://delarocha.medium.com/your-design-system-has-a-new-reader-2dced0a536d7?source=rss------ai_design-5",
-      "title": "Your Design System Has a New Reader",
+      "url": "https://blog.ronbronson.com/agent-experience-needs-failure-affordances",
+      "title": "Agent experience needs failure affordances",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@vicentegrafico.com/designers-can-build-now-design-teams-arent-organized-for-it-ef33ae70d4b1?source=rss------ai_design-5",
-      "title": "Designers can build now. Design teams aren't organized for it.",
+      "url": "https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270",
+      "title": "How to make your design system agent-ready",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://bit.ly/side-gra2",
-      "title": "Take your meeting context to new places",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "title": "99% of my website traffic is bots",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://superposition.jem.computer/design-is-how-it-tastes/",
-      "title": "Design is how it tastes",
+      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "title": "The human is the loop",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://www.minoradventures.co/blog/the-making-of-cursors-icons",
-      "title": "The making of Cursor's icons",
+      "url": "https://www.morphicons.com/",
+      "title": "Morphicons",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://medium.com/@gmatechnologiesus/ai-driven-ui-ux-in-2026-how-faster-design-cycles-create-a-competitive-edge-ea58a78f1f42?source=rss------ai_design-5",
-      "title": "AI-Driven UI/UX in 2026: How Faster Design Cycles Create a Competitive Edge",
+      "url": "https://play.ertdfgcvb.xyz/",
+      "title": "Play",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://medium.com/design-bootcamp/how-i-vibe-coded-my-portfolio-as-a-product-designer-04e0dc36e666?source=rss------ai_design-5",
-      "title": "How I vibe coded my portfolio as a product designer",
+      "url": "https://azgaar.github.io/Fantasy-Map-Generator/",
+      "title": "Azgaar's fantasy map generator",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
-      "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
+      "url": "https://tympanus.net/codrops/2026/08/18/building-an-animated-testimonial-hero-using-the-gsap-timeline-and-dynamic-cms-data/",
+      "title": "Building an Animated Testimonial Hero Using the GSAP Timeline and Dynamic CMS Data",
       "profile": "Design"
     },
     {
       "n": 27,
-      "url": "https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4",
-      "title": "The feature was fine. So why did users keep hiding it?",
+      "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2",
+      "title": "Rethinking design leadership with swarms and flocks",
       "profile": "Design"
     },
     {
       "n": 28,
-      "url": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4",
-      "title": "AI adoption and the slow erosion of design idealism",
+      "url": "https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655",
+      "title": "How to experiment when designing in a regulated field like Healthcare",
       "profile": "Design"
     },
     {
       "n": 29,
-      "url": "https://eigendrum.com/#p=circle",
-      "title": "Eigendrum",
+      "url": "https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3?source=rss----138adf9c44c---4",
+      "title": "What is the purpose of software",
       "profile": "Design"
     },
     {
       "n": 30,
-      "url": "https://buttondown.com/nic-steenhout/archive/accessibility-getting-dropped-in-the-process/",
-      "title": "Accessibility getting dropped in the process",
+      "url": "https://uxdesign.cc/what-the-matrix-got-right-about-ai-c741b38dca68?source=rss----138adf9c44c---4",
+      "title": "What The Matrix got right about AI",
       "profile": "Design"
     }
   ]
