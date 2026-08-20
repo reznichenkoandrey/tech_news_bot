@@ -1,184 +1,184 @@
 {
-  "generated_at": "2026-08-19T07:08:11+00:00",
+  "generated_at": "2026-08-20T07:08:16+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "title": "Offering Zero Data Retention for frontier models",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "title": "OpenAI hit the brakes. Now what?",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "title": "Meta AI is getting a Mac app",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "title": "Stripe didn't really buy OpenRouter because of the 'singularity'",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "title": "Etched's valuation doubles to $21B in a month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "title": "Google Gemini is getting a dedicated student hub",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "title": "Warp's new system is an out-of-the-box software factory for AI development",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "title": "LFM2.5 Q4_0 Checkpoints from Quantization-Aware Distillation",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.125.0",
+      "title": "v0.125.0",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "title": "Firefox's Smart Window promises a better AI browser",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.124.0",
+      "title": "v0.124.0",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10509",
+      "title": "b10509",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
-      "title": "How Claude is accelerating protein design and analytical chemistry - Anthropic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
+      "title": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQam41bnpyQ0FIMnZ3ZkhLYXBhTkVUb3dpbk9JQkdBZEFzNmh6SkM5RUpNdFdCXzJUS0FQdVViZnB3Y0xFWVhhTW5qenpUZGlKellzelJGdklqT0xMZmZTSFNvLTQ2SjJfSkdjenRXVjdQbWNudVhuYloxUldjZVY4UU4zWmlkN19HaWdwTkJtdVVDN3N1RExFanRzZGl1QQ?oc=5",
-      "title": "Claude can now send emails in Gmail, even without your approval - 9to5Google",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsr67c/introducing_qwen3827b_dynamic_v3_unsloth_ggufs/",
+      "title": "Introducing Qwen3.8-27B Dynamic v3 Unsloth GGUFs",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.3.0",
-      "title": "v3.3.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b/",
+      "title": "Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.2",
-      "title": "v0.1.2",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.15.1",
+      "title": "Patch release: v5.15.1",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
+      "title": "v0.32.15",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://linear.app/now/rebuilding-delta-sync-read-path",
-      "title": "Rebuilding Linear's delta sync read path",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "title": "CSS Navigation Matching, Early Days",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.agentbehavior.dev/",
-      "title": "Agent behavior",
+      "url": "https://blog.maximeheckel.com/posts/shading-motion/",
+      "title": "Shading motion",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
-      "title": "Try these 10 skills—and show off your own",
+      "url": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
+      "title": "Relighting Images with Depth Maps and Three.js",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://blog.ronbronson.com/agent-experience-needs-failure-affordances",
-      "title": "Agent experience needs failure affordances",
+      "url": "https://medium.com/@sreeja_g_/i-said-claude-design-could-never-ship-features-now-we-hand-off-designs-straight-from-it-9b19683295f7?source=rss------ai_design-5",
+      "title": "I said Claude Design could never ship features. Now we hand off designs straight from it.",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270",
-      "title": "How to make your design system agent-ready",
+      "url": "https://uxplanet.org/7-critical-mistakes-claude-code-users-make-bb8fe76b32ad?source=rss----819cc2aaeee0---4",
+      "title": "7 Critical Mistakes You're Likely Making with Claude Code",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "title": "99% of my website traffic is bots",
+      "url": "https://yeptype.com/article/inter-alternatives",
+      "title": "How to choose a UI font (and 10 Inter alternatives)",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-      "title": "The human is the loop",
+      "url": "https://adobe.design/ideas/is-design-dead-in-the-age-of-ai",
+      "title": "Is design dead in the age of AI?",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://www.morphicons.com/",
-      "title": "Morphicons",
+      "url": "https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4",
+      "title": "AI is lying to us, and nobody seems to care",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://play.ertdfgcvb.xyz/",
-      "title": "Play",
+      "url": "https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4",
+      "title": "Why don't we download airport apps?",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://azgaar.github.io/Fantasy-Map-Generator/",
-      "title": "Azgaar's fantasy map generator",
+      "url": "https://css-tricks.com/wordpress-student-plan/",
+      "title": "WordPress.com Student Plan",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://tympanus.net/codrops/2026/08/18/building-an-animated-testimonial-hero-using-the-gsap-timeline-and-dynamic-cms-data/",
-      "title": "Building an Animated Testimonial Hero Using the GSAP Timeline and Dynamic CMS Data",
+      "url": "https://uxplanet.org/how-ai-is-transforming-global-hiring-in-2026-b8b959ffc4ce?source=rss----819cc2aaeee0---4",
+      "title": "How AI Is Transforming Global Hiring in 2026",
       "profile": "Design"
     },
     {
       "n": 27,
-      "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2",
-      "title": "Rethinking design leadership with swarms and flocks",
+      "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f?source=rss----138adf9c44c---4",
+      "title": "Is the future of software certain once AI is everywhere?",
       "profile": "Design"
     },
     {
       "n": 28,
-      "url": "https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655",
-      "title": "How to experiment when designing in a regulated field like Healthcare",
+      "url": "https://meodai.github.io/poline/",
+      "title": "Poline: esoteric color palette generation",
       "profile": "Design"
     },
     {
       "n": 29,
-      "url": "https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3?source=rss----138adf9c44c---4",
-      "title": "What is the purpose of software",
+      "url": "https://www.pi.fyi/welcome",
+      "title": "Do you miss the old internet?",
       "profile": "Design"
     },
     {
       "n": 30,
-      "url": "https://uxdesign.cc/what-the-matrix-got-right-about-ai-c741b38dca68?source=rss----138adf9c44c---4",
-      "title": "What The Matrix got right about AI",
+      "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
+      "title": "It really wasn't your fault, Coyote",
       "profile": "Design"
     }
   ]
