@@ -1,184 +1,178 @@
 {
-  "generated_at": "2026-08-20T07:08:16+00:00",
+  "generated_at": "2026-08-21T07:08:58+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjdKM3p6TTVON2FNcXFDRVhHd056NU03dGQxNzFYYkNYc09xWDhwS1hETzdFUkoyVkpWM0o1VENSaENzWnIwODBmUThla2dsUWF5UkRuWThvVmRsRVdCZHhCaDVQZ2NYSVdLU2J4aHdaZ19OeDY5LUREbVg1cmR6ZmZxVk5OcG5YX0lHMmFUelNSYjNoVVBJVWNYdENoeFFZdmxEQVBPSDNsQWdIMFdtQnJn?oc=5",
+      "title": "Anthropic Expects to Match or Top SpaceX's Record IPO Size",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "title": "OpenAI hit the brakes. Now what?",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnYwUFRVdWVLLWI4bUJRVnVRYjYwQU9udmp1WkFtZUwyWlNCeDNBU2hFRThJR3UySUJmVnh0bUNXWXNKSmdVZjNraVQwazdnRGFQQmRQeGxmbkVoU3BtS0ZwenMyMmVJVDBSSkhwdnFYcGxzVnkwRXBJVDRCS1NJT2EtbVR4NzBHbExGbUgwR003R0t6dmVRX2VhWjFVTUFXLUVGUjFBN2JWdExIM1NfU9IBtgFBVV95cUxNeWhNVnh6Z2dnVVExT1NZQUdNMTVvNGRVMFZoNE1Ya2ZIWFNvWWJBVXl2RENVR2tSY200VktSb0RnTHktYlZuS1hGVmgxdERGWmZhNks3aC12QXVlUV9OcU5kVWxJU3RIb01PWTI5bGlnRGJBbDhXdlIwcmx2RXZtUi1NcGx5dGh4NUlKY0pOYkdMYWZjNUpZOGJCdUtYU29OT25wNjVTZWlUTVBILUJ3RFo3WG9Mdw?oc=5",
+      "title": "NewEdge Expands Anthropic Claude Across 550+ Advisors As AI Tools Move Into Client Workflows",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "title": "Meta AI is getting a Mac app",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFRMaGQ5dU52cUFMUGJGc0dwS2MzQ05NbXVpUGNmRGJobXNqTlV3UzRkMHhyeDRpX1hPdkNWNWUyRmRUYjBWVmdKVlFfN04xcHJhUzM2aHFObjFrV3pfU2ZYVUx5dXJ1MDUyNV9UUkZVTE8wU1VKV1FBQ2Nma2l0OQ?oc=5",
+      "title": "Claude adds protein design to its resume",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "title": "Stripe didn't really buy OpenRouter because of the 'singularity'",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "title": "Google Gemini is getting a dedicated student hub",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "title": "Ramp launches its own AI model router, called Router",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "title": "LFM2.5 Q4_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0",
+      "title": "v1.0.0",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.125.0",
-      "title": "v0.125.0",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.124.0",
-      "title": "v0.124.0",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10509",
-      "title": "b10509",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
-      "title": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "title": "A third of web pages published since ChatGPT's launch show signs of AI authorship, study finds",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsr67c/introducing_qwen3827b_dynamic_v3_unsloth_ggufs/",
-      "title": "Introducing Qwen3.8-27B Dynamic v3 Unsloth GGUFs",
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b/",
-      "title": "Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)",
+      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "title": "Slack is launching collaborative vibe-coding channels",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.15.1",
-      "title": "Patch release: v5.15.1",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "title": "It's Greg Brockman's OpenAI now",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
-      "title": "v0.32.15",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
-      "title": "CSS Navigation Matching, Early Days",
-      "profile": "Design"
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2",
+      "title": "v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://blog.maximeheckel.com/posts/shading-motion/",
-      "title": "Shading motion",
+      "url": "https://academy.claude.com/",
+      "title": "Claude Academy",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
-      "title": "Relighting Images with Depth Maps and Three.js",
+      "url": "https://uxplanet.org/claude-watermark-explained-what-product-designers-need-to-know-3d14049ca76b?source=rss----819cc2aaeee0---4",
+      "title": "Claude Watermark Explained: What Product Designers Need to Know",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@sreeja_g_/i-said-claude-design-could-never-ship-features-now-we-hand-off-designs-straight-from-it-9b19683295f7?source=rss------ai_design-5",
-      "title": "I said Claude Design could never ship features. Now we hand off designs straight from it.",
+      "url": "https://linear.app/changelog/2026-08-20-coding-environments",
+      "title": "Coding sessions: environments, browser use, and updated pricing",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/7-critical-mistakes-claude-code-users-make-bb8fe76b32ad?source=rss----819cc2aaeee0---4",
-      "title": "7 Critical Mistakes You're Likely Making with Claude Code",
+      "url": "https://uxplanet.org/i-created-a-complete-visual-identity-for-my-product-with-claude-design-ab9c0d095e8e?source=rss----819cc2aaeee0---4",
+      "title": "I Created a Complete Visual Identity for My Product With Claude Design",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://yeptype.com/article/inter-alternatives",
-      "title": "How to choose a UI font (and 10 Inter alternatives)",
+      "url": "https://uxdesign.cc/what-nobody-tells-you-about-ai-ethics-56094d538453?source=rss----138adf9c44c---4",
+      "title": "What nobody tells you about AI ethics",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://adobe.design/ideas/is-design-dead-in-the-age-of-ai",
-      "title": "Is design dead in the age of AI?",
+      "url": "https://tympanus.net/codrops/2026/08/20/run-rob-run-building-a-music-reactive-goo-with-three-js-and-webgpu/",
+      "title": "Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4",
-      "title": "AI is lying to us, and nobody seems to care",
+      "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+      "title": "Timing Charts: A Blueprint For SMIL Animations",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4",
-      "title": "Why don't we download airport apps?",
+      "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205",
+      "title": "How to become an AI Designer",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://css-tricks.com/wordpress-student-plan/",
-      "title": "WordPress.com Student Plan",
+      "url": "https://medium.com/design-bootcamp/is-design-the-new-bottleneck-3063bd1db125?source=rss------ai_design-5",
+      "title": "Is Design the New Bottleneck?",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://uxplanet.org/how-ai-is-transforming-global-hiring-in-2026-b8b959ffc4ce?source=rss----819cc2aaeee0---4",
-      "title": "How AI Is Transforming Global Hiring in 2026",
+      "url": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4",
+      "title": "What The Matrix got wrong about AI (so far)",
       "profile": "Design"
     },
     {
       "n": 27,
-      "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f?source=rss----138adf9c44c---4",
-      "title": "Is the future of software certain once AI is everywhere?",
+      "url": "https://sunilpai.dev/posts/the-task-isnt-the-job/",
+      "title": "The task isn't the job",
       "profile": "Design"
     },
     {
       "n": 28,
-      "url": "https://meodai.github.io/poline/",
-      "title": "Poline: esoteric color palette generation",
+      "url": "https://www.doc.cc/syntax",
+      "title": "Syntax",
       "profile": "Design"
     },
     {
       "n": 29,
-      "url": "https://www.pi.fyi/welcome",
-      "title": "Do you miss the old internet?",
-      "profile": "Design"
-    },
-    {
-      "n": 30,
-      "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
-      "title": "It really wasn't your fault, Coyote",
+      "url": "https://rip.so/",
+      "title": "RIP.so: the digital graveyard",
       "profile": "Design"
     }
   ]
