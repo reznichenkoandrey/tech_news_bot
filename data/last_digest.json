@@ -1,178 +1,112 @@
 {
-  "generated_at": "2026-08-21T07:08:58+00:00",
+  "generated_at": "2026-08-22T07:08:33+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjdKM3p6TTVON2FNcXFDRVhHd056NU03dGQxNzFYYkNYc09xWDhwS1hETzdFUkoyVkpWM0o1VENSaENzWnIwODBmUThla2dsUWF5UkRuWThvVmRsRVdCZHhCaDVQZ2NYSVdLU2J4aHdaZ19OeDY5LUREbVg1cmR6ZmZxVk5OcG5YX0lHMmFUelNSYjNoVVBJVWNYdENoeFFZdmxEQVBPSDNsQWdIMFdtQnJn?oc=5",
-      "title": "Anthropic Expects to Match or Top SpaceX's Record IPO Size",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+      "title": "v0.2.0",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnYwUFRVdWVLLWI4bUJRVnVRYjYwQU9udmp1WkFtZUwyWlNCeDNBU2hFRThJR3UySUJmVnh0bUNXWXNKSmdVZjNraVQwazdnRGFQQmRQeGxmbkVoU3BtS0ZwenMyMmVJVDBSSkhwdnFYcGxzVnkwRXBJVDRCS1NJT2EtbVR4NzBHbExGbUgwR003R0t6dmVRX2VhWjFVTUFXLUVGUjFBN2JWdExIM1NfU9IBtgFBVV95cUxNeWhNVnh6Z2dnVVExT1NZQUdNMTVvNGRVMFZoNE1Ya2ZIWFNvWWJBVXl2RENVR2tSY200VktSb0RnTHktYlZuS1hGVmgxdERGWmZhNks3aC12QXVlUV9OcU5kVWxJU3RIb01PWTI5bGlnRGJBbDhXdlIwcmx2RXZtUi1NcGx5dGh4NUlKY0pOYkdMYWZjNUpZOGJCdUtYU29OT25wNjVTZWlUTVBILUJ3RFo3WG9Mdw?oc=5",
-      "title": "NewEdge Expands Anthropic Claude Across 550+ Advisors As AI Tools Move Into Client Workflows",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
+      "title": "v0.33.0",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFRMaGQ5dU52cUFMUGJGc0dwS2MzQ05NbXVpUGNmRGJobXNqTlV3UzRkMHhyeDRpX1hPdkNWNWUyRmRUYjBWVmdKVlFfN04xcHJhUzM2aHFObjFrV3pfU2ZYVUx5dXJ1MDUyNV9UUkZVTE8wU1VKV1FBQ2Nma2l0OQ?oc=5",
-      "title": "Claude adds protein design to its resume",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "title": "Anthropic's Opus 4.6 is a smut-machine",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEtlVWN3QmU2bFF2QzRyZDBJTUliblExZnM3d1JqcjBLN1V3TDI3MXFnaFdfV1Z5Yl9xRDJ4SkViQVhabEpVQVB4a2tuQ2xDV1doS0ZwWDBBVTJpcXJoS1c2Sk1WQ3p2aDNKYklaYjJpbTZPSENmSzBTQTVodndSWDBWUkJPWml6djBXNWJIazI5dkUtNENLQXZmM0puMzlidExXZnp4aG43WXcwZGZIc3NOR1A0Zw?oc=5",
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "title": "Ramp launches its own AI model router, called Router",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWZBQ1djTVQzRlBJNmxoOWFsbjM1Mnc1WFVBaE5sT01iNDBqVW9mYUQ3RjJ5Z0lFMzBORFJocjJWQzBoLWprREc0QlRNSC1GMDF2WDlwbzR4MF9NVk84dDUxR19KRVdBX1dVa05xV0NrX3E5VXBPXzZrTm5MeGRROUIwQm44NzZwWS1McW9ucmpadnJFdWU00gGcAUFVX3lxTFBMYXhJTC1vSUR1TWt0aDhXUWc3WldXb1h2UmxqQV9OSUNIMFB1Mzc0SmNrSmdUeE0wakg1LWZvNmV2b2dMcV9ISVNTLUN3a1NWWkRueWR1aXRyS0J0c2VSb2hYQjEwN3kyckZwM0hKV0dvOWhEdWc3bGtRenh4cF91OTFBeDhsbnk3Ymxwc0JLR3NaSXAxWUR3MmFyQw?oc=5",
+      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access - MarkTechPost",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0",
-      "title": "v1.0.0",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "title": "Nvidia partners with data center developer Cloverleaf",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "title": "Over 1 million people have clicked LinkedIn's AI slop button",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "title": "A third of web pages published since ChatGPT's launch show signs of AI authorship, study finds",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJ6TTlIZ0pHOUhVV0pKcHJpR2pTYTY0c0swNmlzR2k0LThTaVQzSWROVHJKX1NveEJpOWtEYXZlSkRvLVVDcFROZDA2SURkQXFlaGMtVDY1dllLQUZJb1RzUHZqdUkxVXVGc2gyUDF1NHA4VzBRbmVvd3p2YTNzY0gwSm5aalZXZW10NWpvOVBoMXdYRmc?oc=5",
+      "title": "Why Anthropic's AI watermark is going further than its rivals — for now - Business Insider",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+      "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "title": "Slack is launching collaborative vibe-coding channels",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+      "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "title": "It's Greg Brockman's OpenAI now",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2",
-      "title": "v0.28.0rc2: [Spec Decode] DFlash2: local convolution + candidate selector (#52816)",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Artificial Intelligence: Glossary",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://academy.claude.com/",
-      "title": "Claude Academy",
+      "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "AI-Generated Images Can Perform as Well as Stock Photography",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/claude-watermark-explained-what-product-designers-need-to-know-3d14049ca76b?source=rss----819cc2aaeee0---4",
-      "title": "Claude Watermark Explained: What Product Designers Need to Know",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://linear.app/changelog/2026-08-20-coding-environments",
-      "title": "Coding sessions: environments, browser use, and updated pricing",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxplanet.org/i-created-a-complete-visual-identity-for-my-product-with-claude-design-ab9c0d095e8e?source=rss----819cc2aaeee0---4",
-      "title": "I Created a Complete Visual Identity for My Product With Claude Design",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/what-nobody-tells-you-about-ai-ethics-56094d538453?source=rss----138adf9c44c---4",
-      "title": "What nobody tells you about AI ethics",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://tympanus.net/codrops/2026/08/20/run-rob-run-building-a-music-reactive-goo-with-three-js-and-webgpu/",
-      "title": "Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-      "title": "Timing Charts: A Blueprint For SMIL Animations",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205",
-      "title": "How to become an AI Designer",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://medium.com/design-bootcamp/is-design-the-new-bottleneck-3063bd1db125?source=rss------ai_design-5",
-      "title": "Is Design the New Bottleneck?",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4",
-      "title": "What The Matrix got wrong about AI (so far)",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://sunilpai.dev/posts/the-task-isnt-the-job/",
-      "title": "The task isn't the job",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://www.doc.cc/syntax",
-      "title": "Syntax",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://rip.so/",
-      "title": "RIP.so: the digital graveyard",
+      "url": "https://uxplanet.org/claude-design-for-ux-how-to-design-complete-user-flows-not-just-ui-screens-094d6b8a7855?source=rss----819cc2aaeee0---4",
+      "title": "Claude Design for UX: How to Design Complete User Flows, Not Just UI Screens",
       "profile": "Design"
     }
   ]
