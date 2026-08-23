@@ -1,112 +1,106 @@
 {
-  "generated_at": "2026-08-22T07:08:33+00:00",
+  "generated_at": "2026-08-23T07:07:48+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
-      "title": "v0.2.0",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
-      "title": "v0.33.0",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "title": "Frontier AI labs still won't say how they'd contain a rogue model",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "title": "OpenAI says California should strengthen its AI safety bill",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "title": "Anthropic's Opus 4.6 is a smut-machine",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
+      "title": "Qwen 3.8 27B is a game changer.",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEtlVWN3QmU2bFF2QzRyZDBJTUliblExZnM3d1JqcjBLN1V3TDI3MXFnaFdfV1Z5Yl9xRDJ4SkViQVhabEpVQVB4a2tuQ2xDV1doS0ZwWDBBVTJpcXJoS1c2Sk1WQ3p2aDNKYklaYjJpbTZPSENmSzBTQTVodndSWDBWUkJPWml6djBXNWJIazI5dkUtNENLQXZmM0puMzlidExXZnp4aG43WXcwZGZIc3NOR1A0Zw?oc=5",
-      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvu21m/qwen3827b_one_week_later_the_rlocalllama/",
+      "title": "Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWZBQ1djTVQzRlBJNmxoOWFsbjM1Mnc1WFVBaE5sT01iNDBqVW9mYUQ3RjJ5Z0lFMzBORFJocjJWQzBoLWprREc0QlRNSC1GMDF2WDlwbzR4MF9NVk84dDUxR19KRVdBX1dVa05xV0NrX3E5VXBPXzZrTm5MeGRROUIwQm44NzZwWS1McW9ucmpadnJFdWU00gGcAUFVX3lxTFBMYXhJTC1vSUR1TWt0aDhXUWc3WldXb1h2UmxqQV9OSUNIMFB1Mzc0SmNrSmdUeE0wakg1LWZvNmV2b2dMcV9ISVNTLUN3a1NWWkRueWR1aXRyS0J0c2VSb2hYQjEwN3kyckZwM0hKV0dvOWhEdWc3bGtRenh4cF91OTFBeDhsbnk3Ymxwc0JLR3NaSXAxWUR3MmFyQw?oc=5",
-      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access - MarkTechPost",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen/",
+      "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvl7pc/single_rtx_5090_qwen3827b_nvfp4_at_a_real_262k/",
+      "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on/",
+      "title": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvmxls/new_100b_liquid_ai_model_coming_soon/",
+      "title": "New 100B Liquid AI model coming soon",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "title": "Over 1 million people have clicked LinkedIn's AI slop button",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvrcx5/3_experiments_running_dsv4flash0731_q4_quants_on/",
+      "title": "3 experiments running dsv4-flash-0731 q4+ quants on 128GB RAM + ~60 GB VRAM (with a quite bad pcie infra) with an acceptable tgs and relatively acceptable pp speed",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJ6TTlIZ0pHOUhVV0pKcHJpR2pTYTY0c0swNmlzR2k0LThTaVQzSWROVHJKX1NveEJpOWtEYXZlSkRvLVVDcFROZDA2SURkQXFlaGMtVDY1dllLQUZJb1RzUHZqdUkxVXVGc2gyUDF1NHA4VzBRbmVvd3p2YTNzY0gwSm5aalZXZW10NWpvOVBoMXdYRmc?oc=5",
-      "title": "Why Anthropic's AI watermark is going further than its rivals — for now - Business Insider",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10588",
+      "title": "b10588",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
-      "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10587",
+      "title": "b10587",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
-      "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10585",
+      "title": "b10585",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10580",
+      "title": "b10580",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10578",
+      "title": "b10578",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Artificial Intelligence: Glossary",
+      "url": "https://medium.com/@saritarawat952/claude-just-designed-new-proteins-and-a-lab-confirmed-they-work-aa173f3e53b5?source=rss------ai_design-5",
+      "title": "Claude Just Designed New Proteins – And a Lab Confirmed They Work",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "AI-Generated Images Can Perform as Well as Stock Photography",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://uxplanet.org/claude-design-for-ux-how-to-design-complete-user-flows-not-just-ui-screens-094d6b8a7855?source=rss----819cc2aaeee0---4",
-      "title": "Claude Design for UX: How to Design Complete User Flows, Not Just UI Screens",
+      "url": "https://tympanus.net/codrops/2026/08/22/sixty-frames-for-the-record-a-three-js-game-seven-fly-throughs-and-a-wall-of-crts/",
+      "title": "Sixty Frames for the Record: A Three.js Game, Seven Fly-Throughs, and a Wall of CRTs",
       "profile": "Design"
     }
   ]
