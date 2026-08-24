@@ -1,106 +1,130 @@
 {
-  "generated_at": "2026-08-23T07:07:48+00:00",
+  "generated_at": "2026-08-24T07:08:03+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwt6m7/i_developed_my_own_quantized_llm_from_scratch/",
+      "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "title": "Frontier AI labs still won't say how they'd contain a rogue model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwde84/new_qwen3827b_on_a_39k_line_c_to_singlefile_html/",
+      "title": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwsjut/deepseekv4flash0731_surprisingly_usable/",
+      "title": "deepseek-v4-flash-0731 - surprisingly usable",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
-      "title": "Qwen 3.8 27B is a game changer.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwrc6i/i_trained_a_157bparameter_dreamer_4_world_model/",
+      "title": "I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvu21m/qwen3827b_one_week_later_the_rlocalllama/",
-      "title": "Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwh3u7/we_quantized_qwen_38_27b_and_compared_the_quants/",
+      "title": "We quantized Qwen 3.8 27B and compared the quants on an RTX 6000",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen/",
-      "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that/",
+      "title": "Qwen 3.8 27b helped me with something unique that Opus 4 couldn't - Firmware + Software preservation and emulation on an early 2000's ARM based POS system",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvl7pc/single_rtx_5090_qwen3827b_nvfp4_at_a_real_262k/",
-      "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwoseh/convrot_quant_method_now_in_llamacppturboquant/",
+      "title": "ConvRot Quant method now in llama-cpp-turboquant",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on/",
-      "title": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92/",
+      "title": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvmxls/new_100b_liquid_ai_model_coming_soon/",
-      "title": "New 100B Liquid AI model coming soon",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser/",
+      "title": "1/100 → 44/100: fine-tuning a 450M VLM on 50K browser screenshots",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvrcx5/3_experiments_running_dsv4flash0731_q4_quants_on/",
-      "title": "3 experiments running dsv4-flash-0731 q4+ quants on 128GB RAM + ~60 GB VRAM (with a quite bad pcie infra) with an acceptable tgs and relatively acceptable pp speed",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good/",
+      "title": "DeepSeek Harness is Insanely Good",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10588",
-      "title": "b10588",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw15bm/i_finally_switched_from_windows_to_linux_and_got/",
+      "title": "i finally switched from windows to linux and got a 30-50% boost in speed.",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10587",
-      "title": "b10587",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10603",
+      "title": "b10603",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10585",
-      "title": "b10585",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10598",
+      "title": "b10598",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10580",
-      "title": "b10580",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10593",
+      "title": "b10593",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10578",
-      "title": "b10578",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "title": "Is it legal to train AI models on copyrighted books? It's complicated",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@saritarawat952/claude-just-designed-new-proteins-and-a-lab-confirmed-they-work-aa173f3e53b5?source=rss------ai_design-5",
-      "title": "Claude Just Designed New Proteins – And a Lab Confirmed They Work",
+      "url": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4",
+      "title": "Stop using OKLCH lightness for your color scale",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://tympanus.net/codrops/2026/08/22/sixty-frames-for-the-record-a-three-js-game-seven-fly-throughs-and-a-wall-of-crts/",
-      "title": "Sixty Frames for the Record: A Three.js Game, Seven Fly-Throughs, and a Wall of CRTs",
+      "url": "https://medium.com/@Bad-design230/you-can-spot-ai-design-in-three-seconds-so-can-your-buyer-cd6a221e7db6?source=rss------ai_design-5",
+      "title": "You Can Spot AI Design in Three Seconds. So Can Your Buyer.",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4",
+      "title": "Nobody wants a blank page. Nobody touches a perfect one.",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
+      "title": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@mustaque74/visualspark-ai-review-2026-is-this-ai-visual-content-creator-worth-it-e78b8753d54a?source=rss------ai_design-5",
+      "title": "VisualSpark AI Review 2026: Is This AI Visual Content Creator Worth It?",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/@usamaqaisar1919/replits-starter-plan-is-free-and-it-never-told-me-how-many-credits-i-had-left-3f12471c0c5f?source=rss------ai_design-5",
+      "title": "Replit's Starter Plan Is Free, and It Never Told Me How Many Credits I Had Left",
       "profile": "Design"
     }
   ]
