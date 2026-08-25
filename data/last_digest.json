@@ -1,130 +1,184 @@
 {
-  "generated_at": "2026-08-24T07:08:03+00:00",
+  "generated_at": "2026-08-25T07:09:09+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwt6m7/i_developed_my_own_quantized_llm_from_scratch/",
-      "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwde84/new_qwen3827b_on_a_39k_line_c_to_singlefile_html/",
-      "title": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwsjut/deepseekv4flash0731_surprisingly_usable/",
-      "title": "deepseek-v4-flash-0731 - surprisingly usable",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwrc6i/i_trained_a_157bparameter_dreamer_4_world_model/",
-      "title": "I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwh3u7/we_quantized_qwen_38_27b_and_compared_the_quants/",
-      "title": "We quantized Qwen 3.8 27B and compared the quants on an RTX 6000",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdjRZMEZSR1pQblRQQ2RLdVNFMXdtM0xIWXRaeDJWazNGTF8wYlIzMmhCM0tvNjFtRnlOcVdqQ1NJQVBoODRlb0FpTjVxdUI0U2pJNmtfOG9ZLUxBbllycHdZX0xvYXY3Nm1zQXFENDNRYWFHSUxqM0RPb2xpd3JSbzNpTnBrUHRaNkw4eTFmdXJueG5LcDVwcFB4M2pUcTY4UzV4ZUMxT1luOUZ6dm83MTdXV0M3NVc3YTNXMjl6WGI0RDJwWFBoRzhyUEJnN1IxVG4yYWVIdWo?oc=5",
+      "title": "Anthropic's new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that/",
-      "title": "Qwen 3.8 27b helped me with something unique that Opus 4 couldn't - Firmware + Software preservation and emulation on an early 2000's ARM based POS system",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlZoaFl6aEFqWUlSdGh5MU8xdjNwSmxKNUtoT2VQalNGVk9TWlN1QUJRVl9wZmdvcjhqSlg5WW5aTEVPUFZzYWtiZUtxSVVMUEVkQVBXWkZEVFFpZ2NOVWV2RVRheVU3V2F5bzZ1QnVTQmJJUU9hay1zeVh4UHZpY1RBRGdMbmgyN3BqSlVMNXZSazc5QTlyeGMyT2Z2c0U?oc=5",
+      "title": "Claude will now watermark all content generated using its tools",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwoseh/convrot_quant_method_now_in_llamacppturboquant/",
-      "title": "ConvRot Quant method now in llama-cpp-turboquant",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1E3Um1LaDRvamd5R3M4TDFIdEpIQ1dSY09DV2tsM0FXOTMtUVkxcnlBZ2ZKeEdOcXhYOGtRdFNYQkhab1drZE9WZzhDeHBwbl9vQzlUV29vLXVfcG9WNU5RWDV1cEdHMDBDb0xBVjZiaE5UVDFmeG93OUhpRzRuQnJYOGswcHJwVkJrS1dBeTRSUk5LWXo1S01LVmhLMHZPZU9WWmNhOVRqZ3EwSjZv0gG0AUFVX3lxTE5qdktfNnExbm9jVUYxMlYtMHZ4WmpldE5Qbzg2Ujljdk12NUpTODFLSHNYMEVXUDNIc29lVmNJSGNvS2FuWVBBRW11UlBqTHFhbUhMNURHVEpqUWFSX2RpRlZvSTBzMXZkMjFFVkhXRW1EbjBUZm9QeFJibnZWR242VUhNa1AxN2xuMUxQUGxocGNEVjNVWlZiQjNrRjI4Z2lIOWRMOHNGN0RvZHJvdVkxZF9XLQ?oc=5",
+      "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92/",
-      "title": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "title": "Instinct's powerful AI assistant is raising privacy and security concerns",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser/",
-      "title": "1/100 → 44/100: fine-tuning a 450M VLM on 50K browser screenshots",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good/",
-      "title": "DeepSeek Harness is Insanely Good",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
+      "title": "Bart- A vintage llm [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw15bm/i_finally_switched_from_windows_to_linux_and_got/",
-      "title": "i finally switched from windows to linux and got a 30-50% boost in speed.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
+      "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10603",
-      "title": "b10603",
+      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10598",
-      "title": "b10598",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3",
+      "title": "v0.33.0",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10593",
-      "title": "b10593",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "title": "v0.28.0: [CI/Build] Pin Cython below 3.3 for arm64 tilelang sdist (#53358)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "title": "Is it legal to train AI models on copyrighted books? It's complicated",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10617",
+      "title": "b10617",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4",
-      "title": "Stop using OKLCH lightness for your color scale",
+      "url": "https://css-tricks.com/wordpress-php-block-registration/",
+      "title": "WordPress PHP-Only Block Registration",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@Bad-design230/you-can-spot-ai-design-in-three-seconds-so-can-your-buyer-cd6a221e7db6?source=rss------ai_design-5",
-      "title": "You Can Spot AI Design in Three Seconds. So Can Your Buyer.",
+      "url": "https://uxplanet.org/you-can-now-design-in-claude-code-2946d6088e4a?source=rss----819cc2aaeee0---4",
+      "title": "You Can Now Design in Claude Code",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4",
-      "title": "Nobody wants a blank page. Nobody touches a perfect one.",
+      "url": "https://ilyabirman.net/meanwhile/all/vibe-coding-and-quality/",
+      "title": "Vibe coding and quality",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
-      "title": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
+      "url": "https://tympanus.net/codrops/2026/08/24/blender-to-three-js-and-back-10-tips-for-a-better-workflow/",
+      "title": "Blender to Three.js and Back: 10 Tips for a Better Workflow",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@mustaque74/visualspark-ai-review-2026-is-this-ai-visual-content-creator-worth-it-e78b8753d54a?source=rss------ai_design-5",
-      "title": "VisualSpark AI Review 2026: Is This AI Visual Content Creator Worth It?",
+      "url": "https://is-agentic.com/",
+      "title": "Is Agentic",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@usamaqaisar1919/replits-starter-plan-is-free-and-it-never-told-me-how-many-credits-i-had-left-3f12471c0c5f?source=rss------ai_design-5",
-      "title": "Replit's Starter Plan Is Free, and It Never Told Me How Many Credits I Had Left",
+      "url": "https://balsa-ui.com/",
+      "title": "Balsa UI",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
+      "title": "No log off, How to become an AI Designer, vibe coded portfolios",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://how.complexsystems.fail/",
+      "title": "How complex systems fail",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+      "title": "Susan Kare: Designing icons & graphics for the original Mac",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://utopia.fyi/type/calculator/",
+      "title": "Fluid type scale calculator",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://elliotjaystocks.com/blog/keeping-type-consistent",
+      "title": "Keeping type consistent in changing conditions",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "title": "Perfection is not over-engineering",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://blog.murphytrueman.com/every-fork-looks-like-adoption/",
+      "title": "Every fork looks like adoption",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://bit.ly/side-gra3",
+      "title": "The AI Notepad for back-to-back meetings",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://medium.com/@graceaurelia02024/ai-development-company-chennai-at-top-tech-software-solutions-0c9404b255e9?source=rss------ai_design-5",
+      "title": "AI development company Chennai at Top Tech Software Solutions",
       "profile": "Design"
     }
   ]
