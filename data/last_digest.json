@@ -1,184 +1,178 @@
 {
-  "generated_at": "2026-08-26T07:08:45+00:00",
+  "generated_at": "2026-08-27T07:08:13+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "title": "Nvidia closes in on Hugging Face acquisition",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.16.1",
+      "title": "Release v5.16.1",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.16.0",
+      "title": "Release: v5.16.0",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "title": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0",
-      "title": "v0.33.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face/",
+      "title": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.3.0",
-      "title": "v0.3.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyzzxu/megathread_glm53flash_former_oxalpha/",
+      "title": "[Megathread] GLM-5.3-Flash - former ox-alpha",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzjlxd/glm53_weights_will_be_released_tomorrow/",
+      "title": "GLM-5.3 weights will be released tomorrow",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.1",
+      "title": "v0.33.1",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be/",
-      "title": "Qwen3.8-Flash-Next. This architecture could be surprisingly local-friendly once the weights drop. 👀",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10644",
+      "title": "b10644",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads/",
+      "title": "Can we reconsider the megathreads?",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyp1l9/first_serious_confirmation_ox_alpha_is_glm53flash/",
-      "title": "First serious confirmation. Ox Alpha is GLM-5.3-Flash",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzgtbn/ngram_vs_experts_explained/",
+      "title": "N-gram vs Experts explained",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyl6yj/thomson_reuters_releases_thomson10small_a_law_and/",
-      "title": "Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz3cvg/are_models_with_ngram_tables_going_to_completely/",
+      "title": "Are models with N-Gram tables going to completely change the AI race?",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyie86/fully_quantized_nvfp4_qwen3827b_with_quasar_qad/",
-      "title": "Fully quantized NVFP4 Qwen3.8-27B with QUASAR QAD",
-      "profile": "AI/Tech"
+      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "profile": "AI/Tech"
+      "url": "https://about.gitlab.com/blog/when-code-is-abundant/",
+      "title": "When code is abundant",
+      "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "profile": "AI/Tech"
+      "url": "https://karlkoch.me/writing/on-teaching-ai-how-you-work/",
+      "title": "On teaching AI how you work",
+      "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "title": "'The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/my-top-5-favorite-ways-of-using-design-md-in-claude-code-d1b52fd49cea?source=rss----819cc2aaeee0---4",
+      "title": "My Top 5 Favorite Ways of Using DESIGN.md in Claude Code",
+      "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "title": "India's Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "profile": "AI/Tech"
+      "url": "https://felixanderson-able.medium.com/gammas-lica-deal-is-really-about-editable-ai-design-5a17dbb87006?source=rss------ai_design-5",
+      "title": "Gamma's Lica Deal Is Really About Editable AI Design",
+      "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxplanet.org/claude-codes-new-concise-style-can-save-you-a-lot-of-tokens",
-      "title": "Claude Code's New Concise Style Can Save You a Lot of Tokens",
+      "url": "https://interfaces.kylejeong.com/",
+      "title": "The AI Interface Museum",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxplanet.org/the-best-way-to-design-a-product-with-claude-design",
-      "title": "The Best Way to Design a Product With Claude Design",
+      "url": "https://medium.com/design-bootcamp/what-changes-when-designers-can-build-2c9c98920034?source=rss------ai_design-5",
+      "title": "What changes when designers can build",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-      "title": "Why Your Website Should Never Stop Changing",
+      "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
+      "title": "AI has a hospitality problem money can't fix",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://tympanus.net/codrops/2026/08/25/building-a-mouse-following-square-lens-effect-with-three-js-and-glsl/",
-      "title": "Building a Mouse-Following Square Lens Effect with Three.js and GLSL",
+      "url": "https://claudiaursa.medium.com/should-this-even-be-ai-a1fa0124954d?source=rss------ai_design-5",
+      "title": "Should This Even Be AI?",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "title": "MicroLighter: Syntax Highlighter",
+      "url": "https://medium.com/@musemind.agency/ai-design-tools-arent-replacing-designers-they-re-changing-the-entire-workflow-9f213643abd0?source=rss------ai_design-5",
+      "title": "AI Design Tools Aren't Replacing Designers: They're Changing the Entire Workflow",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://medium.com/@polgarp/assumptions-draw-the-edge-of-the-solution-space-and-agents-draw-it-tighter-b01755bccda2?source=rss------ai_design-5",
-      "title": "Assumptions draw the edge of the solution space, and agents draw it tighter",
+      "url": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+      "title": "animation-trigger",
       "profile": "Design"
     },
     {
       "n": 27,
-      "url": "https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4",
-      "title": "The function — the role of software in society",
+      "url": "https://gkurt.com/tegaki/",
+      "title": "Tegaki",
       "profile": "Design"
     },
     {
       "n": 28,
-      "url": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4",
-      "title": "What Blade Runner got right about AI",
+      "url": "https://linear.app/now/sharing-growth-with-the-people-building-linear",
+      "title": "Sharing Linear's growth with the people building it",
       "profile": "Design"
     },
     {
       "n": 29,
-      "url": "https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss----138adf9c44c---4",
-      "title": "What luxury bags can teach designers about how to adapt to a changing deal",
-      "profile": "Design"
-    },
-    {
-      "n": 30,
-      "url": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e?source=rss----138adf9c44c---4",
-      "title": "Researcher-in-the-loop",
+      "url": "https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3",
+      "title": "What is the purpose of software",
       "profile": "Design"
     }
   ]
