@@ -1,178 +1,184 @@
 {
-  "generated_at": "2026-08-27T07:08:13+00:00",
+  "generated_at": "2026-08-28T07:08:19+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.16.1",
-      "title": "Release v5.16.1",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EMGt3WGs2d0VwMmJ3LUl4UnRBQTJzQ3NIczN6NmMyU3JCZjg2cklZaW5vblhpVHBMVlIyUjFueWt0LXJRR1JnemFaVGEwU216Y09QdDJka3ZTWUZVbTRjMjdETzdjejNBSTdTbVFTejhZZ2dlY1dnM25n?oc=5",
+      "title": "Previewing the Model Hardware Standard - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.16.0",
-      "title": "Release: v5.16.0",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "title": "Piloting the world's first double-blind AI evaluations",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "title": "Google's AI note-taking app now allows you to interact with books",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "title": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face/",
-      "title": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "title": "Google's AI Mode can now track flight prices, help book hotels, and more",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyzzxu/megathread_glm53flash_former_oxalpha/",
-      "title": "[Megathread] GLM-5.3-Flash - former ox-alpha",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzjlxd/glm53_weights_will_be_released_tomorrow/",
-      "title": "GLM-5.3 weights will be released tomorrow",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.1",
-      "title": "v0.33.1",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10644",
-      "title": "b10644",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.2.0",
+      "title": "v1.2.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads/",
-      "title": "Can we reconsider the megathreads?",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2-rc1",
+      "title": "v0.33.2",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzgtbn/ngram_vs_experts_explained/",
-      "title": "N-gram vs Experts explained",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10666",
+      "title": "b10666: tests : run test-save-load-state across all architectures (#27755)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz3cvg/are_models_with_ngram_tables_going_to_completely/",
-      "title": "Are models with N-Gram tables going to completely change the AI race?",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10665",
+      "title": "b10665",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "title": "The AI-native SDLC playbook",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://about.gitlab.com/blog/when-code-is-abundant/",
-      "title": "When code is abundant",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "title": "The turbulent AI era is here",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://karlkoch.me/writing/on-teaching-ai-how-you-work/",
-      "title": "On teaching AI how you work",
+      "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4",
+      "title": "What Blade Runner got wrong about AI (so far)",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/my-top-5-favorite-ways-of-using-design-md-in-claude-code-d1b52fd49cea?source=rss----819cc2aaeee0---4",
-      "title": "My Top 5 Favorite Ways of Using DESIGN.md in Claude Code",
+      "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://felixanderson-able.medium.com/gammas-lica-deal-is-really-about-editable-ai-design-5a17dbb87006?source=rss------ai_design-5",
-      "title": "Gamma's Lica Deal Is Really About Editable AI Design",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "title": "Software for one",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://interfaces.kylejeong.com/",
-      "title": "The AI Interface Museum",
+      "url": "https://www.itsnicethat.com/features/teddy-blanks-chips-film-title-typography-graphic-design-spotlight-240826",
+      "title": "Step inside Teddy Blanks' film title design process",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/design-bootcamp/what-changes-when-designers-can-build-2c9c98920034?source=rss------ai_design-5",
-      "title": "What changes when designers can build",
+      "url": "https://borretti.me/article/futurism-is-always-extreme",
+      "title": "Futurism is always extreme",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
-      "title": "AI has a hospitality problem money can't fix",
+      "url": "https://www.petermerholz.com/newsletter/designs-legibility-gap/",
+      "title": "Design's legibility gap",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://claudiaursa.medium.com/should-this-even-be-ai-a1fa0124954d?source=rss------ai_design-5",
-      "title": "Should This Even Be AI?",
+      "url": "https://cssunits.com/",
+      "title": "CSS Units",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://medium.com/@musemind.agency/ai-design-tools-arent-replacing-designers-they-re-changing-the-entire-workflow-9f213643abd0?source=rss------ai_design-5",
-      "title": "AI Design Tools Aren't Replacing Designers: They're Changing the Entire Workflow",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "title": "I dream of quieter computing",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "title": "animation-trigger",
+      "url": "https://plotter.cc/",
+      "title": "Plotter",
       "profile": "Design"
     },
     {
       "n": 27,
-      "url": "https://gkurt.com/tegaki/",
-      "title": "Tegaki",
+      "url": "https://ilyabirman.net/meanwhile/all/let-me-click/",
+      "title": "Let me click",
       "profile": "Design"
     },
     {
       "n": 28,
-      "url": "https://linear.app/now/sharing-growth-with-the-people-building-linear",
-      "title": "Sharing Linear's growth with the people building it",
+      "url": "https://medium.com/@shubhamtyagi9600/why-ai-is-killing-the-old-ux-what-designers-must-build-instead-0e56c93cc669?source=rss------ai_design-5",
+      "title": "Why AI Is Killing the Old UX & What Designers Must Build Instead",
       "profile": "Design"
     },
     {
       "n": 29,
-      "url": "https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3",
-      "title": "What is the purpose of software",
+      "url": "https://uxplanet.org/how-to-design-ai-products-users-can-trust-8d98dd7ad2e2?source=rss----819cc2aaeee0---4",
+      "title": "How to Design AI Products Users Can Trust",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://tympanus.net/codrops/2026/08/27/goodgrowth-boot-sequences-spinning-discs-and-the-art-of-the-portfolio/",
+      "title": "Goodgrowth: Boot Sequences, Spinning Discs, and the Art of the Portfolio",
       "profile": "Design"
     }
   ]
