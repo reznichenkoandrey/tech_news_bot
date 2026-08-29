@@ -1,184 +1,118 @@
 {
-  "generated_at": "2026-08-28T07:08:19+00:00",
+  "generated_at": "2026-08-29T07:07:47+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EMGt3WGs2d0VwMmJ3LUl4UnRBQTJzQ3NIczN6NmMyU3JCZjg2cklZaW5vblhpVHBMVlIyUjFueWt0LXJRR1JnemFaVGEwU216Y09QdDJka3ZTWUZVbTRjMjdETzdjejNBSTdTbVFTejhZZ2dlY1dnM25n?oc=5",
-      "title": "Previewing the Model Hardware Standard - Anthropic",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "title": "Anthropic gets its first court win over the Pentagon's supply-chain risk label",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "title": "Open-weight AI companies are the Valley's hottest acquisition targets",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "title": "Google's AI note-taking app now allows you to interact with books",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.6.0",
+      "title": "v3.6.0",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 7,
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "title": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 8,
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "title": "Google's AI Mode can now track flight prices, help book hotels, and more",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 9,
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 10,
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 12,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.2.0",
-      "title": "v1.2.0",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2-rc1",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2",
       "title": "v0.33.2",
       "profile": "AI/Tech"
     },
     {
+      "n": 7,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
+      "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
+      "title": "Where to submit stat/prob ML [D]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10680",
+      "title": "b10680: snapdragon: python SDK setup (Windows) (#27903)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10678",
+      "title": "b10678",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10677",
+      "title": "b10677",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10676",
+      "title": "b10676",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10672",
+      "title": "b10672",
+      "profile": "AI/Tech"
+    },
+    {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10666",
-      "title": "b10666: tests : run test-save-load-state across all architectures (#27755)",
+      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10665",
-      "title": "b10665",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "title": "Trump's EPA wants to let data centers hide their air pollution",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "title": "The AI-native SDLC playbook",
+      "url": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "The Custodial Era of UX: Cleaning Up After AI",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "title": "The turbulent AI era is here",
+      "url": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "AI Can't Replace Real Research in Empathy Mapping",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4",
-      "title": "What Blade Runner got wrong about AI (so far)",
+      "url": "https://hoomanstudio.medium.com/your-style-guide-worked-fine-until-ai-started-designing-too-3fd655fb2c65?source=rss------ai_design-5",
+      "title": "Your Style Guide Worked Fine Until AI Started Designing Too",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "title": "Software for one",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://www.itsnicethat.com/features/teddy-blanks-chips-film-title-typography-graphic-design-spotlight-240826",
-      "title": "Step inside Teddy Blanks' film title design process",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://borretti.me/article/futurism-is-always-extreme",
-      "title": "Futurism is always extreme",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://www.petermerholz.com/newsletter/designs-legibility-gap/",
-      "title": "Design's legibility gap",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://cssunits.com/",
-      "title": "CSS Units",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-      "title": "I dream of quieter computing",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://plotter.cc/",
-      "title": "Plotter",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://ilyabirman.net/meanwhile/all/let-me-click/",
-      "title": "Let me click",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://medium.com/@shubhamtyagi9600/why-ai-is-killing-the-old-ux-what-designers-must-build-instead-0e56c93cc669?source=rss------ai_design-5",
-      "title": "Why AI Is Killing the Old UX & What Designers Must Build Instead",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://uxplanet.org/how-to-design-ai-products-users-can-trust-8d98dd7ad2e2?source=rss----819cc2aaeee0---4",
-      "title": "How to Design AI Products Users Can Trust",
-      "profile": "Design"
-    },
-    {
-      "n": 30,
-      "url": "https://tympanus.net/codrops/2026/08/27/goodgrowth-boot-sequences-spinning-discs-and-the-art-of-the-portfolio/",
-      "title": "Goodgrowth: Boot Sequences, Spinning Discs, and the Art of the Portfolio",
+      "url": "https://uxplanet.org/the-horrible-state-of-ai-powered-product-design-in-2026-e3ef607b371d?source=rss----819cc2aaeee0---4",
+      "title": "The Horrible State of AI-Powered Product Design in 2026",
       "profile": "Design"
     }
   ]
