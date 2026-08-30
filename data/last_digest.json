@@ -1,119 +1,59 @@
 {
-  "generated_at": "2026-08-29T07:07:47+00:00",
+  "generated_at": "2026-08-30T07:07:43+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "title": "Anthropic gets its first court win over the Pentagon's supply-chain risk label",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzBXTktxU2lldGFHVDJXdXdtU3dJU2tKenVRbjd0S05hNUh2RDUtaDlPckQzTXd5bkRmVFNQdXVHaUVQSXNBYUh6OHpIVVYzZTlNbHM5TFVQcWJmb0VocnVXSm9Tem9ySTBuLW1HZ1pnVzBuNWtBX0RfckxXRnFBU051VU40Q3FGNHJwa085MjhCTVJYSXV4NjB2ZEJzMHJ4bHQwUlU4WDJpX1M5R1M0NW1DZG5mNGRSd3JrODJ0cGlFTzdENzR0YTBBNDVQeEZOS2FnTm1VYURYM0xLaHFJ0gHkAUFVX3lxTE1mZFVDOFl2alNKaVMyeGE1RGFyMkVQcHY5eEFrSWRvVTRpeVpFam41eU5lTC12bGdpOHh2VG9vRHNFZ2RNQkVZOHhKOXRfam45X2RrbjNSTUJUZTMydG05MllWN2R5R1pWZkpJcGp3YjhESnF1SmpwUGdRdEVSeWptaGlHVjl0U084dDdFNklkZjBZZ2hITTRZZXhqMVBRS0R1SW5WTHREbnM0enhITE1idlkxWURsYTNVVlJWQXNVRnZ0TU1sSWN3ckc3UUdKV1BFZmpqQ1h0eGFsdDlaNkFXQU93Tg?oc=5",
+      "title": "Anthropic Pounces As OpenAI Abandons SpaceX's Cursor, Vowing To Increase Claude Compute Even As OpenAI Cites Contract Distrust",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "title": "Open-weight AI companies are the Valley's hottest acquisition targets",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.6.0",
-      "title": "v3.6.0",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "title": "\"We're not doing 30 bets a year\": Vijay Pande on betting small after running $4 billion at a16z",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.2",
-      "title": "v0.33.2",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
+      "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
-      "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10689",
+      "title": "b10689",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
-      "title": "Where to submit stat/prob ML [D]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10688",
+      "title": "b10688",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10680",
-      "title": "b10680: snapdragon: python SDK setup (Windows) (#27903)",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10687",
+      "title": "b10687",
       "profile": "AI/Tech"
-    },
-    {
-      "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10678",
-      "title": "b10678",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10677",
-      "title": "b10677",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10676",
-      "title": "b10676",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10672",
-      "title": "b10672",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "title": "Trump's EPA wants to let data centers hide their air pollution",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "The Custodial Era of UX: Cleaning Up After AI",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "AI Can't Replace Real Research in Empathy Mapping",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://hoomanstudio.medium.com/your-style-guide-worked-fine-until-ai-started-designing-too-3fd655fb2c65?source=rss------ai_design-5",
-      "title": "Your Style Guide Worked Fine Until AI Started Designing Too",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxplanet.org/the-horrible-state-of-ai-powered-product-design-in-2026-e3ef607b371d?source=rss----819cc2aaeee0---4",
-      "title": "The Horrible State of AI-Powered Product Design in 2026",
-      "profile": "Design"
     }
   ]
 }
