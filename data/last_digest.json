@@ -1,94 +1,154 @@
 {
-  "generated_at": "2026-09-01T07:09:14+00:00",
+  "generated_at": "2026-09-02T07:08:12+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.nngroup.com/articles/ai-ux-debt/",
-      "title": "The custodial era of UX: Cleaning up after AI",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "title": "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://clarity.addy.ie/",
-      "title": "Clarity: AI writing skill and editor",
-      "profile": "Design"
+      "url": "https://openai.com/index/path-to-astra",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://medium.com/design-bootcamp/best-wireframing-tools-in-2026-i-tested-5-ai-tools-with-the-same-prompt-00d46c61075d?source=rss------ai_design-5",
-      "title": "Best Wireframing Tools in 2026: I Tested 5 AI Tools With the Same Prompt",
-      "profile": "Design"
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://medium.com/unfoldmart/every-ai-design-tool-thinks-your-customer-lives-in-ohio-153f9d7d25c4?source=rss------ai_design-5",
-      "title": "Every AI Design Tool Thinks Your Customer Lives in Ohio",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "title": "AfterQuery reportedly becomes Y Combinator's fastest-ever unicorn, now valued at $3.2B",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
-      "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "title": "OpenAI delayed its new model's development after the Hugging Face hack",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/",
-      "title": "You have to beat the models at something",
-      "profile": "Design"
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://buzzusborne.com/writing/ai-operating-principles/",
-      "title": "AI operating principles",
-      "profile": "Design"
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07?source=rss----138adf9c44c---4",
-      "title": "UX in 2027 may be less about interfaces and more about behavior",
-      "profile": "Design"
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "title": "Let's Use the Emergent CSS random() Function in all the Browsers",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://wayofmarkdown.com/markdown-database",
-      "title": "Markdown database pattern",
-      "profile": "Design"
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "title": "Introducing agentic video understanding with Gemini",
+      "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://tympanus.net/codrops/2026/08/31/volatile-nexus-tinkering-with-glass-caustics-cubes-and-sound-in-three-js/",
-      "title": "Volatile Nexus: Tinkering with Glass, Caustics, Cubes and Sound in Three.js",
-      "profile": "Design"
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0",
+      "title": "v1.3.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4",
-      "title": "Design has outgrown the traditional designer",
-      "profile": "Design"
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.7.0",
+      "title": "v3.7.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.davesresearch.com/good-move-enabling/",
-      "title": "A good move is enabling",
-      "profile": "Design"
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1",
+      "title": "v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)",
+      "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://uxdesign.cc/is-design-thinking-still-relevant-in-the-age-of-ai-3bc8622e6c90?source=rss----819cc2aaeee0---4",
-      "title": "Is Design Thinking Still Relevant in the Age of AI?",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10754",
+      "title": "b10754",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://medium.com/@badalparina1/ai-agent-signals-rethinking-ai-scores-rankings-and-what-it-means-for-users-to-trust-system-f14a02dd6120?source=rss------ai_design-5",
-      "title": "AI Agent Signals : Rethinking AI scores, rankings and what it means for users to trust system",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
+      "title": "v0.33.3",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://medium.com/@yasintha/chat-is-an-input-not-the-interface-8f023ee79802?source=rss------generative_ui-5",
+      "title": "Chat is an Input, Not the Interface",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://medium.com/@designrise/figma-ai-agent-workflow-how-designers-can-use-ai-without-losing-control-bd29c6879441?source=rss------ai_design-5",
+      "title": "Figma AI Agent Workflow: How Designers Can Use AI Without Losing Control",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
+      "title": "What Minority Report got right about AI",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxplanet.org/we-dont-need-ai-first-designers-we-need-ai-first-managers-acd3453310d1?source=rss----819cc2aaeee0---4",
+      "title": "We Don't Need AI-First Designers. We Need AI-First Managers.",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@SiviAI/scaling-design-ops-in-2026-a-blueprint-for-modern-marketing-teams-c21c4834f25f?source=rss------ai_design-5",
+      "title": "Scaling Design Ops in 2026: A Blueprint for Modern Marketing Teams",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://tympanus.net/codrops/2026/09/01/bend-aim-fling-turning-the-eiffel-tower-into-a-catapult-with-three-js/",
+      "title": "Bend, Aim, Fling: Turning the Eiffel Tower into a Catapult with Three.js",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
+      "title": "Your users aren't unmotivated-they have 1 of 4 problems",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
+      "title": "Users don't see your design system",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
+      "title": "Color scheming with Perplexity tetrads",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX Conference September Announced (Sep 14 - Sep 25)",
       "profile": "Design"
     }
   ]
