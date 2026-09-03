@@ -1,154 +1,184 @@
 {
-  "generated_at": "2026-09-02T07:08:12+00:00",
+  "generated_at": "2026-09-03T07:08:48+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "title": "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "title": "Researchers fear safety disaster ahead of OpenAI's Astra release",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/path-to-astra",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "title": "Google says its new Gemini 3.8 Flash model 'works harder' but might cost more",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "title": "AfterQuery reportedly becomes Y Combinator's fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "title": "Proactive cyber defense for governments and enterprises",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "title": "OpenAI delayed its new model's development after the Hugging Face hack",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "title": "OpenAI's new reasoning technique alarms AI safety experts",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "title": "Apple accuses OpenAI of destroying evidence",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "title": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "title": "Google Pics is like Canva, but with even more AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.3.0",
-      "title": "v1.3.0",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+      "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.7.0",
-      "title": "v3.7.0",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
+      "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc1",
-      "title": "v0.29.0rc1: [Bugfix] Handle padded routes in CUTLASS MoE permutations (#54747)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
+      "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10754",
-      "title": "b10754",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2",
       "title": "v0.33.3",
       "profile": "AI/Tech"
     },
     {
+      "n": 15,
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "title": "NYC bans AI use for students until they reach high school",
+      "profile": "AI/Tech"
+    },
+    {
       "n": 16,
-      "url": "https://medium.com/@yasintha/chat-is-an-input-not-the-interface-8f023ee79802?source=rss------generative_ui-5",
-      "title": "Chat is an Input, Not the Interface",
+      "url": "https://uxplanet.org/claude-codes-new-design-plugin-is-a-big-deal-for-product-designers-445bf30cea9d?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code's New Design Plugin Is a Big Deal for Product Designers",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@designrise/figma-ai-agent-workflow-how-designers-can-use-ai-without-losing-control-bd29c6879441?source=rss------ai_design-5",
-      "title": "Figma AI Agent Workflow: How Designers Can Use AI Without Losing Control",
+      "url": "https://uxplanet.org/fable-5-1-for-product-designers-f905e0cde0ee?source=rss----819cc2aaeee0---4",
+      "title": "Fable 5.1 for Product Designers",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
-      "title": "What Minority Report got right about AI",
+      "url": "https://www.stripeeconomics.com/p/ai-and-the-city",
+      "title": "AI and the city",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/we-dont-need-ai-first-designers-we-need-ai-first-managers-acd3453310d1?source=rss----819cc2aaeee0---4",
-      "title": "We Don't Need AI-First Designers. We Need AI-First Managers.",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "title": "Compression is prediction",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@SiviAI/scaling-design-ops-in-2026-a-blueprint-for-modern-marketing-teams-c21c4834f25f?source=rss------ai_design-5",
-      "title": "Scaling Design Ops in 2026: A Blueprint for Modern Marketing Teams",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "title": "Creepy crawlies",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://tympanus.net/codrops/2026/09/01/bend-aim-fling-turning-the-eiffel-tower-into-a-catapult-with-three-js/",
-      "title": "Bend, Aim, Fling: Turning the Eiffel Tower into a Catapult with Three.js",
+      "url": "https://www.pipshea.net/manifesto",
+      "title": "The critical design engineering manifesto",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
-      "title": "Your users aren't unmotivated-they have 1 of 4 problems",
+      "url": "https://medium.com/design-bootcamp/how-to-decide-where-your-ai-feature-needs-friction-f9fd3fe1340d?source=rss------ai_design-5",
+      "title": "How to Decide Where Your AI Feature Needs Friction",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
-      "title": "Users don't see your design system",
+      "url": "https://medium.com/@xisangyu/designing-trust-in-ai-agents-3822135eb545?source=rss------ai_design-5",
+      "title": "Designing Trust in AI Agents",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
-      "title": "Color scheming with Perplexity tetrads",
+      "url": "https://tympanus.net/codrops/2026/09/02/breaking-the-frame-building-a-real-time-datamosh-effect-with-three-js/",
+      "title": "Breaking the Frame: Building a Real-Time Datamosh Effect with Three.js",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "UX Conference September Announced (Sep 14 - Sep 25)",
+      "url": "https://christophhellmuth.com/open-design-system-bench/",
+      "title": "How AI-ready is your design system?",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://commandline.microsoft.com/design-product-simplicity-seamless-ux-ui-agentic-ai-azure-developer-services-foundry/",
+      "title": "Designing product simplicity for the agentic AI era",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://mesurer.dev/",
+      "title": "Mesurer",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://www.soverybright.com/",
+      "title": "Make your logo brighter than white",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370",
+      "title": "The call for an agentic standard",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://www.creativeboom.com/inspiration/gabriel-diogo/",
+      "title": "Gabriel Diogo on football, memory, and childhood",
       "profile": "Design"
     }
   ]
