@@ -1,160 +1,82 @@
 {
-  "generated_at": "2026-09-05T07:08:51+00:00",
+  "generated_at": "2026-09-06T07:08:03+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "title": "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3pTemdEQnd5U010bU5YVGVkcXdVOTItOS02STNZUE8zOTNJNkdPcERYRXRLNFBzLWw3UDlLUUczOENUMVc1NDNKY3hQU3EwUGM5a1VES0RFMTZnZERLYV95OTZpdHpYakNJQmZKMUs5Tl9CaDhlekN1VEVzME9YNi1kb3hyaDh2TUVnSDYxS3FmelBUcG5xUExwVQ?oc=5",
+      "title": "Anthropic's Claude Agents Formalized Fermat's Last Theorem in 11 Days",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "title": "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0FnVUpFQ25heEM4dUJrNm93MDN4S21YakNYT1JXcmw3TFFkaEZSdG14R3lnVmZrOEVQX0VDbEIyamVKbXRKbXNTV3Mxc1NLdG5XSlpKSk1LaDUxZEs4RHhMdC1MWWpRM0xuNi1TSlJQWW93czVnWlYyVWkxOTZHcHVNTEdMRWNpWG5aclUxRTQ1bm5QSTczOUdn?oc=5",
+      "title": "Claude Fable 5.1 Retakes the Top AI Benchmark Spot From GPT-6 Astra",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczZLQWhJUjZVdEs0cnFXVmktX2JTaDFVVEFVX3hQLU8zcmtTQjJzd1Y1cHZVVmNsenBIWDRIOW4zbndpZGZMaEJWVlJQN1FBeWNMck9ObDlEQW5GSmVBSU4zRTIyRWdDSUhiMDV3aGUxd1BGcXRRajJLUldMOWlJOUtEUDBzTjBQRko2MEFyVjNKcDA?oc=5",
+      "title": "Anthropic Launches Claude Fable 5.1 and Restricted Mythos 5.1 for Advanced Coding, Cybersecurity and Scientific Research",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "title": "OpenAI confirms 'wiki incident,' says it's 'working on a framework' for more disclosure",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "title": "Google's Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "title": "Hikers rescued after using Google Gemini for planning",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
-      "title": "Formalizing Fermat's Last Theorem - Anthropic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w821fg/ninfer_vs_llamacpp_vs_vllm_quality_speed/",
+      "title": "NInfer vs llama.cpp vs vLLM: quality + speed comparison for Qwen3.8-27B NVFP4 on RTX 5090",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.0",
-      "title": "v0.4.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f8fa/ninfer_fork_555k_contextfp4_for_5090_with_yarn/",
+      "title": "NInfer fork: 555k context@fp4 for 5090 with YARN, reliable kv host cacheing, monitoring, jinja, opened model support",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w84mod/qwen38_flash_next_templates_comparison/",
+      "title": "Qwen3.8 Flash Next - Templates Comparison",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8a45b/my_local_llm_demoscene_generator_can_now_watch/",
+      "title": "My local LLM demoscene generator can now watch its own output and rewrite it!",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "title": "Instagram's AI detection is a mess (again)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon/",
+      "title": "gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10820",
+      "title": "b10820",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10819",
+      "title": "b10819",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "title": "Why AI food looks like that",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-      "title": "Microsoft's Project Zenith is a 'distraction-free Windows experience' for developers",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.4.0",
-      "title": "v1.4.0",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js/",
-      "title": "Beyond the Luminance Ramp: A Shape-Aware ASCII Renderer in Three.js",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://uxplanet.org/figma-design-critique-using-claude-code-d8f2ee54bf01",
-      "title": "Figma Design Critique Using Claude Code",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Using AI for UX Work: Study Guide",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://medium.com/@christianhoper/ai-assisted-design-workflows-speed-without-losing-the-craft-ac9844deb2d6?source=rss------ai_design-5",
-      "title": "AI assisted design workflows: speed without losing the craft",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://medium.com/@azizgeorge30/everyone-thinks-ai-chat-ui-is-easy-then-they-build-one-92428f9e8c02?source=rss------ai_design-5",
-      "title": "Everyone Thinks AI Chat UI Is Easy. Then They Build One.",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
-      "title": "Reading and writing are interfaces. And AI can reduce their friction.",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/@schurigeln/one-shot-one-opportunity-why-ai-vs-human-design-comparisons-miss-the-point-cb8eca745a6c?source=rss------ai_design-5",
-      "title": "How AI vs. Human Design Comparisons Miss the Point",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://medium.com/@flowstep/17-wireframing-tools-in-2026-we-tested-the-best-tools-09cb77c45aeb?source=rss------ai_design-5",
-      "title": "17 Wireframing Tools in 2026: We Tested the Best Tools",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://medium.com/@ux-ai/let-me-connect-you-with-anjana-78123db12d52?source=rss------ai_ux-5",
-      "title": "Let Me Connect You With Anjana",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://medium.com/@mdmokaddisur/ai-can-design-ui-ux-but-can-ai-replace-humans-when-it-comes-to-seo-dc67b2a947b2?source=rss------ai_design-5",
-      "title": "AI Can Design UI/UX, But Can AI Replace Humans When It Comes to SEO?",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://medium.com/@fof_lahore/lahores-first-ever-figma-make-a-thon-how-we-brought-creatives-together-to-build-and-create-643876957205?source=rss------ai_design-5",
-      "title": "Lahore's First-Ever Figma Make-a-thon: How We Brought Creatives Together to Build and Create",
+      "url": "https://tympanus.net/codrops/2026/09/05/building-an-infinite-loom-unravelling-images-into-threads-with-three-js/",
+      "title": "Building an Infinite Loom: Unravelling Images into Threads with Three.js",
       "profile": "Design"
     }
   ]
