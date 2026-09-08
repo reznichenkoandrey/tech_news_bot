@@ -1,148 +1,154 @@
 {
-  "generated_at": "2026-09-07T07:07:46+00:00",
+  "generated_at": "2026-09-08T07:08:39+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRTFrZ0FTa3htQU5Hdy0zcTcwZjNVLTRtNTlWRmlTZks3dlRjMUdQbk5iZTNEWFp1eUVCNkdxam9INWx2YUtwaE8zTUpNSE9ya0hvVmkxMFRiNzFOMVZMb283OC1yYU0?oc=5",
+      "title": "Anthropic drops plans to acquire Israeli AI startup Decart - calcalistech.com",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/an-alien-mind",
-      "title": "An Alien Mind",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSFdSb0JYYWtpbFJCTUlveHlJXzV1eHVadmszRUV4OHlKU3lWZnI1VE9YZUhpdEM3bnBGSWNFTXdBWTJjTW9GZHNPQUlmUjJCb3RTZkNBMU85Y3p1MXVUOWhWYTV3UUlyRmY5OGIxNGp2LWZ6WEEyRlpyVEVpNHUwcXAtQnltcjU1d0ZzcHg0V1NVdVd4ZmpGdmxncGF2ZlFsaU9mampvUWllSW5vN0E?oc=5",
+      "title": "Anthropic's Fable 5.1 cuts cache costs 75% — agentic scores more than doubled - martincid.com",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzk3QzRtOWRqVXV5VEJHVU9FUzdoQjhqWEVfdGRMNU1XX2NjSTVHUXQySktINUNWYWVUdXpsNzkyMFBmZmsxTHZpc2pLRUV6ZThwZDZPdG1ncGJDSEJNVG1DNVVTQjVFaVRfMHYzNFR3SFBHa0U3a1pmeUV0RzNYbHRR?oc=5",
+      "title": "How a tiny Anthropic team became a surprisingly productive hit factory - Business Insider",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10833",
-      "title": "b10833",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10853",
+      "title": "b10853",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10828",
-      "title": "b10828",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10844",
+      "title": "b10844",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10831",
-      "title": "b10831",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
-      "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
+      "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you/",
-      "title": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+      "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8rnyi/validate_your_local_llm_advertised_kv_cache/",
-      "title": "Validate your local LLM advertised KV cache against real pressure; see exactly how old contexts get evicted from cache",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
+      "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing/",
-      "title": "Coding benchmarks that are quickly showcasing deep capability",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
+      "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
-      "title": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
+      "title": "The model is behaving impeccably. Your information architecture isn't.",
+      "profile": "Design"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/",
-      "title": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/gpt-6-astra-for-ui-design-5cff47b4c765?source=rss----819cc2aaeee0---4",
+      "title": "GPT-6 Astra for UI Design",
+      "profile": "Design"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9jmo8/benchmarking_calories_evaluation_with_llms/",
-      "title": "Benchmarking calories evaluation with LLMs",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
+      "title": "When the canvas starts acting, who's really in control?",
+      "profile": "Design"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9340e/expert_expansion_with_llamacpp/",
-      "title": "Expert expansion with llama.cpp",
-      "profile": "AI/Tech"
+      "url": "https://javieralcivar.medium.com/i-built-a-creative-design-expert-out-of-ai-models-d9c652763659?source=rss------ai_design-5",
+      "title": "I Built a Creative Design Expert Out of AI Models.",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9kfs3/lit_review_on_benchmarking_llms_running_in_your/",
-      "title": "Lit Review on Benchmarking LLMs Running in your phone!: MobileWorld",
-      "profile": "AI/Tech"
+      "url": "https://lucet.design/",
+      "title": "Lucet",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://fourmodes.teybannerman.com/",
-      "title": "Four modes of working with AI",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "title": "Agent memory as a file format",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://tympanus.net/codrops/2026/09/06/building-a-real-time-3d-face-mask-with-mediapipe-threlte-and-three-js/",
-      "title": "Building a Real-Time 3D Face Mask with MediaPipe, Threlte and Three.js",
+      "url": "https://tympanus.net/codrops/2026/09/07/drawing-with-light-an-exploration-of-lit-gpu-tubes-with-tsl-and-webgpu/",
+      "title": "Drawing With Light: An Exploration of Lit GPU Tubes with TSL and WebGPU",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@singhkartik40/what-designing-with-ai-and-for-ai-taught-me-over-the-last-2-years-8078e9ec20b9?source=rss------ai_design-5",
-      "title": "What Designing With AI and for AI Taught Me Over the Last 2 Years",
+      "url": "https://medium.com/@praveen14inspire/how-to-get-better-results-from-ai-1ddb8b7b3a9a?source=rss------ai_ux-5",
+      "title": "How to Get Better Results from AI",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://www.nyn.me/blog/the-singular-viable-product",
-      "title": "The singular viable product",
+      "url": "https://medium.com/@sayli2499/it-started-with-one-question-and-poof-6a18791b1a0b?source=rss------ai_design-5",
+      "title": "It Started With One Question… and POOF! AI Became Part of My Design Process.",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://blog.mastykarz.nl/your-product-didnt-get-worse/",
-      "title": "Your product didn't get worse",
+      "url": "https://medium.com/@kazukimiyazaki33/i-stopped-asking-which-3d-tool-is-best-i-ask-what-the-next-model-should-prove-f3e0b94cd2c3?source=rss------ai_design-5",
+      "title": "I Stopped Asking Which 3D Tool Is Best. I Ask What the Next Model Should Prove.",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca?source=rss----138adf9c44c---4",
-      "title": "AI in Product teams: In 2026, the growing impact on collaboration",
+      "url": "https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4",
+      "title": "The sycophancy trap: what happens when feelings become the metric",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6?source=rss----138adf9c44c---4",
-      "title": "AI canvas, Synthetic self, The prompt is the product",
+      "url": "https://recipetables.com/",
+      "title": "RecipeTables",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://ref.wisprflow.ai/sidebar",
-      "title": "Are you still typing your prompts, really?",
+      "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
+      "title": "Burnt out on a three-day week",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://looogos.com/",
-      "title": "Looogos",
+      "url": "https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4",
+      "title": "Villains plan. Heroes react.",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4",
+      "title": "Tetris had to cheat to feel random",
       "profile": "Design"
     }
   ]
