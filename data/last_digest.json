@@ -1,154 +1,142 @@
 {
-  "generated_at": "2026-09-09T07:08:07+00:00",
+  "generated_at": "2026-09-10T07:08:01+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "title": "OpenAI's sly mathematical breakthrough sends a chill through academia",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "title": "'Gambling with our lives': Anthropic researcher quits, warns against self-improving AI",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "title": "Students who use AI generally score worse at school",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "title": "Suno releases its first AI music model made with record industry help",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/",
-      "title": "DeepSeek Flash 4.1 is already being tested via API and rolling out.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.17.0",
+      "title": "Release 5.17.0",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/",
-      "title": "Qwen/Qwen-Drive-1.0-4B · Hugging Face",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0",
       "title": "v0.34.0",
       "profile": "AI/Tech"
     },
     {
+      "n": 11,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/",
+      "title": "DeepSeek V4.1 Flash: Stronger, Faster, More Accessible",
+      "profile": "AI/Tech"
+    },
+    {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released/",
-      "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbm50k/1bit_27b_in_the_browser_2530_toks_on_a_6_gb_rtx/",
+      "title": "1-bit 27B in the browser: 25–30 tok/s on a 6 GB RTX 3060 Laptop (WebGPU, no install)",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waydqj/qwen38flashnext_in_llamacpp_vs_sglang_vs/",
-      "title": "Qwen3.8-Flash-Next in llama.cpp vs SGLang vs FreeToken: 35s vs 258s to first token at full context.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbmz1y/sota_imagegen_locally_nvidia_cosmos364b_int4/",
+      "title": "SOTA ImageGen Locally NVIDIA Cosmos3(64B) INT4 quants CUDA/MLX",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb35xo/how_many_agents_can_24090_actually_run_at_once/",
-      "title": "How many agents can 2×4090 actually run at once? Three weeks of llama.cpp concurrency data.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvrjg/adding_emotion_control_tags_to_qwen3tts/",
+      "title": "Adding emotion control tags to Qwen3-TTS",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "profile": "AI/Tech"
+      "url": "https://www.distributedthoughts.org/2026-09-07-one-floor-up/",
+      "title": "One floor up",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://www.worldlabs.ai/blog/atlas",
-      "title": "Atlas: a world model for spatial intelligence",
+      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+      "title": "The Death Of The Button: Why The Best Interface Is No Interface",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-which-one-is-better-for-product-design-009f772846fb?source=rss----819cc2aaeee0---4",
-      "title": "GPT-6 Astra vs Opus 5: Which one is better for product design?",
+      "url": "https://tympanus.net/codrops/2026/09/09/still-from-akira-to-ink-wash-building-a-generative-garden-in-webgpu/",
+      "title": "Still: From Akira to Ink Wash, Building a Generative Garden in WebGPU",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://voiceinthemachine.com/2026/09/07/four-questions-about-agi/",
-      "title": "Four questions about AGI",
+      "url": "https://uxplanet.org/gpt-6-astra-for-web-design-d273a818ca78?source=rss----819cc2aaeee0---4",
+      "title": "GPT-6 Astra for Web Design",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://opensourceui.in/",
-      "title": "Opensource UI",
+      "url": "https://ibelick.com/anatomy-ai-input",
+      "title": "Anatomy of AI input",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://tympanus.net/codrops/2026/09/08/building-an-infinite-liquid-glass-grid-with-three-js-webgpu-and-tsl/",
-      "title": "Building an Infinite Liquid Glass Grid with Three.js, WebGPU, and TSL",
+      "url": "https://www.dialkit.dev/",
+      "title": "DialKit",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://www.casestudy.club/marek-minor-interview",
-      "title": "The designer who drew Cursor's icons",
+      "url": "https://newsletter.baselinedesign.com/naming-the-middle/",
+      "title": "Naming the middle",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://design.lightspark.com/limit-the-number-of-details",
-      "title": "Limit the number of details",
+      "url": "https://the-brandidentity.com/project/skogen-borrows-from-scouting-not-tech-for-gridscouts-identity",
+      "title": "GridScout's brand identity",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://medium.com/@arun.krishna.e/beyond-entertainment-from-ux-concept-to-working-product-with-vibe-coding-83c24128b7c3?source=rss------ai_ux-5",
-      "title": "Beyond Entertainment: From UX Concept to Working Product with Vibe Coding",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://medium.com/@mehtabbadwal/theres-no-screen-to-hide-behind-d02dc13278d2?source=rss------ai_design-5",
-      "title": "There's No Screen to Hide Behind",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://medium.com/design-bootcamp/the-ux-market-is-back-youre-just-not-invited-3dee433b7cce?source=rss------ai_design-5",
-      "title": "The UX Market Is Back. You're Just Not Invited.",
+      "url": "https://medium.com/@medchemexpress_llc/12-weeks-3-46-years-younger-rentosertib-and-the-rise-of-ai-designed-drugs-in-clinical-trials-7916b9fe1c13?source=rss------ai_design-5",
+      "title": "12 Weeks, 3.46 Years Younger? Rentosertib and the Rise of AI-Designed Drugs in Clinical Trials",
       "profile": "Design"
     }
   ]
