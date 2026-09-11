@@ -1,142 +1,154 @@
 {
-  "generated_at": "2026-09-10T07:08:01+00:00",
+  "generated_at": "2026-09-11T07:08:31+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "title": "Now everyone can put data to work",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "title": "OpenAI's sly mathematical breakthrough sends a chill through academia",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+      "title": "Detecting and countering misuse of AI: September 2026 - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "title": "'Gambling with our lives': Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.13.0",
+      "title": "v3.13.0",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "title": "Students who use AI generally score worse at school",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.12.0",
+      "title": "v3.12.0",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "title": "Suno releases its first AI music model made with record industry help",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "title": "Mathematicians want proof OpenAI didn't use their work",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcd4rx/deepseek_v41_flash_is_748b_not_552b/",
+      "title": "Deepseek V4.1 Flash is 748B, not 552B",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.17.0",
-      "title": "Release 5.17.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wchl1x/gigachat35reasoning/",
+      "title": "GigaChat-3.5-Reasoning",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0",
-      "title": "v0.34.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats/",
+      "title": "CyberTiel 35B-A3B's uncensored 4-bit quant beats Opus 4.6 medium cleanly on real codebase issues, in 27% of the time Qwen3.8-27b medium takes.",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/",
-      "title": "DeepSeek V4.1 Flash: Stronger, Faster, More Accessible",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwith/faster_than_light_in_air_822_tgs_qwen38flashnext/",
+      "title": "Faster than Light in Air: 8-22 tg/s Qwen3.8-Flash-Next (Q4/Q4ish) on a 32GB M4 MacBook Air",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbm50k/1bit_27b_in_the_browser_2530_toks_on_a_6_gb_rtx/",
-      "title": "1-bit 27B in the browser: 25–30 tok/s on a 6 GB RTX 3060 Laptop (WebGPU, no install)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads/",
+      "title": "New tensor type layouts for my GGUF uploads",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbmz1y/sota_imagegen_locally_nvidia_cosmos364b_int4/",
-      "title": "SOTA ImageGen Locally NVIDIA Cosmos3(64B) INT4 quants CUDA/MLX",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10903",
+      "title": "b10903",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvrjg/adding_emotion_control_tags_to_qwen3tts/",
-      "title": "Adding emotion control tags to Qwen3-TTS",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.5.0",
+      "title": "v1.5.0",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.distributedthoughts.org/2026-09-07-one-floor-up/",
-      "title": "One floor up",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcxxm8/artificial_analysis_is_not_broken_and_they_prove/",
+      "title": "Artificial Analysis is not \"broken\", and they prove it.",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-      "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+      "url": "https://medium.com/@wolfpixel/can-claude-fable-5-replace-product-designers-7db5eaa697fe?source=rss------ai_design-5",
+      "title": "Can Claude Fable 5 Replace Product Designers?",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://tympanus.net/codrops/2026/09/09/still-from-akira-to-ink-wash-building-a-generative-garden-in-webgpu/",
-      "title": "Still: From Akira to Ink Wash, Building a Generative Garden in WebGPU",
+      "url": "https://uxplanet.org/can-gpt-6-actually-do-ux-design-1fe818e91794?source=rss----819cc2aaeee0---4",
+      "title": "Can GPT-6 Actually Do UX Design?",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/gpt-6-astra-for-web-design-d273a818ca78?source=rss----819cc2aaeee0---4",
-      "title": "GPT-6 Astra for Web Design",
+      "url": "https://medium.com/@jayavarshankuppusamy/your-ai-agent-shouldnt-do-math-here-s-what-should-a889a29376c8?source=rss------ai_design-5",
+      "title": "Your AI Agent Shouldn't Do Math — Here's What Should",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://ibelick.com/anatomy-ai-input",
-      "title": "Anatomy of AI input",
+      "url": "https://sjg.io/writing/ai-is-making-us-build-too-much/",
+      "title": "AI is making us build too much",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://www.dialkit.dev/",
-      "title": "DialKit",
+      "url": "https://www.worseonpurpose.com/p/on-quality",
+      "title": "Why products get worse",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://newsletter.baselinedesign.com/naming-the-middle/",
-      "title": "Naming the middle",
+      "url": "https://ky.fyi/posts/data-driven",
+      "title": "Building data-driven design systems",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://the-brandidentity.com/project/skogen-borrows-from-scouting-not-tech-for-gridscouts-identity",
-      "title": "GridScout's brand identity",
+      "url": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
+      "title": "Inside the First Three.js Conference in Paris",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://medium.com/@medchemexpress_llc/12-weeks-3-46-years-younger-rentosertib-and-the-rise-of-ai-designed-drugs-in-clinical-trials-7916b9fe1c13?source=rss------ai_design-5",
-      "title": "12 Weeks, 3.46 Years Younger? Rentosertib and the Rise of AI-Designed Drugs in Clinical Trials",
+      "url": "https://edoardolunardi.github.io/kugiri/",
+      "title": "Kugiri (区切り)",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
+      "title": "Five eras of UX design and the lessons to keep in the AI era",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
+      "title": "8 voice AIUX patterns",
       "profile": "Design"
     }
   ]
