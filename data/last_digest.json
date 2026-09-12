@@ -1,154 +1,136 @@
 {
-  "generated_at": "2026-09-11T07:08:31+00:00",
+  "generated_at": "2026-09-12T07:07:47+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/put-data-to-work",
-      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "title": "Detecting and countering misuse of AI: September 2026 - Anthropic",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.13.0",
-      "title": "v3.13.0",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhHTHg2eEh6S01RRlg4Ulk3bXY0dVRhVFJOWmF4Ym10R3B2bkhHMWVyQ0ZONVo5YlFITUZUeFNhMkhJeVlxRl9mbXV5QnRvazlHQ1BQamp6aXo3M2VuVXdVY3lfMzJoZXJjRHBRZEcyVW1nRVEteUk3Nk9lNlc0VmtuZVBMM1lvVF9NYmVhT1hzYWZkS0IzallKcVR2aF9RQnJsM3BTeThvSFYteE5VeHF6by1UU1M1RHpVMERCMFMzeGNtQ2dwTG9B?oc=5",
+      "title": "Anthropic says Yemen fighters used its AI Claude chatbot to try build guided weapons - The Times of Israel",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.12.0",
-      "title": "v3.12.0",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "title": "Mathematicians want proof OpenAI didn't use their work",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "title": "An Anthropic researcher's doomsday warning comes at a very interesting time",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcd4rx/deepseek_v41_flash_is_748b_not_552b/",
-      "title": "Deepseek V4.1 Flash is 748B, not 552B",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wchl1x/gigachat35reasoning/",
-      "title": "GigaChat-3.5-Reasoning",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats/",
-      "title": "CyberTiel 35B-A3B's uncensored 4-bit quant beats Opus 4.6 medium cleanly on real codebase issues, in 27% of the time Qwen3.8-27b medium takes.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwith/faster_than_light_in_air_822_tgs_qwen38flashnext/",
-      "title": "Faster than Light in Air: 8-22 tg/s Qwen3.8-Flash-Next (Q4/Q4ish) on a 32GB M4 MacBook Air",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "title": "Meta says it's changing AI suggestions after posing invasive personal questions",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads/",
-      "title": "New tensor type layouts for my GGUF uploads",
+      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10903",
-      "title": "b10903",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
+      "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.5.0",
-      "title": "v1.5.0",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10920",
+      "title": "b10920: hexagon: support for multi-device model split (aka row-split) (#28589)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcxxm8/artificial_analysis_is_not_broken_and_they_prove/",
-      "title": "Artificial Analysis is not \"broken\", and they prove it.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10909",
+      "title": "b10909",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@wolfpixel/can-claude-fable-5-replace-product-designers-7db5eaa697fe?source=rss------ai_design-5",
-      "title": "Can Claude Fable 5 Replace Product Designers?",
+      "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Test Complex Interactions Earlier with AI Prototyping",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/can-gpt-6-actually-do-ux-design-1fe818e91794?source=rss----819cc2aaeee0---4",
-      "title": "Can GPT-6 Actually Do UX Design?",
+      "url": "https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "AI Can Help Write an Article, but It Can't Stand Behind It",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@jayavarshankuppusamy/your-ai-agent-shouldnt-do-math-here-s-what-should-a889a29376c8?source=rss------ai_design-5",
-      "title": "Your AI Agent Shouldn't Do Math — Here's What Should",
+      "url": "https://uxplanet.org/design-critique-with-claude-code-7628e74f95a1?source=rss----819cc2aaeee0---4",
+      "title": "Design Critique with Claude Code",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://sjg.io/writing/ai-is-making-us-build-too-much/",
-      "title": "AI is making us build too much",
+      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+      "title": "Building A UX ROI Case That Survives The Boardroom",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://www.worseonpurpose.com/p/on-quality",
-      "title": "Why products get worse",
+      "url": "https://medium.com/@asmaeboukassime/how-i-designed-an-ai-assistant-for-university-students-e656f09c95d3?source=rss------ai_ux-5",
+      "title": "How I Designed an AI Assistant for University Students",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://ky.fyi/posts/data-driven",
-      "title": "Building data-driven design systems",
+      "url": "https://medium.com/@ai-directories/pama-ai-d1c116371d3e?source=rss------ai_design-5",
+      "title": "PAMA AI",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
-      "title": "Inside the First Three.js Conference in Paris",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://edoardolunardi.github.io/kugiri/",
-      "title": "Kugiri (区切り)",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
-      "title": "Five eras of UX design and the lessons to keep in the AI era",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
-      "title": "8 voice AIUX patterns",
+      "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+      "title": "You're not behind. The feed is built to make you feel that way.",
       "profile": "Design"
     }
   ]
