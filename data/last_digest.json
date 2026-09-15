@@ -1,46 +1,154 @@
 {
-  "generated_at": "2026-09-14T07:08:04+00:00",
+  "generated_at": "2026-09-15T07:08:12+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9/",
-      "title": "Five eras of UX design and the lessons to keep in the AI era",
-      "profile": "Design"
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.1-rc2",
+      "title": "v0.34.1",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-      "title": "AI is breaking this thing we call trust",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.1",
+      "title": "v0.4.1",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://medium.com/@leadimonaco/the-hidden-cost-of-becoming-an-end-to-end-designer-bfcdbd0d4d52?source=rss------ai_design-5",
-      "title": "The hidden cost of becoming an end-to-end designer",
-      "profile": "Design"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOako0N2w1bExjVVA0azZSLUI0QXdveUdDUWFnM0RKeVJVTEN4TlFlX0t5UHR6Z1FROWp2LVJUSjY4anRUakt0OTBUWkdFdjNKLTFDNmhPZ0RVY3BZSEZzLVFFUjZVdmtLSHk1bVZQRm1ObVJ6SGVSWGpJbXBBdS1EQ3lSMk4xNzNfVTJQT2NYaW1aUkV5c1plNDJNRXk2S3ZPMzA5Yw?oc=5",
+      "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
-      "title": "Building Depth: Designing and Developing a 3D Renderer Inside Figma",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://bit.ly/side-gra4",
-      "title": "Productivity for people with back-to-back meetings",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "title": "Is Big Tech's AI slowdown a safety pact or a cartel?",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://typeincube.com/",
-      "title": "CUBE Type",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "title": "Nvidia CEO Jensen Huang tells Trump 'we're not going to let [an AI slowdown] happen'",
+      "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://canvas-browser.com/",
-      "title": "Canvas Browser",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHU4alVHZ2FzblRRM2QyNVdONXh0OEtnb050LW9ySGFZNkl6NGQ1N1dZUUZ4TGI4cUsydEtxVUh4MEpBYThCZnI0UjJfVHlOUll3algza2w5RzhfM0JyanFxMjhkeVlOb2FXNXh4RHMyc0NVbGhhYnZmQUtKd0x1UGtlNi1kN2pBeWd2eUtucjYxT1lyVndUbW13?oc=5",
+      "title": "Google Finally Lets All Engineers Use Anthropic's Claude - Business Insider",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "title": "With iOS 27, I'm actually using Siri again",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "title": "Microsoft's new AI 'code of conduct' tells models not to hack systems or trick humans",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://openai.com/index/fyxer",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
+      "title": "RSI is not happening [R]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2tKckpOYndER2N5WU5GaHNCaGQ0RjF6bzNpUF9qTWtkMkxPTlo5RGpHMnNBQWVqV0tHc21QUlJuN2hpQlVLc2gwbTVSak8xdnpvZk1MZURra1hrWC03blNxV1ZKTW84Q2QtRTdnTUpTUUdKLXVKQzhRMVBOY1llWTZOaklaaFByaGtzOTRHcVdRdw?oc=5",
+      "title": "Anthropic CEO issues biggest AI warning yet — we're 6–12 months away from AI swarming the internet - Yahoo Tech",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.14.0",
+      "title": "v3.14.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "title": "We must pace the frontier",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://maggieappleton.com/planning-agents",
+      "title": "Planning with agents",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "title": "If coding is solved, what now?",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=rss----138adf9c44c---4",
+      "title": "The death of the deliverable",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxplanet.org/i-tried-to-make-claude-code-stop-producing-ai-slop-fa594f6b5981?source=rss----819cc2aaeee0---4",
+      "title": "I Tried to Make Claude Code Stop Producing AI Slop",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://bencho.dev/",
+      "title": "Bencho",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://linear.app/changelog/2026-09-14-loops-for-product-management",
+      "title": "Loops for product management",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4",
+      "title": "The UX Double Diamond is dead, and in AI only one survives for software",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://pangrampangram.com/blogs/journal/optical-vs-mathematical-alignment",
+      "title": "Optical vs. mathematical alignment",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
+      "title": "For the Designless",
       "profile": "Design"
     }
   ]
