@@ -1,40 +1,166 @@
 {
-  "generated_at": "2026-09-16T07:07:10+00:00",
+  "generated_at": "2026-09-17T07:08:42+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://uxplanet.org/claude-design-vs-figma-ai-i-designed-the-same-web-page-with-both-bf2a3712f980?source=rss----819cc2aaeee0---4",
-      "title": "Claude Design vs Figma AI: I Designed the Same Web Page With Both",
-      "profile": "Design"
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "title": "Our framework for reporting model misalignment",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://medium.com/@wolfpixel/is-design-thinking-still-relevant-in-the-age-of-ai-design-ff323c5d4228?source=rss------ai_design-5",
-      "title": "Is Design Thinking Still Relevant in the Age of AI Design?",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
-      "title": "The hidden culture layer in AI",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4",
-      "title": "The users were confident, but wrong. Here's how to design for that.",
-      "profile": "Design"
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "title": "Google will now let any AI agent run your smart home",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://medium.com/@calzada.ochoa/part-1-foodies-2026-working-with-ai-workflows-db883c8e4b36?source=rss------ai_design-5",
-      "title": "Part 1: Foodies 2026, working with AI workflows",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://medium.com/@praveen14inspire/stop-collecting-ai-tools-c1c91ec659b6?source=rss------ai_ux-5",
-      "title": "Stop Collecting AI Tools.",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 7,
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "title": "Former Infosys chief's AI startup nabs another $53M",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyNjJZVWhzbEpjOFlFOEliQzhkUjhFZllKbmlHN1dCR1FzOVpEZHRXTTdhcjFCbHJqb2twZ2dERGJUQ1JNWXZEdEVRWExaMXRhSDZ3WFBpTVM2OFhnU2FNVGRzR3FsR0djQTFZR2NRTnhiZw?oc=5",
+      "title": "Anthropic debuts Claude Docs, raising stakes for Microsoft - Axios",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDByMU5QYk8zV1dFZ183Rmlocm9QS0dURE9HdXhiRjFwYXJuOXlZTnhXNjh1aWMwQzJoX3BFNk9GcllUZ01pUy1FYzJTMzNPVGRIdGZzV0RRa0FKakxXV3lBdnRVUEhnOE11YUpxdHJJcFByUEcxZ25EYVB3MlZkcnB0X1Q1b1JGWEJGNkloa3NnMHFtN05JZmJIUlhQSDh5YkRIVjRaM24?oc=5",
+      "title": "Novo Nordisk Will Use Anthropic's Claude for Drug Research - WSJ",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/",
+      "title": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/",
+      "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/",
+      "title": "Qwen 3.8 27B Running for 63 hours on a RTX 3090 to solve the Riemann hypothesis",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard/",
+      "title": "Xiaomi MiMo 2.6 Live Training Dashboard",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/",
+      "title": "Apple May Return to Server Market With Nvidia Technology",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache/",
+      "title": "You can offload most of Qwen3.8-Flash-Next's KV cache to RAM with little decode slowdown",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1",
+      "title": "v0.34.2",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 17,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11012",
+      "title": "b11012",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 18,
+      "url": "https://yegge.ai/essays/seats-and-sunsets/",
+      "title": "Seats and sunsets",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+      "title": "Maybe we shouldn't be reviewing all this code",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://pop.rdi.sh/dario-please/",
+      "title": "Dario, please",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9",
+      "title": "Five eras of UX design and the lessons to keep in the AI era",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxplanet.org/design-handoff-with-claude-code-fdaf477e4a0c?source=rss----819cc2aaeee0---4",
+      "title": "Design handoff with Claude Code",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://sidebranch.dev/",
+      "title": "Sidebranch: worktree visual diffing",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://liamnugent.me/posts/what-you-dont-build/",
+      "title": "The most important product decision is what you don't build",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://opusfived.dev/",
+      "title": "Opusfived",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://emesstyle.com/a11y-design/",
+      "title": "WCAG Accessibility Guidelines Explorer",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://rauno.me/notes/5",
+      "title": "Rauno's field notes: 5",
       "profile": "Design"
     }
   ]
