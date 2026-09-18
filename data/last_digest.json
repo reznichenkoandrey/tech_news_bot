@@ -1,166 +1,130 @@
 {
-  "generated_at": "2026-09-17T07:08:42+00:00",
+  "generated_at": "2026-09-18T07:07:52+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "title": "Our framework for reporting model misalignment",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
+      "title": "Exclusive | Hackers Used Anthropic's Claude to Break Into OpenAI - WSJ",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcW5TQ3c4elF6NEloRlVEN3JqZnVOOVFmWW5HdXRvR0pybGRXUzFFanItb0pLdzVDZlpBUkJqX2xMejdKV19ERHM5N2kzOGdZck1Eem9yNVBSWVRSMkNqRFZkckRQb2FCREYtV25iZnNRRjNralRubkM0MXRRekhxZ3lIRm1WallPNFJBOE5oMENhdUk2UVZ2Y0xydVBpVGhuTnlzZFZYeUZnMzg0NGJBQ1dkWGRTOVJy?oc=5",
+      "title": "Security Researchers Hacked Into OpenAI Using Anthropic's Claude - Forbes",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
+      "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular 'AI factories'",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "title": "Former Infosys chief's AI startup nabs another $53M",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyNjJZVWhzbEpjOFlFOEliQzhkUjhFZllKbmlHN1dCR1FzOVpEZHRXTTdhcjFCbHJqb2twZ2dERGJUQ1JNWXZEdEVRWExaMXRhSDZ3WFBpTVM2OFhnU2FNVGRzR3FsR0djQTFZR2NRTnhiZw?oc=5",
-      "title": "Anthropic debuts Claude Docs, raising stakes for Microsoft - Axios",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history,' new unredacted filings reveal",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDByMU5QYk8zV1dFZ183Rmlocm9QS0dURE9HdXhiRjFwYXJuOXlZTnhXNjh1aWMwQzJoX3BFNk9GcllUZ01pUy1FYzJTMzNPVGRIdGZzV0RRa0FKakxXV3lBdnRVUEhnOE11YUpxdHJJcFByUEcxZ25EYVB3MlZkcnB0X1Q1b1JGWEJGNkloa3NnMHFtN05JZmJIUlhQSDh5YkRIVjRaM24?oc=5",
-      "title": "Novo Nordisk Will Use Anthropic's Claude for Drug Research - WSJ",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/",
-      "title": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/",
-      "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/",
-      "title": "Qwen 3.8 27B Running for 63 hours on a RTX 3090 to solve the Riemann hypothesis",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard/",
-      "title": "Xiaomi MiMo 2.6 Live Training Dashboard",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/",
-      "title": "Apple May Return to Server Market With Nvidia Technology",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache/",
-      "title": "You can offload most of Qwen3.8-Flash-Next's KV cache to RAM with little decode slowdown",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2-rc1",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2",
       "title": "v0.34.2",
       "profile": "AI/Tech"
     },
     {
-      "n": 17,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11012",
-      "title": "b11012",
+      "n": 10,
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.15.0",
+      "title": "v3.15.0",
       "profile": "AI/Tech"
     },
     {
+      "n": 11,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "title": "The AI Superintelligence Slowdown",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "title": "The fix for rogue AI agents could be more AI",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc1",
+      "title": "v0.30.0rc1: [Bugfix] Isolate supplemental FlashInfer BF16 autotuning (#57285)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://uxplanet.org/ive-tested-3-popular-claude-code-skills-for-web-design-24b7866e05a7?source=rss----819cc2aaeee0---4",
+      "title": "I Tested 3 Popular Claude Code Skills for Web Design",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
+      "title": "Rethinking writing in the world of design and AI",
+      "profile": "Design"
+    },
+    {
       "n": 18,
-      "url": "https://yegge.ai/essays/seats-and-sunsets/",
-      "title": "Seats and sunsets",
+      "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
+      "title": "Please don't stretch your app for foldables",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
-      "title": "Maybe we shouldn't be reviewing all this code",
+      "url": "https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4",
+      "title": "The evidence at work",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://pop.rdi.sh/dario-please/",
-      "title": "Dario, please",
+      "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
+      "title": "Nothing has changed other than how we talk about it",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9",
-      "title": "Five eras of UX design and the lessons to keep in the AI era",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxplanet.org/design-handoff-with-claude-code-fdaf477e4a0c?source=rss----819cc2aaeee0---4",
-      "title": "Design handoff with Claude Code",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://sidebranch.dev/",
-      "title": "Sidebranch: worktree visual diffing",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://liamnugent.me/posts/what-you-dont-build/",
-      "title": "The most important product decision is what you don't build",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://opusfived.dev/",
-      "title": "Opusfived",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://emesstyle.com/a11y-design/",
-      "title": "WCAG Accessibility Guidelines Explorer",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://rauno.me/notes/5",
-      "title": "Rauno's field notes: 5",
+      "url": "https://medium.com/@pintamanta/the-empire-that-croesus-destroyed-91679d3f09f7?source=rss------ai_design-5",
+      "title": "The Empire That Croesus Destroyed",
       "profile": "Design"
     }
   ]
