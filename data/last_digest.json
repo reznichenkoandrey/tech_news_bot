@@ -1,130 +1,160 @@
 {
-  "generated_at": "2026-09-18T07:07:52+00:00",
+  "generated_at": "2026-09-19T07:07:53+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
+      "title": "v0.34.3",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "title": "OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
-      "title": "Exclusive | Hackers Used Anthropic's Claude to Break Into OpenAI - WSJ",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "title": "Researchers used Anthropic's Claude to hack into OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcW5TQ3c4elF6NEloRlVEN3JqZnVOOVFmWW5HdXRvR0pybGRXUzFFanItb0pLdzVDZlpBUkJqX2xMejdKV19ERHM5N2kzOGdZck1Eem9yNVBSWVRSMkNqRFZkckRQb2FCREYtV25iZnNRRjNralRubkM0MXRRekhxZ3lIRm1WallPNFJBOE5oMENhdUk2UVZ2Y0xydVBpVGhuTnlzZFZYeUZnMzg0NGJBQ1dkWGRTOVJy?oc=5",
-      "title": "Security Researchers Hacked Into OpenAI Using Anthropic's Claude - Forbes",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
-      "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular 'AI factories'",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "title": "Meta's Muse hits Mac, letting the AI take actions on your computer",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history,' new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "title": "Google's new 'CC' is an AI agent that helps families run their households",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.2",
-      "title": "v0.34.2",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.7.0",
+      "title": "v1.7.0",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.15.0",
-      "title": "v3.15.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc2",
+      "title": "v0.30.0rc2",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "title": "The AI Superintelligence Slowdown",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.16.0",
+      "title": "v3.16.0",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000/",
+      "title": "768gb vram for less than the price of one RTX 6000",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/",
+      "title": "MiniMax Code goes open source",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wju8ky/prismml_bonsai_2_joins_our_qwen38_quantization/",
+      "title": "Prism-ML Bonsai 2 Joins Our Qwen3.8 Quantization Comparison",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc1",
-      "title": "v0.30.0rc1: [Bugfix] Isolate supplemental FlashInfer BF16 autotuning (#57285)",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "The 3 Roles of Context for AI Agents",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/ive-tested-3-popular-claude-code-skills-for-web-design-24b7866e05a7?source=rss----819cc2aaeee0---4",
-      "title": "I Tested 3 Popular Claude Code Skills for Web Design",
+      "url": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Designing AI Products and Features: Study Guide",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
-      "title": "Rethinking writing in the world of design and AI",
+      "url": "https://medium.com/@rdesai_nyc/designing-for-trust-making-ai-chain-of-thought-legible-to-non-technical-users-157e5eb72ecd?source=rss------ai_ux-5",
+      "title": "Designing for Trust: Making AI Chain-of-Thought Legible to Non-Technical Users",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
-      "title": "Please don't stretch your app for foldables",
+      "url": "https://uxplanet.org/google-stitch-vs-figma-ai-i-designed-the-same-mobile-app-with-both-7a219c347dba?source=rss----819cc2aaeee0---4",
+      "title": "Google Stitch vs Figma AI: I Designed the Same Mobile App With Both",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4",
-      "title": "The evidence at work",
+      "url": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4",
+      "title": "Altman and Amodei's \"unsafe at any prompt\" moment for AI",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
-      "title": "Nothing has changed other than how we talk about it",
+      "url": "https://buzzusborne.com/work/designing-with-ai/",
+      "title": "Designing with AI",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@pintamanta/the-empire-that-croesus-destroyed-91679d3f09f7?source=rss------ai_design-5",
-      "title": "The Empire That Croesus Destroyed",
+      "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+      "title": "We are all Product Engineers now",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@josetguevara108/when-ai-solves-the-problems-navier-stokes-vagelis-plevris-and-the-end-of-human-mathematics-d36c1625f178?source=rss------ai_design-5",
+      "title": "⭐ When AI Solves the Problems: Navier–Stokes, Vagelis Plevris, and the End of Human Mathematics.",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
+      "title": "Whatever happened to \"Download on the App Store\" buttons?",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c",
+      "title": "For the Designless",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://craft.gustavofior.com/",
+      "title": "Craft",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://www.carmenansio.com/articles/opentype-features-css/",
+      "title": "Why your numbers look wrong",
       "profile": "Design"
     }
   ]
