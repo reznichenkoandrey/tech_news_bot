@@ -1,160 +1,100 @@
 {
-  "generated_at": "2026-09-19T07:07:53+00:00",
+  "generated_at": "2026-09-20T07:07:17+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1",
-      "title": "v0.34.3",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "title": "OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02VWRHM2VRcWpGNkhnbjZhQnVkenhqUUVfdGVCem5EOFlWRUFMaERMaUJVdlEwLWlxMkVMZ19IRlQ5cV9zaHMyUG9Rc1dlX3RrVFFMVTJiOEZ3a3gtLWNHWG16RElETTg?oc=5",
+      "title": "Anthropic considers new model to counter OpenAI's latest AI push",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "title": "Researchers used Anthropic's Claude to hack into OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelJIemRHQTlrNjc4MWlVbXU1R1lFSlR2RXlhQkVOeGUxSEFzY2F5TGVpTTdoNDBIVmlBd1p4RE9ZaXcxaTlHMkw2aE80Y1UxWUNzWmNEMFgyMXJaaTRDRHRJWGx1b0NEXzdMRU1nODA4S3JBaVRiczJzNF82SVVhZ0xPZ25rV3pEQmU3TUhnODEyYXEzdTNXamhxOA?oc=5",
+      "title": "Anthropic Made a 'Mistake' Teaching Claude About Consciousness: Microsoft AI Chief Mustafa Suleyman Warns It's Now 'A Lot Harder to Turn It Off'",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkpxn6/von_opensource_395m_system_one_model/",
+      "title": "Von: Open-source 395M \"System One\" model",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11060",
+      "title": "b11060",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "title": "Meta's Muse hits Mac, letting the AI take actions on your computer",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11059",
+      "title": "b11059",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "title": "Google's new 'CC' is an AI agent that helps families run their households",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl0hlj/radeon_rx_10800_xt_can_outperform_the_rtx_5090_by/",
+      "title": "Radeon RX 10800 XT can outperform the RTX 5090 by 15-25% in 4K gaming and local AI",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.7.0",
-      "title": "v1.7.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkyny9/qwen38flashnext_at_1m_context_on_strix_halo_38/",
+      "title": "Qwen3.8-Flash-Next at 1M context on Strix Halo: 38 tok/s decode, 18 min prefill (halogen 0.12.0)",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0rc2",
-      "title": "v0.30.0rc2",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl06np/qwen38flashnext_on_1x_rtx_5090_tg50_ts_pp2300_ts/",
+      "title": "Qwen-3.8-Flash-Next on 1x RTX 5090: TG=50 t/s, PP=2300 t/s - with FreeToken",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.16.0",
-      "title": "v3.16.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl5hfk/to_the_dozens_of_3x_3090_local_llm_people_i_found/",
+      "title": "To the dozens of 3x 3090 Local LLM people - I found our current best fit",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000/",
-      "title": "768gb vram for less than the price of one RTX 6000",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwec5/i_turned_an_asymetric_pair_of_tesla_v100s_pcie/",
+      "title": "I turned an asymetric pair of Tesla V100s PCIe both (16 GB + 32 GB) into a surprisingly capable local LLM lab",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/",
-      "title": "MiniMax Code goes open source",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl9c2o/chinas_cxmt_says_new_memorychip_platform_enters/",
+      "title": "China's CXMT says new memory-chip platform enters mass production",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wju8ky/prismml_bonsai_2_joins_our_qwen38_quantization/",
-      "title": "Prism-ML Bonsai 2 Joins Our Qwen3.8 Quantization Comparison",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl9amq/reached_189_tbs_memory_bandwidth_overclocking_the/",
+      "title": "Reached 1.89 TB/s memory bandwidth overclocking the CMP 170hx",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "The 3 Roles of Context for AI Agents",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai/",
+      "title": "General warning about Clore.AI",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Designing AI Products and Features: Study Guide",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://medium.com/@rdesai_nyc/designing-for-trust-making-ai-chain-of-thought-legible-to-non-technical-users-157e5eb72ecd?source=rss------ai_ux-5",
-      "title": "Designing for Trust: Making AI Chain-of-Thought Legible to Non-Technical Users",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://uxplanet.org/google-stitch-vs-figma-ai-i-designed-the-same-mobile-app-with-both-7a219c347dba?source=rss----819cc2aaeee0---4",
-      "title": "Google Stitch vs Figma AI: I Designed the Same Mobile App With Both",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4",
-      "title": "Altman and Amodei's \"unsafe at any prompt\" moment for AI",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://buzzusborne.com/work/designing-with-ai/",
-      "title": "Designing with AI",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-      "title": "We are all Product Engineers now",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/@josetguevara108/when-ai-solves-the-problems-navier-stokes-vagelis-plevris-and-the-end-of-human-mathematics-d36c1625f178?source=rss------ai_design-5",
-      "title": "⭐ When AI Solves the Problems: Navier–Stokes, Vagelis Plevris, and the End of Human Mathematics.",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
-      "title": "Whatever happened to \"Download on the App Store\" buttons?",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c",
-      "title": "For the Designless",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://craft.gustavofior.com/",
-      "title": "Craft",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://www.carmenansio.com/articles/opentype-features-css/",
-      "title": "Why your numbers look wrong",
+      "url": "https://medium.com/@stannics28/advocating-for-human-made-designs-d2fbf2432b43?source=rss------ai_design-5",
+      "title": "Advocating for human-made designs",
       "profile": "Design"
     }
   ]
