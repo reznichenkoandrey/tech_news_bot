@@ -1,112 +1,154 @@
 {
-  "generated_at": "2026-09-21T07:08:34+00:00",
+  "generated_at": "2026-09-22T07:08:36+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
-      "title": "v0.30.0: [Build] Fix DeepGEMM CUDA 12.9 release builds (#57554)",
+      "url": "https://huggingface.co/blog/omlx",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91anIwdEVrOU41TFBMREo2cXhIVjMxZF82dmxMRU9xc2h5UmVuenpCSUhXRVFBNkN5Mk51djhHaklreWR6WV9LWWtfM2I0TEQwMzNVTGZhN3ptMXRKZUgxUWxWZzNyNmNMaUd1aQ?oc=5",
-      "title": "Anthropic Says Claude Leads 26% of Its Own AI R&D [2026]",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxON1c3WF8wNlB2QWhqWngzWTJoWXdlc0swTS1IeGlBdzg5SEl0RlFZdkNyNGx5VHVwcVZqbzlCQldzbG9jT2QxNUcwYUEycEZGYUVrSUI4UGttTjg1M1dCWkxfU3h0TUdLSXlNcGF6TXpoT0tsa2JEV0IyMHNpaVFoRkVsVXFTMXdEY040MnZjYU9GSzdGOVpiNThjcUdiVWZrSTNTaVR1LVhJbWlTYWNOSHY3dGNkNHl4a01JNFVvMER1TGR2RXA5Zkh5NjNKS0NPMkVWR3NtNG1fYUVPNnlkTWk4Ymgta1dvZnFkd3J2VUlPcFBNVlJxUHU0NzRXZVE5RVJGeNIBigJBVV95cUxNaHlFb2JtUU43WG1UNXVJZmc2WjdoNjJzMTJzbkFPMEFrSUo2LUdOSVl6eDlTU2xSbUktVmhpQWRHNFZKRXA5ZmpfRHNYWXplRXRFRXdTa3JLMm1HZ3Z4SDctV3JLdGx1bmlZQmFmbGhVdDVNS0NfMmUtQmpoZ0w2RjJVSlo2Uy1RYVNNWDhvVnNSem5OU0RwLUk1RDNlVDdIUE5fcU9ZOHZ1UWZqNFdTVmZSdWdybWJiU2xsYVhIWmk1OFoxUjdOZjRJd3pENkpaanJ4ZzlCVFVjRkkxY3JoY0xiX3EyZXFmbHBLdFJPZ2RINzhCN0Y5b3paMGV1c1ZHQkNKV2dsUHhCQQ?oc=5",
-      "title": "Anthropic, CEO of which called for slowing AI development, may release new model ahead of IPO",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZU1hb3hZQ1VrX1VPU1E0TG9RN0RhTjdaV2VmN3RqckFGUGtZQTgyMk11MTNoejBCa2RaS0ZjYU5ESXFNX2lvRlk2RTlrT2RaWVV3TnpmR0J0NURDdlJZZU9mV0IzVE9yM1k2WnBfSU9oaWVpVW1OTExtdHJKNTlOeFZjYTVvQXFxX0x1QTVMVFpCOV9VbGF5VC15Y1RaeXE0clR4VnNNcEI2NjdzVE5TZnUxSFV1dw?oc=5",
-      "title": "Threat Actors Use Claude for Surveillance, Cyber Operations, Weapons, Says Anthropic",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "title": "Building standards for the next phase of AI",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11065",
-      "title": "b11065",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "title": "Meta's Muse is outpacing ChatGPT's early mobile launch",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11064",
-      "title": "b11064",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "title": "Meta's AI agent has been blocked from using Amazon.com",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11062",
-      "title": "b11062",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "title": "California tightens rules on AI data center energy and water use",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wlr1w5/hemmingway1_an_apache20_27b_creativewriting/",
-      "title": "Hemmingway-1, an Apache-2.0 27B creative-writing fine-tune (Qwen3.8-27B base, EQ-Bench 4 1330)[R]",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "title": "iPhone owners can now submit claims in Apple's $250 million Siri AI settlement",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wlimaj/why_decontamination_reports_cant_fix_benchmark/",
-      "title": "Why decontamination reports can't fix benchmark contamination, and what an evaluator has to do instead [D]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "title": "UN says AI safeguards can't wait for certainty",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wlbhw8/inside_sanotts_a_294279parameter_tts_system_p/",
-      "title": "Inside sanoTTS — a 294,279-parameter TTS system [P]",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "title": "Amazon blocks Meta's Muse AI agent",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "title": "Trump now says he wants to form an 'AI Force'",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.17.0",
+      "title": "v3.17.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wm1crj/concerns_about_the_iclr_review_policy_d/",
-      "title": "Concerns about the ICLR review policy [D]",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11096",
+      "title": "b11096",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
-      "title": "How is your experience with ICLR LLM Feedback? [D]",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wlj8vv/autograd_project_p/",
-      "title": "Autograd project [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
+      "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@paulunemoon/everything-on-solana-starts-to-look-the-same-c07dcb752811?source=rss------ai_design-5",
-      "title": "Everything on Solana starts to look the same",
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "title": "Scenarios for our economic future",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@upstairs0102/%E5%AF%A6%E4%BD%9C%E5%9F%BA%E6%96%BC-ag-ui-%E7%9A%84-generative-ui-%E6%A1%86%E6%9E%B6-3cbddcec8d01?source=rss------generative_ui-5",
-      "title": "實作基於 AG-UI 的 Generative UI 框架",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
-      "title": "AI nutrition facts",
+      "url": "https://medium.com/@SamerTallauze/ux-design-is-no-longer-about-screens-were-designing-ai-behavior-now-1f75f20211e3",
+      "title": "UX Design Is No Longer About Screens. We're Designing AI Behavior Now.",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://lillinott.medium.com/why-users-arent-adopting-your-ai-feature-cdf32dfc1ce9?source=rss------ai_design-5",
+      "title": "Why Users Aren't Adopting Your AI Feature.",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxplanet.org/can-ai-follow-a-real-design-system-c30330ad6dd1?source=rss----819cc2aaeee0---4",
+      "title": "Can AI follow a real design system?",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/@akhilranjith11/how-to-evaluate-ai-generated-design-a-practical-framework-for-designers-b7f01a44dacb?source=rss------ai_design-5",
+      "title": "How to Evaluate AI Generated Design A Practical Framework for Designers",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@praveen14inspire/ai-gave-me-an-answer-i-forgot-to-ask-if-it-was-true-100cadb4a8f1?source=rss------ai_ux-5",
+      "title": "AI Gave Me an Answer. I Forgot to Ask If It Was True.",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://naturalgeneralintelligence.ai/",
+      "title": "Natural General Intelligence",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "title": "I am often wrong",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://er-certification.statichost.page/index.html",
+      "title": "The Enshittification Resistant Software",
       "profile": "Design"
     }
   ]
