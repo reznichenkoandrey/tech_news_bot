@@ -1,154 +1,130 @@
 {
-  "generated_at": "2026-09-22T07:08:36+00:00",
+  "generated_at": "2026-09-23T07:08:47+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://huggingface.co/blog/omlx",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+      "title": "Introducing Claude Opus 5.5 - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "title": "Better prompt caching for GPT-6",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "title": "Building standards for the next phase of AI",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "title": "Meta's Muse is outpacing ChatGPT's early mobile launch",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "title": "Meta's AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "title": "Meta admits Muse's likeness to OpenClaw isn't a coincidence",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "title": "California tightens rules on AI data center energy and water use",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "title": "Trump says the US is officially renaming AI to 'super intelligence'",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "title": "iPhone owners can now submit claims in Apple's $250 million Siri AI settlement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/meta-muse-patch-zero-day-exploit-ai-agent",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "title": "UN says AI safeguards can't wait for certainty",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "title": "Rabbit's new AI agent doesn't need an R1 to run",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "title": "Amazon blocks Meta's Muse AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998816/andreessen-horowitz-ai-academy",
+      "title": "Andreessen Horowitz is launching an 'academy' with no homework and partnerships with Palantir, Google, and Meta",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.17.0",
-      "title": "v3.17.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.8.0",
+      "title": "v1.8.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11096",
-      "title": "b11096",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.19.0",
+      "title": "v3.19.0",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.3",
+      "title": "v0.34.3",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
-      "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/",
+      "title": "Xiaomi releases MiMo-V2.6: \"Frontier intelligence, all the modalities, built in public.\" [N]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "title": "Scenarios for our economic future",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/",
+      "title": "The 3 roles of context for AI agents",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://addyosmani.com/blog/audit-your-agent-files/",
+      "title": "Audit your agent files",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@SamerTallauze/ux-design-is-no-longer-about-screens-were-designing-ai-behavior-now-1f75f20211e3",
-      "title": "UX Design Is No Longer About Screens. We're Designing AI Behavior Now.",
+      "url": "https://uxplanet.org/figma-vs-claude-design-from-ui-screenshot-to-functional-prototype-82e00fb924bc?source=rss----819cc2aaeee0---4",
+      "title": "Figma vs. Claude Design: From UI Screenshot to Functional Prototype",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://lillinott.medium.com/why-users-arent-adopting-your-ai-feature-cdf32dfc1ce9?source=rss------ai_design-5",
-      "title": "Why Users Aren't Adopting Your AI Feature.",
+      "url": "https://petdex.dev/",
+      "title": "Petdex",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxplanet.org/can-ai-follow-a-real-design-system-c30330ad6dd1?source=rss----819cc2aaeee0---4",
-      "title": "Can AI follow a real design system?",
+      "url": "https://imagetoascii.art/",
+      "title": "Image to ASCII converter",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@akhilranjith11/how-to-evaluate-ai-generated-design-a-practical-framework-for-designers-b7f01a44dacb?source=rss------ai_design-5",
-      "title": "How to Evaluate AI Generated Design A Practical Framework for Designers",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/@praveen14inspire/ai-gave-me-an-answer-i-forgot-to-ask-if-it-was-true-100cadb4a8f1?source=rss------ai_ux-5",
-      "title": "AI Gave Me an Answer. I Forgot to Ask If It Was True.",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://naturalgeneralintelligence.ai/",
-      "title": "Natural General Intelligence",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "title": "I am often wrong",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://er-certification.statichost.page/index.html",
-      "title": "The Enshittification Resistant Software",
+      "url": "https://blog.exe.dev/caring-vs-knowing",
+      "title": "Caring vs. knowing",
       "profile": "Design"
     }
   ]
