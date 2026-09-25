@@ -1,118 +1,148 @@
 {
-  "generated_at": "2026-09-24T07:08:11+00:00",
+  "generated_at": "2026-09-25T07:08:54+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1JLV3pVQmtwWEkzUGhJWl9MbTZ3WE9OU1NJZUpfeGxqREJVZHVnTHZzeDlrN2NDbWxUMFhEOG05NmtVcnVRN09oaVpzblBIdzBJWmlCd2RCUlBqYVgzdTlsdncxbVBhOS1vM1RmMDVEdXJqR3pWeEZoVlJUSld4NnotN0dSSy03TGJfMkk0M0VFdw?oc=5",
+      "title": "Anthropic Launches Claude Opus 5.5 With Lower Prices and Faster Output - TechRepublic",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlcwOGVmQi1xT3NwWDE3amNoZ0E5X0R2SURjSDl1M0g2SURhYkF2WklDNFJkSHNnR0QyWXViVEVrdUc5SGJ6V1FTbGVDaDcwMW1EVTFvdlI4UU9MWUlUVHZTRmJwRkg3WWlONGE0aE9NcGVKb3czTW1IVVF4UmlGc2FGZVY?oc=5",
+      "title": "Anthropic's Claude discovered a new CRISPR-like enzyme system in viral DNA - qz.com",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/ringg",
-      "title": "Ringg's AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "title": "Anthropic's biolab made a discovery it's comparing to Crispr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "title": "Gemini can now call businesses for you so you don't have to wait on hold",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "title": "Bernie Sanders proposes banning 'superintelligence' and putting violators in prison",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "title": "Lovable's annualized revenue crosses $600M as vibe coding takes off",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "title": "Meta ditches the camera on its newest smart glasses",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "title": "Why can't we just keep rogue AIs off the internet?",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.4",
-      "title": "v0.34.4",
+      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "title": "Google is sending an AI satellite into space next week",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.5.0",
-      "title": "v0.5.0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0",
+      "title": "v0.40.0",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "title": "Introducing MentalHealthBench",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11177",
+      "title": "b11177",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/claude-opus-5-5-for-product-designers-6d354142d5ac?source=rss----819cc2aaeee0---4",
-      "title": "Claude Opus 5.5 for Product Designers",
+      "url": "https://linear.app/changelog/2026-09-24-new-controls-for-linear-coding-agent",
+      "title": "New controls for Linear coding agent",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@wolfpixel/how-designers-need-to-change-for-an-ai-powered-world-wolfpixel-d63dbf759f9e?source=rss------ai_design-5",
-      "title": "How Designers Need to Change for an AI-Powered World — Wolfpixel",
+      "url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-5-which-one-is-better-for-product-design-ea66a6ff4527?source=rss----819cc2aaeee0---4",
+      "title": "GPT-6 Astra vs Opus 5.5: Which one is better for product design?",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@wdesigna/designing-and-developing-ai-powered-products-c90756ce4f0e?source=rss------ai_design-5",
-      "title": "Designing and Developing AI-Powered Products",
+      "url": "https://medium.com/@abdullahqamar600/a-ux-breakdown-of-the-handoff-moments-where-ai-systems-earn-or-lose-user-trust-843f0177d72a?source=rss------ai_design-5",
+      "title": "A UX breakdown of the handoff moments where AI systems earn or lose user trust.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@kalpanasha_iyer/stop-selling-ai-start-solving-the-business-problem-fb1fa97d5e63?source=rss------ai_design-5",
-      "title": "Stop Selling AI. Start Solving the Business Problem.",
+      "url": "https://medium.com/@yuhsueh.jobs/when-correct-isnt-enough-0cd81621f2a1?source=rss------ai_ux-5",
+      "title": "When \"Correct\" Isn't Enough —",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://www.tonyward.dev/articles/code-as-the-source-of-truth",
+      "title": "Code as the source of truth",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/@katerina_17253/10-signs-your-saas-or-platform-looks-templated-2eff64507d3a?source=rss------ai_design-5",
+      "title": "10 Signs Your SaaS or Platform Looks Templated",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/design-bootcamp/were-building-ai-powered-experiences-are-we-still-designing-for-people-4f81a252b35c?source=rss------ai_design-5",
+      "title": "We're building AI-powered experiences. Are we still designing for people?",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://voiceinthemachine.com/2026/09/21/the-fear-of-ai/",
+      "title": "The fear of AI",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://www.paulbakaus.com/i-gave-my-website-a-boss-fight/",
+      "title": "I gave my website a boss fight",
       "profile": "Design"
     }
   ]
