@@ -1,148 +1,142 @@
 {
-  "generated_at": "2026-09-25T07:08:54+00:00",
+  "generated_at": "2026-09-26T07:07:41+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1JLV3pVQmtwWEkzUGhJWl9MbTZ3WE9OU1NJZUpfeGxqREJVZHVnTHZzeDlrN2NDbWxUMFhEOG05NmtVcnVRN09oaVpzblBIdzBJWmlCd2RCUlBqYVgzdTlsdncxbVBhOS1vM1RmMDVEdXJqR3pWeEZoVlJUSld4NnotN0dSSy03TGJfMkk0M0VFdw?oc=5",
-      "title": "Anthropic Launches Claude Opus 5.5 With Lower Prices and Faster Output - TechRepublic",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlcwOGVmQi1xT3NwWDE3amNoZ0E5X0R2SURjSDl1M0g2SURhYkF2WklDNFJkSHNnR0QyWXViVEVrdUc5SGJ6V1FTbGVDaDcwMW1EVTFvdlI4UU9MWUlUVHZTRmJwRkg3WWlONGE0aE9NcGVKb3czTW1IVVF4UmlGc2FGZVY?oc=5",
-      "title": "Anthropic's Claude discovered a new CRISPR-like enzyme system in viral DNA - qz.com",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "title": "Anthropic's founders seek voting control ahead of IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google/",
+      "title": "One company is at the center of a wave of rogue AI attacks",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "title": "Gemini can now call businesses for you so you don't have to wait on hold",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-      "title": "Lovable's annualized revenue crosses $600M as vibe coding takes off",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot/",
+      "title": "Microsoft thinks its new Copilot 'super app' will be as influential as Office",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music/",
+      "title": "Sony and UMG are suing Suno again",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "title": "Some Supabase customers are publicly exposing reams of people's data to the web",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUVqRzQwNW9SN1pNeThVT1lWblh2YUJBSElLVE5sTXJzZGVpUk1MMG1JX1AwUWZyRGxRUlZyNS1YcnNjS2hzVllkTVEwUlhZTHN0NXZoSWdCVjBUVEZBOFFVdUQ4dWJOTjdqaFdOUGZVQnQ3LWRpalZFdG1CbmYwWkFSbU11b3FQUlpJX0FacDcwMFBkNzBpUDhYeTN5U1FWVDcyWnplVkV4Y2J3amhMcXpvWEh0bk1aUVRQeUtsU08xeGc?oc=5",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features - arstechnica.com",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-      "title": "Why can't we just keep rogue AIs off the internet?",
+      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "title": "Your uncle's frozen Mac says it's infected after viewing a Google ad. Now what?",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "title": "Google is sending an AI satellite into space next week",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11194",
+      "title": "b11194",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0",
-      "title": "v0.40.0",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "When Should You Disclose AI Use? The PACED Framework",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11177",
-      "title": "b11177",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "How AI Works and How Users Think About It: Study Guide",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://linear.app/changelog/2026-09-24-new-controls-for-linear-coding-agent",
-      "title": "New controls for Linear coding agent",
+      "url": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-ui-design-c19860ad8563?source=rss----819cc2aaeee0---4",
+      "title": "I Tested Opus 5.5 at Every Effort Level for UI Design",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-5-which-one-is-better-for-product-design-ea66a6ff4527?source=rss----819cc2aaeee0---4",
-      "title": "GPT-6 Astra vs Opus 5.5: Which one is better for product design?",
+      "url": "https://www.lukew.com/ff/entry.asp?2163",
+      "title": "Skip the tools, make the outcomes",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@abdullahqamar600/a-ux-breakdown-of-the-handoff-moments-where-ai-systems-earn-or-lose-user-trust-843f0177d72a?source=rss------ai_design-5",
-      "title": "A UX breakdown of the handoff moments where AI systems earn or lose user trust.",
+      "url": "https://medium.com/@rachelesloane/ai-gave-them-the-vision-the-garden-center-still-has-to-make-it-work-f6892f14d839?source=rss------ai_design-5",
+      "title": "AI Gave Them the Vision. The Garden Center Still Has to Make It Work.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@yuhsueh.jobs/when-correct-isnt-enough-0cd81621f2a1?source=rss------ai_ux-5",
-      "title": "When \"Correct\" Isn't Enough —",
+      "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
+      "title": "Is this the line for burgers?",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://www.tonyward.dev/articles/code-as-the-source-of-truth",
-      "title": "Code as the source of truth",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "title": "I don't want the details",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/@katerina_17253/10-signs-your-saas-or-platform-looks-templated-2eff64507d3a?source=rss------ai_design-5",
-      "title": "10 Signs Your SaaS or Platform Looks Templated",
+      "url": "https://www.realworth.io/anatomy-of-a-100-dollar-bill",
+      "title": "Anatomy of a $100 bill",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/design-bootcamp/were-building-ai-powered-experiences-are-we-still-designing-for-people-4f81a252b35c?source=rss------ai_design-5",
-      "title": "We're building AI-powered experiences. Are we still designing for people?",
+      "url": "https://walzr.com/IMG_0001/",
+      "title": "IMG_0001",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://voiceinthemachine.com/2026/09/21/the-fear-of-ai/",
-      "title": "The fear of AI",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://www.paulbakaus.com/i-gave-my-website-a-boss-fight/",
-      "title": "I gave my website a boss fight",
+      "url": "https://cannoneyed.com/isometric-nyc/",
+      "title": "Isometric NYC",
       "profile": "Design"
     }
   ]
