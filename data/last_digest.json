@@ -1,143 +1,77 @@
 {
-  "generated_at": "2026-09-26T07:07:41+00:00",
+  "generated_at": "2026-09-27T07:06:33+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "title": "OpenAI pauses training of its 'most capable models'",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "title": "Anthropic's founders seek voting control ahead of IPO",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11207",
+      "title": "b11207",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google/",
-      "title": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11206",
+      "title": "b11206",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11205",
+      "title": "b11205",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot/",
-      "title": "Microsoft thinks its new Copilot 'super app' will be as influential as Office",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/",
+      "title": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music/",
-      "title": "Sony and UMG are suing Suno again",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "title": "Insurers claim AI is already increasing healthcare costs",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11203",
+      "title": "b11203",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "title": "Some Supabase customers are publicly exposing reams of people's data to the web",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11195",
+      "title": "b11195",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
-      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - Anthropic",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
+      "title": "Teaching Neural Nets to Fight with RL [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUVqRzQwNW9SN1pNeThVT1lWblh2YUJBSElLVE5sTXJzZGVpUk1MMG1JX1AwUWZyRGxRUlZyNS1YcnNjS2hzVllkTVEwUlhZTHN0NXZoSWdCVjBUVEZBOFFVdUQ4dWJOTjdqaFdOUGZVQnQ3LWRpalZFdG1CbmYwWkFSbU11b3FQUlpJX0FacDcwMFBkNzBpUDhYeTN5U1FWVDcyWnplVkV4Y2J3amhMcXpvWEh0bk1aUVRQeUtsU08xeGc?oc=5",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features - arstechnica.com",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
+      "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "title": "Your uncle's frozen Mac says it's infected after viewing a Google ad. Now what?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
+      "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
       "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11194",
-      "title": "b11194",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "When Should You Disclose AI Use? The PACED Framework",
-      "profile": "Design"
-    },
-    {
-      "n": 15,
-      "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "How AI Works and How Users Think About It: Study Guide",
-      "profile": "Design"
-    },
-    {
-      "n": 16,
-      "url": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-ui-design-c19860ad8563?source=rss----819cc2aaeee0---4",
-      "title": "I Tested Opus 5.5 at Every Effort Level for UI Design",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://www.lukew.com/ff/entry.asp?2163",
-      "title": "Skip the tools, make the outcomes",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://medium.com/@rachelesloane/ai-gave-them-the-vision-the-garden-center-still-has-to-make-it-work-f6892f14d839?source=rss------ai_design-5",
-      "title": "AI Gave Them the Vision. The Garden Center Still Has to Make It Work.",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
-      "title": "Is this the line for burgers?",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "title": "I don't want the details",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://www.realworth.io/anatomy-of-a-100-dollar-bill",
-      "title": "Anatomy of a $100 bill",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://walzr.com/IMG_0001/",
-      "title": "IMG_0001",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://cannoneyed.com/isometric-nyc/",
-      "title": "Isometric NYC",
-      "profile": "Design"
     }
   ]
 }
