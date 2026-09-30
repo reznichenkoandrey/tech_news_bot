@@ -1,178 +1,160 @@
 {
-  "generated_at": "2026-09-29T07:08:44+00:00",
+  "generated_at": "2026-09-30T07:08:34+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "title": "AMD will acquire Fei-Fei Li's World Labs for $8.2 billion",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "title": "DevDay 2026 Recap",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "title": "Anthropic's prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "title": "OpenAI launches Dots, its Muse competitor",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "title": "OpenAI expands ChatGPT's plug-ins with app-like interfaces and automations",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "title": "AI researchers put out videos saying superintelligence is 'exactly as dangerous as it sounds'",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "title": "Google is killing off Gemini's Gems in favor of 'skills'",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
+      "title": "Is Claude Conscious? Inside Anthropic's Quest to Instill Morality Into Its A.I. Models - The New York Times",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm5uNXFULTRXd05ESjFWN3lLY25qeUdPMktYM2RqVzZoZ0VGNjBoSFZRaFY5Qm03TjZnTlMyQmIzUnhMUVpiNGMtU19IMVNzNWg4TkUyRWlRczZha3RPSk9hYzZ3RXVDYzdxNUx6MXBXam9UblZuZ1lJaGN1WXFXT29Tb0dwaDRzM2xkdk40N3NmWDhXekF5OGZuRQ?oc=5",
+      "title": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API - Unite.AI",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "title": "Towards safety cases for frontier AI training",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "title": "How we will do better for Australia",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
+      "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.22.0",
+      "title": "v3.22.0",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.21.0",
+      "title": "v3.21.0",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.35.0",
-      "title": "v0.35.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc2",
+      "title": "v0.31.0rc2",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.9.0",
-      "title": "v1.9.0",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/i-tested-claude-sonnet-5-5-for-web-design-8ab1df274cf9?source=rss----819cc2aaeee0---4",
+      "title": "I Tested Claude Sonnet 5.5 for Web Design",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.20.0",
-      "title": "v3.20.0",
-      "profile": "AI/Tech"
+      "url": "https://www.chrbutler.com/ai-is-a-boring-technology",
+      "title": "AI is a boring technology",
+      "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsuqmb/nvidianvidianemotronlabs3competitivecoding550ba55b/",
-      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Competitive-Coding-550B-A55B-NVFP4 · Hugging Face",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@sharjeelhashmi.95/the-shift-in-product-design-clients-dont-want-your-screens-anymore-they-want-your-judgment-d34aad2b4e40?source=rss------ai_design-5",
+      "title": "The Shift in Product Design: Clients Don't Want Your Screens Anymore, They Want Your Judgment",
+      "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsuag0/speculative_reward_hacking_in_coding_agents/",
-      "title": "Speculative reward hacking in coding agents",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@mounika.konidala/the-evolution-im-seeing-in-how-ux-designers-use-ai-from-where-i-m-standing-740667d3fa1e?source=rss------ai_design-5",
+      "title": "The evolution I'm seeing in how UX designers use AI — from where I'm standing",
+      "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsq6r5/qwen_next_38_and_38_27b_vs_sonnet_55_low_and/",
-      "title": "Qwen next 3.8 and 3.8 27b Vs Sonnet 5.5 low and Sonnet 5.5 medium.",
-      "profile": "AI/Tech"
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "title": "Plan mode is dead",
+      "url": "https://medium.com/@PrintProof.Studio/fix-the-prompt-not-the-file-a-smarter-way-to-prepare-ai-designs-for-print-16296bbc34c5?source=rss------ai_design-5",
+      "title": "Fix the Prompt, Not the File: A Smarter Way to Prepare AI Designs for Print",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4",
-      "title": "The strategic designer: navigating the Jevons paradox in the AI age",
+      "url": "https://vgpu.sh/examples",
+      "title": "The WebGPU library, designed for agents",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://www.hipuku.dev/writing/the-default-is-not-a-design-decision",
-      "title": "The default is not a design decision",
+      "url": "https://vincent.bernat.ch/en/blog/2026-css-sidenotes",
+      "title": "Sidenotes with CSS anchor positioning",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://rudyfaile.com/2026/09/24/the-age-of-the-soft-skill/",
-      "title": "The age of the soft skill",
+      "url": "https://hacker-simulator.com/",
+      "title": "Online hacker simulator",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "title": "How to scale intent, quality, and artistry with Al",
+      "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?source=rss----138adf9c44c---4",
+      "title": "How to de-slopify your designs",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-animation-design-848411dc7f0a?source=rss----819cc2aaeee0---4",
-      "title": "I Tested Opus 5.5 at Every Effort Level for Animation Design",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4",
-      "title": "The next larger context",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://flaviocopes.com/modern-css-features/",
-      "title": "12 CSS features you can use today with no build step",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://codewithbeto.dev/blog/is-your-app-ready-for-iphone-duo",
-      "title": "Is your app ready for iPhone Duo?",
+      "url": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
+      "title": "If you want to design for underserved users, look at farmers' markets",
       "profile": "Design"
     }
   ]
