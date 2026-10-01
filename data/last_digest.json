@@ -1,160 +1,100 @@
 {
-  "generated_at": "2026-09-30T07:08:34+00:00",
+  "generated_at": "2026-10-01T07:07:14+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/devday-2026-recap",
-      "title": "DevDay 2026 Recap",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "title": "OpenAI launches Dots, its Muse competitor",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "title": "Disrupting a coordinated model-distillation campaign",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "title": "OpenAI expands ChatGPT's plug-ins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "title": "Helping small businesses put AI to work",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "title": "AI researchers put out videos saying superintelligence is 'exactly as dangerous as it sounds'",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "title": "Introducing SynthID Bio",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
-      "title": "Is Claude Conscious? Inside Anthropic's Quest to Instill Morality Into Its A.I. Models - The New York Times",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm5uNXFULTRXd05ESjFWN3lLY25qeUdPMktYM2RqVzZoZ0VGNjBoSFZRaFY5Qm03TjZnTlMyQmIzUnhMUVpiNGMtU19IMVNzNWg4TkUyRWlRczZha3RPSk9hYzZ3RXVDYzdxNUx6MXBXam9UblZuZ1lJaGN1WXFXT29Tb0dwaDRzM2xkdk40N3NmWDhXekF5OGZuRQ?oc=5",
-      "title": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API - Unite.AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "title": "Here's how tech leaders will self-police AI safety under Trump's deal",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.18.0",
+      "title": "Release 5.18.0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
+      "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
-      "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext/",
+      "title": "Two open-weights releases: Victoria (Qwen3.8-Flash-Next with 44% of experts cut, 70% Terminal-Bench 2.1, GGUF included) and Maple (a Canada-first fine-tune)",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.22.0",
-      "title": "v3.22.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtz1i3/deepseek_now_trained_on_ascend_950/",
+      "title": "DeepSeek now trained on Ascend 950",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.21.0",
-      "title": "v3.21.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/",
+      "title": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc2",
-      "title": "v0.31.0rc2",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuboum/another_ling_model_comes_out_same_receipt_2_weeks/",
+      "title": "Another Ling model comes out, same receipt, 2 weeks free to use, then open source. Chinese labs do contribute a lot to open source community",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/i-tested-claude-sonnet-5-5-for-web-design-8ab1df274cf9?source=rss----819cc2aaeee0---4",
-      "title": "I Tested Claude Sonnet 5.5 for Web Design",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://www.chrbutler.com/ai-is-a-boring-technology",
-      "title": "AI is a boring technology",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://medium.com/@sharjeelhashmi.95/the-shift-in-product-design-clients-dont-want-your-screens-anymore-they-want-your-judgment-d34aad2b4e40?source=rss------ai_design-5",
-      "title": "The Shift in Product Design: Clients Don't Want Your Screens Anymore, They Want Your Judgment",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://medium.com/@mounika.konidala/the-evolution-im-seeing-in-how-ux-designers-use-ai-from-where-i-m-standing-740667d3fa1e?source=rss------ai_design-5",
-      "title": "The evolution I'm seeing in how UX designers use AI — from where I'm standing",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://medium.com/@PrintProof.Studio/fix-the-prompt-not-the-file-a-smarter-way-to-prepare-ai-designs-for-print-16296bbc34c5?source=rss------ai_design-5",
-      "title": "Fix the Prompt, Not the File: A Smarter Way to Prepare AI Designs for Print",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://vgpu.sh/examples",
-      "title": "The WebGPU library, designed for agents",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://vincent.bernat.ch/en/blog/2026-css-sidenotes",
-      "title": "Sidenotes with CSS anchor positioning",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://hacker-simulator.com/",
-      "title": "Online hacker simulator",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?source=rss----138adf9c44c---4",
-      "title": "How to de-slopify your designs",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
-      "title": "If you want to design for underserved users, look at farmers' markets",
+      "url": "https://uxplanet.org/gpt-6-1-sol-vs-claude-sonnet-5-5-i-tested-both-for-web-design-6612bc851872?source=rss----819cc2aaeee0---4",
+      "title": "GPT-6.1 Sol vs Claude Sonnet 5.5: I Tested Both for Web Design",
       "profile": "Design"
     }
   ]
