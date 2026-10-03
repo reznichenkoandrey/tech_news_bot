@@ -1,118 +1,166 @@
 {
-  "generated_at": "2026-10-02T07:07:26+00:00",
+  "generated_at": "2026-10-03T07:07:17+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakxPMlVrdlZnbURrank3LXdlTVlaWTJjU1dyU0VheUxJX2ktd2EtMFBTUjJKdGxtZmdBa0ktUDRzWFl4RlRBOTBNRDJZQUVlajBqUWZMTm1EZkZTb01MemN1WUlQcVNycm5CYnRCaEpfWHh6bDVkM0dGel9NS0dGMEZBUTNCTjVqWWVRNkhLYkhmbzFWMy1fb0M2RlY5LVFmVzZoVTJrOTRfV1JlNnY3eDNkWHY?oc=5",
-      "title": "Anthropic Is Said to Plan Pre-IPO Investor Day as Listing Nears",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "title": "A model guide for the GPT-6 family",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "title": "Google's new Guided Vision feature can help you read the fine print",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc4",
-      "title": "v0.31.0rc4",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "title": "OpenAI's Dot agent is enterprise software that can also order your dinner",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv8zww/ama_about_k2_horizon_meet_our_team_from_ifm/",
-      "title": "AMA about K2 Horizon, Meet our team from IFM",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.35.1",
+      "title": "v0.35.1",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvbmi6/gufo_performance_70tps_qwen_38_27b_but_you_need/",
-      "title": "Gufo performance .... 70tps Qwen 3.8 27b but you need to read the fine print.",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.24.0",
+      "title": "v3.24.0",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wva7l2/running_955_gib_qwen38flashnext_at_4152_toks_on_a/",
-      "title": "Running 95.5 GiB Qwen3.8-Flash-Next at 41–52 tok/s on a 64GB Mac",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc5",
+      "title": "v0.31.0rc5: [Misc] Add Transformers version upper bound in requirements",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv0lww/we_benchmarked_18_rag_pipelines_against_an_agent/",
-      "title": "We benchmarked 18 RAG pipelines against an agent loop on Google's FRAMES",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11371",
+      "title": "b11371: model: add support for clef decision model (text-only)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11361",
+      "title": "b11361: llama, server: add /v1/systemone API (models: laya, julia-1, lev, openjev, kev)",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-3-safety-researchers-wsj-reports/",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "title": "Sean Parker is rebuilding Stability AI around music",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
-      "title": "Claude-shaped science",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuxzdg/why_am_i_like_this_full_chat_and_image_generation/",
-      "title": "Why am I like this? (Full Chat and Image generation on a 286 Tandy 1000 TL/3)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "title": "AI music maker Suno now generates spoken words",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4vot/heretic_is_on_pewdiepie/",
-      "title": "Heretic is on PewDiePie!",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
+      "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/sonnet-5-5-vs-opus-5-5-which-one-is-better-for-product-design-c2c9849f754f?source=rss----819cc2aaeee0---4",
-      "title": "Sonnet 5.5 vs Opus 5.5: Which one is better for product design?",
+      "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
-      "title": "Stop blaming the model for slow AI. Using Doherty's threshold as a guideline.",
+      "url": "https://uxplanet.org/3d-modeling-with-claude-code-a-practical-blender-workflow-97e6e0b536b0?source=rss----819cc2aaeee0---4",
+      "title": "3D Modeling with Claude Code: A Practical Blender Workflow",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
-      "title": "Design's consensus was AI's first casualty",
+      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+      "title": "Do frameworks matter anymore?",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
-      "title": "AI beyond average: from chatting to collaborating",
+      "url": "https://www.thinkingorbs.com/",
+      "title": "Thinking orbs",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://useblume.dev/",
+      "title": "Blume",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Empathy Mapping: The First Step in Design Thinking",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://philipwalton.com/articles/modern-web-types/",
+      "title": "Modern web types",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://www.renatovaldes.com/essays/what-happens-when-you-can-build-it-all-yourself/",
+      "title": "What happens when you can build it all yourself",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://medium.com/@PrintProof.Studio/a-prompt-that-speaks-printer-why-ai-designs-still-need-print-aware-instructions-6f398a75f760?source=rss------ai_design-5",
+      "title": "A Prompt That Speaks Printer: Why AI Designs Still Need Print-Aware Instructions",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/@tolulopeolugbebi/ai-needs-typography-context-not-just-a-font-f264bd5da49b?source=rss------ai_design-5",
+      "title": "AI Needs Typography Context, Not Just a Font",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://pub.towardsai.net/a-landing-page-a-community-skills-and-ai-video-generation-automating-project-implementation-and-1f712099bb4a?source=rss------ai_design-5",
+      "title": "A Landing Page, a Community Skills, and AI Video Generation — Automating Project Implementation and…",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+      "title": "In/tension modeling: what gives us the right?",
       "profile": "Design"
     }
   ]
