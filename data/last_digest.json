@@ -1,166 +1,124 @@
 {
-  "generated_at": "2026-10-03T07:07:17+00:00",
+  "generated_at": "2026-10-04T07:07:17+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNG5wWG90cFcwUHZ2eHRSZVlDaVRqeXV0dklpb2RDLXhyalJIQV84SEtMT3pWbXNQVE9TUVRnTTFHTVMtT1lidjRGVEFGSEJFaXhZd2t6Vm9UWWhKVTdpUkpsZkRPbmp6b2l2NVExVkRIOGtDa1NGTlJXaXpGQURVSkZrNDF4eGo0ZkhGbTZmS1Iycm4ybTNobFNuYnJmSlU?oc=5",
+      "title": "Anthropic Launches $100M Academy to Train 10,000 AI Engineers",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "title": "A model guide for the GPT-6 family",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "title": "OpenAI safety employee resigns, claiming the company's 'culture is broken'",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/two_300b_moe_models_each_on_one_128_gb_mini_pc/",
+      "title": "Two ~300B MoE models, each on ONE 128 GB mini PC (AMD Strix Halo)",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+      "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
+      "title": "The Rise of Overfit Inference Engines",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "title": "OpenAI's Dot agent is enterprise software that can also order your dinner",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.35.1",
-      "title": "v0.35.1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/",
+      "title": "I built Ninfer 4080 for 16GB class GPUs",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.24.0",
-      "title": "v3.24.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/",
+      "title": "Anyworld, a self-hosted multiplayer text RPG where a local LLM is the Dungeon Master",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0rc5",
-      "title": "v0.31.0rc5: [Misc] Add Transformers version upper bound in requirements",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl/",
+      "title": "The ultimate guide to multi-harness RL",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11371",
-      "title": "b11371: model: add support for clef decision model (text-only)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats/",
+      "title": "I built a code knowledge graph tool that's actually MIT licensed (fully local, no cloud)",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11361",
-      "title": "b11361: llama, server: add /v1/systemone API (models: laya, julia-1, lev, openjev, kev)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrw0v/sopro_v2_turbo_2610_cleaner_cloned_voices_same/",
+      "title": "Sopro V2 Turbo 2610: cleaner cloned voices, same 120M model, same CPU speed",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11382",
+      "title": "b11382",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11379",
+      "title": "b11379",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11377",
+      "title": "b11377",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
-      "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrgx1/two_local_qwen_38_27b_unsloth_q6_and_qwen_flash/",
+      "title": "Two local Qwen models vs Claude Opus 4.6 on the same 3 coding tasks",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/3d-modeling-with-claude-code-a-practical-blender-workflow-97e6e0b536b0?source=rss----819cc2aaeee0---4",
-      "title": "3D Modeling with Claude Code: A Practical Blender Workflow",
+      "url": "https://dr-ziwei-wang.medium.com/ai-is-not-uxs-magic-pill-2279ada73c78?source=rss------ai_design-5",
+      "title": "AI is not UX's Magic Pill",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-      "title": "Do frameworks matter anymore?",
+      "url": "https://medium.com/@cecichenchen/ai-hasnt-solved-the-design-value-problem-83ca76abc7c8?source=rss------ai_design-5",
+      "title": "AI Hasn't Solved the Design Value Problem",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://www.thinkingorbs.com/",
-      "title": "Thinking orbs",
+      "url": "https://medium.com/open-intelligence/one-contract-any-agent-any-ui-f53ed01f32f4?source=rss------generative_ui-5",
+      "title": "One Contract. Any Agent. Any UI.",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://useblume.dev/",
-      "title": "Blume",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Empathy Mapping: The First Step in Design Thinking",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://philipwalton.com/articles/modern-web-types/",
-      "title": "Modern web types",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://www.renatovaldes.com/essays/what-happens-when-you-can-build-it-all-yourself/",
-      "title": "What happens when you can build it all yourself",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://medium.com/@PrintProof.Studio/a-prompt-that-speaks-printer-why-ai-designs-still-need-print-aware-instructions-6f398a75f760?source=rss------ai_design-5",
-      "title": "A Prompt That Speaks Printer: Why AI Designs Still Need Print-Aware Instructions",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://medium.com/@tolulopeolugbebi/ai-needs-typography-context-not-just-a-font-f264bd5da49b?source=rss------ai_design-5",
-      "title": "AI Needs Typography Context, Not Just a Font",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://pub.towardsai.net/a-landing-page-a-community-skills-and-ai-video-generation-automating-project-implementation-and-1f712099bb4a?source=rss------ai_design-5",
-      "title": "A Landing Page, a Community Skills, and AI Video Generation — Automating Project Implementation and…",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
-      "title": "In/tension modeling: what gives us the right?",
+      "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
+      "title": "The feed I produce myself",
       "profile": "Design"
     }
   ]
