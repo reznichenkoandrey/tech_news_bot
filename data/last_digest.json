@@ -1,124 +1,46 @@
 {
-  "generated_at": "2026-10-04T07:07:17+00:00",
+  "generated_at": "2026-10-05T07:07:53+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNG5wWG90cFcwUHZ2eHRSZVlDaVRqeXV0dklpb2RDLXhyalJIQV84SEtMT3pWbXNQVE9TUVRnTTFHTVMtT1lidjRGVEFGSEJFaXhZd2t6Vm9UWWhKVTdpUkpsZkRPbmp6b2l2NVExVkRIOGtDa1NGTlJXaXpGQURVSkZrNDF4eGo0ZkhGbTZmS1Iycm4ybTNobFNuYnJmSlU?oc=5",
-      "title": "Anthropic Launches $100M Academy to Train 10,000 AI Engineers",
-      "profile": "AI/Tech"
+      "url": "https://hitesh.in/2026/best-ai-still-feels-broken/",
+      "title": "Google has the best AI money can buy. Its products still feel broken.",
+      "profile": "Design"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "title": "OpenAI safety employee resigns, claiming the company's 'culture is broken'",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@samirjha642/beyond-the-empty-prompt-designing-ai-products-around-tasks-not-chat-710b8ef2a606?source=rss------generative_ui-5",
+      "title": "Beyond the Empty Prompt: Designing AI Products Around Tasks, Not Chat",
+      "profile": "Design"
     },
     {
       "n": 3,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/two_300b_moe_models_each_on_one_128_gb_mini_pc/",
-      "title": "Two ~300B MoE models, each on ONE 128 GB mini PC (AMD Strix Halo)",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
+      "title": "How to de-slopify your designs",
+      "profile": "Design"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
-      "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
-      "profile": "AI/Tech"
+      "url": "https://tomacco.github.io/amazing-glass/",
+      "title": "Amazing glass",
+      "profile": "Design"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
-      "title": "The Rise of Overfit Inference Engines",
-      "profile": "AI/Tech"
+      "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/",
+      "title": "A loading state within a loading state",
+      "profile": "Design"
     },
     {
       "n": 6,
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "profile": "AI/Tech"
+      "url": "https://bit.ly/side-wis1",
+      "title": "Save time with Wispr Flow (4x faster than typing)",
+      "profile": "Design"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/",
-      "title": "I built Ninfer 4080 for 16GB class GPUs",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/",
-      "title": "Anyworld, a self-hosted multiplayer text RPG where a local LLM is the Dungeon Master",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl/",
-      "title": "The ultimate guide to multi-harness RL",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats/",
-      "title": "I built a code knowledge graph tool that's actually MIT licensed (fully local, no cloud)",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrw0v/sopro_v2_turbo_2610_cleaner_cloned_voices_same/",
-      "title": "Sopro V2 Turbo 2610: cleaner cloned voices, same 120M model, same CPU speed",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11382",
-      "title": "b11382",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11379",
-      "title": "b11379",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11377",
-      "title": "b11377",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrgx1/two_local_qwen_38_27b_unsloth_q6_and_qwen_flash/",
-      "title": "Two local Qwen models vs Claude Opus 4.6 on the same 3 coding tasks",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 17,
-      "url": "https://dr-ziwei-wang.medium.com/ai-is-not-uxs-magic-pill-2279ada73c78?source=rss------ai_design-5",
-      "title": "AI is not UX's Magic Pill",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://medium.com/@cecichenchen/ai-hasnt-solved-the-design-value-problem-83ca76abc7c8?source=rss------ai_design-5",
-      "title": "AI Hasn't Solved the Design Value Problem",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://medium.com/open-intelligence/one-contract-any-agent-any-ui-f53ed01f32f4?source=rss------generative_ui-5",
-      "title": "One Contract. Any Agent. Any UI.",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
-      "title": "The feed I produce myself",
+      "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
+      "title": "The building was there first",
       "profile": "Design"
     }
   ]
