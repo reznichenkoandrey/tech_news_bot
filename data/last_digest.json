@@ -1,46 +1,142 @@
 {
-  "generated_at": "2026-10-05T07:07:53+00:00",
+  "generated_at": "2026-10-06T07:07:48+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://hitesh.in/2026/best-ai-still-feels-broken/",
-      "title": "Google has the best AI money can buy. Its products still feel broken.",
-      "profile": "Design"
+      "url": "https://openai.com/index/eu-text-provenance",
+      "title": "Our approach to EU text provenance rules",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://medium.com/@samirjha642/beyond-the-empty-prompt-designing-ai-products-around-tasks-not-chat-710b8ef2a606?source=rss------generative_ui-5",
-      "title": "Beyond the Empty Prompt: Designing AI Products Around Tasks, Not Chat",
-      "profile": "Design"
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "title": "Building advertising for the way people use AI",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
-      "title": "How to de-slopify your designs",
-      "profile": "Design"
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://tomacco.github.io/amazing-glass/",
-      "title": "Amazing glass",
-      "profile": "Design"
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/",
-      "title": "A loading state within a loading state",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://bit.ly/side-wis1",
-      "title": "Save time with Wispr Flow (4x faster than typing)",
-      "profile": "Design"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
-      "title": "The building was there first",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEpVcFVhSDFxejVlaUt2WWdBeFIxU0Z4bmVqVFVPZHJTVDc1VzQ3SjA2a1JzTTViLUlwTjRZSWFXLTZFWGZGZ09wM1JVUnJ3NnlIaTBKdXRTQ3JScURTMUw0UVQ2Uzl6aUw1dnJ4ZHBpWGYtX1AwOVhxMmQ4dGNKYlBjTjJaSFlYVm54S3JCb3Z0QQ?oc=5",
+      "title": "Microsoft Slashes Internal Claude Spending by a Third",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5",
+      "title": "v0.40.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
+      "title": "v0.31.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0",
+      "title": "v0.6.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
+      "title": "A chunking lib in Rust that is ~20x faster [P]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
+      "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
+      "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://uxplanet.org/claude-code-mods-are-game-changers-39a566cddca5?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Mods are game changers",
+      "profile": "Design"
+    },
+    {
+      "n": 15,
+      "url": "https://medium.com/@wolfpixel/we-used-claude-design-for-ux-ui-heres-what-happened-8a70e5790088?source=rss------ai_design-5",
+      "title": "We Used Claude Design for UX/UI — Here's What Happened",
+      "profile": "Design"
+    },
+    {
+      "n": 16,
+      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+      "title": "Is Meta's new AI agent easier to trust because it's cute?",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+      "title": "AI skill atrophy: Are we forgetting how to think?",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://medium.com/@maazqaiser92/the-interface-decides-whether-users-keep-an-agent-or-quietly-go-back-to-the-old-way-4e514930de1a?source=rss------ai_ux-5",
+      "title": "The interface decides whether users keep an agent or quietly go back to the old way",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
+      "title": "The taste paradox: why the skill everyone says matters is the one we've stopped building",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/design-bootcamp/how-design-gets-done-in-2026-part-3-inside-the-ai-infrastructure-of-stripe-fin-formerly-33bf173dd795?source=rss------ai_design-5",
+      "title": "how design gets done in 2026, part 3 / inside the AI infrastructure of Stripe, Fin (formerly…",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://intodesignsystems.medium.com/ai-design-conference-2027-tickets-are-live-learn-the-ai-workflows-top-designers-use-7863267c7dba?source=rss------ai_design-5",
+      "title": "AI Design Conference 2027 tickets are live: Learn the AI workflows top designers use",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@drashtin1/im-just-a-designer-is-holding-you-back-2471d1762228?source=rss------ai_design-5",
+      "title": "\"I'm Just a Designer\" Is Holding You Back",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
+      "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
       "profile": "Design"
     }
   ]
