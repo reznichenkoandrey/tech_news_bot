@@ -1,142 +1,160 @@
 {
-  "generated_at": "2026-10-06T07:07:48+00:00",
+  "generated_at": "2026-10-07T07:07:30+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/eu-text-provenance",
-      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "title": "Building advertising for the way people use AI",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "title": "Mistral's new 1T model aims to leapfrog closed and open rivals",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEpVcFVhSDFxejVlaUt2WWdBeFIxU0Z4bmVqVFVPZHJTVDc1VzQ3SjA2a1JzTTViLUlwTjRZSWFXLTZFWGZGZ09wM1JVUnJ3NnlIaTBKdXRTQ3JScURTMUw0UVQ2Uzl6aUw1dnJ4ZHBpWGYtX1AwOVhxMmQ4dGNKYlBjTjJaSFlYVm54S3JCb3Z0QQ?oc=5",
-      "title": "Microsoft Slashes Internal Claude Spending by a Third",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0",
       "title": "v0.40.0",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
-      "title": "v0.31.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.26.0",
+      "title": "v3.26.0",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0",
-      "title": "v0.6.0",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.19.0",
+      "title": "Release v5.19.0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
-      "title": "A chunking lib in Rust that is ~20x faster [P]",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
-      "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
-      "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "title": "How AI decision models could change content moderation",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://uxplanet.org/claude-code-mods-are-game-changers-39a566cddca5?source=rss----819cc2aaeee0---4",
-      "title": "Claude Code Mods are game changers",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://medium.com/@wolfpixel/we-used-claude-design-for-ux-ui-heres-what-happened-8a70e5790088?source=rss------ai_design-5",
-      "title": "We Used Claude Design for UX/UI — Here's What Happened",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "title": "LibreOffice says 'no AI' is now a software feature",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
-      "title": "Is Meta's new AI agent easier to trust because it's cute?",
+      "url": "https://uxplanet.org/gpt-6-astra-vs-claude-opus-5-5-which-is-better-for-game-design-35e47babf36d?source=rss----819cc2aaeee0---4",
+      "title": "GPT-6 Astra vs Claude Opus 5.5: Which Is Better for Game Design?",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
-      "title": "AI skill atrophy: Are we forgetting how to think?",
+      "url": "https://medium.com/@anil.futuristic/the-new-gamma-has-arrived-ai-just-learned-to-design-like-a-creative-team-dcc32c99ba67?source=rss------ai_design-5",
+      "title": "The New Gamma Has Arrived — AI Just Learned to Design Like a Creative Team",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@maazqaiser92/the-interface-decides-whether-users-keep-an-agent-or-quietly-go-back-to-the-old-way-4e514930de1a?source=rss------ai_ux-5",
-      "title": "The interface decides whether users keep an agent or quietly go back to the old way",
+      "url": "https://medium.com/@rondash/ai-product-design-first-principles-ai-co-pilot-human-in-the-loop-ai-autonomous-agent-f07741722abb?source=rss------ai_design-5",
+      "title": "AI Product design First Principles — AI Co-pilot (Human in the loop) & AI Autonomous Agent",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
-      "title": "The taste paradox: why the skill everyone says matters is the one we've stopped building",
+      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?sk=2ea73b57436da9bbef1d1f149f1218e2",
+      "title": "Is Meta's new AI agent easier to trust because it's cute?",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/design-bootcamp/how-design-gets-done-in-2026-part-3-inside-the-ai-infrastructure-of-stripe-fin-formerly-33bf173dd795?source=rss------ai_design-5",
-      "title": "how design gets done in 2026, part 3 / inside the AI infrastructure of Stripe, Fin (formerly…",
+      "url": "https://www.lukew.com/ff/2165/many-agents-many-views",
+      "title": "Many agents, many views",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://intodesignsystems.medium.com/ai-design-conference-2027-tickets-are-live-learn-the-ai-workflows-top-designers-use-7863267c7dba?source=rss------ai_design-5",
-      "title": "AI Design Conference 2027 tickets are live: Learn the AI workflows top designers use",
+      "url": "https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html?unlocked_article_code=1.FlE.ew95.hRKwQHd_aTem",
+      "title": "In defense of the detour",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@drashtin1/im-just-a-designer-is-holding-you-back-2471d1762228?source=rss------ai_design-5",
-      "title": "\"I'm Just a Designer\" Is Holding You Back",
+      "url": "https://www.doc.cc/humankind/self-portrait",
+      "title": "Prompting as self-portrait",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
-      "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
+      "url": "https://www.emergingpatterns.design/",
+      "title": "Emerging patterns: design leadership in 2026",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://www.leadershipfolios.com/",
+      "title": "Leadership folios",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
+      "title": "Why designers need to stop reporting and start recommending at work",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+      "title": "A Practical Guide To Naming Things",
       "profile": "Design"
     }
   ]
