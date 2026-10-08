@@ -1,160 +1,124 @@
 {
-  "generated_at": "2026-10-07T07:07:30+00:00",
+  "generated_at": "2026-10-08T07:07:22+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "title": "Sharing AI progress in mathematics",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
+      "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "title": "Mistral's new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "title": "ChatGPT's 'Intelligent UI' update fills its responses with pictures, charts, and buttons",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "title": "Everything announced at Microsoft's Surface Laptop Ultra event",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "title": "Helping teens learn, plan, and shape the future of AI",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "title": "ChatGPT is getting college planning tools",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0",
-      "title": "v0.40.0",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.26.0",
-      "title": "v3.26.0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "title": "ChatGPT for Teens is an 'unacceptable risk,' says Common Sense Media",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.19.0",
-      "title": "Release v5.19.0",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "title": "Google experiments with an AI-powered gaming platform",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "title": "Google's new SynthID website can identify AI-generated media",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "title": "Google invests millions in Mark Zuckerberg's efforts to create a 'virtual cell'",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "title": "How AI decision models could change content moderation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "title": "AI could upend food delivery",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "title": "LibreOffice says 'no AI' is now a software feature",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "title": "Multimodal open d1 decision models for the edge",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/gpt-6-astra-vs-claude-opus-5-5-which-is-better-for-game-design-35e47babf36d?source=rss----819cc2aaeee0---4",
-      "title": "GPT-6 Astra vs Claude Opus 5.5: Which Is Better for Game Design?",
+      "url": "https://medium.com/@sergiuchiriac88/viz-by-miraculix-ai-ai-visualizations-for-archit-04116f4e6f78?source=rss------ai_design-5",
+      "title": "VIZ by miraculix.ai — AI Visualizations for Archit",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@anil.futuristic/the-new-gamma-has-arrived-ai-just-learned-to-design-like-a-creative-team-dcc32c99ba67?source=rss------ai_design-5",
-      "title": "The New Gamma Has Arrived — AI Just Learned to Design Like a Creative Team",
+      "url": "https://uxplanet.org/meta-muse-vs-openai-dots-which-ai-assistant-is-better-for-product-designers-1fb2f4dd4530?source=rss----819cc2aaeee0---4",
+      "title": "Meta Muse vs OpenAI Dots: Which AI Assistant Is Better for Product Designers?",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@rondash/ai-product-design-first-principles-ai-co-pilot-human-in-the-loop-ai-autonomous-agent-f07741722abb?source=rss------ai_design-5",
-      "title": "AI Product design First Principles — AI Co-pilot (Human in the loop) & AI Autonomous Agent",
+      "url": "https://morganriva.medium.com/the-interface-that-knows-you-showed-up-tired-f6ed2f3147d9?source=rss------ai_design-5",
+      "title": "The Interface That Knows You Showed Up Tired",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?sk=2ea73b57436da9bbef1d1f149f1218e2",
-      "title": "Is Meta's new AI agent easier to trust because it's cute?",
+      "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
+      "title": "Beyond streaks and nudges: ethical gamification & AI design",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://www.lukew.com/ff/2165/many-agents-many-views",
-      "title": "Many agents, many views",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html?unlocked_article_code=1.FlE.ew95.hRKwQHd_aTem",
-      "title": "In defense of the detour",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://www.doc.cc/humankind/self-portrait",
-      "title": "Prompting as self-portrait",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://www.emergingpatterns.design/",
-      "title": "Emerging patterns: design leadership in 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://www.leadershipfolios.com/",
-      "title": "Leadership folios",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
-      "title": "Why designers need to stop reporting and start recommending at work",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://smashingmagazine.com/2026/10/how-name-things/",
-      "title": "A Practical Guide To Naming Things",
+      "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
+      "title": "Bounded delegation: How much authority should AI have?",
       "profile": "Design"
     }
   ]
