@@ -1,124 +1,172 @@
 {
-  "generated_at": "2026-10-08T07:07:22+00:00",
+  "generated_at": "2026-10-09T07:07:52+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
-      "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "title": "ChatGPT's 'Intelligent UI' update fills its responses with pictures, charts, and buttons",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "title": "Everything announced at Microsoft's Surface Laptop Ultra event",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "title": "OpenAI's revenue is reportedly $20 billion less than previously projected",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "title": "Anthropic launches free AI security scans for open-source projects",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "title": "ChatGPT is getting college planning tools",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "title": "Google's AI note-taking app transcribes your meetings completely offline",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "title": "ChatGPT for Teens is an 'unacceptable risk,' says Common Sense Media",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "title": "Goodfire says its new 'inside-out' monitors catch rogue AI agents at a fraction of the cost",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "title": "Google experiments with an AI-powered gaming platform",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "title": "Cal AI's 19-year-old founder just raised $10M for his new AI startup",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "title": "Google's new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "title": "China's Manus raises over $500M in first funding round since split with Meta",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "title": "Google invests millions in Mark Zuckerberg's efforts to create a 'virtual cell'",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
+      "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "title": "AI could upend food delivery",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+      "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.2",
+      "title": "v0.40.2",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11517",
+      "title": "b11517: CUDA: pass src1 precision to host MMQ config helpers (#30168)",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@sergiuchiriac88/viz-by-miraculix-ai-ai-visualizations-for-archit-04116f4e6f78?source=rss------ai_design-5",
-      "title": "VIZ by miraculix.ai — AI Visualizations for Archit",
+      "url": "https://uxplanet.org/claude-haiku-5-5-is-the-ultimate-junior-designer-f8567a2d9697?source=rss----819cc2aaeee0---4",
+      "title": "Claude Haiku 5.5 is the Ultimate Junior Designer",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/meta-muse-vs-openai-dots-which-ai-assistant-is-better-for-product-designers-1fb2f4dd4530?source=rss----819cc2aaeee0---4",
-      "title": "Meta Muse vs OpenAI Dots: Which AI Assistant Is Better for Product Designers?",
+      "url": "https://uxplanet.org/claude-haiku-5-5-the-most-overlooked-claude-model-just-got-a-major-update-85c0bf30e76a?source=rss----819cc2aaeee0---4",
+      "title": "Claude Haiku 5.5: The Most Underrated Claude Model Just Got a Major Update",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://morganriva.medium.com/the-interface-that-knows-you-showed-up-tired-f6ed2f3147d9?source=rss------ai_design-5",
-      "title": "The Interface That Knows You Showed Up Tired",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "title": "Agents don't need memory. They need documentation.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
-      "title": "Beyond streaks and nudges: ethical gamification & AI design",
+      "url": "https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era/",
+      "title": "Chat is AI's command line",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
-      "title": "Bounded delegation: How much authority should AI have?",
+      "url": "https://uxplanet.org/when-ai-does-the-work-what-should-the-interface-show-cef03be7797b?source=rss------ai_ux-5",
+      "title": "When AI Does the Work, What Should the Interface Show?",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://linear.app/changelog/2026-10-08-stacked-pull-requests",
+      "title": "Stacked pull requests",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
+      "title": "Are synthetic users (really) the future of UX research?",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4",
+      "title": "Synthetic users are making me rethink \"imperfect research\"",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
+      "title": "AI-generated UI is fast design, not UX",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/@chemalielias/the-great-ai-design-paradox-c5ff2ef8a6de?source=rss------ai_design-5",
+      "title": "The Great AI Design Paradox",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://uxdesign.cc/teslers-law-complexity-moved-to-a-different-part-of-the-journey-8a63f099f490?source=rss----138adf9c44c---4",
+      "title": "Tesler's Law: complexity moved to a different part of the journey",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://agentic.littleplains.com/",
+      "title": "Agentic systems are the future of brands",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://design.lightspark.com/money-as-a-file",
+      "title": "Money as a file",
       "profile": "Design"
     }
   ]
