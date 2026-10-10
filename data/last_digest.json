@@ -1,172 +1,82 @@
 {
-  "generated_at": "2026-10-09T07:07:52+00:00",
+  "generated_at": "2026-10-10T07:08:39+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-      "title": "Google is launching a one-stop Gemini agent for your work tasks",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+      "profile": "Design"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "The New Siri's Biggest Strength Is Not Intelligence",
+      "profile": "Design"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/i-tried-claude-with-figma-on-an-800-screen-project-it-never-reached-the-hard-part-7735b120f43a?source=rss----819cc2aaeee0---4",
+      "title": "I Tried Claude With Figma on an 800+ Screen Project. It Never Reached the Hard Part",
+      "profile": "Design"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "title": "OpenAI's revenue is reportedly $20 billion less than previously projected",
-      "profile": "AI/Tech"
+      "url": "https://contralabs.com/creative-intelligence-report-2026",
+      "title": "Creative Intelligence Report",
+      "profile": "Design"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@amritkmr08/when-ai-knows-the-answer-how-does-it-know-when-to-speak-222d795cff4f?source=rss------ai_ux-5",
+      "title": "When AI Knows the Answer, How Does It Know When to Speak?",
+      "profile": "Design"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@lex.konovalov/the-model-compiles-the-dom-d3802d9749e7?source=rss------generative_ui-5",
+      "title": "The Model Compiles the DOM",
+      "profile": "Design"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "profile": "AI/Tech"
+      "url": "https://jovo.design/writing/ai-invasive-design",
+      "title": "AI invasive design",
+      "profile": "Design"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-      "title": "Google's AI note-taking app transcribes your meetings completely offline",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@esvgco/web3-never-happened-maybe-now-114b619b03fb?source=rss------generative_ui-5",
+      "title": "Web3 Never Happened. Maybe Now?",
+      "profile": "Design"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "title": "Goodfire says its new 'inside-out' monitors catch rogue AI agents at a fraction of the cost",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/15-figma-tools-that-solve-problems-nobody-wants-to-deal-with-2daa888067c2?source=rss----819cc2aaeee0---4",
+      "title": "15 Figma Tools That Solve Problems Nobody Wants to Deal With",
+      "profile": "Design"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "title": "Cal AI's 19-year-old founder just raised $10M for his new AI startup",
-      "profile": "AI/Tech"
+      "url": "https://matthenry.fyi/posts/a-system-is-what-it-does/",
+      "title": "A design system is what it does",
+      "profile": "Design"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-      "title": "China's Manus raises over $500M in first funding round since split with Meta",
-      "profile": "AI/Tech"
+      "url": "https://ldlr.design/field-notes",
+      "title": "Field Notes: Design Outcomes",
+      "profile": "Design"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
-      "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
-      "profile": "AI/Tech"
+      "url": "https://www.itsnicethat.com/features/the-view-from-sao-paulo-retro-bar-and-restaurant-branding-graphic-design-140926",
+      "title": "Bringing warmth and fun to São Paulo's bars and restaurants",
+      "profile": "Design"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
-      "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.2",
-      "title": "v0.40.2",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11517",
-      "title": "b11517: CUDA: pass src1 precision to host MMQ config helpers (#30168)",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://uxplanet.org/claude-haiku-5-5-is-the-ultimate-junior-designer-f8567a2d9697?source=rss----819cc2aaeee0---4",
-      "title": "Claude Haiku 5.5 is the Ultimate Junior Designer",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://uxplanet.org/claude-haiku-5-5-the-most-overlooked-claude-model-just-got-a-major-update-85c0bf30e76a?source=rss----819cc2aaeee0---4",
-      "title": "Claude Haiku 5.5: The Most Underrated Claude Model Just Got a Major Update",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "title": "Agents don't need memory. They need documentation.",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era/",
-      "title": "Chat is AI's command line",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxplanet.org/when-ai-does-the-work-what-should-the-interface-show-cef03be7797b?source=rss------ai_ux-5",
-      "title": "When AI Does the Work, What Should the Interface Show?",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://linear.app/changelog/2026-10-08-stacked-pull-requests",
-      "title": "Stacked pull requests",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
-      "title": "Are synthetic users (really) the future of UX research?",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4",
-      "title": "Synthetic users are making me rethink \"imperfect research\"",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
-      "title": "AI-generated UI is fast design, not UX",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://medium.com/@chemalielias/the-great-ai-design-paradox-c5ff2ef8a6de?source=rss------ai_design-5",
-      "title": "The Great AI Design Paradox",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://uxdesign.cc/teslers-law-complexity-moved-to-a-different-part-of-the-journey-8a63f099f490?source=rss----138adf9c44c---4",
-      "title": "Tesler's Law: complexity moved to a different part of the journey",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://agentic.littleplains.com/",
-      "title": "Agentic systems are the future of brands",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://design.lightspark.com/money-as-a-file",
-      "title": "Money as a file",
+      "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
+      "title": "Designing for an idea before it exists",
       "profile": "Design"
     }
   ]
