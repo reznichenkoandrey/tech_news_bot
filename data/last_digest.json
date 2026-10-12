@@ -1,100 +1,124 @@
 {
-  "generated_at": "2026-10-11T07:07:12+00:00",
+  "generated_at": "2026-10-12T07:06:51+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11564",
+      "title": "b11564",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "title": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11556",
+      "title": "b11556",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
-      "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11555",
+      "title": "b11555",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
-      "title": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11557",
+      "title": "b11557",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11552",
-      "title": "b11552",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11559",
+      "title": "b11559",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11551",
-      "title": "b11551",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11558",
+      "title": "b11558",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2tstj/omg_if_you_have_a_mac_with_64gb_try/",
-      "title": "OMG! If you have a Mac with 64GB, try Qwen3.8-Flash-Next-oQ4e-mtp with oMLX!",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11560",
+      "title": "b11560",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
-      "title": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11561",
+      "title": "b11561",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
-      "title": "Building a 4x R9700 setup for a 10 person startup",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11562",
+      "title": "b11562",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
-      "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what's in them",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11563",
+      "title": "b11563",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2yv1b/running_next_flash_iq3_xxs_at_70_toks_with_100k/",
-      "title": "Running Next Flash IQ3_XXS at ~70 tok/s with 100k context or 2 instances of Qwen 3.6 35B A3B IQ4 at ~145 tok/s with 256k all on $500 of ex mining BC-250 boards",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.29.0",
+      "title": "v3.29.0",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3078i/converting_dense_models_into_mixtureofexperts/",
-      "title": "Converting dense models into Mixture-of-Experts",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+      "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xatx/amd_reportedly_raises_gddr6_prices_for_board/",
-      "title": "AMD Reportedly Raises GDDR6 Prices for Board Partners",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/",
+      "title": "I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xniv/be_careful_fam_new_rtx_4090_fakes_hit_the_market/",
-      "title": "Be careful fam - New RTX 4090 fakes hit the market, with GPUs and memory almost indistinguishable from real chips",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
+      "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x30cv1/m5_ultra_256gb_or_2x_dgx_spark_which_one/",
-      "title": "M5 Ultra 256GB or 2x DGX Spark? Which one?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/",
+      "title": "I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@julian.oczkowski/figma-just-put-a-meter-on-its-ai-agent-e390f319c25d?source=rss------ai_design-5",
-      "title": "Figma Just Put a Meter on Its AI Agent",
+      "url": "https://medium.com/@palakash/the-a2ui-contract-a-deep-dive-into-agent-to-ui-architecture-00540eafdca8?source=rss------generative_ui-5",
+      "title": "The A2UI Contract: A Deep Dive into Agent-to-UI Architecture",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://constitution.design/",
+      "title": "The designer's constitution",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://adrianroselli.com/2026/10/decorative-images.html",
+      "title": "Decorative images aren't a thing",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://www.fluidfunctionalism.com/",
+      "title": "Fluid functionalism",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://armstr.ng/writing/worth-building",
+      "title": "Worth building",
       "profile": "Design"
     }
   ]
