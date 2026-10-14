@@ -1,136 +1,154 @@
 {
-  "generated_at": "2026-10-13T07:08:11+00:00",
+  "generated_at": "2026-10-14T07:08:00+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "title": "Microsoft's new AI chip makes it less reliant on Nvidia's GPUs",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcHNZdWYyUWdnYV9lY1lrOGw0MEhIY2dhY0dFbmxXUWd3QjYtanptamV5cEl1TVRXdGhsZnFtRUFUVzlNZXJGNWhnU1g2cDBEMDhEVXVDWUZkZmFPY1BZVEhucjBDY1U?oc=5",
-      "title": "Strengthening our defenses against distillation attacks - Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "title": "Google finally releases Gemini 4 Argon",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSER5ZlJwUTROcmZEaU9pY3l3TVh6ZHpCUFcwTElGR0g2dnBicDItUDdrVTBmZnhKTVdiZGYzUmZrUG1GdEstVi1HNmlQN2Q0RHRtWkNhZFlJb3VuNHVwWUNPQk5QYUsySGdGXzJUQlltTDVhNmF2YU5XUjJuQ0g4QzBSYjdyMnhtSlVFYzM5OGJLbkZuX2Zkd19zVThHMFdMVGtZTk5mV0JsN0VPSFg1OXp3OXczdw?oc=5",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police - Ars Technica",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11572",
-      "title": "b11572",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1",
-      "title": "v0.40.4",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x49d61/looped_diffusion_transformer_the_same_blocks_run/",
-      "title": "Looped Diffusion Transformer: the same blocks run several times inside each denoising step, and loop depth can be changed at sampling time [R]",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
-      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/",
-      "title": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "title": "Shopify opens its catalog up to more AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11577",
-      "title": "b11577",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+      "title": "v0.40.4",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11576",
-      "title": "b11576",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b/",
+      "title": "LiquidAI/LFM2.5-24B-A2B",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vqip/compressed_a_roberta_aitext_detector_from_500_mb/",
-      "title": "Compressed a RoBERTa AI-text detector from ~500 MB to ~97 MB so it runs client-side in the browser, plus a 26 MB image detector [P]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a/",
+      "title": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vkej/i_built_a_tiny_table_that_learns_your_local_llms/",
-      "title": "I built a tiny table that learns your local LLM's classification answers and serves the repeats in microseconds [D]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus/",
+      "title": "Moving a running model's layers between GPUs mid-reply (8 ms, no re-prefill)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://kunaluxui.medium.com/ai-is-starting-to-design-the-interface-in-real-time-product-designers-need-a-new-quality-bar-2236d92209f5?source=rss------generative_ui-5",
-      "title": "AI Is Starting to Design the Interface in Real Time. Product Designers Need a New Quality Bar.",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5im9u/koboldcpp_v1123_released/",
+      "title": "Koboldcpp v1.123 released",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/syncfusion/why-modern-ai-apps-feel-faster-streaming-ux-patterns-that-actually-work-43813838daeb?source=rss------generative_ui-5",
-      "title": "Why Modern AI Apps Feel Faster: Streaming UX Patterns That Actually Work",
+      "url": "https://designerfund.com/blog/ai-design-anthropic",
+      "title": "Inside Anthropic's design team",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/5-best-claude-code-mods-you-should-try-in-2026-580eee0aec57?source=rss----819cc2aaeee0---4",
-      "title": "5 Best Claude Code Mods You Should Try in 2026",
+      "url": "https://skills.wheresryan.sh/anatomy",
+      "title": "Anatomy",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/i-tested-100-github-tools-for-claude-these-7-are-the-best-d3d13ad1befd?source=rss----819cc2aaeee0---4",
-      "title": "I Tested 100+ GitHub Tools for Claude. These 7 Are the Best",
+      "url": "https://uxplanet.org/want-to-make-product-development-with-claude-code-more-predictable-use-agent-skills-f37d056f67cc?source=rss----819cc2aaeee0---4",
+      "title": "Want to Make Product Development with Claude Code More Predictable? Use Agent Skills!",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
-      "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+      "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "title": "Is AI the end of math as we know it?",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://jimmacleod.medium.com/13-signs-you-used-ai-for-your-design-f27ae385c9e1?source=rss------ai_design-5",
-      "title": "13 Signs You Used AI for Your Design",
+      "url": "https://medium.com/@aleksandardobrohotov/what-is-openui-live-charts-and-forms-from-your-own-components-530be065486f?source=rss------generative_ui-5",
+      "title": "What Is OpenUI: Live Charts and Forms From Your Own Components",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
-      "title": "Secret agent bot: accessibility matters for the agents even if you can't see them",
+      "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4",
+      "title": "The synth everyone owned and few could program: a lesson for AI design",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
-      "title": "Borrowed slopes",
+      "url": "https://jondaiello.medium.com/the-insidious-effect-of-ai-a77eb94695c4?source=rss------ai_design-5",
+      "title": "The Insidious Effect of AI",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://medium.com/@shivamramani27/ive-been-thinking-about-what-ai-should-and-shouldn-t-do-in-ui-ux-design-e2d693211c19?source=rss------ai_design-5",
+      "title": "I've Been Thinking About What AI Should and Shouldn't Do in UI/UX Design",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://linear.app/now/five-principles-working-with-loops",
+      "title": "Five principles for working with Loops",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://ssgoi.dev/",
+      "title": "Native page transitions on the web",
       "profile": "Design"
     }
   ]
