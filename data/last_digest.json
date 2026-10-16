@@ -1,118 +1,166 @@
 {
-  "generated_at": "2026-10-15T07:08:15+00:00",
+  "generated_at": "2026-10-16T07:07:59+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Bringing GPT-Rosalind to academic research labs",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "title": "ChatGPT can peek at your Chrome tabs now",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VvcHh4UGVpa1NTQXhBZFE5c2cxaFc5TWtLRDNkcjRUVFE2QkRUWHZacXRWcVMwLWJEOU8yTHNyWEVFQXplelU2LWpDaW5GekxQbWxNVXZSMHctdGVDQ1l5WEQ1QTI5TUZKTjhrdVhNcnFYV24zUEZfRkJsQkxtMHk4ajZ5Y3FxRzlwaVlxMVV0aUxXWDFnbVVxRzJmb1VWVTIzYkE5enZJRnhPeDJndm5YbTVUWXhodFlIdkRtSURIcGRXMGNrd1pZTUM5cE5JODFxdGZlRmc4UQ?oc=5",
-      "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does - Scientific American",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
-      "title": "Preparing for the 2026 US midterms - Anthropic",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "title": "AI agents are coming to Rivian's cars",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0",
-      "title": "v1.14.0",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "title": "Amazon's Bee launches two new personal AI devices, starting at $75",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
-      "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0",
-      "title": "v0.40.5",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0",
+      "title": "v1.15.0",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1",
-      "title": "v0.32.0rc1: [Dependency] Update Humming and remove NVFP4 scale workaround (#61556)",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5",
+      "title": "v0.40.5",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11642",
-      "title": "b11642: server: save only restorable slot states to the prompt cache (#30498)",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.20.0",
+      "title": "Release v5.20.0",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11641",
-      "title": "b11641",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.7.0",
+      "title": "v0.7.0",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4?source=rss----138adf9c44c---4",
-      "title": "Nobody wants your AI app",
+      "url": "https://medium.com/@unicodeveloper/i-rebuilt-the-chatgpt-intelligent-ui-experience-with-open-source-generative-ui-2a00128b4f54?source=rss------generative_ui-5",
+      "title": "I rebuilt the ChatGPT Intelligent UI experience with Open Source Generative UI",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3",
-      "title": "What the AI era owes you",
+      "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
+      "title": "Human in the loop means making sure the human is not out of the loop",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/reverse-engineer-anything-what-the-viral-github-repo-actually-does-c5ea949123a5?source=rss----819cc2aaeee0---4",
-      "title": "Reverse Engineer Anything: What the Viral GitHub Repo Actually Does",
+      "url": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4",
+      "title": "I ran a 7-week AI workshop for designers (that wasn't really about AI)",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@supeergabs/understand-before-you-build-facf711dd06b?source=rss------ai_design-5",
-      "title": "Understand before you build",
+      "url": "https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4",
+      "title": "Nobody feels heard by a report",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373?source=rss----138adf9c44c---4",
+      "title": "The AI experience doesn't care about your org chart",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/design-bootcamp/zombie-ui-why-every-ai-built-screen-looks-the-same-8a2cb7d3f916?source=rss------ai_design-5",
+      "title": "Zombie UI: Why Every AI-Built Screen Looks the Same",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://www.petermerholz.com/newsletter/newsletter-design-owns-coherence/",
+      "title": "Design owns coherence",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era/",
+      "title": "Pure UI in the Agentic Era",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://text-effects.colorion.co/",
+      "title": "117 CSS text effects & animations",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://prompt-motion.com/",
+      "title": "Prompt Motion",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://sightlessscribbles.com/posts/disability-dongle/",
+      "title": "The \"disability dongle\": Why Silicon Valley hates me and you",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://uxplanet.org/dashboard-design-becomes-easier-with-claude-daaf2d9376d4?source=rss----819cc2aaeee0---4",
+      "title": "Dashboard design becomes easier with Claude",
       "profile": "Design"
     }
   ]
