@@ -1,4 +1,125 @@
 {
-  "generated_at": "2026-10-18T07:05:59+00:00",
-  "items": []
+  "generated_at": "2026-10-19T07:08:14+00:00",
+  "items": [
+    {
+      "n": 1,
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+      "title": "v0.32.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 2,
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "title": "Anthropic says it's committing 5% of its shares to a 'public benefit fund'",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 3,
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "title": "Disney agrees to hire the majority of Character.AI's workforce",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 4,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ195dHNLcXc0NFNDYnAzc2s1QnhseGJpMGE5RDM1enl5TDNXX2NiZWtDVTQ0MnNWSkxqekdPVVdZS09zRTY2UGFXU1BTX3lIYVpNMmcweHhjeExHRzU5bnREOFluWHhGckRpZkYxVFdRX1hmZnNiLUhPNXFDM25JaVNpVXVkcF9mTXVLY0xTM2lLUEIxcE9WdkxISkpVaUtkVGlOV1RKX0FKOW1XWUhGZldSYU53U0hBd0R4ajR1X1ktc3FhRWQyOHFxZWM0M3JxLTZXZW1tcVVQYmZxaDZFeENYbTh5QdIB6wFBVV95cUxQOFV5U3N3TDVlWmJyS295U2IyeGQ2UzhJVk9KeFU1T0dFUHRKWnV2R1dKWjhucnQ1S0k0bHhFemVtck1NS1BiT2cwaUEwN05xV09QOWEwT0VTYTVOQ0tVQmtSVE5RSXhOckJiMVpDMlZJNXg1NHo3NFVZWkNpVlU0M2t2ZjRJZ1ExcmpmTmFLcWljSGMzeGtGdGJ1Q19sdnZibExhNU00LXJoSzg5UmtLNVY2ZF9WbmYzbzZoQ21uOTlzMTlpSnlvLTFtU1J3QklvelZVUWRyWW9MV0JabWtyWXBhb25venpmSkJ3?oc=5",
+      "title": "Replit picks OpenAI over Anthropic as primary AI provider, says ChatGPT is better now",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 5,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x9jbxs/a_wholecortex_encoding_model_of_vision_audition/",
+      "title": "A Whole-Cortex Encoding Model of Vision, Audition, and Language for In-Silico Neuroscience [R]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 6,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
+      "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 7,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+      "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x975ea/proof_before_reuse_showing_agents_only_what_later/",
+      "title": "Proof Before Reuse: showing agents only what later sessions reproduced keeps a poisoned skill out of procedural memory [R]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
+      "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack.",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
+      "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11724",
+      "title": "b11724",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11723",
+      "title": "b11723",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
+      "title": "Conference papers are cooked! [D]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+      "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+      "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one desktop [P]",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://programasweights.com/claudish",
+      "title": "English ↔ Claudish",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://marcabraham.com/2026/10/15/personal-agents-are-getting-their-own-computers/",
+      "title": "Personal agents are getting their own computers",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+      "title": "How to build a brand foundation with AI without losing your craft",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://medium.com/design-bootcamp/who-is-a-product-designer-now-ae97993bacfb?source=rss------ai_design-5",
+      "title": "Who Is a Product Designer Now?",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "title": "Someone behind the software",
+      "profile": "Design"
+    }
+  ]
 }
