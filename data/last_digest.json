@@ -1,136 +1,172 @@
 {
-  "generated_at": "2026-10-20T07:07:36+00:00",
+  "generated_at": "2026-10-21T07:07:50+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+      "title": "Otter AI raises $320M from General Catalyst's growth fund for its meeting tool",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users' AI accounts",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "title": "US orders federal agencies to remove China's DeepSeek AI from their systems",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming",
-      "title": "MiniMax-M3.1-Flash is coming",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yrfi/inclusionai_releases_ming30audioflash_126b_moe",
-      "title": "inclusionAI releases Ming-3.0-audio-flash: 126B MoE / 6.5B active, audio understanding + speech output, MIT",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "title": "Anthropic's cloud partnerships are getting messy",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models",
-      "title": "llama.cpp support for Cohere models",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+      "title": "SpaceX's AI business is beating expectations",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xadfm7/migtisseratess4527b_qwen_finetune",
-      "title": "migtissera/Tess-4.5-27B (Qwen finetune)",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
+      "title": "ChatGPT now lets you lock your chats",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9skvx/ai_labs_report_benchmark_scores_64_higher_than",
-      "title": "AI labs report benchmark scores 6.4% higher than independent testers, on average",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+      "title": "Meta's Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11744",
-      "title": "b11744",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "title": "Google's more personalized Gemini AI is heading to your car",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11742",
-      "title": "b11742",
+      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.20.2",
-      "title": "Patch release v5.20.2",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
+      "title": "v0.40.7",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/i-tried-designing-an-entire-product-in-claude-code-without-figma-d5b76360db38?source=rss----819cc2aaeee0---4",
-      "title": "I Tried Designing an Entire Product in Claude Code Without Figma",
+      "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
+      "title": "38 things we've learned about building AI products",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@wolfpixel/agentic-design-what-breaks-when-we-let-ai-into-figma-9a35f5e73498?source=rss------ai_design-5",
-      "title": "Agentic Design: What Breaks When We Let AI Into Figma",
+      "url": "https://uxplanet.org/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5-which-model-should-you-use-for-which-task-558e2b26cb3c?source=rss----819cc2aaeee0---4",
+      "title": "Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5: Which Model Should You Use for Which Task?",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
-      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+      "url": "https://www.logo.dev/docs/mcp/introduction",
+      "title": "Logo.dev MCP server",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/design-bootcamp/my-design-process-in-2026-where-ai-does-the-work-and-where-it-still-cant-3aaf05a2e6e4?source=rss------ai_design-5",
-      "title": "My Design Process in 2026: Where AI Does the Work and Where It Still Can't",
+      "url": "https://medium.com/@muskaanaraidesigns/figma-make-vs-claude-design-i-designed-the-same-saas-dashboard-in-both-ee3bbc3b6c73?source=rss------ai_design-5",
+      "title": "Figma Make vs. Claude Design: I designed the same SaaS dashboard in both",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@pradyumnaismyfullname/the-future-of-ux-isnt-about-designing-faster-it-s-about-thinking-better-42c88692d36d?source=rss------ai_design-5",
-      "title": "The Future of UX Isn't About Designing Faster. It's About Thinking Better.",
+      "url": "https://medium.com/design-bootcamp/making-design-system-ai-ready-case-study-4edde4c19188?source=rss------ai_design-5",
+      "title": "Making Design System AI-Ready: Case Study",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4",
-      "title": "Playing the sanshin without a sound",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4",
-      "title": "UX designers are not designing interfaces, they design personalities",
+      "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
+      "title": "Design in the material you ship",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://davedavies.dev/state-of-ecommerce-accessibility/",
+      "title": "State of Ecommerce Accessibility 2026",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://world.hey.com/jorge/acceptance-8487bd37",
+      "title": "Acceptance",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
+      "title": "Let AI have the average user: Why User Research should focus on bad days",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://medium.com/@mounika.konidala/ai-privacy-is-a-ux-question-i-keep-coming-back-to-dbdef907325a?source=rss------ai_design-5",
+      "title": "AI Privacy Is a UX Question I Keep Coming Back To",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://medium.com/@pnhegemann/who-still-asks-if-claude-cursor-or-codex-is-better-93587b376e7a?source=rss------ai_design-5",
+      "title": "Who still asks if Claude, Cursor or Codex is better?",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://medium.muz.li/why-every-ai-product-looks-the-same-and-how-to-design-one-that-doesnt-270f0137cc46?source=rss------ai_design-5",
+      "title": "Why Every AI Product Looks the Same, and How to Design One That Doesn't",
       "profile": "Design"
     }
   ]
