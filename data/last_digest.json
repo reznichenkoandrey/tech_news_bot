@@ -1,172 +1,154 @@
 {
-  "generated_at": "2026-10-21T07:07:50+00:00",
+  "generated_at": "2026-10-22T07:07:41+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
+      "title": "Anthropic unveils Claude Duet AI agent app - Reuters",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
-      "title": "Otter AI raises $320M from General Catalyst's growth fund for its meeting tool",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
-      "title": "US orders federal agencies to remove China's DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
+      "title": "v0.40.8",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc23iq/recursive_flint_the_qwen38_35b_weve_all_been/",
+      "title": "Recursive Flint - the \"Qwen3.8 35B\" we've all been waiting for?",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "title": "Anthropic's cloud partnerships are getting messy",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
-      "title": "SpaceX's AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
-      "title": "ChatGPT now lets you lock your chats",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "title": "PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
-      "title": "Meta's Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "title": "Google's more personalized Gemini AI is heading to your car",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts/",
+      "title": "Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbuzj5/amazing_free_3090_speedup_hack_verified_works_15/",
+      "title": "Amazing free 3090 speedup hack, verified works 15% PP, 5% TG for free",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11800",
+      "title": "b11800",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
-      "title": "v0.40.7",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11803",
+      "title": "b11803",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
-      "title": "38 things we've learned about building AI products",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "title": "How employment is changing at Anthropic",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5-which-model-should-you-use-for-which-task-558e2b26cb3c?source=rss----819cc2aaeee0---4",
-      "title": "Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5: Which Model Should You Use for Which Task?",
+      "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
+      "title": "Can you take AI at its word?",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.logo.dev/docs/mcp/introduction",
-      "title": "Logo.dev MCP server",
+      "url": "https://www.doc.cc/articles/fastest-gun",
+      "title": "The fastest gun in UX",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@muskaanaraidesigns/figma-make-vs-claude-design-i-designed-the-same-saas-dashboard-in-both-ee3bbc3b6c73?source=rss------ai_design-5",
-      "title": "Figma Make vs. Claude Design: I designed the same SaaS dashboard in both",
+      "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+      "title": "AI is driving a boom in modestly successful software projects",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/design-bootcamp/making-design-system-ai-ready-case-study-4edde4c19188?source=rss------ai_design-5",
-      "title": "Making Design System AI-Ready: Case Study",
+      "url": "https://toolcraft.sh/",
+      "title": "Toolcraft",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://medium.com/@tony23046176/%E7%95%B6-ai-%E9%96%8B%E5%A7%8B%E9%95%B7%E5%87%BA%E4%BB%8B%E9%9D%A2-%E7%94%9F%E6%88%90%E5%BC%8F-ui-%E7%9A%84%E5%AF%A6%E4%BD%9C%E7%AD%86%E8%A8%98-dcef867449b6?source=rss------generative_ui-5",
+      "title": "當 AI 開始長出介面：生成式 UI 的實作筆記",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
-      "title": "Design in the material you ship",
+      "url": "https://medium.com/@marketingtd64/how-should-ux-handle-ai-confidence-scores-dcd87263a26d?source=rss------ai_design-5",
+      "title": "How Should UX Handle AI Confidence Scores?",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://davedavies.dev/state-of-ecommerce-accessibility/",
-      "title": "State of Ecommerce Accessibility 2026",
+      "url": "https://medium.com/@ramboaniaina.volatiana/can-ai-handle-a-real-design-brief-from-first-prompt-to-final-revisions-2b717baad20d?source=rss------ai_design-5",
+      "title": "Can AI Handle a Real Design Brief? From First Prompt to Final Revisions",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://world.hey.com/jorge/acceptance-8487bd37",
-      "title": "Acceptance",
+      "url": "https://amberjabeen.medium.com/the-craft-dividend-when-building-gets-cheaper-what-becomes-more-valuable-979726553c53?source=rss------ai_design-5",
+      "title": "The Craft Dividend: When Building Gets Cheaper, What Becomes More Valuable?",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
-      "title": "Let AI have the average user: Why User Research should focus on bad days",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://medium.com/@mounika.konidala/ai-privacy-is-a-ux-question-i-keep-coming-back-to-dbdef907325a?source=rss------ai_design-5",
-      "title": "AI Privacy Is a UX Question I Keep Coming Back To",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://medium.com/@pnhegemann/who-still-asks-if-claude-cursor-or-codex-is-better-93587b376e7a?source=rss------ai_design-5",
-      "title": "Who still asks if Claude, Cursor or Codex is better?",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://medium.muz.li/why-every-ai-product-looks-the-same-and-how-to-design-one-that-doesnt-270f0137cc46?source=rss------ai_design-5",
-      "title": "Why Every AI Product Looks the Same, and How to Design One That Doesn't",
+      "url": "https://www.editui.app/",
+      "title": "EditUI",
       "profile": "Design"
     }
   ]
