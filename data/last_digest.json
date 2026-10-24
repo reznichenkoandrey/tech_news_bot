@@ -1,148 +1,160 @@
 {
-  "generated_at": "2026-10-23T07:07:36+00:00",
+  "generated_at": "2026-10-24T07:07:46+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/decisions-api",
-      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "Securing our frontier model training environment",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "title": "Canva releases its first image generation model",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0",
+      "title": "v2.3.0",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
+      "title": "v2.2.0",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+      "title": "v0.40.10",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "title": "Retro gaming is being overrun with AI",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "title": "Beyond tree cover: mapping the world's forest types",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+      "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
-      "title": "v0.40.9",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
+      "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
-      "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
+      "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11854",
+      "title": "b11854: vulkan: ggml src1 precision support (#30656)",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "title": "OpenAI and Poland's NASK partner to advance AI safety and security",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11850",
+      "title": "b11850",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/open-intelligence/stop-letting-ai-write-ui-code-meet-openui-87dfd5b2672f?source=rss------generative_ui-5",
-      "title": "Stop Letting AI Write UI Code: Meet OpenUI",
+      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/open-intelligence/giving-ai-coding-assistants-a-real-sense-of-design-738384523569?source=rss------ai_design-5",
-      "title": "Giving AI Coding Assistants a Real Sense of Design",
+      "url": "https://medium.com/@muskaanaraidesigns/i-tested-google-stitch-googles-free-ai-ui-designer-on-a-real-saas-product-c2f046b30a59?source=rss------ai_design-5",
+      "title": "I tested Google Stitch, Google's free AI UI designer, on a real SaaS product",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/i-tested-3-claude-code-skills-for-web-design-which-one-is-best-521137220dc1?source=rss----819cc2aaeee0---4",
-      "title": "I Tested 3 Claude Code Skills for Web Design: Which One Is Best?",
+      "url": "https://uxplanet.org/can-claude-code-design-professional-ui-animations-i-tested-3-approaches-b6a855f0eadf?source=rss----819cc2aaeee0---4",
+      "title": "Can Claude Code Design Professional UI Animations? I Tested 3 Approaches",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@wolfpixel/ai-in-digital-product-design-what-actually-changed-beb666754f8b?source=rss------ai_design-5",
-      "title": "AI in Digital Product Design: What Actually Changed",
+      "url": "https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX Disciplines: Glossary",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/athenahealth-design/good-vs-bad-design-what-happened-when-i-put-ai-and-my-design-team-head-to-head-8c9d3b6d375f?source=rss------ai_design-5",
-      "title": "What happened when I put AI and my design team head-to-head in a critique?",
+      "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+      "title": "Accordion Icons: Which Work Best?",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
-      "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+      "url": "https://shannadige.com/blog/performance-is-design/",
+      "title": "Fast is a design decision",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://linear.app/changelog/2026-10-22-slack-and-github-loops",
-      "title": "More ways to run and share Loops",
+      "url": "https://www.antonsten.com/articles/where-decisions-live/",
+      "title": "Where decisions live",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://backgrounds.supply/gradient-lab",
-      "title": "Gradient background generator",
+      "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
+      "title": "Entering Atomic Design from the screen",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://medium.com/@carter-sant/craft-apps-e8e28fdc9432?source=rss------ai_design-5",
-      "title": "Craft Apps",
+      "url": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4",
+      "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://visualrambling.space/moving-objects-in-3d/",
+      "title": "Moving objects in 3D space",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://www.creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil/",
+      "title": "Apple Music's new logo was shaped by sound and mineral oil",
       "profile": "Design"
     }
   ]
