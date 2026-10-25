@@ -1,160 +1,100 @@
 {
-  "generated_at": "2026-10-24T07:07:46+00:00",
+  "generated_at": "2026-10-25T08:07:23+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "title": "Securing our frontier model training environment",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+      "title": "v0.40.11",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "title": "Block's new voice model sounds eerily human",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0",
-      "title": "v2.3.0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "title": "Pennsylvania will require labels on AI-generated ads",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
-      "title": "v2.2.0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTVmY3RjbFEzeDNnb2xOa0FDUm9Ga2VRMXM4ODZlOEd5YkdWMUhoRU4xTnJaTWF0MzRjZ0E3SWpCRGV2NXdaeDhKTTRlNEszMmk5cVdPR2RqdWl4YWlkd0Z6cE9sQWNkMVdOTHBVYlJhbkVhRW1LOE5VMUpBdUdKbm9JYWlwdEk4ZWQ4c2FZZ0lJTVlaTzRZZEE4MmVLc2s?oc=5",
+      "title": "Anthropic's AI Hid a Secret Message in the Stars. OpenAI's Bot Found It.",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTh5TVotQUREU29MT1BHc3JwV0p6X2FiUjlIbllhX3hkaWpxZnNMUzkyMHU0elBhRFBlUmJKWTE1X1k3VmhFQ056RFZ2cHV3ZS1jcW1hQXN6djRLcFNjNmdIeEFpY3FZU1RFVkZPM296WDNwOEM1S3R3WU9kSGhJeVFqRUhpVG1NWWZlczdYWW5veElSaG9SM1JGeGpRUUZ5bUNQMHpKOU9udVpISzdCUjFPNkRIWFk?oc=5",
+      "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
-      "title": "v0.40.10",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KR1lVTVhRM0xJamFELVV5THBNeEhKNDk2U2dLX1RCNGdUZFpZc2FyTjRkNkpxLVQ3MGRNU0hLSjBaYUFUa1p1Rl9EOG1UeU1GbElINmg1Sks2VXF3UVRuelhNQ09VeHdBYzZKaTZNczZQdDlqdXlrV3ZmTQ?oc=5",
+      "title": "Claude Duet keeps working when your laptop is off, but uses your plan's limits",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTVmY3RjbFEzeDNnb2xOa0FDUm9Ga2VRMXM4ODZlOEd5YkdWMUhoRU4xTnJaTWF0MzRjZ0E3SWpCRGV2NXdaeDhKTTRlNEszMmk5cVdPR2RqdWl4YWlkd0Z6cE9sQWNkMVdOTHBVYlJhbkVhRW1LOE5VMUpBdUdKbm9JYWlwdEk4ZWQ4c2FZZ0lJTVlaTzRZZEE4MmVLc2s?oc=5",
+      "title": "Anthropic Integrates Agent Capabilities into Enterprise Claude, Offering Four Controls to Prevent Billing Bloat",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "title": "Retro gaming is being overrun with AI",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11871",
+      "title": "b11871",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-      "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+      "title": "b11870",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
-      "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+      "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
-      "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
+      "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11854",
-      "title": "b11854: vulkan: ggml src1 precision support (#30656)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+      "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11850",
-      "title": "b11850",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Here are the top AI agents that can live in your text messages",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://medium.com/@muskaanaraidesigns/i-tested-google-stitch-googles-free-ai-ui-designer-on-a-real-saas-product-c2f046b30a59?source=rss------ai_design-5",
-      "title": "I tested Google Stitch, Google's free AI UI designer, on a real SaaS product",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://uxplanet.org/can-claude-code-design-professional-ui-animations-i-tested-3-approaches-b6a855f0eadf?source=rss----819cc2aaeee0---4",
-      "title": "Can Claude Code Design Professional UI Animations? I Tested 3 Approaches",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "UX Disciplines: Glossary",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
-      "title": "Accordion Icons: Which Work Best?",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://shannadige.com/blog/performance-is-design/",
-      "title": "Fast is a design decision",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://www.antonsten.com/articles/where-decisions-live/",
-      "title": "Where decisions live",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
-      "title": "Entering Atomic Design from the screen",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4",
-      "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://visualrambling.space/moving-objects-in-3d/",
-      "title": "Moving objects in 3D space",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://www.creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil/",
-      "title": "Apple Music's new logo was shaped by sound and mineral oil",
+      "url": "https://medium.com/@shivanathd/a-field-guide-to-generative-ui-a2ui-json-render-openui-1d087911236d?source=rss------generative_ui-5",
+      "title": "A Field Guide to Generative UI: A2UI, json-render, OpenUI",
       "profile": "Design"
     }
   ]
