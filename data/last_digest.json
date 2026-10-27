@@ -1,118 +1,190 @@
 {
-  "generated_at": "2026-10-26T08:07:24+00:00",
+  "generated_at": "2026-10-27T08:07:57+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11890",
-      "title": "b11890: deepseekv4.1: follow-up review fixes (#31137)",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11886",
-      "title": "b11886: qwen: merge tensors on convert (#31028)",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11884",
-      "title": "b11884: llama: fix exhausting CPU and MEM caused by dry sequence breaker (#31035)",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11883",
-      "title": "b11883: llama-quant: fix 4D tensor quantization using ggml_nrows() and name-based expert detection (#30820)",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT's expanding world of work",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11882",
-      "title": "b11882: grammar: limit recursion depth to prevent stack overflow (#29495) (#29755)",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "title": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt/",
-      "title": "RTX 3080 20GB got reBAR and P2P unlock! +70% prompt processing speed",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "title": "Anthropic officially files for its public debut",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/",
-      "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1p1a2NSeGhUY0p3Q2JMNzRPTmN6SjNWRFRNNlE0bXlnYzFxYWFWdTlfM2xPX0FTZlNWUlF6TUVOakxlMEhSUzhsQi0xWG9TVUhaWlVvbDVkbWVXOV9vLTZ1d2xGRFNWTWQtNi13MzhqTDBYSlVjb2pZQVJCS1hUTUZTR1U4U0JSUGctdGlsR21XVHlYaWxLWThLa19QQ3BGSTlYZGR1c3l1aldIbjE0M1IzY1NZeXNSazRR?oc=5",
-      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall - Reuters",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "title": "Anthropic is burning gas to feed the AI boom",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelFOZFdTZmw2a1FtcjAxZk5lYktWT09FRTRaT0g0MmFrRFpHX0dIbk1IeVJNYmxVVlhBZHRYWk1YZzFHRjh0N29jSEdWd2s3OEJrcFM4SW9Tb29tLTQ5VjJaQ3BFQThpRXNJUzVPbXcwOElvcVJUNl9aZE1SaWVZTTR1VTYtcHNGZVdjU2t4MVItd2ZKYlhZZGd3cw?oc=5",
-      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models - The Guardian",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "title": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
+      "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
+      "title": "Qwen investigation traces release",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley/",
-      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgdjy3/psa_qwen38fn_is_about_to_win_the_2026_arcagi3/",
+      "title": "PSA: Qwen-3.8-FN is about to win the 2026 ARC-AGI-3 challenge",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm/",
-      "title": "CrowdGPT - A collaboratively trained LLM.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgaapw/gpu_unlocks_fp32_accumulation_why_can_it_be/",
+      "title": "GPU unlocks (FP32 accumulation): Why can it be unlocked on Turing (RTX 20), Ampere (RTX 30) and Ada (RTX 40) but no consumer Blackwell (RTX 50) and some misconceptions.",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfhhm4/smh_seriously_nvidia_eyes_software_revenue_with_a/",
-      "title": "SMH, seriously? -->> NVIDIA Eyes Software Revenue With a $2,000 per GPU Yearly Figure From Huang",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+      "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096/",
-      "title": "PSA: llama.cpp CVE-2026-116096",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc0",
+      "title": "v0.40.12",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@muskaanaraidesigns/claude-design-is-closing-on-december-14-here-is-what-designers-need-to-do-before-then-32af7182f773?source=rss------ai_design-5",
-      "title": "Claude Design is closing on December 14: here is what designers need to do before then",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11921",
+      "title": "b11921",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
-      "title": "The context advantage of human UX",
-      "profile": "Design"
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.21",
+      "title": "Release: v5.21.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6?source=rss----138adf9c44c---4",
-      "title": "Nobody asked for the sparkle button",
+      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
+      "title": "Building an AI-ready design system library: Code → Figma with MCP.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5?source=rss----138adf9c44c---4",
-      "title": "Where to draw the line before AI reaches professional users",
+      "url": "https://medium.com/@yangxu_16238/i-stopped-prompting-claude-design-and-started-building-a-system-instead-heres-what-changed-23fd6d438122?source=rss------ai_design-5",
+      "title": "I Stopped Prompting Claude Design and Started Building a System Instead — Here's What Changed",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxplanet.org/agents-md-in-claude-code-what-it-is-and-why-it-matters-2664ea64f7b0?source=rss----819cc2aaeee0---4",
+      "title": "AGENTS.md in Claude Code: What it is and why it matters",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/@sarah.l.p.marshall/the-five-levels-you-are-actually-designing-within-your-ai-deployment-662dc7650157?source=rss------ai_design-5",
+      "title": "The Five Levels You Are Actually Designing within Your AI Deployment",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://medium.com/@sarah.l.p.marshall/what-ai-asks-of-your-people-and-what-they-need-from-you-3bf90815245a?source=rss------ai_design-5",
+      "title": "What AI Asks of Your People, and What They Need From You",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "title": "CSS-Tricks has a new owner!",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://chandrajithkm.medium.com/why-your-smart-devices-feel-so-dumb-5-counter-intuitive-insights-from-ai-user-experience-01fae74b3abd?source=rss------ai_design-5",
+      "title": "Why Your \"Smart\" Devices Feel So Dumb: 5 Counter-Intuitive Insights from AI User Experience…",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/@mikeandpicture/iliad-atlas-automating-data-collection-analysis-and-verification-against-sources-from-antiquity-de907c13aec4?source=rss------ai_design-5",
+      "title": "Iliad Atlas: Automating Data Collection, Analysis, and Verification Against Sources from Antiquity…",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://medium.com/@ux.ai.philosophy/favorites-in-llms-a-missing-link-to-productivity-c7d616d5b91e?source=rss------ai_ux-5",
+      "title": "Favorites in LLM's: a Missing Link to Productivity",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://hrih.si/articles/who-holds-the-off-switch/",
+      "title": "Who holds the off switch?",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://archive.org/details/vintageai",
+      "title": "Vintage AI",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://www.youtube.com/watch?v=AK8zLQeRI2M",
+      "title": "Design and engineering are the same thing",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://intentapp.dev/design-system?dark-mode=",
+      "title": "Intent Design System",
+      "profile": "Design"
+    },
+    {
+      "n": 31,
+      "url": "https://craftwork.design/?ref=sidebar",
+      "title": "Craftwork: UI made by real designers",
       "profile": "Design"
     }
   ]
