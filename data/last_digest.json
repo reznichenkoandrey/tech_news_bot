@@ -1,160 +1,142 @@
 {
-  "generated_at": "2026-10-28T08:08:11+00:00",
+  "generated_at": "2026-10-29T08:08:00+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "title": "Gemini 4 Carbon: Our next frontier model",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "title": "VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "title": "Google's Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://openai.com/index/retell-ai",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.8.0",
+      "title": "v0.8.0",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "title": "Anthropic's elaborate plan to keep Wall Street at bay",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "title": "Chrome's enhanced autofill can now pull info from Gmail to help you fill out forms",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "title": "Firefox's Smart Window adds AI form filling and webpage monitoring",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.41.0",
+      "title": "v3.41.0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.21.1",
+      "title": "v5.21.1",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "title": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+      "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training)",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "title": "Build specialized multimodal models with LFM3",
-      "profile": "AI/Tech"
+      "url": "https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products",
+      "title": "On giving people an undo button in AI products",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
-      "title": "v0.40.12",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+      "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@darkisgood1/ai-product-ux-design-the-new-rules-nobody-has-written-yet-2027-c6f800488691?source=rss------ai_design-5",
+      "title": "AI Product UX Design: The New Rules Nobody Has Written Yet (2027)",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/claude-opus-5-5-official-prompting-guide-25eaa238acdb?source=rss----819cc2aaeee0---4",
-      "title": "Claude Opus 5.5 Official Prompting Guide",
+      "url": "https://hoomanstudio.medium.com/generative-ui-is-replacing-static-screens-d1d43e0ae4c6?source=rss------generative_ui-5",
+      "title": "Generative UI Is Replacing Static Screens",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
-      "title": "Nobody asked for the sparkle button",
+      "url": "https://uxplanet.org/claude-code-skills-vs-mods-vs-plugins-vs-agents-whats-the-difference-5fccf8c1b4e6?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code Skills vs. Mods vs. Plugins vs. Agents: What's the Difference?",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@matia4441298/generative-ui-doesnt-need-another-schema-it-needs-a-better-harness-ec4c6e97cb83?source=rss------generative_ui-5",
-      "title": "Generative UI Doesn't Need Another Schema — It Needs a Better Harness",
+      "url": "https://atifaz.am/writing/the-software-factory-forgot-about-design",
+      "title": "The software factory forgot about design",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@theo-james/stop-dragging-cards-the-ai-whiteboard-that-assembles-itself-37ca06dd6e2c?source=rss------generative_ui-5",
-      "title": "Stop Dragging Cards: The AI Whiteboard That Assembles Itself",
+      "url": "https://medium.com/@muskaanaraidesigns/what-is-figma-weave-a-product-designers-honest-first-look-7d587ce057e2?source=rss------ai_design-5",
+      "title": "What is Figma Weave? A product designer's honest first look",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
-      "title": "The time AI saves designers usually disappears. Here's how to keep it.",
+      "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
+      "title": "The agent woke up before you did",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://css-tricks.com/whats-important-19/",
-      "title": "What's !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
+      "url": "https://medium.com/@nikhila.isukapally/what-still-remains-valuable-in-the-world-of-designing-with-ai-82ff513c0788?source=rss------ai_design-5",
+      "title": "What Still Remains Valuable in the World of Designing with AI?",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
-      "title": "Design systems should be fast by default",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://mattstromawn.com/writing/code-review-was-never-about-the-code/",
-      "title": "Code review was never about the code",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "title": "Decoy Font: a TTF font that hides what you type",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what/",
-      "title": "Knowing how is not knowing what",
+      "url": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
+      "title": "Microsoft's identity for Copilot positions it as a tool for work",
       "profile": "Design"
     }
   ]
