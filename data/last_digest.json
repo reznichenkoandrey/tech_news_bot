@@ -1,142 +1,124 @@
 {
-  "generated_at": "2026-10-29T08:08:00+00:00",
+  "generated_at": "2026-10-30T08:07:44+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.22.0",
+      "title": "v5.22.0: Mistral Large 4 (Le Chonk)",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.8.0",
-      "title": "v0.8.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+      "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "title": "Chrome's enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.41.0",
-      "title": "v3.41.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
+      "title": "Arguably unethical behavior from Cohere",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.21.1",
-      "title": "v5.21.1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+      "title": "Mistral Large 4 (Le Chonk) is now open weight",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "title": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+      "title": "Apsara conference: Qwen4 next week",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
-      "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
+      "title": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products",
-      "title": "On giving people an undo button in AI products",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/",
+      "title": "I think local AI cost me a job",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
-      "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+      "url": "https://uxplanet.org/anthropic-just-shipped-claude-2-0-bbb46a9c1383?source=rss----819cc2aaeee0---4",
+      "title": "Anthropic Just Shipped Claude 2.0",
       "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@darkisgood1/ai-product-ux-design-the-new-rules-nobody-has-written-yet-2027-c6f800488691?source=rss------ai_design-5",
-      "title": "AI Product UX Design: The New Rules Nobody Has Written Yet (2027)",
+      "url": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+      "title": "The people using AI should set its strategy",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://hoomanstudio.medium.com/generative-ui-is-replacing-static-screens-d1d43e0ae4c6?source=rss------generative_ui-5",
-      "title": "Generative UI Is Replacing Static Screens",
+      "url": "https://medium.com/@formisbahulislam/the-designer-in-the-loop-why-developers-embraced-ai-and-designers-didnt-f4fa1860de45?source=rss------ai_design-5",
+      "title": "The Designer in the Loop: Why Developers Embraced AI and Designers Didn't.",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/claude-code-skills-vs-mods-vs-plugins-vs-agents-whats-the-difference-5fccf8c1b4e6?source=rss----819cc2aaeee0---4",
-      "title": "Claude Code Skills vs. Mods vs. Plugins vs. Agents: What's the Difference?",
+      "url": "https://generativeai.pub/generative-ui-explained-what-designers-still-control-37cab49f11ec?source=rss------ai_design-5",
+      "title": "Generative UI Explained: What Designers Still Control",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://atifaz.am/writing/the-software-factory-forgot-about-design",
-      "title": "The software factory forgot about design",
+      "url": "https://medium.com/@littelljacie/beyond-navigation-generative-ui-and-information-architecture-ef798ce583d8?source=rss------generative_ui-5",
+      "title": "Beyond Navigation: Generative UI and Information Architecture",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@muskaanaraidesigns/what-is-figma-weave-a-product-designers-honest-first-look-7d587ce057e2?source=rss------ai_design-5",
-      "title": "What is Figma Weave? A product designer's honest first look",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
-      "title": "The agent woke up before you did",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://medium.com/@nikhila.isukapally/what-still-remains-valuable-in-the-world-of-designing-with-ai-82ff513c0788?source=rss------ai_design-5",
-      "title": "What Still Remains Valuable in the World of Designing with AI?",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
-      "title": "Microsoft's identity for Copilot positions it as a tool for work",
+      "url": "https://css-tricks.com/the-frankenstein-table/",
+      "title": "The Frankenstein Table",
       "profile": "Design"
     }
   ]
