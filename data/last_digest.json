@@ -1,124 +1,124 @@
 {
-  "generated_at": "2026-10-30T08:07:44+00:00",
+  "generated_at": "2026-10-31T08:07:47+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/updated-model-spec",
-      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2hyRVBYNEpLVEQ2V2IwYk9aZmhtUm9veEV5RE4tZVVONXpIM1Y5Q1hxSWprYjFDR1NXNGF2MjlyeUpod2p6NFNydVltcmpudHoxU2wtUWJxSUdrWUhhanRiTUo3ZzdGNXViN0NyRUdTcHFiVEJfT2Z0VklGczNiOGhzYw?oc=5",
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor - The Hacker News",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "Community safety report and new protections for teens",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.22.0",
-      "title": "v5.22.0: Mistral Large 4 (Le Chonk)",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Making it easier for websites to express AI training preferences",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.42.0",
+      "title": "v3.42.0",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
-      "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
+      "title": "Multi-Token Prediction Done Right [R]",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "title": "Cracks are emerging in the AI spending boom",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "title": "Google's satellite AI server transmits its first response to Earth",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+      "title": "v0.33.0rc3",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
-      "title": "Arguably unethical behavior from Cohere",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "title": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
-      "title": "Mistral Large 4 (Le Chonk) is now open weight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "title": "Silicon Valley wants you to invest in miracles",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
-      "title": "Apsara conference: Qwen4 next week",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI's math onslaught won't stop",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
-      "title": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "title": "Intel's stock crashes, knocking $12B from government's stake",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/",
-      "title": "I think local AI cost me a job",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxplanet.org/anthropic-just-shipped-claude-2-0-bbb46a9c1383?source=rss----819cc2aaeee0---4",
-      "title": "Anthropic Just Shipped Claude 2.0",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "title": "Maine's data center revolt will decide who controls the Senate",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
-      "title": "The people using AI should set its strategy",
+      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "The Role of UX in Agentic Software Factories",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@formisbahulislam/the-designer-in-the-loop-why-developers-embraced-ai-and-designers-didnt-f4fa1860de45?source=rss------ai_design-5",
-      "title": "The Designer in the Loop: Why Developers Embraced AI and Designers Didn't.",
+      "url": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Experience Design: Dropping the \"User\" from \"User Experience\"",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://generativeai.pub/generative-ui-explained-what-designers-still-control-37cab49f11ec?source=rss------ai_design-5",
-      "title": "Generative UI Explained: What Designers Still Control",
+      "url": "https://uxhassan.medium.com/how-to-make-vibe-coded-apps-look-designed-not-generated-0e4327767bc3?source=rss------ai_design-5",
+      "title": "How to Make Vibe-Coded Apps Look Designed, Not Generated",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@littelljacie/beyond-navigation-generative-ui-and-information-architecture-ef798ce583d8?source=rss------generative_ui-5",
-      "title": "Beyond Navigation: Generative UI and Information Architecture",
+      "url": "https://uxplanet.org/claude-5-5-model-mistakes-youre-still-making-a5d128a5338b?source=rss----819cc2aaeee0---4",
+      "title": "Claude 5.5 Model Mistakes You're Still Making",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://css-tricks.com/the-frankenstein-table/",
-      "title": "The Frankenstein Table",
+      "url": "https://www.texttocad.dev/",
+      "title": "Text-to-cad",
       "profile": "Design"
     }
   ]
