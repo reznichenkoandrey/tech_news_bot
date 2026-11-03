@@ -1,82 +1,136 @@
 {
-  "generated_at": "2026-11-02T08:08:52+00:00",
+  "generated_at": "2026-11-03T08:07:41+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://uxplanet.org/anthropic-just-revealed-3-new-rules-for-claude-skills-bf6d5ff66930?source=rss----819cc2aaeee0---4",
-      "title": "Anthropic Just Revealed 3 NEW Rules for Claude Skills",
-      "profile": "Design"
+      "url": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://medium.com/design-bootcamp/10-ui-ux-design-trends-for-2027-7958bbc434e4?source=rss------ai_design-5",
-      "title": "10 UI/UX design trends for 2027",
-      "profile": "Design"
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://medium.com/@muskaanaraidesigns/how-to-make-your-ui-not-look-ai-generated-a-real-before-and-after-ac8a7323b75b?source=rss------ai_design-5",
-      "title": "How to make your UI not look AI-generated (a real before and after)",
-      "profile": "Design"
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4",
-      "title": "When colors pass but palettes fail",
-      "profile": "Design"
+      "url": "https://openai.com/index/grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4",
-      "title": "How to design transparent AI cost controls",
-      "profile": "Design"
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "title": "Scaling Git at OpenAI",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be?source=rss----138adf9c44c---4",
-      "title": "Context is the new interface",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
-      "title": "Your design system was never about components",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "title": "Anthropic clamps down on Claude's AI video game clones",
+      "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.noemamag.com/now-entering-the-era-of-bleh/",
-      "title": "Now entering: The era of bleh",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html",
-      "title": "A select should tell you something",
-      "profile": "Design"
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://benji.org/stageshow",
-      "title": "Stageshow",
-      "profile": "Design"
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "title": "Transformers Model Integration Contracts",
+      "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.doc.cc/humankind/doubt",
-      "title": "Who owns the doubt?",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
+      "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://uxplanet.org/who-the-hell-gave-every-designer-a-microphone-a07e670d9df2?source=rss------ai_design-5",
-      "title": "Who the Hell Gave Every Designer a Microphone?",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+      "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+      "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4",
-      "title": "Samia Halaby and the Amiga 1000",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+      "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+      "title": "v0.40.14",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0",
+      "title": "v2.4.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://github.com/deepfounder-ai/desigma",
+      "title": "Desigma",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/",
+      "title": "How to hire junior engineers in the age of AI",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://www.chrbutler.com/faster-cheaper-better",
+      "title": "There will always be someone faster, cheaper, and better",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "title": "Fingerprints are the new cookies",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://jelly-ui.com/",
+      "title": "Jelly UI",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://css-tricks.com/whats-important-20/",
+      "title": "What's !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4",
+      "title": "Sparkle buttons, Autonomy by design, AI reckoning in UX, Figma with MCP",
       "profile": "Design"
     }
   ]
