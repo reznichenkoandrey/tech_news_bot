@@ -1,160 +1,40 @@
 {
-  "generated_at": "2026-11-04T08:08:04+00:00",
+  "generated_at": "2026-11-05T08:08:08+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/how-to-become-one-of-the-top-1-most-effective-claude-code-users-7c2ebe0c2afc?source=rss----819cc2aaeee0---4",
+      "title": "How to Become One of the Top 1% Most Effective Claude Code Users",
+      "profile": "Design"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "title": "Anthropic is working on a system to prove AI models' identity",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+      "title": "What AI has changed in Design Systems, and what is still up to us",
+      "profile": "Design"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "title": "Accelerating engineering for the physical world",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
+      "title": "AI can generate the interface. What makes it worth caring about?",
+      "profile": "Design"
     },
     {
       "n": 4,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4",
+      "title": "In a world of panic, calm and certainty win",
+      "profile": "Design"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/tech/1025745/apple-siri-ai-third-party-apps",
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "profile": "AI/Tech"
+      "url": "https://css-tricks.com/smashing-ai-conference/",
+      "title": "Smashing AI Conference",
+      "profile": "Design"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "title": "Netflix will show you themed recommendations through a new 'AI Discover' tab",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 7,
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "title": "Google is entirely disabling Search in schools that don't want AI",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 8,
-      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "title": "Apple's latest watchOS beta includes its new always-on Audio Intelligence features",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 9,
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 10,
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 12,
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "title": "Hiding inside Palantir's skyrocketing quarter is a foreboding signal",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.45.0",
-      "title": "v3.45.0",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0",
-      "title": "v0.40.15",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://uxplanet.org/6-tricks-to-level-up-claude-design-7ed86375be49?source=rss----819cc2aaeee0---4",
-      "title": "6 Tricks to Level Up Claude Design",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
-      "title": "Building an AI-ready design system library",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e?source=rss----138adf9c44c---4",
-      "title": "What I learned teaching AI prototyping at university",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://roadtrip.medium.com/your-agent-doesnt-need-more-data-it-needs-a-briefing-5453628be0b6?source=rss------ai_design-5",
-      "title": "Your Agent Doesn't Need More Data. It Needs a Briefing.",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxdesign.cc/everyone-is-building-ai-agents-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
-      "title": "Everyone is building AI agents. Who's designing the stop button?",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/i-let-ai-build-i-dont-let-ai-decide-b3892a87feb3?source=rss----138adf9c44c---4",
-      "title": "I let AI build. I don't let AI decide.",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981?source=rss----138adf9c44c---4",
-      "title": "Agents struggle with the same bad UX we do",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-      "title": "Modern CSS Might Make Your Front-End More Complex",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
-      "title": "Re-Implementing :nth-child() With Modern CSS",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://www.baselinedesign.com/posts/the-window-with-no-buttons",
-      "title": "The window with no buttons",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://paper.design/mono",
-      "title": "Paper Mono",
+      "url": "https://medium.com/@leylamenchola/no-faces-just-hands-guess-the-pianist-b4be3463ab65?source=rss------ai_design-5",
+      "title": "No Faces, Just Hands: Guess the Pianist",
       "profile": "Design"
     }
   ]
