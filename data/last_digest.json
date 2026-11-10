@@ -1,4 +1,155 @@
 {
-  "generated_at": "2026-11-08T08:06:23+00:00",
-  "items": []
+  "generated_at": "2026-11-10T08:07:39+00:00",
+  "items": [
+    {
+      "n": 1,
+      "url": "https://openai.com/index/control-room",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 2,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 3,
+      "url": "https://techcrunch.com/2026/11/10/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 4,
+      "url": "https://techcrunch.com/2026/11/10/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 5,
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 6,
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 7,
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 8,
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 9,
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "title": "Instagram's Effect Builder makes new filters from AI prompts",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 10,
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "title": "Medium's new TK app brings AI assistance directly into the writing process",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.7.0",
+      "title": "v2.7.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.49.0",
+      "title": "v3.49.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.48.0",
+      "title": "v3.48.0",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12245",
+      "title": "b12245: llama : apply the iGPU lazy-mode fallback only when mmap is off (#31957)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://uxplanet.org/claude-fable-5-2-for-ui-design-better-but-at-what-cost-81aeec4170f4?source=rss----819cc2aaeee0---4",
+      "title": "Claude Fable 5.2 for UI Design: Better, but at What Cost?",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://uxplanet.org/5-underrated-claude-code-tools-that-fix-its-biggest-problems-1b6007eddf4f?source=rss----819cc2aaeee0---4",
+      "title": "5 Underrated Claude Code Tools That Fix Its Biggest Problems",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://medium.com/@miryam.ychen/the-big-picture-the-context-layer-architecture-594e131b0a6f?source=rss------ai_design-5",
+      "title": "The Big Picture: The Context Layer Architecture",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://medium.com/@muskaanaraidesigns/can-ai-actually-build-a-good-design-system-i-tested-it-4846b27957c3?source=rss------ai_design-5",
+      "title": "Can AI actually build a good design system? I tested it.",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@chukreiev/you-cant-ai-your-way-out-of-bad-architecture-69dde0c2071f?source=rss------generative_ui-5",
+      "title": "You Can't AI Your Way Out of Bad Architecture",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
+      "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
+      "title": "Five pairs of hands: what the typesetters can teach designers about AI",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://css-tricks.com/css-tricks-version-20/",
+      "title": "CSS-Tricks, Version 20",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://tk.xyz/",
+      "title": "TK",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://www.davesresearch.com/product-strategy/?utm_source=tldrproduct",
+      "title": "What product strategy does",
+      "profile": "Design"
+    }
+  ]
 }
