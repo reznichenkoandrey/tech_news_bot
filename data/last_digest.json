@@ -1,154 +1,160 @@
 {
-  "generated_at": "2026-11-10T08:07:39+00:00",
+  "generated_at": "2026-11-11T08:08:07+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/control-room",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "title": "Gemini 4 Carbon is now available",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5",
+      "title": "Anthropic has its own AI-powered office suite now - The Verge",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/11/10/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlhCX21hbUtQSkR5SExrZVI2c09icmNlRkJ3bDlON3B1UUVpbkx2VnAwcXhzbzI5Z3lJUGlnUG1SUVFlczFUd0RHZG0wclNNNEp4MmgzZGtYVEJ4UDJrY3dJblRXMFFFOGI1T2VaZzFqWXRoMHVfTEctSE5wVEhLcVk5ZkdIRUpvMVAtZjV2NzMzTWxjUlVWRzRheDNQYTdCYWRUaA?oc=5",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/11/10/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "title": "Introducing Businesses in ChatGPT",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "title": "Disney and Adobe are building generative AI tools together",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12283",
+      "title": "b12283",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "title": "Instagram's Effect Builder makes new filters from AI prompts",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "title": "Medium's new TK app brings AI assistance directly into the writing process",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.7.0",
-      "title": "v2.7.0",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "title": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.49.0",
-      "title": "v3.49.0",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.48.0",
-      "title": "v3.48.0",
+      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "title": "Hands-on with Ring's new AI drone camera for your home",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12245",
-      "title": "b12245: llama : apply the iGPU lazy-mode fallback only when mmap is off (#31957)",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/claude-fable-5-2-for-ui-design-better-but-at-what-cost-81aeec4170f4?source=rss----819cc2aaeee0---4",
-      "title": "Claude Fable 5.2 for UI Design: Better, but at What Cost?",
-      "profile": "Design"
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.8.0",
+      "title": "v2.8.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/5-underrated-claude-code-tools-that-fix-its-biggest-problems-1b6007eddf4f?source=rss----819cc2aaeee0---4",
-      "title": "5 Underrated Claude Code Tools That Fix Its Biggest Problems",
-      "profile": "Design"
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
+      "title": "v0.40.17",
+      "profile": "AI/Tech"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@miryam.ychen/the-big-picture-the-context-layer-architecture-594e131b0a6f?source=rss------ai_design-5",
-      "title": "The Big Picture: The Context Layer Architecture",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "title": "The components of agent memory",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@muskaanaraidesigns/can-ai-actually-build-a-good-design-system-i-tested-it-4846b27957c3?source=rss------ai_design-5",
-      "title": "Can AI actually build a good design system? I tested it.",
+      "url": "https://uxplanet.org/can-claude-fable-5-2-replace-product-designers-8f0bd3554d12?source=rss----819cc2aaeee0---4",
+      "title": "Can Claude Fable 5.2 Replace Product Designers?",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@chukreiev/you-cant-ai-your-way-out-of-bad-architecture-69dde0c2071f?source=rss------generative_ui-5",
-      "title": "You Can't AI Your Way Out of Bad Architecture",
+      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+      "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
-      "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
+      "url": "https://medium.com/enterprise-experience-architecture/the-demo-passed-the-generative-ui-still-failed-8c8c13f0c46f?source=rss------generative_ui-5",
+      "title": "The Demo Passed. The Generative UI Still Failed.",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
-      "title": "Five pairs of hands: what the typesetters can teach designers about AI",
+      "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
+      "title": "Don't make a human do what AI is amazing at",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://css-tricks.com/css-tricks-version-20/",
-      "title": "CSS-Tricks, Version 20",
+      "url": "https://roadtrip.medium.com/the-gate-is-the-feature-6277cf852718?source=rss------ai_design-5",
+      "title": "The Gate Is the Feature",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://tk.xyz/",
-      "title": "TK",
+      "url": "https://craft.faire.com/how-we-integrated-liquid-glass-without-sacrificing-faires-brand-9bff93143c97?source=rss------ai_design-5",
+      "title": "How we integrated Liquid Glass without sacrificing Faire's brand",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://www.davesresearch.com/product-strategy/?utm_source=tldrproduct",
-      "title": "What product strategy does",
+      "url": "https://karolinaszczur.com/journal/translation-not-rebranding/",
+      "title": "There's no better name for design systems",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://linear.app/now/best-practices-large-workspaces-teams",
+      "title": "Best practices for large workspaces to structure teams in Linear",
       "profile": "Design"
     }
   ]
