@@ -1,160 +1,130 @@
 {
-  "generated_at": "2026-11-11T08:08:07+00:00",
+  "generated_at": "2026-11-12T08:07:33+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5",
-      "title": "Anthropic has its own AI-powered office suite now - The Verge",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "title": "OpenAI's quarterly revenue reportedly crosses $10B for the first time",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlhCX21hbUtQSkR5SExrZVI2c09icmNlRkJ3bDlON3B1UUVpbkx2VnAwcXhzbzI5Z3lJUGlnUG1SUVFlczFUd0RHZG0wclNNNEp4MmgzZGtYVEJ4UDJrY3dJblRXMFFFOGI1T2VaZzFqWXRoMHVfTEctSE5wVEhLcVk5ZkdIRUpvMVAtZjV2NzMzTWxjUlVWRzRheDNQYTdCYWRUaA?oc=5",
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "title": "With $720M round, Britain's Fractile gets a leg up in the race for AI chips",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "title": "Databricks' new AI agent tells CEO Ali Ghodsi the unvarnished truth",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "title": "Google's AlphaGenome 2 zooms in on the cellular roots of disease",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "title": "Adobe's AI experiments let you walk around in photos and interview your characters",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "title": "Google's Tabletop AI experiment lets you build custom collaboration apps",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12283",
-      "title": "b12283",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "title": "Meta is losing its longtime head of infrastructure",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12318",
+      "title": "b12318: CUDA: add cuda debug buffer pool (#31919)",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "title": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12317",
+      "title": "b12317",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12314",
+      "title": "b12314",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "title": "Hands-on with Ring's new AI drone camera for your home",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2",
+      "title": "v0.34.0rc2",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+      "title": "Can we talk about the ML research coming from China? [D]",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.8.0",
-      "title": "v2.8.0",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@matia4441298/generative-ui-doesnt-need-another-schema-it-needs-a-better-harness-a6d1952ead90?source=rss------generative_ui-5",
+      "title": "Generative UI Doesn't Need Another Schema — It Needs a Better Harness",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
-      "title": "v0.40.17",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@ansarijavid093/flutter-genui-sdk-stop-shipping-walls-of-text-81637cc38721?source=rss------generative_ui-5",
+      "title": "Flutter GenUI SDK: Stop Shipping Walls of Text",
+      "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "title": "The components of agent memory",
+      "url": "https://medium.com/@carina.alabanza/stop-designing-pages-start-designing-outcomes-dde78a88b71a?source=rss------generative_ui-5",
+      "title": "Stop Designing Pages. Start Designing Outcomes.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/can-claude-fable-5-2-replace-product-designers-8f0bd3554d12?source=rss----819cc2aaeee0---4",
-      "title": "Can Claude Fable 5.2 Replace Product Designers?",
+      "url": "https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4",
+      "title": "Why Nobody Is Talking About Claude Fable 5.2",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
-      "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "url": "https://uxplanet.org/want-to-create-animations-with-claude-code-try-these-5-github-repositories-8f5c5bb24908?source=rss----819cc2aaeee0---4",
+      "title": "Want to Create Animations with Claude Code? Try These 5 GitHub Repositories",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://medium.com/enterprise-experience-architecture/the-demo-passed-the-generative-ui-still-failed-8c8c13f0c46f?source=rss------generative_ui-5",
-      "title": "The Demo Passed. The Generative UI Still Failed.",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
-      "title": "Don't make a human do what AI is amazing at",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://roadtrip.medium.com/the-gate-is-the-feature-6277cf852718?source=rss------ai_design-5",
-      "title": "The Gate Is the Feature",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://craft.faire.com/how-we-integrated-liquid-glass-without-sacrificing-faires-brand-9bff93143c97?source=rss------ai_design-5",
-      "title": "How we integrated Liquid Glass without sacrificing Faire's brand",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://karolinaszczur.com/journal/translation-not-rebranding/",
-      "title": "There's no better name for design systems",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://linear.app/now/best-practices-large-workspaces-teams",
-      "title": "Best practices for large workspaces to structure teams in Linear",
+      "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
+      "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
       "profile": "Design"
     }
   ]
