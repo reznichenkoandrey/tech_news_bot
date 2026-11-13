@@ -1,130 +1,64 @@
 {
-  "generated_at": "2026-11-12T08:07:33+00:00",
+  "generated_at": "2026-11-13T08:08:34+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/anthropic-just-dropped-claude-whiteboard-sheets-and-data-a9a89b69a3d8?source=rss----819cc2aaeee0---4",
+      "title": "Anthropic Just Dropped Claude Whiteboard, Sheets and Data",
+      "profile": "Design"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "title": "OpenAI's quarterly revenue reportedly crosses $10B for the first time",
-      "profile": "AI/Tech"
+      "url": "https://linear.app/changelog/2026-11-12-bring-your-own-key",
+      "title": "Bring your own key (BYOK)",
+      "profile": "Design"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "title": "With $720M round, Britain's Fractile gets a leg up in the race for AI chips",
-      "profile": "AI/Tech"
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "profile": "Design"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "title": "Databricks' new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "profile": "AI/Tech"
+      "url": "https://agustinbarrientos.com/writing/senior-eye/interfaces-that-understand-what-we-want",
+      "title": "Building interfaces that understand what we want to do",
+      "profile": "Design"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "title": "Google's AlphaGenome 2 zooms in on the cellular roots of disease",
-      "profile": "AI/Tech"
+      "url": "https://haydenbleasel.com/taking-away",
+      "title": "By taking away",
+      "profile": "Design"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "title": "Adobe's AI experiments let you walk around in photos and interview your characters",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+      "title": "The AI mind tax that afflicts those who use AI best",
+      "profile": "Design"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "title": "Google's Tabletop AI experiment lets you build custom collaboration apps",
-      "profile": "AI/Tech"
+      "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+      "title": "AI is the new old design material",
+      "profile": "Design"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "profile": "AI/Tech"
+      "url": "https://medium.com/@rubycwu/when-ai-knows-what-i-want-before-i-do-9da041489975?source=rss------ai_design-5",
+      "title": "When AI knows what I want before I do",
+      "profile": "Design"
     },
     {
       "n": 9,
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "profile": "AI/Tech"
+      "url": "https://css-tricks.com/beyond-12-columns/",
+      "title": "Beyond 12 Columns: Designing Layouts With Personality",
+      "profile": "Design"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "title": "Meta is losing its longtime head of infrastructure",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12318",
-      "title": "b12318: CUDA: add cuda debug buffer pool (#31919)",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12317",
-      "title": "b12317",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 13,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12314",
-      "title": "b12314",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 14,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2",
-      "title": "v0.34.0rc2",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 15,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
-      "title": "Can we talk about the ML research coming from China? [D]",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 16,
-      "url": "https://medium.com/@matia4441298/generative-ui-doesnt-need-another-schema-it-needs-a-better-harness-a6d1952ead90?source=rss------generative_ui-5",
-      "title": "Generative UI Doesn't Need Another Schema — It Needs a Better Harness",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://medium.com/@ansarijavid093/flutter-genui-sdk-stop-shipping-walls-of-text-81637cc38721?source=rss------generative_ui-5",
-      "title": "Flutter GenUI SDK: Stop Shipping Walls of Text",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://medium.com/@carina.alabanza/stop-designing-pages-start-designing-outcomes-dde78a88b71a?source=rss------generative_ui-5",
-      "title": "Stop Designing Pages. Start Designing Outcomes.",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4",
-      "title": "Why Nobody Is Talking About Claude Fable 5.2",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxplanet.org/want-to-create-animations-with-claude-code-try-these-5-github-repositories-8f5c5bb24908?source=rss----819cc2aaeee0---4",
-      "title": "Want to Create Animations with Claude Code? Try These 5 GitHub Repositories",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
-      "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
+      "url": "https://mattstromawn.com/writing/design-is-a-search-problem/",
+      "title": "Design is a search problem",
       "profile": "Design"
     }
   ]
