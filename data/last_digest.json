@@ -1,64 +1,154 @@
 {
-  "generated_at": "2026-11-13T08:08:34+00:00",
+  "generated_at": "2026-11-14T08:07:55+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://uxplanet.org/anthropic-just-dropped-claude-whiteboard-sheets-and-data-a9a89b69a3d8?source=rss----819cc2aaeee0---4",
-      "title": "Anthropic Just Dropped Claude Whiteboard, Sheets and Data",
-      "profile": "Design"
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://linear.app/changelog/2026-11-12-bring-your-own-key",
-      "title": "Bring your own key (BYOK)",
-      "profile": "Design"
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://agustinbarrientos.com/writing/senior-eye/interfaces-that-understand-what-we-want",
-      "title": "Building interfaces that understand what we want to do",
-      "profile": "Design"
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.23.0",
+      "title": "Release v5.23.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://haydenbleasel.com/taking-away",
-      "title": "By taking away",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "title": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
-      "title": "The AI mind tax that afflicts those who use AI best",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+      "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
-      "title": "AI is the new old design material",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+      "title": "llama.cpp v1.0 is here 🦙",
+      "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://medium.com/@rubycwu/when-ai-knows-what-i-want-before-i-do-9da041489975?source=rss------ai_design-5",
-      "title": "When AI knows what I want before I do",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+      "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+      "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://css-tricks.com/beyond-12-columns/",
-      "title": "Beyond 12 Columns: Designing Layouts With Personality",
-      "profile": "Design"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
+      "title": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+      "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://mattstromawn.com/writing/design-is-a-search-problem/",
-      "title": "Design is a search problem",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/",
+      "title": "I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
+      "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/",
+      "title": "salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 13,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/",
+      "title": "KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 14,
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 15,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvihou/vellium_195_visual_novels_that_actually_work_on_a/",
+      "title": "Vellium 1.9.5: visual novels that actually work on a 12B local model",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 16,
+      "url": "https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4",
+      "title": "Claude Fable 5.2 Official Prompting Guide",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Journey Mapping 101",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
+      "title": "The crooked plate that felt more human than the algorithm",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
+      "title": "Schrödinger's Huang: Nvidia could not be everything to everybody",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://medium.com/@mayurkalita1/every-design-decision-is-a-trade-how-product-designers-choose-what-to-give-up-62d8851598f2?source=rss------ai_ux-5",
+      "title": "Every Design Decision Is a Trade: How Product Designers Choose What to Give Up",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://www.designsystemscollective.com/piloter-et-collaborer-sur-un-design-system-avec-une-ia-b959ab3eb573?source=rss------ai_design-5",
+      "title": "Piloter et collaborer sur un design system avec une IA",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://medium.com/@bedrockry/how-to-design-a-business-flyer-with-ai-ebdb0701a3fb?source=rss------ai_design-5",
+      "title": "How To Design A Business Flyer With AI",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://css-tricks.com/2027-front-end-black-friday-deals/",
+      "title": "10 Big Ol' 2027 Black Friday Deals",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
+      "title": "Decision theatre or decision design?",
       "profile": "Design"
     }
   ]
