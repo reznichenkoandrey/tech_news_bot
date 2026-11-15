@@ -1,154 +1,100 @@
 {
-  "generated_at": "2026-11-14T08:07:55+00:00",
+  "generated_at": "2026-11-15T08:07:42+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "title": "Where was Nvidia's security team?",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "title": "Introducing ChatGPT Wallet",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang's exit",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.23.0",
-      "title": "Release v5.23.0",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "title": "The OpenAI board member who fired Sam Altman says we still can't trust AI CEOs",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "title": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFM5cnNsaGNIMzZfVDNWZ19qWUg3c0UtNVZLdUdMbzc4ZS1uTGJ0VnN2dFItbVV5Q0VCMno4RGxNV05nQWd3ZDhlaVFIT3JZS0JMVFpMaUR0VlR5TGFROXpZMGwxUXBYdE9YUmtpZlZ5RVVSX0VYN1EzR2RTWW1UX0FGWHFxZVB0OUNvcEpPdDdvRUJMazNjdVRkM1RIdzA?oc=5",
+      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
-      "title": "llama.cpp v1.0 is here 🦙",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKejNmMEZTMkpxNnRzMnlsSDloc0YyQktVM0IwUFBSeGpadmZ6UERsNnhwQi1FdVNZcFZ4Z1Vtd1RDQjViaUFjM2h6dmc0bjRTWG1XUlA2U2tCRWxNUXhOUll5c1hVanA5bUlqbXZCb3doV3E2?oc=5",
+      "title": "Anthropic wants you to build on Claude. There's a catch.",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
-      "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/",
+      "title": "Hot take: frontier models haven't actually become much smarter",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
-      "title": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/",
+      "title": "Finally clicked for me: local AI is the future, not cloud AI",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/",
-      "title": "I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/",
+      "title": "RASA will cause total chaos to open LLMs and beyond",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
-      "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/",
+      "title": "LFM2.5-24B-A2B + Hermes is awesome!",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/",
-      "title": "salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/",
+      "title": "tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/",
-      "title": "KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/",
+      "title": "IBM trains two small open models to ignore orders hidden in documents",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
+      "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvihou/vellium_195_visual_novels_that_actually_work_on_a/",
-      "title": "Vellium 1.9.5: visual novels that actually work on a 12B local model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/",
+      "title": "nex-agi/Nex-N2.6 · Hugging Face",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4",
-      "title": "Claude Fable 5.2 Official Prompting Guide",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Journey Mapping 101",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
-      "title": "The crooked plate that felt more human than the algorithm",
-      "profile": "Design"
-    },
-    {
-      "n": 20,
-      "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
-      "title": "Schrödinger's Huang: Nvidia could not be everything to everybody",
-      "profile": "Design"
-    },
-    {
-      "n": 21,
-      "url": "https://medium.com/@mayurkalita1/every-design-decision-is-a-trade-how-product-designers-choose-what-to-give-up-62d8851598f2?source=rss------ai_ux-5",
-      "title": "Every Design Decision Is a Trade: How Product Designers Choose What to Give Up",
-      "profile": "Design"
-    },
-    {
-      "n": 22,
-      "url": "https://www.designsystemscollective.com/piloter-et-collaborer-sur-un-design-system-avec-une-ia-b959ab3eb573?source=rss------ai_design-5",
-      "title": "Piloter et collaborer sur un design system avec une IA",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://medium.com/@bedrockry/how-to-design-a-business-flyer-with-ai-ebdb0701a3fb?source=rss------ai_design-5",
-      "title": "How To Design A Business Flyer With AI",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://css-tricks.com/2027-front-end-black-friday-deals/",
-      "title": "10 Big Ol' 2027 Black Friday Deals",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
-      "title": "Decision theatre or decision design?",
+      "url": "https://medium.com/@pixeldojo/qwen-image-2-1-exact-type-at-native-2k-on-pixeldojo-2c3c39f5f84f?source=rss------ai_design-5",
+      "title": "Qwen Image 2.1: exact type at native 2K on PixelDojo",
       "profile": "Design"
     }
   ]
