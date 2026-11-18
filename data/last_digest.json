@@ -1,142 +1,136 @@
 {
-  "generated_at": "2026-11-17T08:07:21+00:00",
+  "generated_at": "2026-11-18T08:07:46+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Introducing GPT-6.2 Astra and Sol",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
-      "title": "v0.34.0",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmszbVZ1SUxDZmp2RFdENXZ2TlozWDgyeXpSQU11ZlVoRGRsdXRzNFk5eHoxRFRYUFdpMG9UZE9MYm9sZmlBRmdmRzcwTEdLOWFhdWJScVgxOEhSSHJ6cEtrY09sMFVOdWttTnloNGdzM1dESEt6eWptN3hna1loVUFPbzNiRXUxZ1lRRVFES19zSkUyQ0lkWFRJcng5N290STZCRVBCcUd0eVdzUDhReDlR?oc=5",
+      "title": "Anthropic Said to Guide IPO Price to Top of Range or Above",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "title": "Broadening access to AI for scientists",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "title": "Google's Spark AI agent becomes 'Tasks' — and now it's free",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "title": "US data centers now burn more electricity than a midsized country",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "title": "Proton's Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-      "title": "Google Maps can now create trip itineraries for you",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it's a game",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-      "title": "Audible is trying to make it easier to find audiobooks you'll actually like",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.9.0",
-      "title": "v2.9.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
+      "title": "v3.53.0",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.52.0",
-      "title": "v3.52.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0",
+      "title": "v2.10.0",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/",
-      "title": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "profile": "AI/Tech"
+      "url": "https://roadtrip.medium.com/the-agents-are-in-the-org-chart-isnt-dddd7e537bc3?source=rss------ai_design-5",
+      "title": "The Agents Are In. The Org Chart Isn't.",
+      "profile": "Design"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/anthropic-just-released-new-rules-of-claude-code-d3adc96d4867?source=rss----819cc2aaeee0---4",
+      "title": "Anthropic Just Released New Rules of Claude Code",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "title": "Nvidia's board is reportedly 'not considering' hiring Jensen Huang back",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/jev-can-10x-your-claude-code-ddb5752a5db2?source=rss----819cc2aaeee0---4",
+      "title": "Jev can 10x your Claude Code",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://uxplanet.org/anthropic-just-launched-claude-data-7095bbe77805?source=rss----819cc2aaeee0---4",
-      "title": "Anthropic Just Launched Claude DATA",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "title": "Meet AI 2027 Conference (Dec 1)",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://medium.com/@joshmahoney/the-paradox-of-the-ai-designer-21a738f51224?source=rss------ai_design-5",
-      "title": "The Paradox of the AI Designer",
+      "url": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents/",
+      "title": "Design writing: working with AI agents",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
-      "title": "Staggering Scroll-Driven Animations with animation-range-start",
+      "url": "https://research.nvidia.com/labs/sil/projects/birddreams/",
+      "title": "Bird Dreams",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxplanet.org/information-visualization-6-essential-rules-every-designer-should-know-b1a13ddd4b66?source=rss----819cc2aaeee0---4",
-      "title": "Information Visualization: 6 Essential Rules Every Designer Should Know",
+      "url": "https://yatil.net/blog/band-aid-accessibility",
+      "title": "Band-aid accessibility",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://medium.com/@giorgio.galassi/a2ui-in-angular-your-zod-catalog-is-the-trust-boundary-%EF%B8%8F-922a133328a8?source=rss------generative_ui-5",
-      "title": "A2UI in Angular: Your Zod Catalog Is the Trust Boundary ️",
+      "url": "https://shieldfont.org/",
+      "title": "Shield Font",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4",
-      "title": "Why bother paying for software anymore?",
+      "url": "https://www.human-md.ai/",
+      "title": "HUMAN.md",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4",
-      "title": "UI edge cases: A reference guide",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
-      "title": "The trash robot that doesn't pick up, but hands out",
+      "url": "https://cihanbuyukakkas.medium.com/did-ai-kill-the-waffle-shop-82dad7f7424a?source=rss------ai_design-5",
+      "title": "Did AI Kill the Waffle Shop?",
       "profile": "Design"
     }
   ]
