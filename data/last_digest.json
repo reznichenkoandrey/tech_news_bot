@@ -1,136 +1,160 @@
 {
-  "generated_at": "2026-11-18T08:07:46+00:00",
+  "generated_at": "2026-11-19T08:07:14+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "title": "Introducing Gemini 4 Neon",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmszbVZ1SUxDZmp2RFdENXZ2TlozWDgyeXpSQU11ZlVoRGRsdXRzNFk5eHoxRFRYUFdpMG9UZE9MYm9sZmlBRmdmRzcwTEdLOWFhdWJScVgxOEhSSHJ6cEtrY09sMFVOdWttTnloNGdzM1dESEt6eWptN3hna1loVUFPbzNiRXUxZ1lRRVFES19zSkUyQ0lkWFRJcng5N290STZCRVBCcUd0eVdzUDhReDlR?oc=5",
-      "title": "Anthropic Said to Guide IPO Price to Top of Range or Above",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "title": "Genie 4 is now available",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "title": "Google's Spark AI agent becomes 'Tasks' — and now it's free",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "title": "The nation's largest school districts consider ditching Google Search",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "title": "Proton's Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "title": "Remember the frontier AI pause? Chip companies don't either",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it's a game",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "title": "What is Nvidia without AI's sugar daddy in charge?",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "title": "Suno now lets you make AI videos for your AI music",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
-      "title": "v3.53.0",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0",
-      "title": "v2.10.0",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "title": "Google's AI feature in Search gets its own incognito mode",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://roadtrip.medium.com/the-agents-are-in-the-org-chart-isnt-dddd7e537bc3?source=rss------ai_design-5",
-      "title": "The Agents Are In. The Org Chart Isn't.",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://uxplanet.org/anthropic-just-released-new-rules-of-claude-code-d3adc96d4867?source=rss----819cc2aaeee0---4",
-      "title": "Anthropic Just Released New Rules of Claude Code",
-      "profile": "Design"
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxplanet.org/jev-can-10x-your-claude-code-ddb5752a5db2?source=rss----819cc2aaeee0---4",
-      "title": "Jev can 10x your Claude Code",
-      "profile": "Design"
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-      "title": "Meet AI 2027 Conference (Dec 1)",
-      "profile": "Design"
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.55.1",
+      "title": "openai-python v3.55.1",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents/",
-      "title": "Design writing: working with AI agents",
+      "url": "https://uxplanet.org/gpt-6-2-astra-for-ui-design-5960175a77e7?source=rss----819cc2aaeee0---4",
+      "title": "GPT-6.2 Astra for UI Design",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://research.nvidia.com/labs/sil/projects/birddreams/",
-      "title": "Bird Dreams",
+      "url": "https://uxplanet.org/claude-md-new-best-practices-c48a1dbd5d5d?source=rss----819cc2aaeee0---4",
+      "title": "CLAUDE.md NEW Best Practices",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://yatil.net/blog/band-aid-accessibility",
-      "title": "Band-aid accessibility",
+      "url": "https://medium.com/@sebastianbalderas/generative-ui-is-a-trust-dial-not-a-feature-08f82b37b727?source=rss------generative_ui-5",
+      "title": "Generative UI is a trust dial, not a feature",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://shieldfont.org/",
-      "title": "Shield Font",
+      "url": "https://medium.com/illumination/what-is-generative-ui-a-plain-definition-with-5-real-examples-b9496805b4e4?source=rss------generative_ui-5",
+      "title": "What Is Generative UI? A Plain Definition With 5 Real Examples",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://www.human-md.ai/",
-      "title": "HUMAN.md",
+      "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
+      "title": "Too Claudified",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://cihanbuyukakkas.medium.com/did-ai-kill-the-waffle-shop-82dad7f7424a?source=rss------ai_design-5",
-      "title": "Did AI Kill the Waffle Shop?",
+      "url": "https://css-tricks.com/when-everything-has-changed/",
+      "title": "When Everything Has Changed, What Do We Do Next?",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
+      "title": "If AI works from anywhere, why are we commuting to watch it?",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://medium.com/@lzynb1461648018/a-villa-rendering-is-more-than-a-polished-picture-of-an-expensive-home-56c9d721dbf7?source=rss------ai_design-5",
+      "title": "A villa rendering is more than a polished picture of an expensive home.",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/@lzynb1461648018/how-to-create-better-office-renderings-four-decisions-to-make-before-you-generate-an-image-0c87bdb771c7?source=rss------ai_design-5",
+      "title": "How to Create Better Office Renderings: Four Decisions to Make Before You Generate an Image",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://justyna-belkevic.medium.com/what-did-the-ai-summary-leave-out-13cf9f6883e7?source=rss------ai_design-5",
+      "title": "What did the AI summary leave out?",
       "profile": "Design"
     }
   ]
