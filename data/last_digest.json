@@ -1,160 +1,190 @@
 {
-  "generated_at": "2026-11-19T08:07:14+00:00",
+  "generated_at": "2026-11-20T08:08:24+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "title": "Introducing Gemini 4 Neon",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14U2NHa0M5c3U5aU1rSFlveXQ5SU04X0Jjb29RdVBJeXJ4OVQzRl9zVkMzNVN6SVJZREJYOVJycWVia2hlamstS3FGbDZnY293TTZTUnZGSVJBY1IyUlhWejUwZUp2c3lVbFJsZVFabVMxMDhtNUHSAXtBVV95cUxPYjZZVENYd3lLenZiVHE3azkwQXo1ejJvU2doaVMtSThZckRKTTNCU1pPdXJUWGdhRDdCaTNaczRTanF1VUczcUt3THIteXB3VFdkM0JzSUJfZ3UzNVpRQi1NSS1SajdaMkxwdk1nanhCaFdJZ3VzUGxhSUE?oc=5",
+      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI - CNBC",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "title": "Genie 4 is now available",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "title": "Anthropic starts trading on Wall Street",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
-      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "title": "With the biggest IPO of all time, Anthropic's 'good guy' reputation is on the line",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "title": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "title": "The nation's largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "title": "Apple is hiring engineers to build its own AI agent",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/11/18/nvidia-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "title": "Gemini on Mac can now use your computer",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "title": "Remember the frontier AI pause? Chip companies don't either",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "title": "Google gives Gemini the ability to use your Mac for you",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "title": "What is Nvidia without AI's sugar daddy in charge?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "title": "Google is putting AI chats right on the homepage",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "title": "Meta's Muse Charm might cost $300",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "title": "Meta's new Muse Charm device may cost $300",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "title": "Google's AI feature in Search gets its own incognito mode",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "title": "I let Apple's always-listening AI summarize my life for two weeks",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "title": "Canva adds an AI 'off' button",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "title": "Anthropic's IPO could deliver $156B to charity",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "title": "Superhuman pushes its Go assistant everywhere",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.55.1",
-      "title": "openai-python v3.55.1",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0",
+      "title": "v2.11.0",
       "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://uxplanet.org/gpt-6-2-astra-for-ui-design-5960175a77e7?source=rss----819cc2aaeee0---4",
-      "title": "GPT-6.2 Astra for UI Design",
-      "profile": "Design"
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.57.0",
+      "title": "v3.57.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 18,
-      "url": "https://uxplanet.org/claude-md-new-best-practices-c48a1dbd5d5d?source=rss----819cc2aaeee0---4",
-      "title": "CLAUDE.md NEW Best Practices",
-      "profile": "Design"
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.56.0",
+      "title": "v3.56.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 19,
-      "url": "https://medium.com/@sebastianbalderas/generative-ui-is-a-trust-dial-not-a-feature-08f82b37b727?source=rss------generative_ui-5",
-      "title": "Generative UI is a trust dial, not a feature",
-      "profile": "Design"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "title": "A brief history of Nvidia's recent stock fluctuations",
+      "profile": "AI/Tech"
     },
     {
       "n": 20,
-      "url": "https://medium.com/illumination/what-is-generative-ui-a-plain-definition-with-5-real-examples-b9496805b4e4?source=rss------generative_ui-5",
-      "title": "What Is Generative UI? A Plain Definition With 5 Real Examples",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "profile": "AI/Tech"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
-      "title": "Too Claudified",
-      "profile": "Design"
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "profile": "AI/Tech"
     },
     {
       "n": 22,
-      "url": "https://css-tricks.com/when-everything-has-changed/",
-      "title": "When Everything Has Changed, What Do We Do Next?",
+      "url": "https://mdjamilkashemporosh.medium.com/ag-ui-the-protocol-that-connects-ai-agents-to-user-interfaces-8500efc2797e?source=rss------generative_ui-5",
+      "title": "AG-UI: The Protocol That Connects AI Agents to User Interfaces",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
-      "title": "If AI works from anywhere, why are we commuting to watch it?",
+      "url": "https://generativeai.pub/designed-tools-not-an-api-mirror-21-mcp-tools-in-about-9-700-tokens-dcc0bbcf549a?source=rss------ai_design-5",
+      "title": "Designed tools, not an API mirror: 21 MCP tools in about 9,700 tokens",
       "profile": "Design"
     },
     {
       "n": 24,
-      "url": "https://medium.com/@lzynb1461648018/a-villa-rendering-is-more-than-a-polished-picture-of-an-expensive-home-56c9d721dbf7?source=rss------ai_design-5",
-      "title": "A villa rendering is more than a polished picture of an expensive home.",
+      "url": "https://uxplanet.org/how-to-use-claude-code-effectively-and-save-tokens-d0368bc72a18?source=rss----819cc2aaeee0---4",
+      "title": "How to Use Claude Code Effectively and Save Tokens",
       "profile": "Design"
     },
     {
       "n": 25,
-      "url": "https://medium.com/@lzynb1461648018/how-to-create-better-office-renderings-four-decisions-to-make-before-you-generate-an-image-0c87bdb771c7?source=rss------ai_design-5",
-      "title": "How to Create Better Office Renderings: Four Decisions to Make Before You Generate an Image",
+      "url": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
+      "title": "Making a website in 2026",
       "profile": "Design"
     },
     {
       "n": 26,
-      "url": "https://justyna-belkevic.medium.com/what-did-the-ai-summary-leave-out-13cf9f6883e7?source=rss------ai_design-5",
-      "title": "What did the AI summary leave out?",
+      "url": "https://css-tricks.com/almanac/functions/s/scroll-state/",
+      "title": "scroll-state()",
+      "profile": "Design"
+    },
+    {
+      "n": 27,
+      "url": "https://jespervos.com/craft/squircles",
+      "title": "Squircles",
+      "profile": "Design"
+    },
+    {
+      "n": 28,
+      "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+      "title": "'AI' might be the end of our careers",
+      "profile": "Design"
+    },
+    {
+      "n": 29,
+      "url": "https://deimos.evilrabbit.com/",
+      "title": "Design Zeitgeist",
+      "profile": "Design"
+    },
+    {
+      "n": 30,
+      "url": "https://exactitudes.com/collectie/",
+      "title": "Exactitudes",
+      "profile": "Design"
+    },
+    {
+      "n": 31,
+      "url": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4",
+      "title": "Everyone's got the tools. Not everyone's got the tricks.",
       "profile": "Design"
     }
   ]
