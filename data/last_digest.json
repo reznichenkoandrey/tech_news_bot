@@ -1,190 +1,118 @@
 {
-  "generated_at": "2026-11-20T08:08:24+00:00",
+  "generated_at": "2026-11-21T08:07:05+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14U2NHa0M5c3U5aU1rSFlveXQ5SU04X0Jjb29RdVBJeXJ4OVQzRl9zVkMzNVN6SVJZREJYOVJycWVia2hlamstS3FGbDZnY293TTZTUnZGSVJBY1IyUlhWejUwZUp2c3lVbFJsZVFabVMxMDhtNUHSAXtBVV95cUxPYjZZVENYd3lLenZiVHE3azkwQXo1ejJvU2doaVMtSThZckRKTTNCU1pPdXJUWGdhRDdCaTNaczRTanF1VUczcUt3THIteXB3VFdkM0JzSUJfZ3UzNVpRQi1NSS1SajdaMkxwdk1nanhCaFdJZ3VzUGxhSUE?oc=5",
-      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI - CNBC",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "title": "Anthropic starts trading on Wall Street",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "title": "With the biggest IPO of all time, Anthropic's 'good guy' reputation is on the line",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "title": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "title": "Trump threatens 'tremendous tax' for moving AI data centers outside the US",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "title": "Gemini on Mac can now use your computer",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
+      "title": "v0.40.17",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0",
+      "title": "v2.12.0",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12603",
+      "title": "b12603",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12600",
+      "title": "b12600",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "title": "Meta's Muse Charm might cost $300",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12591",
+      "title": "b12591",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "title": "Meta's new Muse Charm device may cost $300",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "profile": "Design"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "title": "I let Apple's always-listening AI summarize my life for two weeks",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4",
+      "title": "This Experimental Feature Is Claude Code's BIGGEST Recent Improvement",
+      "profile": "Design"
     },
     {
       "n": 13,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "title": "Canva adds an AI 'off' button",
-      "profile": "AI/Tech"
+      "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Qualitative User-Research Methods: An Overview",
+      "profile": "Design"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "title": "Anthropic's IPO could deliver $156B to charity",
-      "profile": "AI/Tech"
+      "url": "https://itsmeduncan.com/2026/11/17/only-the-human-merges/",
+      "title": "Only the human merges",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "profile": "AI/Tech"
+      "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+      "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0",
-      "title": "v2.11.0",
-      "profile": "AI/Tech"
+      "url": "https://tcosta.com/impermanence/",
+      "title": "Impermanence",
+      "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.57.0",
-      "title": "v3.57.0",
-      "profile": "AI/Tech"
+      "url": "https://www.thehowpage.com/economics/billionaire-wealth",
+      "title": "How rich is a billionaire, really?",
+      "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.56.0",
-      "title": "v3.56.0",
-      "profile": "AI/Tech"
+      "url": "https://justinjay.wang/in-making-things-we-make-ourselves/",
+      "title": "In making things, we make ourselves",
+      "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "title": "A brief history of Nvidia's recent stock fluctuations",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 20,
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 21,
-      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "profile": "AI/Tech"
-    },
-    {
-      "n": 22,
-      "url": "https://mdjamilkashemporosh.medium.com/ag-ui-the-protocol-that-connects-ai-agents-to-user-interfaces-8500efc2797e?source=rss------generative_ui-5",
-      "title": "AG-UI: The Protocol That Connects AI Agents to User Interfaces",
-      "profile": "Design"
-    },
-    {
-      "n": 23,
-      "url": "https://generativeai.pub/designed-tools-not-an-api-mirror-21-mcp-tools-in-about-9-700-tokens-dcc0bbcf549a?source=rss------ai_design-5",
-      "title": "Designed tools, not an API mirror: 21 MCP tools in about 9,700 tokens",
-      "profile": "Design"
-    },
-    {
-      "n": 24,
-      "url": "https://uxplanet.org/how-to-use-claude-code-effectively-and-save-tokens-d0368bc72a18?source=rss----819cc2aaeee0---4",
-      "title": "How to Use Claude Code Effectively and Save Tokens",
-      "profile": "Design"
-    },
-    {
-      "n": 25,
-      "url": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
-      "title": "Making a website in 2026",
-      "profile": "Design"
-    },
-    {
-      "n": 26,
-      "url": "https://css-tricks.com/almanac/functions/s/scroll-state/",
-      "title": "scroll-state()",
-      "profile": "Design"
-    },
-    {
-      "n": 27,
-      "url": "https://jespervos.com/craft/squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
       "title": "Squircles",
-      "profile": "Design"
-    },
-    {
-      "n": 28,
-      "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
-      "title": "'AI' might be the end of our careers",
-      "profile": "Design"
-    },
-    {
-      "n": 29,
-      "url": "https://deimos.evilrabbit.com/",
-      "title": "Design Zeitgeist",
-      "profile": "Design"
-    },
-    {
-      "n": 30,
-      "url": "https://exactitudes.com/collectie/",
-      "title": "Exactitudes",
-      "profile": "Design"
-    },
-    {
-      "n": 31,
-      "url": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4",
-      "title": "Everyone's got the tools. Not everyone's got the tricks.",
       "profile": "Design"
     }
   ]
