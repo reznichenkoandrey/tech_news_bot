@@ -1,118 +1,100 @@
 {
-  "generated_at": "2026-11-21T08:07:05+00:00",
+  "generated_at": "2026-11-22T08:07:40+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "title": "Combatting adversarial distillation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
+      "title": "Two groups verify mathematician's claim that Claude helped prove mathematics problem - The Guardian",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU?oc=5",
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft - The Decoder",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
+      "title": "Anthropic's record IPO collides with tech's worst week on Wall Street since 2020 - CNBC",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnA1cXB0NjhBTjNiX0FZT1UxUl9lZVpLSmlhWUZLMDRyMkkwazFrdmswZkpvNC1CdDVBYjIxU085UUhNUW0wT2xJcTE5Snk5WlduUmQtU1RPY0t4MDFFeHg5UndKVHBnZkYwNUJWMjROZGlqU19fN1lDQ09WUUZGZzgtNDh2Q3J0aU9TaU1ENm1iaURVYUE?oc=5",
+      "title": "Anthropic's Debut Shows the Disconnect Between Wall Street and Silicon Valley - The New York Times",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "title": "Trump threatens 'tremendous tax' for moving AI data centers outside the US",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
+      "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
-      "title": "v0.40.17",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "title": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0",
-      "title": "v2.12.0",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "title": "A tale of two Nvidias",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12603",
-      "title": "b12603",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "title": "The UN fails to agree on rules regulating 'killer robots'",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12600",
-      "title": "b12600",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "title": "Can Anthropic afford to put safety first?",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12591",
-      "title": "b12591",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "title": "Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Can AI Generate Good Designs from Raw User Data?",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4",
-      "title": "This Experimental Feature Is Claude Code's BIGGEST Recent Improvement",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Qualitative User-Research Methods: An Overview",
-      "profile": "Design"
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0",
+      "title": "Release v5.24.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://itsmeduncan.com/2026/11/17/only-the-human-merges/",
-      "title": "Only the human merges",
+      "url": "https://medium.com/@adriameira/vibe-coding-a-mini-app-for-my-cousins-f81551503772?source=rss------ai_design-5",
+      "title": "Vibe coding a mini app for my cousins",
       "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
-      "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+      "url": "https://medium.com/@leylamenchola/just-because-you-can-build-it-doesnt-mean-you-should-adfd2e93464f?source=rss------ai_design-5",
+      "title": "Just because you can build it, doesn't mean you should",
       "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://tcosta.com/impermanence/",
-      "title": "Impermanence",
-      "profile": "Design"
-    },
-    {
-      "n": 17,
-      "url": "https://www.thehowpage.com/economics/billionaire-wealth",
-      "title": "How rich is a billionaire, really?",
-      "profile": "Design"
-    },
-    {
-      "n": 18,
-      "url": "https://justinjay.wang/in-making-things-we-make-ourselves/",
-      "title": "In making things, we make ourselves",
-      "profile": "Design"
-    },
-    {
-      "n": 19,
-      "url": "https://linebender.org/wiki/curves/squircle/",
-      "title": "Squircles",
+      "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4",
+      "title": "The judge used to be the user",
       "profile": "Design"
     }
   ]
