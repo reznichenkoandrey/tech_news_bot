@@ -1,100 +1,136 @@
 {
-  "generated_at": "2026-11-22T08:07:40+00:00",
+  "generated_at": "2026-11-23T08:07:40+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
-      "title": "Two groups verify mathematician's claim that Claude helped prove mathematics problem - The Guardian",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12650",
+      "title": "b12650",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU?oc=5",
-      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft - The Decoder",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12649",
+      "title": "b12649",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
-      "title": "Anthropic's record IPO collides with tech's worst week on Wall Street since 2020 - CNBC",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12648",
+      "title": "b12648",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnA1cXB0NjhBTjNiX0FZT1UxUl9lZVpLSmlhWUZLMDRyMkkwazFrdmswZkpvNC1CdDVBYjIxU085UUhNUW0wT2xJcTE5Snk5WlduUmQtU1RPY0t4MDFFeHg5UndKVHBnZkYwNUJWMjROZGlqU19fN1lDQ09WUUZGZzgtNDh2Q3J0aU9TaU1ENm1iaURVYUE?oc=5",
-      "title": "Anthropic's Debut Shows the Disconnect Between Wall Street and Silicon Valley - The New York Times",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12647",
+      "title": "b12647",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
-      "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12646",
+      "title": "b12646",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "title": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12645",
+      "title": "b12645",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "title": "A tale of two Nvidias",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12644",
+      "title": "b12644",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "title": "The UN fails to agree on rules regulating 'killer robots'",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12643",
+      "title": "b12643",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12642",
+      "title": "b12642",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "title": "Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12641",
+      "title": "b12641",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnR2ZHFUdUI0V2JJUDJzaWwwbzBUbEZra3FjcXd3MjlQNTRXSHMyN0RxRjgzekFQbV9kaWNDaE15bjRrRjRTdEN2Mzlsd1cyOWJweU9FTVpPcEZkMDhyU3A5V21nWFREVzZlQktqTk12RkU?oc=5",
+      "title": "Anthropic mathematician Levent Alpöge says Claude helped prove the Riemann hypothesis, verification pending",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY3lXYWhjdlk4eFo5OEllXzdkTDhnYWowOUFSZlNLakdEdXoxeG8xZTZjcWVMYWxxVTJCdEUycHZBdjhyMy1UUU9tcU9lMlFIb0t3cG85X1hNSWJLaGxnNEtSbVkyak0xLTJQVmNjSmwtQW80NVdGWU9sUmh0TGJhdWFLOTFRM1BONnZSOFE2YXpDREpxN2RIdnU0WXBGOTNtZ1dwNUVnTHpCOHdfU3VfVlRSVklsZ096TzBLNFlzUnFQVjJ3c0lJNHl3U0d0cGNPWkFYQTdfV01tRlZqYUJ2aHFGNXQwVlhX?oc=5",
+      "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0",
-      "title": "Release v5.24.0",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://medium.com/@adriameira/vibe-coding-a-mini-app-for-my-cousins-f81551503772?source=rss------ai_design-5",
-      "title": "Vibe coding a mini app for my cousins",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://medium.com/@leylamenchola/just-because-you-can-build-it-doesnt-mean-you-should-adfd2e93464f?source=rss------ai_design-5",
-      "title": "Just because you can build it, doesn't mean you should",
-      "profile": "Design"
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4",
-      "title": "The judge used to be the user",
+      "url": "https://aiadvances.org/google-wants-to-kill-the-chatbot-reply-a2ui-1-0-explained-424b014a77c7?source=rss------generative_ui-5",
+      "title": "Google Wants to Kill the Chatbot Reply: A2UI 1.0, Explained",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://mdjamilkashemporosh.medium.com/a2a-explained-how-ai-agents-finally-learned-to-talk-to-each-other-78e1db3943bb?source=rss------generative_ui-5",
+      "title": "A2A Explained: How AI Agents Finally Learned to Talk to Each Other",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4",
+      "title": "How to write great skills",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4",
+      "title": "Seven things AI killed while you were measuring productivity",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee?source=rss----138adf9c44c---4",
+      "title": "Prototypes have always been the most effective specification-especially with AI",
+      "profile": "Design"
+    },
+    {
+      "n": 21,
+      "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
+      "title": "The attack of the giant AI design slop monster: a survivor's guide",
+      "profile": "Design"
+    },
+    {
+      "n": 22,
+      "url": "https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4",
+      "title": "Lessons from 3D scanning St John's Co-Cathedral",
       "profile": "Design"
     }
   ]
