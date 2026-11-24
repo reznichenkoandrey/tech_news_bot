@@ -1,136 +1,142 @@
 {
-  "generated_at": "2026-11-23T08:07:40+00:00",
+  "generated_at": "2026-11-24T08:07:28+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12650",
-      "title": "b12650",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12649",
-      "title": "b12649",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12648",
-      "title": "b12648",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12647",
-      "title": "b12647",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12646",
-      "title": "b12646",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "title": "Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12645",
-      "title": "b12645",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12644",
-      "title": "b12644",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12643",
-      "title": "b12643",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0",
+      "title": "v2.13.0",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12642",
-      "title": "b12642",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
+      "title": "v3.58.0",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12641",
-      "title": "b12641",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
+      "title": "v0.40.18: inkling2: faster Metal decode, prefill and draft rounds",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnR2ZHFUdUI0V2JJUDJzaWwwbzBUbEZra3FjcXd3MjlQNTRXSHMyN0RxRjgzekFQbV9kaWNDaE15bjRrRjRTdEN2Mzlsd1cyOWJweU9FTVpPcEZkMDhyU3A5V21nWFREVzZlQktqTk12RkU?oc=5",
-      "title": "Anthropic mathematician Levent Alpöge says Claude helped prove the Riemann hypothesis, verification pending",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12679",
+      "title": "b12679: opencl: add c8 q6_k coopk GEMM for up to n=8 spec verify",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY3lXYWhjdlk4eFo5OEllXzdkTDhnYWowOUFSZlNLakdEdXoxeG8xZTZjcWVMYWxxVTJCdEUycHZBdjhyMy1UUU9tcU9lMlFIb0t3cG85X1hNSWJLaGxnNEtSbVkyak0xLTJQVmNjSmwtQW80NVdGWU9sUmh0TGJhdWFLOTFRM1BONnZSOFE2YXpDREpxN2RIdnU0WXBGOTNtZ1dwNUVnTHpCOHdfU3VfVlRSVklsZ096TzBLNFlzUnFQVjJ3c0lJNHl3U0d0cGNPWkFYQTdfV01tRlZqYUJ2aHFGNXQwVlhX?oc=5",
-      "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12672",
+      "title": "b12672: metal : add NVFP4 support",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/anthropic-just-dropped-4-massive-claude-features-f79b130118f4?source=rss----819cc2aaeee0---4",
+      "title": "Anthropic Just Dropped 4 MASSIVE Claude Features",
+      "profile": "Design"
     },
     {
       "n": 15,
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "profile": "AI/Tech"
+      "url": "https://uxplanet.org/fable-5-2-as-claude-ai-model-advisor-d0d342a19db3?source=rss----819cc2aaeee0---4",
+      "title": "Fable 5.2 as Claude AI Model Advisor",
+      "profile": "Design"
     },
     {
       "n": 16,
-      "url": "https://aiadvances.org/google-wants-to-kill-the-chatbot-reply-a2ui-1-0-explained-424b014a77c7?source=rss------generative_ui-5",
-      "title": "Google Wants to Kill the Chatbot Reply: A2UI 1.0, Explained",
+      "url": "https://medium.com/@divyanshi.tanwar/the-role-of-cross-functional-teams-in-successful-ai-implementation-7de282cc480c?source=rss------ai_design-5",
+      "title": "The Role of Cross-Functional Teams in Successful AI Implementation",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://mdjamilkashemporosh.medium.com/a2a-explained-how-ai-agents-finally-learned-to-talk-to-each-other-78e1db3943bb?source=rss------generative_ui-5",
-      "title": "A2A Explained: How AI Agents Finally Learned to Talk to Each Other",
+      "url": "https://generativeai.pub/a-local-first-cache-in-front-of-a-rate-limited-api-based-mcp-and-a-sign-in-that-never-sees-your-9bb96211a27d?source=rss------ai_design-5",
+      "title": "A local-first cache in front of a rate-limited API-based MCP(and a sign-in that never sees your…",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4",
-      "title": "How to write great skills",
+      "url": "https://medium.com/@darjidhruvika/the-next-great-interface-might-not-have-a-screen-ed5faa5b7f41?source=rss------ai_design-5",
+      "title": "The Next Great Interface Might Not Have a Screen",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4",
-      "title": "Seven things AI killed while you were measuring productivity",
+      "url": "https://css-tricks.com/using-frontend-fallbacks/",
+      "title": "Using Fallbacks for a Robust Front-End",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee?source=rss----138adf9c44c---4",
-      "title": "Prototypes have always been the most effective specification-especially with AI",
+      "url": "https://css-tricks.com/dev-material-archive/",
+      "title": "Dev Material Archive",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
-      "title": "The attack of the giant AI design slop monster: a survivor's guide",
+      "url": "https://noscript.ing/compute",
+      "title": "Computing with CSS Layout",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4",
-      "title": "Lessons from 3D scanning St John's Co-Cathedral",
+      "url": "https://www.youtube.com/watch?v=H43e72-2aAs",
+      "title": "AI, consciousness and the future of humanity",
+      "profile": "Design"
+    },
+    {
+      "n": 23,
+      "url": "https://naildrivin5.com/blog/2026/11/18/the-answer-to-slop-is-accountability.html",
+      "title": "The answer to slop is accountability",
       "profile": "Design"
     }
   ]
