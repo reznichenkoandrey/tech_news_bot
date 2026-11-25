@@ -1,142 +1,142 @@
 {
-  "generated_at": "2026-11-24T08:07:28+00:00",
+  "generated_at": "2026-11-25T08:07:36+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "Searching for distant planets with Astra",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "title": "Even the best AI agents struggle with everyday life",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "title": "Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-silicon-gap-with-nvidia/",
+      "title": "Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://openai.com/index/introducing-shirudo",
-      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0",
-      "title": "v2.13.0",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
-      "title": "v3.58.0",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
-      "title": "v0.40.18: inkling2: faster Metal decode, prefill and draft rounds",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "title": "Jensen Huang reportedly tells Nvidia staff it's 'not true' Trump got him rehired",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12679",
-      "title": "b12679: opencl: add c8 q6_k coopk GEMM for up to n=8 spec verify",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12672",
-      "title": "b12672: metal : add NVFP4 support",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0",
+      "title": "v2.14.0",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://uxplanet.org/anthropic-just-dropped-4-massive-claude-features-f79b130118f4?source=rss----819cc2aaeee0---4",
-      "title": "Anthropic Just Dropped 4 MASSIVE Claude Features",
-      "profile": "Design"
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
+      "title": "v3.59.0",
+      "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://uxplanet.org/fable-5-2-as-claude-ai-model-advisor-d0d342a19db3?source=rss----819cc2aaeee0---4",
-      "title": "Fable 5.2 as Claude AI Model Advisor",
-      "profile": "Design"
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
+      "title": "Patch release v5.24.1",
+      "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@divyanshi.tanwar/the-role-of-cross-functional-teams-in-successful-ai-implementation-7de282cc480c?source=rss------ai_design-5",
-      "title": "The Role of Cross-Functional Teams in Successful AI Implementation",
+      "url": "https://medium.com/@ayush.nigam95/a2ui-how-ai-agents-learned-to-speak-interface-1b12553c845e?source=rss------generative_ui-5",
+      "title": "A2UI: How AI Agents Learned to Speak Interface",
       "profile": "Design"
     },
     {
       "n": 17,
-      "url": "https://generativeai.pub/a-local-first-cache-in-front-of-a-rate-limited-api-based-mcp-and-a-sign-in-that-never-sees-your-9bb96211a27d?source=rss------ai_design-5",
-      "title": "A local-first cache in front of a rate-limited API-based MCP(and a sign-in that never sees your…",
+      "url": "https://tympanus.net/codrops/2026/11/24/designing-agents-paper/",
+      "title": "From Three Directions to Shipped Code: Designing with Agents in Paper",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/@darjidhruvika/the-next-great-interface-might-not-have-a-screen-ed5faa5b7f41?source=rss------ai_design-5",
-      "title": "The Next Great Interface Might Not Have a Screen",
+      "url": "https://medium.com/enterprise-experience-architecture/the-guardrail-held-nobody-owned-the-screen-fa54c0af2601?source=rss------generative_ui-5",
+      "title": "The Guardrail Held. Nobody Owned the Screen.",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://css-tricks.com/using-frontend-fallbacks/",
-      "title": "Using Fallbacks for a Robust Front-End",
+      "url": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss----138adf9c44c---4",
+      "title": "Designing for the AI agent customer",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://css-tricks.com/dev-material-archive/",
-      "title": "Dev Material Archive",
+      "url": "https://uxdesign.cc/the-design-process-is-changing-are-we-asking-the-right-questions-c3c376cb7cb8?source=rss----138adf9c44c---4",
+      "title": "The design process is changing. Are we asking the right questions?",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://noscript.ing/compute",
-      "title": "Computing with CSS Layout",
+      "url": "https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4",
+      "title": "Beyond the craft: Reclaiming Design as a Reflective Practice",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://www.youtube.com/watch?v=H43e72-2aAs",
-      "title": "AI, consciousness and the future of humanity",
+      "url": "https://medium.com/@ayushi.korde15/the-ai-fication-of-my-design-process-8c1713e35b70?source=rss------ai_design-5",
+      "title": "The AI-fication of My Design Process",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://naildrivin5.com/blog/2026/11/18/the-answer-to-slop-is-accountability.html",
-      "title": "The answer to slop is accountability",
+      "url": "https://uxplanet.org/5-custom-themes-you-should-try-for-claude-code-d39ec7a47561?source=rss----819cc2aaeee0---4",
+      "title": "5 Custom Themes You Should Try for Claude Code",
       "profile": "Design"
     }
   ]
