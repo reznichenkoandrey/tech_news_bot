@@ -1,142 +1,160 @@
 {
-  "generated_at": "2026-11-25T08:07:36+00:00",
+  "generated_at": "2026-11-26T08:07:58+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.60.0",
+      "title": "v3.60.0",
       "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "title": "Searching for distant planets with Astra",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
+      "title": "Migrating our Messages API to Rust - Anthropic",
       "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
       "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-silicon-gap-with-nvidia/",
-      "title": "Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "title": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
       "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12758",
+      "title": "b12758",
       "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "title": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
       "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "title": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
       "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "title": "Jensen Huang reportedly tells Nvidia staff it's 'not true' Trump got him rehired",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "profile": "AI/Tech"
     },
     {
       "n": 11,
-      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "title": "Character.AI's plan to auction off users' private chats challenged by state AGs",
       "profile": "AI/Tech"
     },
     {
       "n": 12,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12752",
+      "title": "b12752",
       "profile": "AI/Tech"
     },
     {
       "n": 13,
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0",
-      "title": "v2.14.0",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "Where scientists draw the line on AI agents",
       "profile": "AI/Tech"
     },
     {
       "n": 14,
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
-      "title": "v3.59.0",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "title": "An Indic Voice Agent with CUGA",
       "profile": "AI/Tech"
     },
     {
       "n": 15,
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
-      "title": "Patch release v5.24.1",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12767",
+      "title": "b12767",
       "profile": "AI/Tech"
     },
     {
       "n": 16,
-      "url": "https://medium.com/@ayush.nigam95/a2ui-how-ai-agents-learned-to-speak-interface-1b12553c845e?source=rss------generative_ui-5",
-      "title": "A2UI: How AI Agents Learned to Speak Interface",
-      "profile": "Design"
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19-rc0",
+      "title": "v0.40.19-rc0",
+      "profile": "AI/Tech"
     },
     {
       "n": 17,
-      "url": "https://tympanus.net/codrops/2026/11/24/designing-agents-paper/",
-      "title": "From Three Directions to Shipped Code: Designing with Agents in Paper",
+      "url": "https://uxplanet.org/claude-ship-can-ship-your-product-05c316808de5?source=rss----819cc2aaeee0---4",
+      "title": "Claude Ship Can Ship Your Product",
       "profile": "Design"
     },
     {
       "n": 18,
-      "url": "https://medium.com/enterprise-experience-architecture/the-guardrail-held-nobody-owned-the-screen-fa54c0af2601?source=rss------generative_ui-5",
-      "title": "The Guardrail Held. Nobody Owned the Screen.",
+      "url": "https://uxplanet.org/right-way-to-create-a-new-skill-for-claude-code-0bbd93e40082?source=rss----819cc2aaeee0---4",
+      "title": "RIGHT Way to Create a New Skill for Claude Code",
       "profile": "Design"
     },
     {
       "n": 19,
-      "url": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss----138adf9c44c---4",
-      "title": "Designing for the AI agent customer",
+      "url": "https://abvcreative.medium.com/ux-is-no-longer-enough-your-product-now-needs-ax-and-uax-49a25b64e180?source=rss------generative_ui-5",
+      "title": "UX Is No Longer Enough. Your Product Now Needs AX and UAX.",
       "profile": "Design"
     },
     {
       "n": 20,
-      "url": "https://uxdesign.cc/the-design-process-is-changing-are-we-asking-the-right-questions-c3c376cb7cb8?source=rss----138adf9c44c---4",
-      "title": "The design process is changing. Are we asking the right questions?",
+      "url": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+      "title": "Style Queries as Conditional Modifiers",
       "profile": "Design"
     },
     {
       "n": 21,
-      "url": "https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4",
-      "title": "Beyond the craft: Reclaiming Design as a Reflective Practice",
+      "url": "https://tympanus.net/codrops/2026/11/25/brice-deguigne-3d-portfolio/",
+      "title": "Brice Deguigne '26: A Three.js and WebGPU 3D Portfolio Built Like a Simulation",
       "profile": "Design"
     },
     {
       "n": 22,
-      "url": "https://medium.com/@ayushi.korde15/the-ai-fication-of-my-design-process-8c1713e35b70?source=rss------ai_design-5",
-      "title": "The AI-fication of My Design Process",
+      "url": "https://generativeloaders.com/",
+      "title": "Generative Loaders",
       "profile": "Design"
     },
     {
       "n": 23,
-      "url": "https://uxplanet.org/5-custom-themes-you-should-try-for-claude-code-d39ec7a47561?source=rss----819cc2aaeee0---4",
-      "title": "5 Custom Themes You Should Try for Claude Code",
+      "url": "https://www.soren.work/writing/the-slopnami-is-an-accessibility-problem/",
+      "title": "The Slopnami is an accessibility problem",
+      "profile": "Design"
+    },
+    {
+      "n": 24,
+      "url": "https://uxdesign.cc/future-proofing-is-dead-and-ai-killed-it-23368ce3cc02?source=rss----138adf9c44c---4",
+      "title": "Future-proofing is dead and AI killed it",
+      "profile": "Design"
+    },
+    {
+      "n": 25,
+      "url": "https://medium.com/@lzynb1461648018/will-ai-replace-architects-task-automation-and-professional-judgment-cd1499a16c5f?source=rss------ai_design-5",
+      "title": "Will AI Replace Architects? Task Automation and Professional Judgment",
+      "profile": "Design"
+    },
+    {
+      "n": 26,
+      "url": "https://medium.com/@lzynb1461648018/10-best-midjourney-alternatives-choose-by-workflow-licensing-and-control-08eb64b965e0?source=rss------ai_design-5",
+      "title": "10 Best Midjourney Alternatives: Choose by Workflow, Licensing, and Control",
       "profile": "Design"
     }
   ]
