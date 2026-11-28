@@ -1,64 +1,124 @@
 {
-  "generated_at": "2026-11-27T08:08:57+00:00",
+  "generated_at": "2026-11-28T08:06:44+00:00",
   "items": [
     {
       "n": 1,
-      "url": "https://uxplanet.org/mcp-2-0-the-biggest-mcp-upgrade-yet-just-dropped-e295e32b687a?source=rss----819cc2aaeee0---4",
-      "title": "MCP 2.0: The BIGGEST MCP Upgrade Yet Just Dropped",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12816",
+      "title": "b12816",
+      "profile": "AI/Tech"
     },
     {
       "n": 2,
-      "url": "https://veszelovszki.com/a/tpe/",
-      "title": "I'm a 100x engineer now",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12818",
+      "title": "b12818",
+      "profile": "AI/Tech"
     },
     {
       "n": 3,
-      "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?sk=e8c664d3852c69ce41f28a0f997a2a71",
-      "title": "The judge used to be the user",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12823",
+      "title": "b12823",
+      "profile": "AI/Tech"
     },
     {
       "n": 4,
-      "url": "https://christianoliff.com/blog/design-md-vs-code-extension/",
-      "title": "Design.md VS Code Extension",
-      "profile": "Design"
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
+      "title": "v0.40.19",
+      "profile": "AI/Tech"
     },
     {
       "n": 5,
-      "url": "https://medium.com/@xidai893/atelier-ai-drew-it-the-kiln-still-has-to-agree-443d403cc6c7?source=rss------ai_design-5",
-      "title": "Atelier｜AI Drew It. The Kiln Still Has to Agree",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12819",
+      "title": "b12819",
+      "profile": "AI/Tech"
     },
     {
       "n": 6,
-      "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
-      "title": "Machines are trying to get gut feelings while you're telling me to ignore mine",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12814",
+      "title": "b12814",
+      "profile": "AI/Tech"
     },
     {
       "n": 7,
-      "url": "https://blog.maximeheckel.com/posts/lighting-that-feels-just-right/",
-      "title": "Lighting that feels just right",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12821",
+      "title": "b12821",
+      "profile": "AI/Tech"
     },
     {
       "n": 8,
-      "url": "https://tympanus.net/codrops/2026/11/26/houmahani-kane-portfolio/",
-      "title": "A Year, One Sphere, Many Shapes: Houmahani Kane's Portfolio",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12815",
+      "title": "b12815",
+      "profile": "AI/Tech"
     },
     {
       "n": 9,
-      "url": "https://tegaki.ink/",
-      "title": "Tegaki",
-      "profile": "Design"
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12822",
+      "title": "b12822",
+      "profile": "AI/Tech"
     },
     {
       "n": 10,
-      "url": "https://dbushell.com/2026/11/25/web-industry/",
-      "title": "The year the web industry gave up",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12820",
+      "title": "b12820",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 11,
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "title": "Android's DIY widgets are a bit of vibe-coding fun",
+      "profile": "AI/Tech"
+    },
+    {
+      "n": 12,
+      "url": "https://mdjamilkashemporosh.medium.com/a2ui-explained-when-ai-agents-stop-chatting-and-start-building-interfaces-2e28579d0c4b?source=rss------generative_ui-5",
+      "title": "A2UI Explained: When AI Agents Stop Chatting and Start Building Interfaces",
+      "profile": "Design"
+    },
+    {
+      "n": 13,
+      "url": "https://uxplanet.org/claude-code-2-0-best-practices-1029353b3c9a?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code 2.0 Best Practices",
+      "profile": "Design"
+    },
+    {
+      "n": 14,
+      "url": "https://tympanus.net/codrops/2026/11/28/loopsii/",
+      "title": "Sliding Tiles, a Sticky Note in the Wind and a Clock Full of Shapes: Building Loopsii",
+      "profile": "Design"
+    },
+    {
+      "n": 15,
+      "url": "https://www.nngroup.com/articles/usability-testing-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Usability Testing 101",
+      "profile": "Design"
+    },
+    {
+      "n": 16,
+      "url": "https://medium.com/@linhduy/teaching-a-machine-to-squint-4b0533bbfd36?source=rss------ai_design-5",
+      "title": "Teaching a machine to squint",
+      "profile": "Design"
+    },
+    {
+      "n": 17,
+      "url": "https://css-tricks.com/using-light-dark-without-getting-caught-out/",
+      "title": "Using light-dark() without getting caught out",
+      "profile": "Design"
+    },
+    {
+      "n": 18,
+      "url": "https://tympanus.net/codrops/2026/11/27/neue-academy/",
+      "title": "Build Like an Agency, Think as an Individual: Introducing Neue Academy",
+      "profile": "Design"
+    },
+    {
+      "n": 19,
+      "url": "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e?source=rss----138adf9c44c---4",
+      "title": "How I use AI as a solo designer",
+      "profile": "Design"
+    },
+    {
+      "n": 20,
+      "url": "https://medium.com/@GenAnywhere.3d.modeling/an-empty-drive-in-two-ai-tools-and-a-zoning-meeting-0ceccc53af9b?source=rss------ai_design-5",
+      "title": "An Empty Drive-In, Two AI Tools, and a Zoning Meeting",
       "profile": "Design"
     }
   ]
